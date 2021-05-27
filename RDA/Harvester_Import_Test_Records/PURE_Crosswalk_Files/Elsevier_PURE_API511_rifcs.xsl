@@ -253,20 +253,13 @@
 
     <xsl:template match="*:webAddress" mode="collection_identifier_handle">
         <identifier type="handle">
-            <xsl:value-of select="."/>
+            <xsl:value-of select="value"/>
         </identifier>
     </xsl:template>
 
     <xsl:template match="*:doi" mode="collection_identifier">
         <identifier type="doi">
-            <xsl:choose>
-                <xsl:when test="starts-with(. , '10.')">
-                    <xsl:value-of select="normalize-space(.)"/>
-                </xsl:when>
-                <xsl:otherwise>
-                    <xsl:value-of select="normalize-space(.)"/>
-                </xsl:otherwise>
-            </xsl:choose>
+            <xsl:value-of select="normalize-space(.)"/>
         </identifier>
     </xsl:template>
 
@@ -424,9 +417,18 @@
             </address>
 
             <xsl:for-each select="*:geoLocation/*:point">
-                <spatial type="dcmiPoint">
-                    <xsl:value-of select="."/>
-                </spatial>
+                <xsl:variable name="coordsConverted"
+                    select="local:convertCoordinatesLatLongToLongLat(normalize-space(.))" as="xs:string"/>
+                <xsl:if test="$global_debug">
+                    <xsl:message
+                        select="concat('coords swapped to long lat: ', $coordsConverted)"/>
+                </xsl:if>
+                
+                <xsl:if test="string-length($coordsConverted) > 0">
+                    <spatial type="gmlKmlPolyCoords">
+                        <xsl:value-of select="$coordsConverted"/>
+                    </spatial>
+                </xsl:if>
             </xsl:for-each>
 
 
@@ -436,7 +438,7 @@
     <xsl:template match="*:email" mode="registryObject_email">
         <electronic type="email">
             <value>
-                <xsl:value-of select="."/>
+                <xsl:value-of select="value"/>
             </value>
         </electronic>
     </xsl:template>
@@ -686,7 +688,7 @@
         <relatedInfo type="website">
             <xsl:if test="string-length(.) > 0">
                 <identifier type="url">
-                    <xsl:value-of select="."/>
+                    <xsl:value-of select="value"/>
                 </identifier>
             </xsl:if>
             <xsl:if test="string-length(@type) > 0">
@@ -776,22 +778,22 @@
             />
         </xsl:if>
 
-        <xsl:variable name="coordsAsProvided"
+        <xsl:variable name="coordsConverted"
             select="local:convertCoordinatesLatLongToLongLat(normalize-space(.))" as="xs:string"/>
         <xsl:if test="$global_debug">
             <xsl:message
-                select="concat('processing point coordinates determined: ', $coordsAsProvided)"/>
+                select="concat('coords swapped to long lat: ', $coordsConverted)"/>
         </xsl:if>
 
-        <xsl:if test="string-length($coordsAsProvided) > 0">
+        <xsl:if test="string-length($coordsConverted) > 0">
             <coverage>
                 <spatial type="gmlKmlPolyCoords">
-                    <xsl:value-of select="$coordsAsProvided"/>
+                    <xsl:value-of select="$coordsConverted"/>
                 </spatial>
             </coverage>
             <coverage>
                 <spatial type="text">
-                    <xsl:value-of select="$coordsAsProvided"/>
+                    <xsl:value-of select="$coordsConverted"/>
                 </spatial>
             </coverage>
         </xsl:if>
