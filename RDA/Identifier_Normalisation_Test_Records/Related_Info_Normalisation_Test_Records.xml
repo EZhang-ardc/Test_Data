@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<registryObjects xmlns="http://ands.org.au/standards/rif-cs/registryObjects" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ands.org.au/standards/rif-cs/registryObjects http://services.ands.org.au/documentation/rifcs/schema/registryObjects.xsd">
+   <registryObject group="Geoscience Australia">
+    <key>7860d9e9-e4b3-7600-61f5-b493ca82055e</key>
+    <originatingSource type="">https://test.researchdata.ardc.edu.au/registry//orca/register_my_data</originatingSource>
+    <party type="person">
+      <name type="primary">
+        <namePart>Test_purl_no.1</namePart>
+      </name>
+      <description type="">&lt;p&gt;this record contains a purl identifier with a wrong type (uri)&lt;/p&gt;</description>
+      <identifier type="uri">https://purl.org/au-research/grants/nhmrc/GNT1122345</identifier>
+    </party>
+  </registryObject>
+
+      <registryObject group="Geoscience Australia">
+    <key>37c3c8b9-8016-c378-5a93-b4201e01d340</key>
+    <originatingSource type="">https://test.researchdata.ardc.edu.au/registry//orca/register_my_data</originatingSource>
+    <collection type="collection">
+      <name>
+        <namePart>Test_normalisation_1</namePart>
+      </name>
+      <description type="">&lt;p&gt;Test the normalisation result of http/https versions of url/uri identifiers. this is another new description&lt;/p&gt;</description>
+      <relatedInfo type="collection">
+        <title>purl with http</title>
+        <identifier type="purl">http://purl.org/au-research/grants/nhmrc/GNT1122345</identifier>
+        <relation type="hasPrincipalInvestigator"/>
+      </relatedInfo>
+    </collection>
+  </registryObject>
+
+      <registryObject group="Geoscience Australia">
+    <key>fe14a6ad-4bf0-fb8c-eb95-ec4db3307594</key>
+    <originatingSource type="">https://test.researchdata.ardc.edu.au/registry//orca/register_my_data</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>Test_normalisation_2</namePart>
+      </name>
+      <description type="">&lt;p&gt;this is a description&lt;/p&gt;</description>
+      <identifier type="doi">http://doi.org/10.234/888</identifier>
+      <relatedInfo type="party">
+        <title>purl with https</title>
+        <identifier type="purl">https://purl.org/au-research/grants/nhmrc/GNT1122345</identifier>
+        <relation type="isCitedBy"/>
+      </relatedInfo>
+      <relatedInfo type="collection">
+        <title>carrot</title>
+        <identifier type="doi">10.234/455</identifier>
+        <relation type="hasPart"/>
+      </relatedInfo>
+    </collection>
+  </registryObject>
+
+    </registryObjects>

@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d6e6600b-2bcf-432b-81c3-4510c5cd1692" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/RDA/Identifier_Normalisation_Test_Records/Different_Http_Protocol_Test_Records.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RDA/Identifier_Normalisation_Test_Records/Identifier_Normalisation_Test_Records.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RDA/Identifier_Normalisation_Test_Records/Related_Info_Normalisation_Test_Records.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RDA/Harvester_Import_Test_Records/PURE_Crosswalk_Files/Elsevier_PURE_API511_rifcs.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/RDA/Harvester_Import_Test_Records/PURE_Crosswalk_Files/Elsevier_PURE_API511_rifcs.xsl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RDA/Relationships/13_RelationshipScenario/13_RelationshipScenario.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RDA/Relationships/13_RelationshipScenario/13_RelationshipScenario.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,11 +18,11 @@
   <component name="ProjectId" id="1s2uGGNYe2NfKA94g6t6iNuQh3X" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -44,6 +45,7 @@
       </list>
     </option>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="d6e6600b-2bcf-432b-81c3-4510c5cd1692" name="Default Changelist" comment="" />
@@ -99,6 +101,17 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Test Commit" />

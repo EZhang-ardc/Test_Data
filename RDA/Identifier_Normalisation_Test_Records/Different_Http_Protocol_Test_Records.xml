@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<registryObjects xmlns="http://ands.org.au/standards/rif-cs/registryObjects" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ands.org.au/standards/rif-cs/registryObjects http://services.ands.org.au/documentation/rifcs/schema/registryObjects.xsd">
+  <registryObject group="Geoscience Australia">
+    <key>9481db1f-9f06-e828-7fcb-4d0239d87e8c</key>
+    <originatingSource type="">https://test.researchdata.ardc.edu.au/registry//orca/register_my_data</originatingSource>
+    <party type="administrativePosition">
+      <name type="primary">
+        <namePart type="title">identifier-igsn No.1</namePart>
+      </name>
+      <description type="">&lt;p&gt;test whether the igsn starts with &lt;strong&gt;&quot;https&quot;&lt;/strong&gt; can be normalised and get the same result with the same url starts with &lt;strong&gt;&quot;http&quot;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;link: https://igsn.org/AU1111&lt;/p&gt;</description>
+      <identifier type="igsn">https://igsn.org/AU1111</identifier>
+    </party>
+  </registryObject>
+
+    <registryObject group="Geoscience Australia">
+    <key>f499aed0-fb7a-bf66-39a1-a3c724294158</key>
+    <originatingSource type="">https://test.researchdata.ardc.edu.au/registry//orca/register_my_data</originatingSource>
+    <party type="administrativePosition">
+      <name type="primary">
+        <namePart type="given">identifer-multiple</namePart>
+        <namePart type="family">No.1</namePart>
+      </name>
+      <description type="">&lt;p&gt;This record contains multiple identifiers that are identical to other records.&lt;/p&gt;
+&lt;p&gt;handle:&lt;/p&gt;
+&lt;p&gt;hdl:1959.7/511111&lt;/p&gt;
+&lt;p&gt;orcid:&lt;br /&gt;http://orcid.org/0000-0002-9539-1111&lt;/p&gt;
+&lt;p&gt;igsn:&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;http://igsn.org/AU1111&lt;/p&gt;</description>
+      <identifier type="handle">hdl:1959.7/511111</identifier>
+      <identifier type="igsn">http://igsn.org/AU1111</identifier>
+      <identifier type="orcid">0000-0002-9539-1111</identifier>
+      <identifier type="purl">	https://purl.org/au-research/grants/nhmrc/GNT1122345</identifier>
+      <relatedObject>
+        <key>ImARandomKey</key>
+        <relation type="isOwnerOf"/>
+      </relatedObject>
+    </party>
+  </registryObject>
+
+
+</registryObjects>
