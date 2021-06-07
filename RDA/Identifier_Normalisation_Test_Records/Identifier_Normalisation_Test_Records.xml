@@ -28,6 +28,19 @@
       </relatedObject>
     </collection>
   </registryObject>
+  
+    <registryObject group="ALA">
+    <key>bacbf916-57b0-b6b0-9dd6-9b949aa7random</key>
+    <originatingSource type="">https://test.researchdata.ardc.edu.au/registry//orca/register_my_data</originatingSource>
+    <collection type="catalogueOrIndex">
+      <name type="primary">
+        <namePart>Test_identifer_4</namePart>
+      </name>
+      <description type="">&lt;p&gt;test identifer 4 with a exact same identifier&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</description>
+      <identifier type="doi">https://doi.org/10.234/566</identifier>
+    </collection>
+  </registryObject>
 
       <registryObject group="ALA">
     <key>4101b350-1937-2c33-8485-de8bf4650f51</key>
