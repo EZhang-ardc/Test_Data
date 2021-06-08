@@ -29,6 +29,19 @@
     </collection>
   </registryObject>
   
+      <registryObject group="ALA">
+    <key>AIMS/fffbf4b5-e860-407e-a4d8-6d81f93157fb</key>
+    <originatingSource type="">https://test.researchdata.ardc.edu.au/registry//orca/register_my_data</originatingSource>
+    <collection type="catalogueOrIndex">
+      <name type="primary">
+        <namePart>Test association</namePart>
+      </name>
+      <description type="">&lt;p&gt;create this record to test the association relation can be presented for other identical records.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</description>
+      <identifier type="doi">https://doi.org/10.234/567</identifier>
+    </collection>
+  </registryObject>
+  
     <registryObject group="ALA">
     <key>bacbf916-57b0-b6b0-9dd6-9b949aa7random</key>
     <originatingSource type="">https://test.researchdata.ardc.edu.au/registry//orca/register_my_data</originatingSource>
