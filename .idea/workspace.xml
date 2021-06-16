@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d6e6600b-2bcf-432b-81c3-4510c5cd1692" name="Default Changelist" comment="Uploaded new xml files for identifier normalisation testing.">
-      <change afterPath="$PROJECT_DIR$/RDA/Graph_Visualisation_Test_Records/RDA_Collection_View_Page_Test_Relation_Visualisations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RDA/Graph_Visualisation_Test_Records/RDA_Collection_View_Page_Test_Visualisations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RDA/Graph_Visualisation_Test_Records/Test_Cluster_Node_Visualisation_20_relations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RDA/Graph_Visualisation_Test_Records/Test_Cluster_Node_Visualisation_25_relations.xml" afterDir="false" />
+    <list default="true" id="d6e6600b-2bcf-432b-81c3-4510c5cd1692" name="Default Changelist" comment="Uploaded new xml files for the graph visualisation testing">
+      <change afterPath="$PROJECT_DIR$/RDA/Graph_Visualisation_Test_Records/Test_Multiple_Relations_Visualisation.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RDA/Graph_Visualisation_Test_Records/Test_User_Friendly_Relations.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -108,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1622521019149</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Uploaded new xml files for the graph visualisation testing">
+      <created>1623821414046</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1623821414047</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,6 +136,7 @@
     <MESSAGE value="Add DRVS Test Files" />
     <MESSAGE value="Update DOIs in DRVS_Test_Data_Collections_Test_Partner_1_With_ARDC_Test_ DOIs.csv" />
     <MESSAGE value="Uploaded new xml files for identifier normalisation testing." />
-    <option name="LAST_COMMIT_MESSAGE" value="Uploaded new xml files for identifier normalisation testing." />
+    <MESSAGE value="Uploaded new xml files for the graph visualisation testing" />
+    <option name="LAST_COMMIT_MESSAGE" value="Uploaded new xml files for the graph visualisation testing" />
   </component>
 </project>
