@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<registryObjects xmlns="http://ands.org.au/standards/rif-cs/registryObjects" xmlns:extRif="http://ands.org.au/standards/rif-cs/extendedRegistryObjects" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ands.org.au/standards/rif-cs/registryObjects http://services.ands.org.au/documentation/rifcs/schema/registryObjects.xsd">
+
+    <registryObject group="AUTestingRecords2">
+        <key>http://nla.gov.au/nla.party-AUT2clu25</key>
+        <originatingSource>nla.gov.au</originatingSource>
+        <party type="group">
+            <identifier type="AU-ANL:PEAU">http://nla.gov.au/nla.party-AUT2clu25</identifier>
+            <name type="primary">
+                <namePart>(AUTestingRecords2) Cluster visualisation2</namePart>
+            </name>
+            <location>
+                <address>
+                    <electronic type="url">
+                        <value>http://www.unsw.edu.au/</value>
+                    </electronic>
+                </address>
+            </location>
+
+            <relatedObject>
+        <key>123.123.123/0001</key>
+        <relation type="hasAssociationWith"/>
+      </relatedObject>
+
+            <relatedObject>
+        <key>123.123.123/0002</key>
+        <relation type="hasAssociationWith"/>
+      </relatedObject>
+            <relatedObject>
+        <key>123.123.123/0003</key>
+        <relation type="hasAssociationWith"/>
+      </relatedObject>
+            <relatedObject>
+        <key>123.123.123/0004</key>
+        <relation type="hasAssociationWith"/>
+      </relatedObject>
+            <relatedObject>
+        <key>123.123.123/0005</key>
+        <relation type="hasAssociationWith"/>
+      </relatedObject>
+            <relatedObject>
+        <key>123.123.123/0006</key>
+        <relation type="hasAssociationWith"/>
+      </relatedObject>
+            <relatedObject>
+        <key>123.123.123/0007</key>
+        <relation type="hasAssociationWith"/>
+      </relatedObject>
+            <relatedObject>
+        <key>123.123.123/0008</key>
+        <relation type="hasAssociationWith"/>
+      </relatedObject>
+            <relatedObject>
+        <key>123.123.123/0009</key>
+        <relation type="hasAssociationWith"/>
+      </relatedObject>
+            <relatedObject>
+        <key>123.123.123/0010</key>
+        <relation type="hasAssociationWith"/>
+      </relatedObject>
+           <relatedObject>
+        <key>123.123.123/0011</key>
+        <relation type="hasAssociationWith"/>
+      </relatedObject>
+            <relatedObject>
+        <key>123.123.123/0012</key>
+        <relation type="hasAssociationWith"/>
+      </relatedObject>
+            <relatedObject>
+        <key>123.123.123/0013</key>
+        <relation type="hasAssociationWith"/>
+      </relatedObject>
+            <relatedObject>
+        <key>123.123.123/0014</key>
+        <relation type="hasAssociationWith"/>
+      </relatedObject>
+           <relatedObject>
+        <key>123.123.123/0015</key>
+        <relation type="hasAssociationWith"/>
+      </relatedObject>
+            <relatedObject>
+        <key>123.123.123/0016</key>
+        <relation type="hasAssociationWith"/>
+      </relatedObject>
+            <relatedObject>
+        <key>123.123.123/0017</key>
+        <relation type="hasAssociationWith"/>
+      </relatedObject>
+            <relatedObject>
+        <key>123.123.123/0018</key>
+        <relation type="hasAssociationWith"/>
+      </relatedObject>
+            <relatedObject>
+        <key>123.123.123/0019</key>
+        <relation type="hasAssociationWith"/>
+      </relatedObject>
+            <relatedObject>
+        <key>123.123.123/0020</key>
+        <relation type="hasAssociationWith"/>
+      </relatedObject>
+              <relatedObject>
+        <key>123.123.123/0021</key>
+        <relation type="hasAssociationWith"/>
+      </relatedObject>
+            <relatedObject>
+        <key>123.123.123/0022</key>
+        <relation type="hasAssociationWith"/>
+      </relatedObject>
+            <relatedObject>
+        <key>123.123.123/0023</key>
+        <relation type="hasAssociationWith"/>
+      </relatedObject>
+            <relatedObject>
+        <key>123.123.123/0024</key>
+        <relation type="hasAssociationWith"/>
+      </relatedObject>
+            <relatedObject>
+        <key>123.123.123/0025</key>
+        <relation type="hasAssociationWith"/>
+      </relatedObject>
+        </party>
+    </registryObject>
+
+    <registryObject group="AUTestingRecords2">
+    <key>123.123.123/0001</key>
+    <originatingSource>nla.gov.au</originatingSource>
+    <collection dateAccessioned="2016-04-29T01:05:09+10:00" type="dataset">
+      <name type="primary">
+        <namePart>testDataForVisualisation1</namePart></name>
+      <description type="brief">The provided data (the Data) represent a raster map of agricultural profit at full equity (PFE) for Australia for the year 2005/06. Values of PFE are provided in ($/ha). PFE is a measure of profit which is calculated as the revenue from the sale of agricultural commodities minus all fixed and variable costs. This concept is based on the assumption that the land is fully owned (100% equity). The unit of PFE is $/ha. The Data are provided as a raster dataset that is compatible with ArcGIS. The spatial resolution is ~ 1km. Values provided are not for individual commodities (e.g. wheat, barley etc.) but for a set of commodity classes known as SPREAD classes (e.g. winter cereals, winter oilseeds) and broad land use categories (grazing, natural pastures etc.). The Data do not provide information with regards to the associated land use. To link values of PFE to the associated land use (SPREAD class) the Data need to be linked to the land use map of the year 2005/06 (Source: ABARE–BRS 2010. Land Use of Australia, Version 4, 2005-06 dataset).</description>
+      <description type="lineage">Overview of the process how data was produced is provided in Marinoni O, Navarro Garcia J, Marvanek S, Prestwidge D, Clifford D, Laredo L. 2012. Development of a system to produce maps of agricultural profit on a continental scale: An example for Australia. Agricultural Systems. 105, 1, 33-45.</description>
+    </collection>
+  </registryObject>
+
+        <registryObject group="AUTestingRecords2">
+    <key>123.123.123/0002</key>
+    <originatingSource>nla.gov.au</originatingSource>
+    <collection dateAccessioned="2016-04-29T01:05:09+10:00" type="dataset">
+      <name type="primary">
+        <namePart>testDataForVisualisation2</namePart></name>
+      <description type="brief">The provided data (the Data) represent a raster map of agricultural profit at full equity (PFE) for Australia for the year 2005/06. Values of PFE are provided in ($/ha). PFE is a measure of profit which is calculated as the revenue from the sale of agricultural commodities minus all fixed and variable costs. This concept is based on the assumption that the land is fully owned (100% equity). The unit of PFE is $/ha. The Data are provided as a raster dataset that is compatible with ArcGIS. The spatial resolution is ~ 1km. Values provided are not for individual commodities (e.g. wheat, barley etc.) but for a set of commodity classes known as SPREAD classes (e.g. winter cereals, winter oilseeds) and broad land use categories (grazing, natural pastures etc.). The Data do not provide information with regards to the associated land use. To link values of PFE to the associated land use (SPREAD class) the Data need to be linked to the land use map of the year 2005/06 (Source: ABARE–BRS 2010. Land Use of Australia, Version 4, 2005-06 dataset).</description>
+      <description type="lineage">Overview of the process how data was produced is provided in Marinoni O, Navarro Garcia J, Marvanek S, Prestwidge D, Clifford D, Laredo L. 2012. Development of a system to produce maps of agricultural profit on a continental scale: An example for Australia. Agricultural Systems. 105, 1, 33-45.</description>
+    </collection>
+  </registryObject>
+
+        <registryObject group="AUTestingRecords2">
+    <key>123.123.123/0003</key>
+    <originatingSource>nla.gov.au</originatingSource>
+    <collection dateAccessioned="2016-04-29T01:05:09+10:00" type="dataset">
+      <name type="primary">
+        <namePart>testDataForVisualisation3</namePart></name>
+      <description type="brief">The provided data (the Data) represent a raster map of agricultural profit at full equity (PFE) for Australia for the year 2005/06. Values of PFE are provided in ($/ha). PFE is a measure of profit which is calculated as the revenue from the sale of agricultural commodities minus all fixed and variable costs. This concept is based on the assumption that the land is fully owned (100% equity). The unit of PFE is $/ha. The Data are provided as a raster dataset that is compatible with ArcGIS. The spatial resolution is ~ 1km. Values provided are not for individual commodities (e.g. wheat, barley etc.) but for a set of commodity classes known as SPREAD classes (e.g. winter cereals, winter oilseeds) and broad land use categories (grazing, natural pastures etc.). The Data do not provide information with regards to the associated land use. To link values of PFE to the associated land use (SPREAD class) the Data need to be linked to the land use map of the year 2005/06 (Source: ABARE–BRS 2010. Land Use of Australia, Version 4, 2005-06 dataset).</description>
+      <description type="lineage">Overview of the process how data was produced is provided in Marinoni O, Navarro Garcia J, Marvanek S, Prestwidge D, Clifford D, Laredo L. 2012. Development of a system to produce maps of agricultural profit on a continental scale: An example for Australia. Agricultural Systems. 105, 1, 33-45.</description>
+    </collection>
+  </registryObject>
+
+        <registryObject group="AUTestingRecords2">
+    <key>123.123.123/0004</key>
+    <originatingSource>nla.gov.au</originatingSource>
+    <collection dateAccessioned="2016-04-29T01:05:09+10:00" type="dataset">
+      <name type="primary">
+        <namePart>testDataForVisualisation4</namePart></name>
+      <description type="brief">The provided data (the Data) represent a raster map of agricultural profit at full equity (PFE) for Australia for the year 2005/06. Values of PFE are provided in ($/ha). PFE is a measure of profit which is calculated as the revenue from the sale of agricultural commodities minus all fixed and variable costs. This concept is based on the assumption that the land is fully owned (100% equity). The unit of PFE is $/ha. The Data are provided as a raster dataset that is compatible with ArcGIS. The spatial resolution is ~ 1km. Values provided are not for individual commodities (e.g. wheat, barley etc.) but for a set of commodity classes known as SPREAD classes (e.g. winter cereals, winter oilseeds) and broad land use categories (grazing, natural pastures etc.). The Data do not provide information with regards to the associated land use. To link values of PFE to the associated land use (SPREAD class) the Data need to be linked to the land use map of the year 2005/06 (Source: ABARE–BRS 2010. Land Use of Australia, Version 4, 2005-06 dataset).</description>
+      <description type="lineage">Overview of the process how data was produced is provided in Marinoni O, Navarro Garcia J, Marvanek S, Prestwidge D, Clifford D, Laredo L. 2012. Development of a system to produce maps of agricultural profit on a continental scale: An example for Australia. Agricultural Systems. 105, 1, 33-45.</description>
+    </collection>
+  </registryObject>
+
+
+    <registryObject group="AUTestingRecords2">
+    <key>123.123.123/0005</key>
+    <originatingSource>nla.gov.au</originatingSource>
+    <collection dateAccessioned="2016-04-29T01:05:09+10:00" type="dataset">
+      <name type="primary">
+        <namePart>testDataForVisualisation5</namePart></name>
+      <description type="brief">The provided data (the Data) represent a raster map of agricultural profit at full equity (PFE) for Australia for the year 2005/06. Values of PFE are provided in ($/ha). PFE is a measure of profit which is calculated as the revenue from the sale of agricultural commodities minus all fixed and variable costs. This concept is based on the assumption that the land is fully owned (100% equity). The unit of PFE is $/ha. The Data are provided as a raster dataset that is compatible with ArcGIS. The spatial resolution is ~ 1km. Values provided are not for individual commodities (e.g. wheat, barley etc.) but for a set of commodity classes known as SPREAD classes (e.g. winter cereals, winter oilseeds) and broad land use categories (grazing, natural pastures etc.). The Data do not provide information with regards to the associated land use. To link values of PFE to the associated land use (SPREAD class) the Data need to be linked to the land use map of the year 2005/06 (Source: ABARE–BRS 2010. Land Use of Australia, Version 4, 2005-06 dataset).</description>
+      <description type="lineage">Overview of the process how data was produced is provided in Marinoni O, Navarro Garcia J, Marvanek S, Prestwidge D, Clifford D, Laredo L. 2012. Development of a system to produce maps of agricultural profit on a continental scale: An example for Australia. Agricultural Systems. 105, 1, 33-45.</description>
+    </collection>
+  </registryObject>
+
+        <registryObject group="AUTestingRecords2">
+    <key>123.123.123/0006</key>
+    <originatingSource>nla.gov.au</originatingSource>
+    <collection dateAccessioned="2016-04-29T01:05:09+10:00" type="dataset">
+      <name type="primary">
+        <namePart>testDataForVisualisation6</namePart></name>
+      <description type="brief">The provided data (the Data) represent a raster map of agricultural profit at full equity (PFE) for Australia for the year 2005/06. Values of PFE are provided in ($/ha). PFE is a measure of profit which is calculated as the revenue from the sale of agricultural commodities minus all fixed and variable costs. This concept is based on the assumption that the land is fully owned (100% equity). The unit of PFE is $/ha. The Data are provided as a raster dataset that is compatible with ArcGIS. The spatial resolution is ~ 1km. Values provided are not for individual commodities (e.g. wheat, barley etc.) but for a set of commodity classes known as SPREAD classes (e.g. winter cereals, winter oilseeds) and broad land use categories (grazing, natural pastures etc.). The Data do not provide information with regards to the associated land use. To link values of PFE to the associated land use (SPREAD class) the Data need to be linked to the land use map of the year 2005/06 (Source: ABARE–BRS 2010. Land Use of Australia, Version 4, 2005-06 dataset).</description>
+      <description type="lineage">Overview of the process how data was produced is provided in Marinoni O, Navarro Garcia J, Marvanek S, Prestwidge D, Clifford D, Laredo L. 2012. Development of a system to produce maps of agricultural profit on a continental scale: An example for Australia. Agricultural Systems. 105, 1, 33-45.</description>
+    </collection>
+  </registryObject>
+
+        <registryObject group="AUTestingRecords2">
+    <key>123.123.123/0007</key>
+    <originatingSource>nla.gov.au</originatingSource>
+    <collection dateAccessioned="2016-04-29T01:05:09+10:00" type="dataset">
+      <name type="primary">
+        <namePart>testDataForVisualisation7</namePart></name>
+      <description type="brief">The provided data (the Data) represent a raster map of agricultural profit at full equity (PFE) for Australia for the year 2005/06. Values of PFE are provided in ($/ha). PFE is a measure of profit which is calculated as the revenue from the sale of agricultural commodities minus all fixed and variable costs. This concept is based on the assumption that the land is fully owned (100% equity). The unit of PFE is $/ha. The Data are provided as a raster dataset that is compatible with ArcGIS. The spatial resolution is ~ 1km. Values provided are not for individual commodities (e.g. wheat, barley etc.) but for a set of commodity classes known as SPREAD classes (e.g. winter cereals, winter oilseeds) and broad land use categories (grazing, natural pastures etc.). The Data do not provide information with regards to the associated land use. To link values of PFE to the associated land use (SPREAD class) the Data need to be linked to the land use map of the year 2005/06 (Source: ABARE–BRS 2010. Land Use of Australia, Version 4, 2005-06 dataset).</description>
+      <description type="lineage">Overview of the process how data was produced is provided in Marinoni O, Navarro Garcia J, Marvanek S, Prestwidge D, Clifford D, Laredo L. 2012. Development of a system to produce maps of agricultural profit on a continental scale: An example for Australia. Agricultural Systems. 105, 1, 33-45.</description>
+    </collection>
+  </registryObject>
+
+        <registryObject group="AUTestingRecords2">
+    <key>123.123.123/0008</key>
+    <originatingSource>nla.gov.au</originatingSource>
+    <collection dateAccessioned="2016-04-29T01:05:09+10:00" type="dataset">
+      <name type="primary">
+        <namePart>testDataForVisualisation8</namePart></name>
+      <description type="brief">The provided data (the Data) represent a raster map of agricultural profit at full equity (PFE) for Australia for the year 2005/06. Values of PFE are provided in ($/ha). PFE is a measure of profit which is calculated as the revenue from the sale of agricultural commodities minus all fixed and variable costs. This concept is based on the assumption that the land is fully owned (100% equity). The unit of PFE is $/ha. The Data are provided as a raster dataset that is compatible with ArcGIS. The spatial resolution is ~ 1km. Values provided are not for individual commodities (e.g. wheat, barley etc.) but for a set of commodity classes known as SPREAD classes (e.g. winter cereals, winter oilseeds) and broad land use categories (grazing, natural pastures etc.). The Data do not provide information with regards to the associated land use. To link values of PFE to the associated land use (SPREAD class) the Data need to be linked to the land use map of the year 2005/06 (Source: ABARE–BRS 2010. Land Use of Australia, Version 4, 2005-06 dataset).</description>
+      <description type="lineage">Overview of the process how data was produced is provided in Marinoni O, Navarro Garcia J, Marvanek S, Prestwidge D, Clifford D, Laredo L. 2012. Development of a system to produce maps of agricultural profit on a continental scale: An example for Australia. Agricultural Systems. 105, 1, 33-45.</description>
+    </collection>
+  </registryObject>
+
+        <registryObject group="AUTestingRecords2">
+    <key>123.123.123/0009</key>
+    <originatingSource>nla.gov.au</originatingSource>
+    <collection dateAccessioned="2016-04-29T01:05:09+10:00" type="dataset">
+      <name type="primary">
+        <namePart>testDataForVisualisation9</namePart></name>
+      <description type="brief">The provided data (the Data) represent a raster map of agricultural profit at full equity (PFE) for Australia for the year 2005/06. Values of PFE are provided in ($/ha). PFE is a measure of profit which is calculated as the revenue from the sale of agricultural commodities minus all fixed and variable costs. This concept is based on the assumption that the land is fully owned (100% equity). The unit of PFE is $/ha. The Data are provided as a raster dataset that is compatible with ArcGIS. The spatial resolution is ~ 1km. Values provided are not for individual commodities (e.g. wheat, barley etc.) but for a set of commodity classes known as SPREAD classes (e.g. winter cereals, winter oilseeds) and broad land use categories (grazing, natural pastures etc.). The Data do not provide information with regards to the associated land use. To link values of PFE to the associated land use (SPREAD class) the Data need to be linked to the land use map of the year 2005/06 (Source: ABARE–BRS 2010. Land Use of Australia, Version 4, 2005-06 dataset).</description>
+      <description type="lineage">Overview of the process how data was produced is provided in Marinoni O, Navarro Garcia J, Marvanek S, Prestwidge D, Clifford D, Laredo L. 2012. Development of a system to produce maps of agricultural profit on a continental scale: An example for Australia. Agricultural Systems. 105, 1, 33-45.</description>
+    </collection>
+  </registryObject>
+
+        <registryObject group="AUTestingRecords2">
+    <key>123.123.123/0010</key>
+    <originatingSource>nla.gov.au</originatingSource>
+    <collection dateAccessioned="2016-04-29T01:05:09+10:00" type="dataset">
+      <name type="primary">
+        <namePart>testDataForVisualisation10</namePart></name>
+      <description type="brief">The provided data (the Data) represent a raster map of agricultural profit at full equity (PFE) for Australia for the year 2005/06. Values of PFE are provided in ($/ha). PFE is a measure of profit which is calculated as the revenue from the sale of agricultural commodities minus all fixed and variable costs. This concept is based on the assumption that the land is fully owned (100% equity). The unit of PFE is $/ha. The Data are provided as a raster dataset that is compatible with ArcGIS. The spatial resolution is ~ 1km. Values provided are not for individual commodities (e.g. wheat, barley etc.) but for a set of commodity classes known as SPREAD classes (e.g. winter cereals, winter oilseeds) and broad land use categories (grazing, natural pastures etc.). The Data do not provide information with regards to the associated land use. To link values of PFE to the associated land use (SPREAD class) the Data need to be linked to the land use map of the year 2005/06 (Source: ABARE–BRS 2010. Land Use of Australia, Version 4, 2005-06 dataset).</description>
+      <description type="lineage">Overview of the process how data was produced is provided in Marinoni O, Navarro Garcia J, Marvanek S, Prestwidge D, Clifford D, Laredo L. 2012. Development of a system to produce maps of agricultural profit on a continental scale: An example for Australia. Agricultural Systems. 105, 1, 33-45.</description>
+    </collection>
+  </registryObject>
+
+        <registryObject group="AUTestingRecords2">
+    <key>123.123.123/0011</key>
+    <originatingSource>nla.gov.au</originatingSource>
+    <collection dateAccessioned="2016-04-29T01:05:09+10:00" type="dataset">
+      <name type="primary">
+        <namePart>testDataForVisualisation11</namePart></name>
+      <description type="brief">The provided data (the Data) represent a raster map of agricultural profit at full equity (PFE) for Australia for the year 2005/06. Values of PFE are provided in ($/ha). PFE is a measure of profit which is calculated as the revenue from the sale of agricultural commodities minus all fixed and variable costs. This concept is based on the assumption that the land is fully owned (100% equity). The unit of PFE is $/ha. The Data are provided as a raster dataset that is compatible with ArcGIS. The spatial resolution is ~ 1km. Values provided are not for individual commodities (e.g. wheat, barley etc.) but for a set of commodity classes known as SPREAD classes (e.g. winter cereals, winter oilseeds) and broad land use categories (grazing, natural pastures etc.). The Data do not provide information with regards to the associated land use. To link values of PFE to the associated land use (SPREAD class) the Data need to be linked to the land use map of the year 2005/06 (Source: ABARE–BRS 2010. Land Use of Australia, Version 4, 2005-06 dataset).</description>
+      <description type="lineage">Overview of the process how data was produced is provided in Marinoni O, Navarro Garcia J, Marvanek S, Prestwidge D, Clifford D, Laredo L. 2012. Development of a system to produce maps of agricultural profit on a continental scale: An example for Australia. Agricultural Systems. 105, 1, 33-45.</description>
+    </collection>
+  </registryObject>
+
+        <registryObject group="AUTestingRecords2">
+    <key>123.123.123/0012</key>
+    <originatingSource>nla.gov.au</originatingSource>
+    <collection dateAccessioned="2016-04-29T01:05:09+10:00" type="dataset">
+      <name type="primary">
+        <namePart>testDataForVisualisation12</namePart></name>
+      <description type="brief">The provided data (the Data) represent a raster map of agricultural profit at full equity (PFE) for Australia for the year 2005/06. Values of PFE are provided in ($/ha). PFE is a measure of profit which is calculated as the revenue from the sale of agricultural commodities minus all fixed and variable costs. This concept is based on the assumption that the land is fully owned (100% equity). The unit of PFE is $/ha. The Data are provided as a raster dataset that is compatible with ArcGIS. The spatial resolution is ~ 1km. Values provided are not for individual commodities (e.g. wheat, barley etc.) but for a set of commodity classes known as SPREAD classes (e.g. winter cereals, winter oilseeds) and broad land use categories (grazing, natural pastures etc.). The Data do not provide information with regards to the associated land use. To link values of PFE to the associated land use (SPREAD class) the Data need to be linked to the land use map of the year 2005/06 (Source: ABARE–BRS 2010. Land Use of Australia, Version 4, 2005-06 dataset).</description>
+      <description type="lineage">Overview of the process how data was produced is provided in Marinoni O, Navarro Garcia J, Marvanek S, Prestwidge D, Clifford D, Laredo L. 2012. Development of a system to produce maps of agricultural profit on a continental scale: An example for Australia. Agricultural Systems. 105, 1, 33-45.</description>
+    </collection>
+  </registryObject>
+
+
+    <registryObject group="AUTestingRecords2">
+    <key>123.123.123/0013</key>
+    <originatingSource>nla.gov.au</originatingSource>
+    <collection dateAccessioned="2016-04-29T01:05:09+10:00" type="dataset">
+      <name type="primary">
+        <namePart>testDataForVisualisation13</namePart></name>
+      <description type="brief">The provided data (the Data) represent a raster map of agricultural profit at full equity (PFE) for Australia for the year 2005/06. Values of PFE are provided in ($/ha). PFE is a measure of profit which is calculated as the revenue from the sale of agricultural commodities minus all fixed and variable costs. This concept is based on the assumption that the land is fully owned (100% equity). The unit of PFE is $/ha. The Data are provided as a raster dataset that is compatible with ArcGIS. The spatial resolution is ~ 1km. Values provided are not for individual commodities (e.g. wheat, barley etc.) but for a set of commodity classes known as SPREAD classes (e.g. winter cereals, winter oilseeds) and broad land use categories (grazing, natural pastures etc.). The Data do not provide information with regards to the associated land use. To link values of PFE to the associated land use (SPREAD class) the Data need to be linked to the land use map of the year 2005/06 (Source: ABARE–BRS 2010. Land Use of Australia, Version 4, 2005-06 dataset).</description>
+      <description type="lineage">Overview of the process how data was produced is provided in Marinoni O, Navarro Garcia J, Marvanek S, Prestwidge D, Clifford D, Laredo L. 2012. Development of a system to produce maps of agricultural profit on a continental scale: An example for Australia. Agricultural Systems. 105, 1, 33-45.</description>
+    </collection>
+  </registryObject>
+
+        <registryObject group="AUTestingRecords2">
+    <key>123.123.123/0014</key>
+    <originatingSource>nla.gov.au</originatingSource>
+    <collection dateAccessioned="2016-04-29T01:05:09+10:00" type="dataset">
+      <name type="primary">
+        <namePart>testDataForVisualisation14</namePart></name>
+      <description type="brief">The provided data (the Data) represent a raster map of agricultural profit at full equity (PFE) for Australia for the year 2005/06. Values of PFE are provided in ($/ha). PFE is a measure of profit which is calculated as the revenue from the sale of agricultural commodities minus all fixed and variable costs. This concept is based on the assumption that the land is fully owned (100% equity). The unit of PFE is $/ha. The Data are provided as a raster dataset that is compatible with ArcGIS. The spatial resolution is ~ 1km. Values provided are not for individual commodities (e.g. wheat, barley etc.) but for a set of commodity classes known as SPREAD classes (e.g. winter cereals, winter oilseeds) and broad land use categories (grazing, natural pastures etc.). The Data do not provide information with regards to the associated land use. To link values of PFE to the associated land use (SPREAD class) the Data need to be linked to the land use map of the year 2005/06 (Source: ABARE–BRS 2010. Land Use of Australia, Version 4, 2005-06 dataset).</description>
+      <description type="lineage">Overview of the process how data was produced is provided in Marinoni O, Navarro Garcia J, Marvanek S, Prestwidge D, Clifford D, Laredo L. 2012. Development of a system to produce maps of agricultural profit on a continental scale: An example for Australia. Agricultural Systems. 105, 1, 33-45.</description>
+    </collection>
+  </registryObject>
+
+        <registryObject group="AUTestingRecords2">
+    <key>123.123.123/0015</key>
+    <originatingSource>nla.gov.au</originatingSource>
+    <collection dateAccessioned="2016-04-29T01:05:09+10:00" type="dataset">
+      <name type="primary">
+        <namePart>testDataForVisualisation15</namePart></name>
+      <description type="brief">The provided data (the Data) represent a raster map of agricultural profit at full equity (PFE) for Australia for the year 2005/06. Values of PFE are provided in ($/ha). PFE is a measure of profit which is calculated as the revenue from the sale of agricultural commodities minus all fixed and variable costs. This concept is based on the assumption that the land is fully owned (100% equity). The unit of PFE is $/ha. The Data are provided as a raster dataset that is compatible with ArcGIS. The spatial resolution is ~ 1km. Values provided are not for individual commodities (e.g. wheat, barley etc.) but for a set of commodity classes known as SPREAD classes (e.g. winter cereals, winter oilseeds) and broad land use categories (grazing, natural pastures etc.). The Data do not provide information with regards to the associated land use. To link values of PFE to the associated land use (SPREAD class) the Data need to be linked to the land use map of the year 2005/06 (Source: ABARE–BRS 2010. Land Use of Australia, Version 4, 2005-06 dataset).</description>
+      <description type="lineage">Overview of the process how data was produced is provided in Marinoni O, Navarro Garcia J, Marvanek S, Prestwidge D, Clifford D, Laredo L. 2012. Development of a system to produce maps of agricultural profit on a continental scale: An example for Australia. Agricultural Systems. 105, 1, 33-45.</description>
+    </collection>
+  </registryObject>
+
+        <registryObject group="AUTestingRecords2">
+    <key>123.123.123/0016</key>
+    <originatingSource>nla.gov.au</originatingSource>
+    <collection dateAccessioned="2016-04-29T01:05:09+10:00" type="dataset">
+      <name type="primary">
+        <namePart>testDataForVisualisation16</namePart></name>
+      <description type="brief">The provided data (the Data) represent a raster map of agricultural profit at full equity (PFE) for Australia for the year 2005/06. Values of PFE are provided in ($/ha). PFE is a measure of profit which is calculated as the revenue from the sale of agricultural commodities minus all fixed and variable costs. This concept is based on the assumption that the land is fully owned (100% equity). The unit of PFE is $/ha. The Data are provided as a raster dataset that is compatible with ArcGIS. The spatial resolution is ~ 1km. Values provided are not for individual commodities (e.g. wheat, barley etc.) but for a set of commodity classes known as SPREAD classes (e.g. winter cereals, winter oilseeds) and broad land use categories (grazing, natural pastures etc.). The Data do not provide information with regards to the associated land use. To link values of PFE to the associated land use (SPREAD class) the Data need to be linked to the land use map of the year 2005/06 (Source: ABARE–BRS 2010. Land Use of Australia, Version 4, 2005-06 dataset).</description>
+      <description type="lineage">Overview of the process how data was produced is provided in Marinoni O, Navarro Garcia J, Marvanek S, Prestwidge D, Clifford D, Laredo L. 2012. Development of a system to produce maps of agricultural profit on a continental scale: An example for Australia. Agricultural Systems. 105, 1, 33-45.</description>
+    </collection>
+  </registryObject>
+
+
+        <registryObject group="AUTestingRecords2">
+    <key>123.123.123/0017</key>
+    <originatingSource>nla.gov.au</originatingSource>
+    <collection dateAccessioned="2016-04-29T01:05:09+10:00" type="dataset">
+      <name type="primary">
+        <namePart>testDataForVisualisation17</namePart></name>
+      <description type="brief">The provided data (the Data) represent a raster map of agricultural profit at full equity (PFE) for Australia for the year 2005/06. Values of PFE are provided in ($/ha). PFE is a measure of profit which is calculated as the revenue from the sale of agricultural commodities minus all fixed and variable costs. This concept is based on the assumption that the land is fully owned (100% equity). The unit of PFE is $/ha. The Data are provided as a raster dataset that is compatible with ArcGIS. The spatial resolution is ~ 1km. Values provided are not for individual commodities (e.g. wheat, barley etc.) but for a set of commodity classes known as SPREAD classes (e.g. winter cereals, winter oilseeds) and broad land use categories (grazing, natural pastures etc.). The Data do not provide information with regards to the associated land use. To link values of PFE to the associated land use (SPREAD class) the Data need to be linked to the land use map of the year 2005/06 (Source: ABARE–BRS 2010. Land Use of Australia, Version 4, 2005-06 dataset).</description>
+      <description type="lineage">Overview of the process how data was produced is provided in Marinoni O, Navarro Garcia J, Marvanek S, Prestwidge D, Clifford D, Laredo L. 2012. Development of a system to produce maps of agricultural profit on a continental scale: An example for Australia. Agricultural Systems. 105, 1, 33-45.</description>
+    </collection>
+  </registryObject>
+
+        <registryObject group="AUTestingRecords2">
+    <key>123.123.123/0018</key>
+    <originatingSource>nla.gov.au</originatingSource>
+    <collection dateAccessioned="2016-04-29T01:05:09+10:00" type="dataset">
+      <name type="primary">
+        <namePart>testDataForVisualisation18</namePart></name>
+      <description type="brief">The provided data (the Data) represent a raster map of agricultural profit at full equity (PFE) for Australia for the year 2005/06. Values of PFE are provided in ($/ha). PFE is a measure of profit which is calculated as the revenue from the sale of agricultural commodities minus all fixed and variable costs. This concept is based on the assumption that the land is fully owned (100% equity). The unit of PFE is $/ha. The Data are provided as a raster dataset that is compatible with ArcGIS. The spatial resolution is ~ 1km. Values provided are not for individual commodities (e.g. wheat, barley etc.) but for a set of commodity classes known as SPREAD classes (e.g. winter cereals, winter oilseeds) and broad land use categories (grazing, natural pastures etc.). The Data do not provide information with regards to the associated land use. To link values of PFE to the associated land use (SPREAD class) the Data need to be linked to the land use map of the year 2005/06 (Source: ABARE–BRS 2010. Land Use of Australia, Version 4, 2005-06 dataset).</description>
+      <description type="lineage">Overview of the process how data was produced is provided in Marinoni O, Navarro Garcia J, Marvanek S, Prestwidge D, Clifford D, Laredo L. 2012. Development of a system to produce maps of agricultural profit on a continental scale: An example for Australia. Agricultural Systems. 105, 1, 33-45.</description>
+    </collection>
+  </registryObject>
+
+        <registryObject group="AUTestingRecords2">
+    <key>123.123.123/0019</key>
+    <originatingSource>nla.gov.au</originatingSource>
+    <collection dateAccessioned="2016-04-29T01:05:09+10:00" type="dataset">
+      <name type="primary">
+        <namePart>testDataForVisualisation19</namePart></name>
+      <description type="brief">The provided data (the Data) represent a raster map of agricultural profit at full equity (PFE) for Australia for the year 2005/06. Values of PFE are provided in ($/ha). PFE is a measure of profit which is calculated as the revenue from the sale of agricultural commodities minus all fixed and variable costs. This concept is based on the assumption that the land is fully owned (100% equity). The unit of PFE is $/ha. The Data are provided as a raster dataset that is compatible with ArcGIS. The spatial resolution is ~ 1km. Values provided are not for individual commodities (e.g. wheat, barley etc.) but for a set of commodity classes known as SPREAD classes (e.g. winter cereals, winter oilseeds) and broad land use categories (grazing, natural pastures etc.). The Data do not provide information with regards to the associated land use. To link values of PFE to the associated land use (SPREAD class) the Data need to be linked to the land use map of the year 2005/06 (Source: ABARE–BRS 2010. Land Use of Australia, Version 4, 2005-06 dataset).</description>
+      <description type="lineage">Overview of the process how data was produced is provided in Marinoni O, Navarro Garcia J, Marvanek S, Prestwidge D, Clifford D, Laredo L. 2012. Development of a system to produce maps of agricultural profit on a continental scale: An example for Australia. Agricultural Systems. 105, 1, 33-45.</description>
+    </collection>
+  </registryObject>
+
+       <registryObject group="AUTestingRecords2">
+    <key>123.123.123/0020</key>
+    <originatingSource>nla.gov.au</originatingSource>
+    <collection dateAccessioned="2016-04-29T01:05:09+10:00" type="dataset">
+      <name type="primary">
+        <namePart>testDataForVisualisation20</namePart></name>
+      <description type="brief">The provided data (the Data) represent a raster map of agricultural profit at full equity (PFE) for Australia for the year 2005/06. Values of PFE are provided in ($/ha). PFE is a measure of profit which is calculated as the revenue from the sale of agricultural commodities minus all fixed and variable costs. This concept is based on the assumption that the land is fully owned (100% equity). The unit of PFE is $/ha. The Data are provided as a raster dataset that is compatible with ArcGIS. The spatial resolution is ~ 1km. Values provided are not for individual commodities (e.g. wheat, barley etc.) but for a set of commodity classes known as SPREAD classes (e.g. winter cereals, winter oilseeds) and broad land use categories (grazing, natural pastures etc.). The Data do not provide information with regards to the associated land use. To link values of PFE to the associated land use (SPREAD class) the Data need to be linked to the land use map of the year 2005/06 (Source: ABARE–BRS 2010. Land Use of Australia, Version 4, 2005-06 dataset).</description>
+      <description type="lineage">Overview of the process how data was produced is provided in Marinoni O, Navarro Garcia J, Marvanek S, Prestwidge D, Clifford D, Laredo L. 2012. Development of a system to produce maps of agricultural profit on a continental scale: An example for Australia. Agricultural Systems. 105, 1, 33-45.</description>
+    </collection>
+  </registryObject>
+
+        <registryObject group="AUTestingRecords2">
+    <key>123.123.123/0021</key>
+    <originatingSource>nla.gov.au</originatingSource>
+    <collection dateAccessioned="2016-04-29T01:05:09+10:00" type="dataset">
+      <name type="primary">
+        <namePart>testDataForVisualisation21</namePart></name>
+      <description type="brief">The provided data (the Data) represent a raster map of agricultural profit at full equity (PFE) for Australia for the year 2005/06. Values of PFE are provided in ($/ha). PFE is a measure of profit which is calculated as the revenue from the sale of agricultural commodities minus all fixed and variable costs. This concept is based on the assumption that the land is fully owned (100% equity). The unit of PFE is $/ha. The Data are provided as a raster dataset that is compatible with ArcGIS. The spatial resolution is ~ 1km. Values provided are not for individual commodities (e.g. wheat, barley etc.) but for a set of commodity classes known as SPREAD classes (e.g. winter cereals, winter oilseeds) and broad land use categories (grazing, natural pastures etc.). The Data do not provide information with regards to the associated land use. To link values of PFE to the associated land use (SPREAD class) the Data need to be linked to the land use map of the year 2005/06 (Source: ABARE–BRS 2010. Land Use of Australia, Version 4, 2005-06 dataset).</description>
+      <description type="lineage">Overview of the process how data was produced is provided in Marinoni O, Navarro Garcia J, Marvanek S, Prestwidge D, Clifford D, Laredo L. 2012. Development of a system to produce maps of agricultural profit on a continental scale: An example for Australia. Agricultural Systems. 105, 1, 33-45.</description>
+    </collection>
+  </registryObject>
+
+       <registryObject group="AUTestingRecords2">
+    <key>123.123.123/0022</key>
+    <originatingSource>nla.gov.au</originatingSource>
+    <collection dateAccessioned="2016-04-29T01:05:09+10:00" type="dataset">
+      <name type="primary">
+        <namePart>testDataForVisualisation22</namePart></name>
+      <description type="brief">The provided data (the Data) represent a raster map of agricultural profit at full equity (PFE) for Australia for the year 2005/06. Values of PFE are provided in ($/ha). PFE is a measure of profit which is calculated as the revenue from the sale of agricultural commodities minus all fixed and variable costs. This concept is based on the assumption that the land is fully owned (100% equity). The unit of PFE is $/ha. The Data are provided as a raster dataset that is compatible with ArcGIS. The spatial resolution is ~ 1km. Values provided are not for individual commodities (e.g. wheat, barley etc.) but for a set of commodity classes known as SPREAD classes (e.g. winter cereals, winter oilseeds) and broad land use categories (grazing, natural pastures etc.). The Data do not provide information with regards to the associated land use. To link values of PFE to the associated land use (SPREAD class) the Data need to be linked to the land use map of the year 2005/06 (Source: ABARE–BRS 2010. Land Use of Australia, Version 4, 2005-06 dataset).</description>
+      <description type="lineage">Overview of the process how data was produced is provided in Marinoni O, Navarro Garcia J, Marvanek S, Prestwidge D, Clifford D, Laredo L. 2012. Development of a system to produce maps of agricultural profit on a continental scale: An example for Australia. Agricultural Systems. 105, 1, 33-45.</description>
+    </collection>
+  </registryObject>
+
+
+       <registryObject group="AUTestingRecords2">
+    <key>123.123.123/0023</key>
+    <originatingSource>nla.gov.au</originatingSource>
+    <collection dateAccessioned="2016-04-29T01:05:09+10:00" type="dataset">
+      <name type="primary">
+        <namePart>testDataForVisualisation23</namePart></name>
+      <description type="brief">The provided data (the Data) represent a raster map of agricultural profit at full equity (PFE) for Australia for the year 2005/06. Values of PFE are provided in ($/ha). PFE is a measure of profit which is calculated as the revenue from the sale of agricultural commodities minus all fixed and variable costs. This concept is based on the assumption that the land is fully owned (100% equity). The unit of PFE is $/ha. The Data are provided as a raster dataset that is compatible with ArcGIS. The spatial resolution is ~ 1km. Values provided are not for individual commodities (e.g. wheat, barley etc.) but for a set of commodity classes known as SPREAD classes (e.g. winter cereals, winter oilseeds) and broad land use categories (grazing, natural pastures etc.). The Data do not provide information with regards to the associated land use. To link values of PFE to the associated land use (SPREAD class) the Data need to be linked to the land use map of the year 2005/06 (Source: ABARE–BRS 2010. Land Use of Australia, Version 4, 2005-06 dataset).</description>
+      <description type="lineage">Overview of the process how data was produced is provided in Marinoni O, Navarro Garcia J, Marvanek S, Prestwidge D, Clifford D, Laredo L. 2012. Development of a system to produce maps of agricultural profit on a continental scale: An example for Australia. Agricultural Systems. 105, 1, 33-45.</description>
+    </collection>
+  </registryObject>
+
+        <registryObject group="AUTestingRecords2">
+    <key>123.123.123/0024</key>
+    <originatingSource>nla.gov.au</originatingSource>
+    <collection dateAccessioned="2016-04-29T01:05:09+10:00" type="dataset">
+      <name type="primary">
+        <namePart>testDataForVisualisation24</namePart></name>
+      <description type="brief">The provided data (the Data) represent a raster map of agricultural profit at full equity (PFE) for Australia for the year 2005/06. Values of PFE are provided in ($/ha). PFE is a measure of profit which is calculated as the revenue from the sale of agricultural commodities minus all fixed and variable costs. This concept is based on the assumption that the land is fully owned (100% equity). The unit of PFE is $/ha. The Data are provided as a raster dataset that is compatible with ArcGIS. The spatial resolution is ~ 1km. Values provided are not for individual commodities (e.g. wheat, barley etc.) but for a set of commodity classes known as SPREAD classes (e.g. winter cereals, winter oilseeds) and broad land use categories (grazing, natural pastures etc.). The Data do not provide information with regards to the associated land use. To link values of PFE to the associated land use (SPREAD class) the Data need to be linked to the land use map of the year 2005/06 (Source: ABARE–BRS 2010. Land Use of Australia, Version 4, 2005-06 dataset).</description>
+      <description type="lineage">Overview of the process how data was produced is provided in Marinoni O, Navarro Garcia J, Marvanek S, Prestwidge D, Clifford D, Laredo L. 2012. Development of a system to produce maps of agricultural profit on a continental scale: An example for Australia. Agricultural Systems. 105, 1, 33-45.</description>
+    </collection>
+  </registryObject>
+
+       <registryObject group="AUTestingRecords2">
+    <key>123.123.123/0025</key>
+    <originatingSource>nla.gov.au</originatingSource>
+    <collection dateAccessioned="2016-04-29T01:05:09+10:00" type="dataset">
+      <name type="primary">
+        <namePart>testDataForVisualisation25</namePart></name>
+      <description type="brief">The provided data (the Data) represent a raster map of agricultural profit at full equity (PFE) for Australia for the year 2005/06. Values of PFE are provided in ($/ha). PFE is a measure of profit which is calculated as the revenue from the sale of agricultural commodities minus all fixed and variable costs. This concept is based on the assumption that the land is fully owned (100% equity). The unit of PFE is $/ha. The Data are provided as a raster dataset that is compatible with ArcGIS. The spatial resolution is ~ 1km. Values provided are not for individual commodities (e.g. wheat, barley etc.) but for a set of commodity classes known as SPREAD classes (e.g. winter cereals, winter oilseeds) and broad land use categories (grazing, natural pastures etc.). The Data do not provide information with regards to the associated land use. To link values of PFE to the associated land use (SPREAD class) the Data need to be linked to the land use map of the year 2005/06 (Source: ABARE–BRS 2010. Land Use of Australia, Version 4, 2005-06 dataset).</description>
+      <description type="lineage">Overview of the process how data was produced is provided in Marinoni O, Navarro Garcia J, Marvanek S, Prestwidge D, Clifford D, Laredo L. 2012. Development of a system to produce maps of agricultural profit on a continental scale: An example for Australia. Agricultural Systems. 105, 1, 33-45.</description>
+    </collection>
+  </registryObject>
+
+
+</registryObjects>
+

@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<registryObjects xmlns="http://ands.org.au/standards/rif-cs/registryObjects" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ands.org.au/standards/rif-cs/registryObjects http://services.ands.org.au/documentation/rifcs/schema/registryObjects.xsd">
+  <registryObject group="Advanced Ecological Knowledge and Observation System">
+    <key>aekos.org.au/collection/adelaide.edu.au/key1</key>
+    <originatingSource type="">aekos.org.au</originatingSource>
+    <collection type="dataset" dateModified="2018-01-31" dateAccessioned="2018-01-31">
+      <name type="primary">
+        <namePart>Visualisation testing record</namePart>
+      </name>
+      <description type="full">&lt;p&gt;Test descriptions&lt;/p&gt;</description>
+      <rights>
+        <licence type="CC-BY" rightsUri="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International</licence>
+        <accessRights>These data can be freely downloaded via TERN AEKOS and used subject to the null licence. Attribution and citation is required as described under Licence and Citation. We ask you to send citations of publications arising from work that use these data to esupport@tern.org.au and citation and copies of publications to maurizio.rossetto@rbqsyd.nsw.gov.au.</accessRights>
+      </rights>
+      <identifier type="uri">http://aekos.org.au/collection/adelaide.edu.au/key1</identifier>
+      <dates type="dc.available">
+        <date type="dateFrom" dateFormat="W3CDTF">2018-01-31</date>
+      </dates>
+      <location>
+        <address>
+          <electronic type="email">
+            <value>ben.sparrow@adelaide.edu.au</value>
+          </electronic>
+          <electronic type="url">
+            <value>http://aekos.org.au/collection/adelaide.edu.au/TAB</value>
+          </electronic>
+          <physical type="postalAddress">
+            <addressPart type="addressLine">Coordinator, Australian Transect Network</addressPart>
+            <addressPart type="addressLine">Davies Building, Waite Campus</addressPart>
+            <addressPart type="addressLine">University of Adelaide</addressPart>
+            <addressPart type="addressLine">Adelaide SA 5005 AUSTRALIA</addressPart>
+          </physical>
+          <physical type="">
+            <addressPart type="telephoneNumber">+61 8 8313 1201</addressPart>
+          </physical>
+        </address>
+      </location>
+      <coverage>
+        <temporal>
+          <date type="dateFrom" dateFormat="W3CDTF">2011-09-08</date>
+          <date type="dateTo" dateFormat="W3CDTF">2016-10-19</date>
+        </temporal>
+        <spatial type="iso19139dcmiBox">northlimit=-33.07954;westlimit=150.05344;eastlimit=151.28337;southlimit=-34.13574;projection=GDA94;name=TERN Australian Transect Network (BATS)study area</spatial>
+        <spatial type="text">Sydney coastal region and Capertee Valley, west of the Great Dividing Range, NSW</spatial>
+      </coverage>
+      <relatedObject>
+        <key>http://nla.gov.au/nla.party-460832</key>
+        <relation type="isManagedBy"/>
+      </relatedObject>
+      <relatedObject>
+        <key>http://hdl.handle.net/1959.18/1014353</key>
+        <relation type="isEnrichedBy"/>
+      </relatedObject>
+      <relatedObject>
+        <key>experts.griffith.edu.au:individual:n49ecd0de765f8ac536378cb7a2dbf324</key>
+        <relation type="hasAssociationWith"/>
+      </relatedObject>
+      <relatedObject>
+        <key>0503131246_test_service</key>
+        <relation type="isProducedBy"/>
+      </relatedObject>
+      <relatedObject>
+        <key>10378.3/8085/1018.25761</key>
+        <relation type="isOutputOf"/>
+      </relatedObject>
+      <citationInfo>
+        <fullCitation style="Datacite">TERN Australian Transect Network, TERN Ausplots, Rossetto, M., H. McPherson, M. van der Merwe (2018). TERN Australian Transect Network, Biodiversity and Adaptation Transect Sydney (BATS) - Vegetation and trait data (2011 - 2015), Version 1/2018. Persistent URL: http://www.aekos.org.au/collection/adelaide.edu.au/TAB. TERN AEKOS, rights owned by The University of Adelaide. Accessed [dd mmm yyyy, e.g. 01 Jan 2016].</fullCitation>
+      </citationInfo>
+      <citationInfo>
+        <citationMetadata>
+          <identifier type="uri">http://aekos.org.au/collection/adelaide.edu.au/TAB</identifier>
+          <title>TERN Australian Transect Network, Biodiversity and Adaptation Transect Sydney (BATS) - Vegetation and trait data (2011 - 2015)</title>
+          <version>1/2018</version>
+          <placePublished/>
+          <publisher>TERN AEKOS, rights owned by The University of Adelaide</publisher>
+          <url>http://aekos.org.au/collection/adelaide.edu.au/TAB</url>
+          <context/>
+          <contributor seq="1">
+            <namePart type="">The University of Adelaide</namePart>
+          </contributor>
+          <date type="publicationDate">2018</date>
+        </citationMetadata>
+      </citationInfo>
+    </collection>
+  </registryObject>
+
+<registryObject group="Griffith University">
+    <key>experts.griffith.edu.au:individual:n49ecd0de765f8ac536378cb7a2dbf324</key>
+    <originatingSource>http://experts.griffith.edu.au/publication/n49ecd0de765f8ac536378cb7a2dbf324</originatingSource>
+    <collection type="publication">
+      <identifier type="uri">http://experts.griffith.edu.au/individual/n49ecd0de765f8ac536378cb7a2dbf324</identifier>
+      <name type="primary">
+        <namePart>Carrot or Stick and Climate Change</namePart>
+      </name>
+      <location>
+        <address>
+          <electronic type="url">
+            <value>http://experts.griffith.edu.au/publication/n49ecd0de765f8ac536378cb7a2dbf324</value>
+          </electronic>
+        </address>
+      </location>
+      <subject type="anzsrc-for">150399</subject>
+      <description type="full">http://sustaibilityzero.com/carrotnstick_nickbarter/
+The above is the link to the published article</description>
+    </collection>
+  </registryObject>
+
+    <registryObject group="Queensland University of Technology">
+    <key>10378.3/8085/1018.25761</key>
+    <originatingSource type="authoritative">http://www.qut.edu.au</originatingSource>
+    <activity type="project" dateModified="2010-06-29T09:06:45Z">
+      <identifier type="local">10378.3/8085/1018.25761</identifier>
+      <name type="primary">
+        <namePart>test activity </namePart>
+      </name>
+      <relatedObject>
+        <key>10378.3/8085/1018.2579</key>
+        <relation type="hasOutput">
+          <description>collection</description>
+        </relation>
+      </relatedObject>
+      <relatedObject>
+        <key>10378.3/8085/1018.1240</key>
+        <relation type="hasParticipant">
+          <description>Primary Contact</description>
+        </relation>
+      </relatedObject>
+      <description type="full">Led by Queensland University of Technology, in partnership with The University of Queensland and University of Sydney, the project aims to digitise a selection of early Australian children's literature from Settlement to 1945, alongside relevant secondary materials. The majority of these items have been kindly supplied by National Library of Australia, State Library Victoria,  Monash University Library, and other library collections.  By 2011, the Children's Literature Digital Resources Project (CLDRP) will deliver a range of digitised primary and secondary texts to support Australian literature teaching and research communities. The project received both ARC LIEF and QUT funding to support the digitisation of early (pre-1945) Australian children's books and some secondary sources, and to make them available as a 'research resource'. A systematic process for seeking copyright permission to digitise has been developed and documented.**Grantor:Australian Research Council**External Ref:LE0989090</description>
+      <description type="note">Also known as AustLit Phase Three. Continues Austlit Phase Two: ARC Reference LE0882507.</description>
+    </activity>
+  </registryObject>
+
+    <registryObject group="Apps Demo (SK)">
+    <key>0503131246_test_service</key>
+    <originatingSource>http://demo.ands.org.au/registry/orca/register_my_data</originatingSource>
+    <service type="assemble">
+      <name type="primary">
+        <namePart type="">test to see if removing an object leads to broken links</namePart>
+      </name>
+      <relatedObject>
+        <key>0503131244_test_coll</key>
+        <relation type="operatesOn"/>
+      </relatedObject>
+    </service>
+  </registryObject>
+
+    <registryObject group="National Library of Australia">
+    <key>http://nla.gov.au/nla.party-460832</key>
+    <originatingSource type="authoritative">http://trove.nla.gov.au/people</originatingSource>
+    <party dateModified="2017-07-26T04:09:11Z" type="group">
+      <identifier type="AU-ANL:PEAU">http://nla.gov.au/nla.party-460832</identifier>
+      <identifier type="AU-AuCNLKIN">http://nla.gov.au/anbd.aut-an35042150</identifier>
+      <identifier type="AU-VU:EOAS">http://www.eoas.info/biogs/A000240b.htm</identifier>
+      <identifier type="AU-VANDS">http://services.ands.org.au/home/orca/rda/view.php?key=ands.org.au-institution-0163</identifier>
+      <identifier type="AU-VANDS">http://nla.gov.au/nla.party-460832</identifier>
+      <identifier type="AU-AuCNL">2528</identifier>
+      <identifier type="AU-AuCNLKIN">abv02024642</identifier>
+      <identifier type="AU-VANDS">ands.org.au-institution-0163</identifier>
+      <name type="primary">
+        <namePart>University of Adelaide</namePart>
+      </name>
+      <name type="alternative">
+        <namePart type="jurisdiction">Adelaide (S.A.)</namePart>
+        <namePart>University</namePart>
+      </name>
+      <name type="alternative">
+        <namePart type="jurisdiction">Adelaide</namePart>
+        <namePart>University</namePart>
+      </name>
+      <name type="alternative">
+        <namePart>Adelaide University</namePart>
+      </name>
+      <name type="primary">
+        <namePart>The University of Adelaide</namePart>
+      </name>
+      <name type="alternative">
+        <namePart>University of Adelaide</namePart>
+      </name>
+      <location>
+        <address>
+          <electronic type="url">
+            <value>http://nla.gov.au/nla.party-460832</value>
+          </electronic>
+        </address>
+      </location>
+      <description type="brief">The University of Adelaide was established in 1874 and is one of Australia's oldest universities. At the beginning of the 21st century the University has an enrolment of approximately 14,000 students.</description>
+      <description type="full">From Sept. 1999 to Feb. 2002, following endorsement by the University Council, the name Adelaide University was commonly used in publications of the University and for all advertising, marketing and non-official purposes, although its legal name remained University of Adelaide. In Feb. 2002, the Council decided to discontinue use of the name Adelaide University. All works by the University are entered under the legal name, University of Adelaide</description>
+    </party>
+  </registryObject>
+
+
+</registryObjects>
+
