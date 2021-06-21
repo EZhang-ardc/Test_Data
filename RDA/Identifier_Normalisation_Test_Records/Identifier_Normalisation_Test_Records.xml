@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <registryObjects xmlns="http://ands.org.au/standards/rif-cs/registryObjects" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ands.org.au/standards/rif-cs/registryObjects http://services.ands.org.au/documentation/rifcs/schema/registryObjects.xsd">
    <registryObject group="Geoscience Australia">
-    <key>7860d9e9-e4b3-7600-61f5-b493ca82055e</key>
+    <key>7860d9e9-e4b3-7600-61f5-b493ca82055e1</key>
     <originatingSource type="">https://test.researchdata.ardc.edu.au/registry//orca/register_my_data</originatingSource>
     <party type="person">
       <name type="primary">
-        <namePart>Test_purl_no.1</namePart>
+        <namePart>Test_purl_no.2</namePart>
       </name>
       <description type="">&lt;p&gt;this record contains a purl identifier with a wrong type (uri)&lt;/p&gt;</description>
-      <identifier type="uri">https://purl.org/au-research/grants/nhmrc/GNT1122345</identifier>
+      <identifier type="uri">https://purl.org/au-research/grants/nhmrc/GNT1223345</identifier>
     </party>
   </registryObject>
 
       <registryObject group="ALA">
-    <key>bacbf916-57b0-b6b0-9dd6-9b949aa750bd</key>
+    <key>bacbf916-57b0-b6b0-9dd6-9b949aa750bd1</key>
     <originatingSource type="">https://test.researchdata.ardc.edu.au/registry//orca/register_my_data</originatingSource>
     <collection type="catalogueOrIndex">
       <name type="primary">
-        <namePart>Test_identifer_3</namePart>
+        <namePart>Test_identifier_3</namePart>
       </name>
-      <description type="">&lt;p&gt;test identifer 3&lt;/p&gt;
+      <description type="">&lt;p&gt;test identifier 3&lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;</description>
-      <identifier type="doi">https://doi.org/10.234/566</identifier>
+      <identifier type="doi">https://doi.org/10.234/576</identifier>
       <relatedObject>
-        <key>AIMS/fffbf4b5-e860-407e-a4d8-6d81f93157fb</key>
+        <key>AIMS/fffbf4b5-e860-407e-a4d8-6d81f93157fb9</key>
         <relation type="hasAssociationWith"/>
       </relatedObject>
     </collection>
   </registryObject>
   
       <registryObject group="ALA">
-    <key>AIMS/fffbf4b5-e860-407e-a4d8-6d81f93157fb</key>
+    <key>AIMS/fffbf4b5-e860-407e-a4d8-6d81f93157fb9</key>
     <originatingSource type="">https://test.researchdata.ardc.edu.au/registry//orca/register_my_data</originatingSource>
     <collection type="catalogueOrIndex">
       <name type="primary">
@@ -43,20 +43,20 @@
   </registryObject>
   
     <registryObject group="ALA">
-    <key>bacbf916-57b0-b6b0-9dd6-9b949aa7random</key>
+    <key>bacbf916-57b0-b6b0-9dd6-9b949aau7random</key>
     <originatingSource type="">https://test.researchdata.ardc.edu.au/registry//orca/register_my_data</originatingSource>
     <collection type="catalogueOrIndex">
       <name type="primary">
-        <namePart>Test_identifer_4</namePart>
+        <namePart>Test_identifier_4</namePart>
       </name>
       <description type="">&lt;p&gt;test identifer 4 with a exact same identifier&lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;</description>
-      <identifier type="doi">https://doi.org/10.234/566</identifier>
+      <identifier type="doi">https://doi.org/10.234/576</identifier>
     </collection>
   </registryObject>
 
       <registryObject group="ALA">
-    <key>4101b350-1937-2c33-8485-de8bf4650f51</key>
+    <key>4101b350-1937-2c33-8485-dek8bf4650f51</key>
     <originatingSource type="">https://test.researchdata.ardc.edu.au/registry//orca/register_my_data</originatingSource>
     <collection type="catalogueOrIndex">
       <name type="primary">
@@ -64,39 +64,39 @@
       </name>
       <description type="">&lt;p&gt;Test identifier 2&lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;</description>
-      <identifier type="doi">http://doi.org/10.234/566</identifier>
+      <identifier type="doi">http://doi.org/10.234/576</identifier>
     </collection>
   </registryObject>
 
       <registryObject group="ALA">
-    <key>6d60ad97-d988-00c2-ad9e-f485b968bcaf</key>
+    <key>6d60ad97-d988-00c2-ad9e-f485kib968bcaf</key>
     <originatingSource type="">https://test.researchdata.ardc.edu.au/registry//orca/register_my_data</originatingSource>
     <collection type="catalogueOrIndex">
       <name type="primary">
-        <namePart>Test_identifer_1</namePart>
+        <namePart>Test_identifier_1</namePart>
       </name>
       <description type="">&lt;p&gt;Test identifier 1&lt;/p&gt;</description>
-      <identifier type="doi">DOI:10.234/566</identifier>
+      <identifier type="doi">DOI:10.234/576</identifier>
     </collection>
   </registryObject>
 
       <registryObject group="Geoscience Australia">
-    <key>f2050b86-e043-69d9-fda2-7ecdb83ce696</key>
+    <key>f2050b86-e043-69d9-fda2-7ecdb83chgre696</key>
     <originatingSource type="">https://test.researchdata.ardc.edu.au/registry//orca/register_my_data</originatingSource>
     <party type="administrativePosition">
       <name>
         <namePart type="given">identified-orcid</namePart>
-        <namePart type="family">No.1</namePart>
+        <namePart type="family">No.2</namePart>
       </name>
       <description type="">&lt;p&gt;This record contains the following identifier:&lt;/p&gt;
-&lt;p&gt;orcid:&lt;br /&gt;&lt;a href=&quot;http://orcid.org/0000-0002-9539-1111&quot;&gt;http://orcid.org/0000-0002-9539-1111&lt;/a&gt;/userInfo.csv&lt;/p&gt;
+&lt;p&gt;orcid:&lt;br /&gt;&lt;a href=&quot;http://orcid.org/0000-0002-9539-2222&quot;&gt;http://orcid.org/0000-0002-9539-2222&lt;/a&gt;/userInfo.csv&lt;/p&gt;
 &lt;pre&gt; &lt;/pre&gt;</description>
-      <identifier type="orcid">0000-0002-9539-1111/userInfo.csv</identifier>
+      <identifier type="orcid">0000-0002-9539-2222/userInfo.csv</identifier>
     </party>
   </registryObject>
 
       <registryObject group="Geoscience Australia">
-    <key>92bf1e63-fa48-bc99-a5d7-7c73249a669c</key>
+    <key>92bf1e63-fa48-bc99-a5d7-7c73249a6gfg69c</key>
     <originatingSource type="">https://test.researchdata.ardc.edu.au/registry//orca/register_my_data</originatingSource>
     <party type="administrativePosition">
       <name type="primary">
@@ -104,7 +104,7 @@
         <namePart type="family">No.1</namePart>
       </name>
       <description type="">&lt;p&gt;Test the normalisation of identifers &lt;/p&gt;</description>
-      <identifier type="handle">http://handle.westernsydney.edu.au:8081/1959.7/511111</identifier>
+      <identifier type="handle">http://handle.westernsydney.edu.au:8081/1959.7/522222</identifier>
       <relatedObject>
         <key>www.qfab.org/collection-4716</key>
         <relation type="isPrincipalInvestigatorOf"/>
@@ -113,27 +113,18 @@
   </registryObject>
 
     <registryObject group="Geoscience Australia">
-    <key>f499aed0-fb7a-bf66-39a1-a3c724294158</key>
+    <key>f499aed0-fb7a-bf66-39a1-a3cgrtg724294158</key>
     <originatingSource type="">https://test.researchdata.ardc.edu.au/registry//orca/register_my_data</originatingSource>
     <party type="administrativePosition">
       <name type="primary">
         <namePart type="given">identifer-multiple</namePart>
         <namePart type="family">No.1</namePart>
       </name>
-      <description type="">&lt;p&gt;This record contains multiple identifiers that are identical to other records.&lt;/p&gt;
-&lt;p&gt;handle:&lt;/p&gt;
-&lt;p&gt;hdl:1959.7/511111&lt;/p&gt;
-&lt;p&gt;orcid:&lt;br /&gt;http://orcid.org/0000-0002-9539-1111&lt;/p&gt;
-&lt;p&gt;igsn:&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;http://igsn.org/AU1111&lt;/p&gt;</description>
-      <identifier type="handle">hdl:1959.7/511111</identifier>
+      <description type="">This record contains multiple identifiers that are identical to other records.</description>
+      <identifier type="handle">hdl:1959.7/522222</identifier>
       <identifier type="igsn">http://igsn.org/AU1111</identifier>
-      <identifier type="orcid">0000-0002-9539-1111</identifier>
-      <identifier type="purl">	https://purl.org/au-research/grants/nhmrc/GNT1122345</identifier>
-      <relatedObject>
-        <key>ImARandomKey</key>
-        <relation type="isOwnerOf"/>
-      </relatedObject>
+      <identifier type="orcid">0000-0002-9539-2222</identifier>
+      <identifier type="purl">	https://purl.org/au-research/grants/nhmrc/GNT1223345</identifier>
     </party>
   </registryObject>
 
