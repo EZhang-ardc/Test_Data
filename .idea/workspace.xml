@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d6e6600b-2bcf-432b-81c3-4510c5cd1692" name="Default Changelist" comment="Uploaded new xml files for the graph visualisation testing">
-      <change afterPath="$PROJECT_DIR$/RDA/RDA_View_Page_Test_Records/RDA_Collection_View_Page_View_n_Related_RIFCS.xml" afterDir="false" />
+    <list default="true" id="d6e6600b-2bcf-432b-81c3-4510c5cd1692" name="Default Changelist" comment="Uploaded new xml files for the tests">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RDA/Graph_Visualisation_Test_Records/Test_User_Friendly_Relations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RDA/Graph_Visualisation_Test_Records/Test_User_Friendly_Relations.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/RDA/Identifier_Normalisation_Test_Records/Different_Http_Protocol_Test_Records.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RDA/Identifier_Normalisation_Test_Records/Different_Http_Protocol_Test_Records.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -121,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1623824192134</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Uploaded new xml files for the tests">
+      <created>1624241861436</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1624241861436</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -146,6 +151,7 @@
     <MESSAGE value="Update DOIs in DRVS_Test_Data_Collections_Test_Partner_1_With_ARDC_Test_ DOIs.csv" />
     <MESSAGE value="Uploaded new xml files for identifier normalisation testing." />
     <MESSAGE value="Uploaded new xml files for the graph visualisation testing" />
-    <option name="LAST_COMMIT_MESSAGE" value="Uploaded new xml files for the graph visualisation testing" />
+    <MESSAGE value="Uploaded new xml files for the tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="Uploaded new xml files for the tests" />
   </component>
 </project>
