@@ -1,45 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <registryObjects xmlns="http://ands.org.au/standards/rif-cs/registryObjects" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ands.org.au/standards/rif-cs/registryObjects http://services.ands.org.au/documentation/rifcs/schema/registryObjects.xsd">
-  <registryObject group="Geoscience Australia">
-    <key>9481db1f-9f06-e828-7fcb-4d0239d87e8c</key>
-    <originatingSource type="">https://test.researchdata.ardc.edu.au/registry//orca/register_my_data</originatingSource>
-    <party type="administrativePosition">
+ <registryObject group="Griffith University">
+    <key>ffb7c943-07a8-7f0a-bbc9-1377739earewf6f</key>
+    <originatingSource type="">https://demo.researchdata.ardc.edu.au/registry//orca/register_my_data</originatingSource>
+    <activity type="event">
       <name type="primary">
-        <namePart type="title">identifier-igsn No.1</namePart>
+        <namePart>another potato</namePart>
       </name>
-      <description type="">&lt;p&gt;test whether the igsn starts with &lt;strong&gt;&quot;https&quot;&lt;/strong&gt; can be normalised and get the same result with the same url starts with &lt;strong&gt;&quot;http&quot;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;link: https://igsn.org/AU1111&lt;/p&gt;</description>
-      <identifier type="igsn">https://igsn.org/AU1213</identifier>
-    </party>
+      <description type="">&lt;p&gt;potato&lt;/p&gt;</description>
+      <identifier type="url">https://www.Iamapotatoo.edu.au</identifier>
+    </activity>
   </registryObject>
 
-    <registryObject group="Geoscience Australia">
-    <key>f499aed0-fb7a-bf66-39a1-a3c724294158</key>
-    <originatingSource type="">https://test.researchdata.ardc.edu.au/registry//orca/register_my_data</originatingSource>
-    <party type="administrativePosition">
+    <registryObject group="Griffith University">
+    <key>e7d2499a-83f3-2d6a-d615-e1jhfd6624436c3</key>
+    <originatingSource type="">https://demo.researchdata.ardc.edu.au/registry//orca/register_my_data</originatingSource>
+    <activity type="grant">
       <name type="primary">
-        <namePart type="given">identifier-igsn No.2</namePart>
-        <namePart type="family">No.1</namePart>
+        <namePart>potato</namePart>
       </name>
-      <description type="">&lt;p&gt;I am a description.</description>
-      <identifier type="igsn">http://igsn.org/AU1213</identifier>
-      <relatedObject>
+      <identifier type="url">http://www.Iamapotatoo.edu.au</identifier>
+            <relatedObject>
         <key>ImARandomKeyy</key>
-        <relation type="isOwnerOf"/>
+        <relation type="hasAssociationWith"/>
       </relatedObject>
-    </party>
+    </activity>
   </registryObject>
+
 
     <registryObject group="Geoscience Australia">
     <key>f499aed0-fb7a-bf66-39a1-a3c724294158111</key>
     <originatingSource type="">https://test.researchdata.ardc.edu.au/registry//orca/register_my_data</originatingSource>
     <party type="administrativePosition">
       <name type="primary">
-        <namePart type="given">identifier-igsn with different type</namePart>
+        <namePart type="given">potato with different type</namePart>
         <namePart type="family">No.1</namePart>
       </name>
       <description type="">&lt;p&gt;I am a description.</description>
-      <identifier type="doi">http://igsn.org/AU1213</identifier>
+      <identifier type="doi">http://www.Iamapotatoo.edu.au</identifier>
     </party>
   </registryObject>
 
