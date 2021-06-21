@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d6e6600b-2bcf-432b-81c3-4510c5cd1692" name="Default Changelist" comment="Uploaded new xml files for the graph visualisation testing">
-      <change afterPath="$PROJECT_DIR$/RDA/Graph_Visualisation_Test_Records/Test_Multiple_Relations_Visualisation.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RDA/Graph_Visualisation_Test_Records/Test_User_Friendly_Relations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RDA/RDA_View_Page_Test_Records/RDA_Collection_View_Page_View_n_Related_RIFCS.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RDA/Graph_Visualisation_Test_Records/Test_User_Friendly_Relations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RDA/Graph_Visualisation_Test_Records/Test_User_Friendly_Relations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RDA/Identifier_Normalisation_Test_Records/Different_Http_Protocol_Test_Records.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RDA/Identifier_Normalisation_Test_Records/Different_Http_Protocol_Test_Records.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1623821414047</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Uploaded new xml files for the graph visualisation testing">
+      <created>1623824192134</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1623824192134</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,6 +137,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Test Commit" />
