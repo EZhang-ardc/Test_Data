@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<registryObjects xmlns="http://ands.org.au/standards/rif-cs/registryObjects" xmlns:extRif="http://ands.org.au/standards/rif-cs/extendedRegistryObjects" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ands.org.au/standards/rif-cs/registryObjects http://services.ands.org.au/documentation/rifcs/schema/registryObjects.xsd">
+    <registryObject group="AUTestingRecordsRelationships">
+        <!-- KEY -->
+        <key>C1_21</key>
+        <originatingSource type="">http://demo.ands.org.au/registry/orca/register_my_data</originatingSource>
+        <collection dateModified="2013-04-10T23:51:55Z" type="collection">
+            <!-- TITLE -->
+            <name type="primary">
+                <namePart>Relationship scenario 3</namePart>
+            </name>
+            <description type="local">&amp;lt;p&amp;gt;This is a local statement for the colleciton&amp;lt;/p&amp;gt;</description>
+            <rights>
+                <rightsStatement rightsUri="http://www.rightsuri.com">Rights Statement Rights Statement</rightsStatement>
+                <licence rightsUri="http://www.rightsuri.com" type="AusGOALRestrictive">LicenceLicenceLicence</licence>
+                <accessRights rightsUri="http://www.rightsuri.com">Access Rights</accessRights>
+            </rights>
+            <!-- IDENTIFIERS -->
+            <identifier type="AU-ANL:PEAU">C1_ID1_21</identifier>
+            <dates type="dc.available">
+                <date dateFormat="W3CDTF" type="dateFrom">2013-02-07T00:00:00Z</date>
+            </dates>
+            <dates type="dc.issued">
+                <date dateFormat="W3CDTF" type="dateFrom">2022-03-03T00:00:00Z</date>
+            </dates>
+            <location dateFrom="2013-02-14T00:00:00Z" dateTo="2013-03-02T00:00:00Z">
+                <address>
+                    <electronic target="landingPage" type="url">
+                        <value>https://demo.ands.org.au</value>
+                        <title>My Landing Page for the data</title>
+                    </electronic>
+                    <physical type="postalAddress">
+                        <addressPart type="addressLine">&amp;lt;p&amp;gt; 123 Example St&amp;lt;/p&amp;gt; &amp;lt;p&amp;gt; Canberra ACT 2131&amp;lt;/p&amp;gt;</addressPart>
+                    </physical>
+                    <electronic target="directDownload" type="url">
+                        <value>https://dl.dropboxusercontent.com/u/49073372/RIF16WithError.xml</value>
+                        <title>My Direct Download link</title>
+                        <mediaType>XML</mediaType>
+                        <byteSize>3KB</byteSize>
+                    </electronic>
+                </address>
+                <spatial type="kmlPolyCoords">119.707031,-20.468189 152.753906,-32.101190 119.707031,-20.468189</spatial>
+            </location>
+            <coverage>
+                <temporal>
+                    <date dateFormat="W3CDTF" type="dateFrom">2013-01-30T00:00:00Z</date>
+                    <date dateFormat="W3CDTF" type="dateTo">2017-03-03T00:00:00Z</date>
+                </temporal>
+                <spatial type="kmlPolyCoords">143.085938,-22.917923</spatial>
+                <spatial type="kmlPolyCoords">121.640625,-35.173808 150.644531,-20.961440 117.246094,-14.093957 110.390625,-26.273714 127.441406,-20.961440 128.847656,-27.527758 121.640625,-35.173808</spatial>
+            </coverage>
+            <coverage>
+                <spatial type="text">Some place in Australia</spatial>
+            </coverage>
+            <!-- RELATIONSHIPS -->
+            <!--<relatedObject><key>http://nla.gov.au/nla.party-AUTR12</key><relation type="hasCollector"/></relatedObject>-->
+            <relatedInfo type="party">
+                <title>Example party 3</title>
+                <identifier type="AU-ANL:PEAU">P1_ID1_21</identifier>
+                <relation type="hasCollector"/>
+            </relatedInfo>
+            <subject type="local">localSubject</subject>
+            <subject type="anzsrc-seo">830201</subject>
+            <subject type="anzsrc-for">0303</subject>
+            <citationInfo>
+                <citationMetadata>
+                    <identifier type="doi">10.123123123R</identifier>
+                    <title>Citation Title</title>
+                    <version>V0.2</version>
+                    <placePublished>Australia</placePublished>
+                    <publisher>Some Example Publisher</publisher>
+                    <url>http://www.exapmle.com</url>
+                    <context>Context</context>
+                    <contributor seq="1">
+                        <namePart type="given">Joe Blogs</namePart>
+                    </contributor>
+                    <date type="created">12-12-2001</date>
+                </citationMetadata>
+            </citationInfo>
+        </collection>
+    </registryObject>
+
+
+  <registryObject group="James Cook University">
+    <key>C2_21</key>
+    <originatingSource>https://research.jcu.edu.au/data/</originatingSource>
+    <collection type="dataset">
+      <identifier type="local">C2_ID1_21</identifier>
+      <name type="primary" xml:lang="en">
+        <namePart>Black Petrel (Procellaria (Procellaria) parkinsoni) - C2 COLLECTION</namePart>
+      </name>
+      <dates type="dc.created">
+        <date type="dateFrom" dateFormat="W3CDTF">2013-02-28</date>
+      </dates>
+      <location>
+        <address>
+          <electronic type="url">
+            <value>http://eresearch.jcu.edu.au/tdh/datasets/Edgar/Black Petrel (Procellaria (Procellaria) parkinsoni)/occurrences</value>
+          </electronic>
+        </address>
+      </location>
+      <location>
+        <address>
+          <electronic type="url">
+            <value>https://research.jcu.edu.au/data/published/b846c0ea90de20f1374a0fcbfa4627bb</value>
+          </electronic>
+        </address>
+      </location>
+      <coverage>
+        <temporal>
+          <date type="dateFrom" dateFormat="W3CDTF">1900-01-01T00:00:00+09:30</date>
+        </temporal>
+      </coverage>
+      <coverage>
+        <spatial type="kmlPolyCoords">144.497703748,-9.91029347568 133.0719225,-9.91029347568 121.646141252,-13.182069379 110.923485004,-21.2339713912 114.790672503,-38.3639598931 132.54457875,-35.2688432623 147.837547497,-46.5179669197 158.384422495,-24.1526559825 144.497703748,-9.91029347568</spatial>
+        <spatial type="text">Continental Australia</spatial>
+      </coverage>
+      <description type="full" xml:lang="en">&lt;p&gt;This dataset includes observations of Black Petrel (Procellaria (Procellaria) parkinsoni) that are sourced from the Atlas of Living Australia (ALA) database. Rather than raw observations, these have been filtered such that they are assumed to be suitable for species distribution modelling exercises. The cleaning process included:&lt;ol&gt; &lt;li&gt;automatic vetting based on the ALA's 'assertions' whereby observations were assessed as inappropriate for modelling (ie. 'ZERO_COORDINATES', 'INVALID SCIENTIFIC NAME'); &lt;/li&gt;&lt;li&gt;determining if the observations fell within expert-derived range polygons. These polygons were supplied by BirdLife Australia to represent, for each species, its core breeding habitat, non-breeding, historic, irruptive, or invasive ranges. Records that fall outside these ranges were marked as inappropriate for modelling; and &lt;/li&gt;&lt;li&gt; human-derived classification of records after previous two assessments. Through the Edgar project (&lt;a href="http://tropicaldatahub.org/goto/edgar"&gt;http://tropicaldatahub.org/goto/edgar&lt;/a&gt;), users were able to map all species observations and comment on the suitability of records for distribution modelling. This included records deemed inappropriate by other means. &lt;/p&gt;&lt;p&gt;Every 6 months the occurrence record download file is updated to reflect recent vetting by experts. In the data download, sensitive records have been obfuscated by truncating the lat/long to two decimal places. Obfuscated records will be indicated in the data file. Access to the accurate data will need to be arranged with the original data owners - contact the ALA for more information. &lt;/p&gt;&lt;p&gt;The resulting downloadable file of occurrence records reflects which records are suitable for species distribution modelling.&lt;/p&gt;</description>
+      <description type="note" xml:lang="en">&lt;p&gt;Data is downloadable as a zipped CSV file.&lt;/p&gt; &lt;p&gt;These occurrence records are displayed on Edgar: &lt;a href="http://tropicaldatahub.org/goto/Edgar"&gt;http://tropicaldatahub.org/goto/Edgar&lt;/a&gt;.</description>
+      <description type="brief" xml:lang="en">&lt;p&gt;Black Petrel (Procellaria (Procellaria) parkinsoni) occurrence records from continental Australia suitable for species distribution modelling.&lt;/p&gt;</description>
+      <subject type="local" xml:lang="en">species occurrence records</subject>
+      <subject type="anzsrc-for" xml:lang="en">060208</subject>
+      <subject type="anzsrc-for" xml:lang="en">050202</subject>
+      <subject type="anzsrc-seo" xml:lang="en">960301</subject>
+      <subject type="anzsrc-seo" xml:lang="en">960302</subject>
+      <relatedObject>
+        <key>P4_21/key>
+        <relation type="hasAssociationWith"/>
+      </relatedObject>
+      <rights>
+        <rightsStatement/>
+        <accessRights type="open">Open: free access under license</accessRights>
+        <licence rightsUri="http://creativecommons.org/licenses/by/3.0/au" type="CC-BY">CC BY: Attribution 3.0 AU</licence>
+      </rights>
+      <citationInfo>
+        <citationMetadata>
+          <identifier type="local">https://research.jcu.edu.au/data/published/b846c0ea90de20f1374a0fcbfa4627bb</identifier>
+          <contributor seq="1">
+            <namePart type="family">Vanderwal</namePart>
+            <namePart type="given">J</namePart>
+          </contributor>
+          <title>Black Petrel (Procellaria (Procellaria) parkinsoni) - occurrence records filtered for species distribution modelling </title>
+          <publisher>Centre for Tropical Biodiversity & Climate Change, James Cook University</publisher>
+          <date type="available">2013</date>
+        </citationMetadata>
+      </citationInfo>
+    </collection>
+  </registryObject>
+
+
+<registryObject group="National Health and Medical Research Council">
+    <key>C3_21</key>
+    <originatingSource>www.nhmrc.gov.au/grants/research-funding-statistics-and-data</originatingSource>
+    <activity type="grant">
+      <identifier type="nhmrc">C3_ID1_21</identifier>
+      <name type="primary">
+        <namePart>Toll like receptors in ocular inflammation C3 COLLECTION</namePart>
+      </name>
+      <name type="alternative">
+        <namePart>cellular signals causing the onset of inflammation in the eye</namePart>
+      </name>
+      <relatedObject>
+        <key>P3_21</key>
+        <relation type="isManagedBy"/>
+      </relatedObject>
+      <subject type="anzsrc-for">1113</subject>
+      <subject type="local">Eye disease</subject>
+      <subject type="local">Immunology</subject>
+      <subject type="local">Infection</subject>
+      <subject type="local">Inflammation</subject>
+      <subject type="local">Ophthalmology</subject>
+      <subject type="local">Blindness</subject>
+      <subject type="local">Uveitis</subject>
+      <subject type="local">macular oedema</subject>
+      <description type="brief">The aim of this project is to better understand the events that cause the onset of uveitis, a common cause of visual impairment and blindness in adults. Toll like receptors (TLR) are a new group of cell surface receptors tinflammatory mediators.hat are important in immune function and the immune system's ability to recognise and respond to to microbes by recognising signature molecules contained in microbes. The TLR system is the early warning system of immune defence and activation of the TLR system induces the generation of multiple mediators that initiate and perpetuate inflammation. There has been intense interest and research into this novel family of receptors and they have been shown to play an important role in human diseases such as inflammatory bowel disease and psoriasis. The role of TLRs in uveitis has not been studied. We hypothesise that TLRs play a central role linking certain bacteria and the induction of uveitis. TLR4, a member of the TLR family has been clearly identified as the key receptor for cell wall components of gram negative bacteria (a chemical called LPS). In vitro data shows that TLR4 stimulation by LPS causes the release of inflammatory mediators. This project is designed to study the expression of TLRs in the eye, factors that control their expression and the results of stimultaing TLRs with their target chemicals. Better understanding ofd the causes and mechanisms of uveitis will allow the development of more specific and effective treatments.</description>
+      <description type="fundingAmount">$AUD 287,891.71</description>
+      <description type="fundingScheme">NHMRC Project Grants</description>
+      <description type="notes">Standard Project Grant</description>
+      <existenceDates>
+        <startDate dateFormat="W3CDTF">2007</startDate>
+        <endDate dateFormat="W3CDTF">2009</endDate>
+      </existenceDates>
+    </activity>
+  </registryObject>
+
+<registryObject group="National Health and Medical Research Council">
+    <key>C4_21</key>
+    <originatingSource>www.nhmrc.gov.au/grants/research-funding-statistics-and-data</originatingSource>
+    <activity type="grant">
+      <identifier type="nhmrc">C4_ID1_21</identifier>
+      <name type="primary">
+        <namePart>Toll like receptors in ocular inflammation C4 COLLECTION</namePart>
+      </name>
+      <name type="alternative">
+        <namePart>cellular signals causing the onset of inflammation in the eye</namePart>
+      </name>
+      <subject type="anzsrc-for">1113</subject>
+      <subject type="local">Eye disease</subject>
+      <subject type="local">Immunology</subject>
+      <subject type="local">Infection</subject>
+      <subject type="local">Inflammation</subject>
+      <subject type="local">Ophthalmology</subject>
+      <subject type="local">Blindness</subject>
+      <subject type="local">Uveitis</subject>
+      <subject type="local">macular oedema</subject>
+      <description type="brief">The aim of this project is to better understand the events that cause the onset of uveitis, a common cause of visual impairment and blindness in adults. Toll like receptors (TLR) are a new group of cell surface receptors tinflammatory mediators.hat are important in immune function and the immune system's ability to recognise and respond to to microbes by recognising signature molecules contained in microbes. The TLR system is the early warning system of immune defence and activation of the TLR system induces the generation of multiple mediators that initiate and perpetuate inflammation. There has been intense interest and research into this novel family of receptors and they have been shown to play an important role in human diseases such as inflammatory bowel disease and psoriasis. The role of TLRs in uveitis has not been studied. We hypothesise that TLRs play a central role linking certain bacteria and the induction of uveitis. TLR4, a member of the TLR family has been clearly identified as the key receptor for cell wall components of gram negative bacteria (a chemical called LPS). In vitro data shows that TLR4 stimulation by LPS causes the release of inflammatory mediators. This project is designed to study the expression of TLRs in the eye, factors that control their expression and the results of stimultaing TLRs with their target chemicals. Better understanding ofd the causes and mechanisms of uveitis will allow the development of more specific and effective treatments.</description>
+      <description type="fundingAmount">$AUD 287,891.71</description>
+      <description type="fundingScheme">NHMRC Project Grants</description>
+      <description type="notes">Standard Project Grant</description>
+      <existenceDates>
+        <startDate dateFormat="W3CDTF">2007</startDate>
+        <endDate dateFormat="W3CDTF">2009</endDate>
+      </existenceDates>
+    </activity>
+  </registryObject>
+
+    
+</registryObjects>
