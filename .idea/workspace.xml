@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d6e6600b-2bcf-432b-81c3-4510c5cd1692" name="Default Changelist" comment="Uploaded new xml files for the tests">
+    <list default="true" id="d6e6600b-2bcf-432b-81c3-4510c5cd1692" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/RDA/Relationships/17_RelationshipScenario/17_RelationshipScenario_AUTestingRecords.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RDA/Relationships/17_RelationshipScenario/17_RelationshipScenario_AUTestingRecords2.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RDA/Identifier_Normalisation_Test_Records/Identifier_Normalisation_Test_Records.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RDA/Identifier_Normalisation_Test_Records/Identifier_Normalisation_Test_Records.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,21 +17,17 @@
   <component name="ProjectId" id="1s2uGGNYe2NfKA94g6t6iNuQh3X" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/RDA/Graph_Visualisation_Test_Records" />
     <property name="settings.editor.selected.configurable" value="preferences.externalDependencies" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/RDA/Graph_Visualisation_Test_Records" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -47,7 +44,6 @@
       </list>
     </option>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="d6e6600b-2bcf-432b-81c3-4510c5cd1692" name="Default Changelist" comment="" />
@@ -61,7 +57,10 @@
       <workItem from="1621294620852" duration="597000" />
       <workItem from="1621984171325" duration="598000" />
       <workItem from="1622002512802" duration="33000" />
-      <workItem from="1622002690444" duration="1457000" />
+      <workItem from="1622002690444" duration="1927000" />
+      <workItem from="1622498034409" duration="1667000" />
+      <workItem from="1623707694642" duration="667000" />
+      <workItem from="1625124329663" duration="322000" />
     </task>
     <task id="LOCAL-00001" summary="Test Commit">
       <created>1620083305036</created>
@@ -98,67 +97,35 @@
       <option name="project" value="LOCAL" />
       <updated>1620795591316</updated>
     </task>
-    <task id="LOCAL-00006" summary="Uploaded new xml files for identifier normalisation testing.">
-      <created>1622521019148</created>
+    <task id="LOCAL-00006" summary="Fix test data for Relationship Scenario 13">
+      <created>1622097074524</created>
       <option name="number" value="00006" />
       <option name="presentableId" value="LOCAL-00006" />
       <option name="project" value="LOCAL" />
-      <updated>1622521019149</updated>
+      <updated>1622097074524</updated>
     </task>
-    <task id="LOCAL-00007" summary="Uploaded new xml files for the graph visualisation testing">
-      <created>1623821414046</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1623821414047</updated>
-    </task>
-    <task id="LOCAL-00008" summary="Uploaded new xml files for the graph visualisation testing">
-      <created>1623824192134</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1623824192134</updated>
-    </task>
-    <task id="LOCAL-00009" summary="Uploaded new xml files for the tests">
-      <created>1624241861436</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1624241861436</updated>
-    </task>
-    <task id="LOCAL-00010" summary="Uploaded new xml files for the tests">
-      <created>1624250107741</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1624250107742</updated>
-    </task>
-    <option name="localTasksCounter" value="11" />
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Test Commit" />
     <MESSAGE value="Add all test files" />
     <MESSAGE value="Add DRVS Test Files" />
     <MESSAGE value="Update DOIs in DRVS_Test_Data_Collections_Test_Partner_1_With_ARDC_Test_ DOIs.csv" />
-    <MESSAGE value="Uploaded new xml files for identifier normalisation testing." />
-    <MESSAGE value="Uploaded new xml files for the graph visualisation testing" />
-    <MESSAGE value="Uploaded new xml files for the tests" />
-    <option name="LAST_COMMIT_MESSAGE" value="Uploaded new xml files for the tests" />
+    <MESSAGE value="Fix test data for Relationship Scenario 13" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix test data for Relationship Scenario 13" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="743" y="107" key="CommitChangelistDialog2" timestamp="1622097074267">
+      <screen x="0" y="23" width="2048" height="1005" />
+    </state>
+    <state x="743" y="107" key="CommitChangelistDialog2/-1440.0.1440.900/0.23.2048.1005@0.23.2048.1005" timestamp="1622097074267" />
+    <state x="749" y="245" key="Vcs.Push.Dialog.v2" timestamp="1622097089839">
+      <screen x="0" y="23" width="2048" height="1005" />
+    </state>
+    <state x="749" y="245" key="Vcs.Push.Dialog.v2/-1440.0.1440.900/0.23.2048.1005@0.23.2048.1005" timestamp="1622097089839" />
   </component>
 </project>

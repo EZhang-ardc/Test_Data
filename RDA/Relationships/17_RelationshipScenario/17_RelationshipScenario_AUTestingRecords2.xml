@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<registryObjects xmlns="http://ands.org.au/standards/rif-cs/registryObjects" xmlns:extRif="http://ands.org.au/standards/rif-cs/extendedRegistryObjects" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ands.org.au/standards/rif-cs/registryObjects http://services.ands.org.au/documentation/rifcs/schema/registryObjects.xsd">
+    <!-- ### COLLECTIONS ### -->
+    <registryObject group="AUTestingRecordsRelationships">
+        <!-- KEY -->
+        <key>C3_17</key>
+        <originatingSource type="">http://demo.ands.org.au/registry/orca/register_my_data</originatingSource>
+        <collection dateModified="2013-04-10T23:51:55Z" type="collection">
+            <!-- TITLE -->
+            <name type="primary">
+                <namePart>Relationship scenario _17</namePart>
+            </name>
+            <description type="local">&amp;lt;p&amp;gt;This is a local statement for the colleciton&amp;lt;/p&amp;gt;</description>
+            <rights>
+                <rightsStatement rightsUri="http://www.rightsuri.com">Rights Statement Rights Statement</rightsStatement>
+                <licence rightsUri="http://www.rightsuri.com" type="AusGOALRestrictive">LicenceLicenceLicence</licence>
+                <accessRights rightsUri="http://www.rightsuri.com">Access Rights</accessRights>
+            </rights>
+            <!-- IDENTIFIERS -->
+            <identifier type="local">C3_ID1_17</identifier>
+            <identifier type="local">C2_ID1_17</identifier>
+            <dates type="dc.available">
+                <date dateFormat="W3CDTF" type="dateFrom">2013-02-07T00:00:00Z</date>
+            </dates>
+            <dates type="dc.issued">
+                <date dateFormat="W3CDTF" type="dateFrom">2022-03-03T00:00:00Z</date>
+            </dates>
+            <!-- RELATIONSHIPS -->
+            <relatedObject>
+                <key>P4_17</key>
+                <relation type="hasCollector"/>
+            </relatedObject>
+            <!--
+<relatedInfo type="party"><title>Example party 9</title><identifier type="local">P1_ID1_17</identifier><relation type="isManagedBy"/></relatedInfo><relatedInfo type="party"><title>Example party 9</title><identifier type="local">http://nla.gov.au/nla.party-AUT9</identifier><relation type="isOwnedBy"/></relatedInfo>-->
+            <subject type="local">localSubject</subject>
+            <subject type="anzsrc-seo">830201</subject>
+            <subject type="anzsrc-for">0303</subject>
+            <citationInfo>
+                <citationMetadata>
+                    <identifier type="doi">10.123123123R</identifier>
+                    <title>Citation Title</title>
+                    <version>V0.2</version>
+                    <placePublished>Australia</placePublished>
+                    <publisher>Some Example Publisher</publisher>
+                    <url>http://www.exapmle.com</url>
+                    <context>Context</context>
+                    <contributor seq="1">
+                        <namePart type="given">Joe Blogs</namePart>
+                    </contributor>
+                    <date type="created">12-12-2001</date>
+                </citationMetadata>
+            </citationInfo>
+        </collection>
+    </registryObject>
+
+
+    <!-- ### PARTIES ### -->
+    <registryObject group="AUTestingRecordsRelationships">
+        <!-- KEY -->
+        <key>P4_17</key>
+        <originatingSource type="">nla.gov.au</originatingSource>
+        <party type="group">
+            <!-- TITLE -->
+            <name type="primary">
+                <namePart>(AUTestingRecords) Example related party P4_17</namePart>
+            </name>
+            <description type="brief">&amp;lt;p&amp;gt;A party for all&amp;lt;/p&amp;gt;</description>
+            <!-- IDENTIFIER -->
+            <identifier type="local">P4_ID1_17</identifier>
+            <!--<relatedObject><key>C1_17</key><relation type="isOwnerOf"/></relatedObject>-->
+            <!--<relatedInfo type="party"><title>Collection 4</title><identifier type="local">CI_ID1_17</identifier><relation type="isOwnerOf"/></relatedInfo>-->
+            <location>
+                <address>
+                    <electronic type="url">
+                        <value>http://www.unsw.edu.au/a</value>
+                    </electronic>
+                </address>
+            </location>
+        </party>
+    </registryObject>
+   
+    <!-- ### SERVICES ### -->
+    <registryObject group="AUTestingRecordsRelationships">
+        <!-- KEY -->
+        <key>S1_17</key>
+        <originatingSource>http://www.ga.gov.au</originatingSource>
+        <service type="software">
+            <!-- IDENTIFIER -->
+            <identifier type="local">S1_ID1_17</identifier>
+            <!-- TITLE -->
+            <name type="primary">
+                <namePart>(AUTestingRecords) Example Service S1_17</namePart>
+            </name>
+            <location>
+                <address>
+                    <electronic target="landingPage" type="url">
+                        <value>http://www.ga.gov.au/metadata-gateway/metadata/record/83292/
+                    </value>
+                    </electronic>
+                </address>
+            </location>
+             <relatedObject>
+                <key>P3_17</key>
+                <relation type="presents"/>
+            </relatedObject>
+            <subject type="local">Web Service</subject>
+            <subject type="local">marine</subject>
+            <subject type="local">marine_coastal</subject>
+            <subject type="local">Earth Sciences</subject>
+            <subject type="anzsrc-for">04</subject>
+            <description type="brief">This map service contains the extents of the multibeam bathymetry data held by GA, as at August 2012, which lies within the boundaries of Australia's Extended Continental Shelf, as well as some data in international waters.
+        </description>
+            <rights>
+                <rightsStatement>© Commonwealth of Australia (Geoscience Australia) Multibeam_50m_Bathymetry_20122012publication83292
+            </rightsStatement>
+            </rights>
+            <rights>
+                <licence rightsUri="http://creativecommons.org/licenses/by/4.0" type="CC-BY">Creative Commons Attribution 4.0 International Licence
+            </licence>
+            </rights>
+        </service>
+    </registryObject>
+</registryObjects>
