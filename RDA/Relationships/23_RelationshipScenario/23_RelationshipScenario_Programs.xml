@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<registryObjects xmlns="http://ands.org.au/standards/rif-cs/registryObjects" xmlns:extRif="http://ands.org.au/standards/rif-cs/extendedRegistryObjects" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ands.org.au/standards/rif-cs/registryObjects http://services.ands.org.au/documentation/rifcs/schema/registryObjects.xsd">
+    <!-- ### ACTIVITIES - PROGRAMS ### -->
+   <registryObject group="AUTestingRecords3">
+        <key>A6000_23</key>
+        <originatingSource>Scraped from the Web</originatingSource>
+        <activity type="program">
+            <name type="primary">
+                <namePart>(AUTestingRecords3) Hub2 A6000_23</namePart>
+            </name>
+            <identifier type="purl">A6000_23_ID1</identifier>
+            <relatedObject>
+                <key>P1_23</key>
+                <relation type="isFundedBy"/>
+            </relatedObject>
+            <description type="brief">Program A6000_23</description>
+        </activity>
+    </registryObject>
+    <registryObject group="AUTestingRecords3">
+        <key>A6001_23</key>
+        <originatingSource>Scraped from the Web</originatingSource>
+        <activity type="program">
+            <name type="primary">
+                <namePart>(AUTestingRecords3) Hub3A6001_23</namePart>
+            </name>
+            <identifier type="purl">A6001_23_ID1</identifier>
+            <relatedObject>
+                <key>P1_23</key>
+                <relation type="isFundedBy"/>
+            </relatedObject>
+            <description type="brief">Program A6001_23</description>
+        </activity>
+    </registryObject>
+    <registryObject group="AUTestingRecords3">
+        <key>A6002_23</key>
+        <originatingSource>Scraped from the Web</originatingSource>
+        <activity type="program">
+            <name type="primary">
+                <namePart>(AUTestingRecords3) Hub4A6002_23</namePart>
+            </name>
+            <identifier type="purl">A6002_23_ID1</identifier>
+            <relatedObject>
+                <key>P1_23</key>
+                <relation type="isFundedBy"/>
+            </relatedObject>
+            <description type="brief">Program A6002_23</description>
+        </activity>
+    </registryObject>
+    <registryObject group="AUTestingRecords3">
+        <key>A6003_23</key>
+        <originatingSource>Scraped from the Web</originatingSource>
+        <activity type="program">
+            <name type="primary">
+                <namePart>(AUTestingRecords3) Hub5A6003_23</namePart>
+            </name>
+            <identifier type="purl">A6003_23_ID1</identifier>
+            <relatedObject>
+                <key>P1_23</key>
+                <relation type="isFundedBy"/>
+            </relatedObject>
+            <description type="brief">Program A6003_23</description>
+        </activity>
+    </registryObject>
+    <registryObject group="AUTestingRecords3">
+        <key>A6004_23</key>
+        <originatingSource>Scraped from the Web</originatingSource>
+        <activity type="program">
+            <name type="primary">
+                <namePart>(AUTestingRecords3) Hub6A6004_23</namePart>
+            </name>
+            <identifier type="purl">A6004_23_ID1</identifier>
+            <relatedObject>
+                <key>P1_23</key>
+                <relation type="isFundedBy"/>
+            </relatedObject>
+            <description type="brief">Program A6004_23</description>
+        </activity>
+    </registryObject>
+    <registryObject group="AUTestingRecords3">
+        <key>A6005_23</key>
+        <originatingSource>Scraped from the Web</originatingSource>
+        <activity type="program">
+            <name type="primary">
+                <namePart>(AUTestingRecords3) Hub7A6005_23</namePart>
+            </name>
+            <identifier type="purl">A6005_23_ID1</identifier>
+            <relatedObject>
+                <key>P1_23</key>
+                <relation type="isFundedBy"/>
+            </relatedObject>
+            <description type="brief">Program A6005_23</description>
+        </activity>
+    </registryObject>
+    <registryObject group="AUTestingRecords3">
+        <key>A6006_23</key>
+        <originatingSource>Scraped from the Web</originatingSource>
+        <activity type="program">
+            <name type="primary">
+                <namePart>(AUTestingRecords3) Hub8A6006_23</namePart>
+            </name>
+            <identifier type="purl">A6006_23_ID1</identifier>
+            <relatedObject>
+                <key>P1_23</key>
+                <relation type="isFundedBy"/>
+            </relatedObject>
+            <description type="brief">Program A6006_23</description>
+        </activity>
+    </registryObject>
+    <registryObject group="AUTestingRecords3">
+        <key>A6007_23</key>
+        <originatingSource>Scraped from the Web</originatingSource>
+        <activity type="program">
+            <name type="primary">
+                <namePart>(AUTestingRecords3) Hub9A6007_23</namePart>
+            </name>
+            <identifier type="purl">A6007_23_ID1</identifier>
+            <relatedObject>
+                <key>P1_23</key>
+                <relation type="isFundedBy"/>
+            </relatedObject>
+            <description type="brief">Program A6007_23</description>
+        </activity>
+    </registryObject>
+    <registryObject group="AUTestingRecords3">
+        <key>A6008_23</key>
+        <originatingSource>Scraped from the Web</originatingSource>
+        <activity type="program">
+            <name type="primary">
+                <namePart>(AUTestingRecords3) Hub10A6008_23</namePart>
+            </name>
+            <identifier type="purl">A6008_23_ID1</identifier>
+            <relatedObject>
+                <key>P1_23</key>
+                <relation type="isFundedBy"/>
+            </relatedObject>
+            <description type="brief">Program A6008_23</description>
+        </activity>
+    </registryObject>
+    <registryObject group="AUTestingRecords3">
+        <key>A6009_23</key>
+        <originatingSource>Scraped from the Web</originatingSource>
+        <activity type="program">
+            <name type="primary">
+                <namePart>(AUTestingRecords3) Hub11A6009_23</namePart>
+            </name>
+            <identifier type="purl">A6009_23_ID1</identifier>
+            <relatedObject>
+                <key>P1_23</key>
+                <relation type="isFundedBy"/>
+            </relatedObject>
+            <description type="brief">Program A6009_23</description>
+        </activity>
+    </registryObject>
+    <registryObject group="AUTestingRecords3">
+        <key>A6010_23</key>
+        <originatingSource>Scraped from the Web</originatingSource>
+        <activity type="program">
+            <name type="primary">
+                <namePart>(AUTestingRecords3) Hub12A6010_23</namePart>
+            </name>
+            <identifier type="purl">A6010_23_ID1</identifier>
+            <relatedObject>
+                <key>P1_23</key>
+                <relation type="isFundedBy"/>
+            </relatedObject>
+            <description type="brief">Program A6010_23</description>
+        </activity>
+    </registryObject>
+</registryObjects>

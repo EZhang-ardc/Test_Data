@@ -1,8 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d6e6600b-2bcf-432b-81c3-4510c5cd1692" name="Default Changelist" comment="Upddated previous test data">
+    <list default="true" id="d6e6600b-2bcf-432b-81c3-4510c5cd1692" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/RDA/Relationships/21_RelationshipScenario/21_RelationshipScenario_AUTestingRecords1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RDA/Relationships/21_RelationshipScenario/21_RelationshipScenario_AUTestingRecords2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RDA/Relationships/22_RelationshipScenario/22_RelationshipScenario_AUTestingRecords.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RDA/Relationships/23_RelationshipScenario/23_RelationshipScenario_Collections.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RDA/Relationships/23_RelationshipScenario/23_RelationshipScenario_Grants.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RDA/Relationships/23_RelationshipScenario/23_RelationshipScenario_Parties.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RDA/Relationships/23_RelationshipScenario/23_RelationshipScenario_Programs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RDA/Relationships/21_RelationshipScenario copy/21_RelationshipScenario_AUTestingRecords1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RDA/Relationships/21_RelationshipScenario copy/21_RelationshipScenario_AUTestingRecords2.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,21 +24,17 @@
   <component name="ProjectId" id="1s2uGGNYe2NfKA94g6t6iNuQh3X" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/RDA/Graph_Visualisation_Test_Records" />
     <property name="settings.editor.selected.configurable" value="preferences.externalDependencies" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/RDA/Graph_Visualisation_Test_Records" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -46,7 +51,6 @@
       </list>
     </option>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="d6e6600b-2bcf-432b-81c3-4510c5cd1692" name="Default Changelist" comment="" />
@@ -60,7 +64,10 @@
       <workItem from="1621294620852" duration="597000" />
       <workItem from="1621984171325" duration="598000" />
       <workItem from="1622002512802" duration="33000" />
-      <workItem from="1622002690444" duration="1457000" />
+      <workItem from="1622002690444" duration="1927000" />
+      <workItem from="1622498034409" duration="1667000" />
+      <workItem from="1623707694642" duration="667000" />
+      <workItem from="1625124329663" duration="6474000" />
     </task>
     <task id="LOCAL-00001" summary="Test Commit">
       <created>1620083305036</created>
@@ -97,75 +104,62 @@
       <option name="project" value="LOCAL" />
       <updated>1620795591316</updated>
     </task>
-    <task id="LOCAL-00006" summary="Uploaded new xml files for identifier normalisation testing.">
-      <created>1622521019148</created>
+    <task id="LOCAL-00006" summary="Fix test data for Relationship Scenario 13">
+      <created>1622097074524</created>
       <option name="number" value="00006" />
       <option name="presentableId" value="LOCAL-00006" />
       <option name="project" value="LOCAL" />
-      <updated>1622521019149</updated>
+      <updated>1622097074524</updated>
     </task>
-    <task id="LOCAL-00007" summary="Uploaded new xml files for the graph visualisation testing">
-      <created>1623821414046</created>
+    <task id="LOCAL-00007" summary="Add RDA Relationship Scenario 17">
+      <created>1625453122759</created>
       <option name="number" value="00007" />
       <option name="presentableId" value="LOCAL-00007" />
       <option name="project" value="LOCAL" />
-      <updated>1623821414047</updated>
+      <updated>1625453122759</updated>
     </task>
-    <task id="LOCAL-00008" summary="Uploaded new xml files for the graph visualisation testing">
-      <created>1623824192134</created>
+    <task id="LOCAL-00008" summary="Add RDA Relationship Scenario 17">
+      <created>1625458267276</created>
       <option name="number" value="00008" />
       <option name="presentableId" value="LOCAL-00008" />
       <option name="project" value="LOCAL" />
-      <updated>1623824192134</updated>
+      <updated>1625458267276</updated>
     </task>
-    <task id="LOCAL-00009" summary="Uploaded new xml files for the tests">
-      <created>1624241861436</created>
+    <task id="LOCAL-00009" summary="Add RDA Relationship Scenario 19 &amp; 20">
+      <created>1625463699757</created>
       <option name="number" value="00009" />
       <option name="presentableId" value="LOCAL-00009" />
       <option name="project" value="LOCAL" />
-      <updated>1624241861436</updated>
+      <updated>1625463699757</updated>
     </task>
-    <task id="LOCAL-00010" summary="Uploaded new xml files for the tests">
-      <created>1624250107741</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1624250107742</updated>
-    </task>
-    <task id="LOCAL-00011" summary="Upddated previous test data">
-      <created>1624252747407</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1624252747407</updated>
-    </task>
-    <option name="localTasksCounter" value="12" />
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Test Commit" />
     <MESSAGE value="Add all test files" />
     <MESSAGE value="Add DRVS Test Files" />
     <MESSAGE value="Update DOIs in DRVS_Test_Data_Collections_Test_Partner_1_With_ARDC_Test_ DOIs.csv" />
-    <MESSAGE value="Uploaded new xml files for identifier normalisation testing." />
-    <MESSAGE value="Uploaded new xml files for the graph visualisation testing" />
-    <MESSAGE value="Uploaded new xml files for the tests" />
-    <MESSAGE value="Upddated previous test data" />
-    <option name="LAST_COMMIT_MESSAGE" value="Upddated previous test data" />
+    <MESSAGE value="Fix test data for Relationship Scenario 13" />
+    <MESSAGE value="Add RDA Relationship Scenario 17" />
+    <MESSAGE value="Add RDA Relationship Scenario 19 &amp; 20" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add RDA Relationship Scenario 19 &amp; 20" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="743" y="107" key="CommitChangelistDialog2" timestamp="1625463699605">
+      <screen x="0" y="23" width="2048" height="1005" />
+    </state>
+    <state x="743" y="107" key="CommitChangelistDialog2/-1440.0.1440.900/0.23.2048.1005@0.23.2048.1005" timestamp="1625463699605" />
+    <state x="727" y="242" key="MultipleFileMergeDialog" timestamp="1625458256873">
+      <screen x="0" y="23" width="2048" height="1005" />
+    </state>
+    <state x="727" y="242" key="MultipleFileMergeDialog/-1440.0.1440.900/0.23.2048.1005@0.23.2048.1005" timestamp="1625458256873" />
+    <state x="749" y="245" key="Vcs.Push.Dialog.v2" timestamp="1625463706816">
+      <screen x="0" y="23" width="2048" height="1005" />
+    </state>
+    <state x="749" y="245" key="Vcs.Push.Dialog.v2/-1440.0.1440.900/0.23.2048.1005@0.23.2048.1005" timestamp="1625463706816" />
   </component>
 </project>
