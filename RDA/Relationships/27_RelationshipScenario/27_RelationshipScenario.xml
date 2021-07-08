@@ -1,0 +1,1830 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<registryObjects xmlns="http://ands.org.au/standards/rif-cs/registryObjects" xmlns:extRif="http://ands.org.au/standards/rif-cs/extendedRegistryObjects" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ands.org.au/standards/rif-cs/registryObjects http://services.ands.org.au/documentation/rifcs/schema/registryObjects.xsd">
+    <!-- ### COLLECTIONS ### -->
+    <registryObject group="AUTestingRecords">
+        <key>C1_27</key>
+        <originatingSource>http://www.emast.org.au</originatingSource>
+        <collection type="dataset" dateAccessioned="2016-03-29T11:46:38">
+            <identifier type="local">C1_27_ID1</identifier>
+            <name type="primary">
+                <namePart>COLLECTION C1 </namePart>
+            </name> 
+            <relatedObject>
+                <key>P1_27</key>
+                <relation type="isManagedBy"/>
+            </relatedObject>
+            <relatedObject>
+                <key>P2_27</key>
+                <relation type="hasAssociationWith"/>
+            </relatedObject>
+            <relatedObject>
+                <key>P3_27</key>
+                <relation type="isOwnedBy"/>
+            </relatedObject>
+            <relatedObject>
+                <key>P4_27</key>
+                <relation type="hasAssociationWith"/>
+            </relatedObject>
+            <relatedObject>
+                <key>P5_27</key>
+                <relation type="hasPrincipalInvestigator"/>
+            </relatedObject> <relatedInfo type="party">
+                <title>Example Party 6</title>
+                <identifier type="AU-ANL:PEAU">P1_27_ID_6</identifier>
+                <relation type="hasPrincipalInvestigator"/>
+                <notes>Link is to a web archive as this program is no longer current</notes>
+            </relatedInfo>
+            <relatedInfo type="party">
+                <title>Example Party 7</title>
+                <identifier type="AU-ANL:PEAU">P1_27_ID_7</identifier>
+                <relation type="hasPrincipalInvestigator"/>
+                <notes>Link is to a web archive as this program is no longer current</notes>
+            </relatedInfo>
+            <relatedInfo type="party">
+                <title>Example Party 8</title>
+                <identifier type="AU-ANL:PEAU">P1_27_ID_8</identifier>
+                <relation type="hasPrincipalInvestigator"/>
+                <notes>Link is to a web archive as this program is no longer current</notes>
+            </relatedInfo>
+            <relatedInfo type="party">
+                <title>Example Party 9</title>
+                <identifier type="AU-ANL:PEAU">P1_27_ID_9</identifier>
+                <relation type="hasPrincipalInvestigator"/>
+                <notes>Link is to a web archive as this program is no longer current</notes>
+            </relatedInfo>
+            <relatedInfo type="party">
+                <title>Example Party 10</title>
+                <identifier type="AU-ANL:PEAU">P1_27_ID_10</identifier>
+                <relation type="hasPrincipalInvestigator"/>
+                <notes>Link is to a web archive as this program is no longer current</notes>
+            </relatedInfo> <relatedInfo type="service">
+                <title>Example Service</title>
+                <identifier type="global">S6_ID1</identifier>
+                <relation type="isProducedby"/>
+            </relatedInfo>
+            <relatedInfo type="service">
+                <title>Example Service</title>
+                <identifier type="global">S7_ID1</identifier>
+                <relation type="isProducedby"/>
+            </relatedInfo>
+            <relatedInfo type="service">
+                <title>Example Service</title>
+                <identifier type="global">S8_ID1</identifier>
+                <relation type="isProducedby"/>
+            </relatedInfo>
+            <relatedInfo type="service">
+                <title>Example Service</title>
+                <identifier type="global">S9_ID1</identifier>
+                <relation type="isProducedby"/>
+            </relatedInfo>
+            <relatedInfo type="service">
+                <title>Example Service</title>
+                <identifier type="global">S10_ID1</identifier>
+                <relation type="isProducedby"/>
+            </relatedInfo> <relatedInfo type="publication">
+                <title>Example Publication1</title>
+                <identifier type="DOI">10.123/2343241</identifier>
+                <relation type="isCitedBy"/>
+                <notes>Pub notes</notes>
+            </relatedInfo>
+            <relatedInfo type="publication">
+                <title>Example Publication2</title>
+                <identifier type="DOI">10.123/2343242</identifier>
+                <relation type="isCitedBy"/>
+                <notes>Pub notes</notes>
+            </relatedInfo>
+            <relatedInfo type="publication">
+                <title>Example Publication3</title>
+                <identifier type="DOI">10.123/2343243</identifier>
+                <relation type="isCitedBy"/>
+                <notes>Pub notes</notes>
+            </relatedInfo>
+            <relatedInfo type="publication">
+                <title>Example Publication4</title>
+                <identifier type="DOI">10.123/2343244</identifier>
+                <relation type="isCitedBy"/>
+                <notes>Pub notes</notes>
+            </relatedInfo>
+            <relatedInfo type="publication">
+                <title>Example Publication5</title>
+                <identifier type="DOI">10.123/2343245</identifier>
+                <relation type="isCitedBy"/>
+                <notes>Pub notes</notes>
+            </relatedInfo>
+            <relatedInfo type="publication">
+                <title>Example Publication6</title>
+                <identifier type="DOI">10.123/2343246</identifier>
+                <relation type="isCitedBy"/>
+                <notes>Pub notes</notes>
+            </relatedInfo>
+            <relatedInfo type="publication">
+                <title>Example Publication7</title>
+                <identifier type="DOI">10.123/2343247</identifier>
+                <relation type="isCitedBy"/>
+                <notes>Pub notes</notes>
+            </relatedInfo>
+            <relatedInfo type="publication">
+                <title>Example Publication8</title>
+                <identifier type="DOI">10.123/2343248</identifier>
+                <relation type="isCitedBy"/>
+                <notes>Pub notes</notes>
+            </relatedInfo>
+            <relatedInfo type="publication">
+                <title>Example Publication9</title>
+                <identifier type="DOI">10.123/2343249</identifier>
+                <relation type="isCitedBy"/>
+                <notes>Pub notes</notes>
+            </relatedInfo>
+            <relatedInfo type="publication">
+                <title>Example Publication10</title>
+                <identifier type="DOI">10.123/23432410</identifier>
+                <relation type="isCitedBy"/>
+                <notes>Pub notes</notes>
+            </relatedInfo> <relatedInfo type="website">
+                <title>Example Website1</title>
+                <identifier type="URL">https://somewebsite.com/1</identifier>
+                <relation type="isReferencedBy"/>
+                <notes>Pub notes</notes>
+            </relatedInfo>
+            <relatedInfo type="website">
+                <title>Example Website2</title>
+                <identifier type="URL">https://somewebsite.com/2</identifier>
+                <relation type="isReferencedBy"/>
+                <notes>Pub notes</notes>
+            </relatedInfo>
+            <relatedInfo type="website">
+                <title>Example Website3</title>
+                <identifier type="URL">https://somewebsite.com/3</identifier>
+                <relation type="isReferencedBy"/>
+                <notes>Pub notes</notes>
+            </relatedInfo>
+            <relatedInfo type="website">
+                <title>Example Website4</title>
+                <identifier type="URL">https://somewebsite.com/4</identifier>
+                <relation type="isReferencedBy"/>
+                <notes>Pub notes</notes>
+            </relatedInfo>
+            <relatedInfo type="website">
+                <title>Example Website5</title>
+                <identifier type="URL">https://somewebsite.com/5</identifier>
+                <relation type="isReferencedBy"/>
+                <notes>Pub notes</notes>
+            </relatedInfo>
+            <relatedInfo type="website">
+                <title>Example Website6</title>
+                <identifier type="URL">https://somewebsite.com/6</identifier>
+                <relation type="isReferencedBy"/>
+                <notes>Pub notes</notes>
+            </relatedInfo>
+            <relatedInfo type="website">
+                <title>Example Website7</title>
+                <identifier type="URL">https://somewebsite.com/7</identifier>
+                <relation type="isReferencedBy"/>
+                <notes>Pub notes</notes>
+            </relatedInfo>
+            <relatedInfo type="website">
+                <title>Example Website8</title>
+                <identifier type="URL">https://somewebsite.com/8</identifier>
+                <relation type="isReferencedBy"/>
+                <notes>Pub notes</notes>
+            </relatedInfo>
+            <relatedInfo type="website">
+                <title>Example Website9</title>
+                <identifier type="URL">https://somewebsite.com/9</identifier>
+                <relation type="isReferencedBy"/>
+                <notes>Pub notes</notes>
+            </relatedInfo>
+            <relatedInfo type="website">
+                <title>Example Website10</title>
+                <identifier type="URL">https://somewebsite.com/10</identifier>
+                <relation type="isReferencedBy"/>
+                <notes>Pub notes</notes>
+            </relatedInfo> 
+
+<relatedObject>
+                <key>P11_27</key>
+                <relation type="isManagedBy"/>
+            </relatedObject>
+            <relatedObject>
+                <key>P12_27</key>
+                <relation type="hasAssociationWith"/>
+            </relatedObject>
+            <relatedObject>
+                <key>P13_27</key>
+                <relation type="isOwnedBy"/>
+            </relatedObject>
+            <relatedObject>
+                <key>P14_27</key>
+                <relation type="hasAssociationWith"/>
+            </relatedObject>
+            <relatedObject>
+                <key>P15_27</key>
+                <relation type="hasPrincipalInvestigator"/>
+            </relatedObject> <relatedInfo type="party">
+                <title>Example Org 6</title>
+                <identifier type="AU-ANL:PEAU">P16_27_ID_1</identifier>
+                <relation type="hasPrincipalInvestigator"/>
+                <notes>Link is to a web archive as this program is no longer current</notes>
+            </relatedInfo>
+            <relatedInfo type="party">
+                <title>Example Party 7</title>
+                <identifier type="AU-ANL:PEAU">P17_27_ID_2</identifier>
+                <relation type="hasPrincipalInvestigator"/>
+                <notes>Link is to a web archive as this program is no longer current</notes>
+            </relatedInfo>
+            <relatedInfo type="party">
+                <title>Example Party 8</title>
+                <identifier type="AU-ANL:PEAU">P18_27_ID_1</identifier>
+                <relation type="hasPrincipalInvestigator"/>
+                <notes>Link is to a web archive as this program is no longer current</notes>
+            </relatedInfo>
+            <relatedInfo type="party">
+                <title>Example Party 9</title>
+                <identifier type="AU-ANL:PEAU">P19_27_ID_1</identifier>
+                <relation type="hasPrincipalInvestigator"/>
+                <notes>Link is to a web archive as this program is no longer current</notes>
+            </relatedInfo>
+            <relatedInfo type="party">
+                <title>Example Party 10</title>
+                <identifier type="AU-ANL:PEAU">P20_27_ID_11</identifier>
+                <relation type="hasPrincipalInvestigator"/>
+                <notes>Link is to a web archive as this program is no longer current</notes>
+            </relatedInfo>
+
+            <location>
+                <address>
+          <electronic type="url" target="landingPage">
+            <value>http://data.aims.gov.au/metadataviewer/faces/view.xhtml?uuid=e1d02f55-cc63-4488-aada-ceb8ce70175a</value>
+          </electronic>
+        </address>
+            </location>
+            <subject type="local">environment</subject>
+            <subject type="local">environment</subject>
+            <description type="brief">NSW Office of Environment and Heritage Macarthur Forest Fire Danger index. Modelled fire frequency projections at ~50km resolution for 1970-1989 period using NNRP and R1 ensemble member using the WRF 3.3 model. This product will provide policy makers, land managers and researchers access to accurate and temporally fine scaled information with which to make hazard reduction and management strategies.</description>
+            <description type="notes">This product will provide policy makers, land managers and researchers access to accurate and temporally fine scaled information with which to make hazard reduction and management strategies.</description>
+            <description type="notes">Derived from NARCliM dataset (Evans et al 2014 GMD), which was produced by Jason Evans and colleagues at the Climate Change Research Centre, University of New South Wales (Australia). Input files are 3pm daily wind speed, daily maximum temperature, 3pm daily relative humidity and daily drought factor. Calculation follows Finkele et al 2006 AMM.</description>
+            <coverage>
+                <spatial type="iso19139dcmiBox">northlimit=-21.6687; southlimit=-40.496; westlimit=132.723; eastLimit=169.16</spatial>
+                <spatial type="text">northlimit=-21.6687; southlimit=-40.496; westlimit=132.723; eastLimit=169.16</spatial>
+            </coverage>
+            <coverage>
+                <temporal>
+                    <date type="dateFrom" dateFormat="W3CDTF">2060-01-01</date>
+                    <date type="dateTo" dateFormat="W3CDTF">2079-12-31</date>
+                </temporal>
+            </coverage>
+            <rights>
+                <rightsStatement>Copyright 2015 OEH. Rights owned by the NSW Office of Environment and Heritage</rightsStatement>
+            </rights>
+            <rights>
+                <licence>These data can be freely downloaded and used. Subject to the CCBY 4.0 licence.</licence>
+            </rights>
+            <rights>
+                <licence>https://creativecommons.org/licenses/by/4.0/</licence>
+            </rights>
+            <dates type="created">
+                <date type="dateFrom" dateFormat="W3CDTF">20160329T09:00:00</date>
+            </dates>
+            <citationInfo>
+                <citationMetadata>
+                    <identifier type="uri">http://data.aims.gov.au/metadataviewer/faces/view.xhtml?uuid=e1d02f55-cc63-4488-aada-ceb8ce70175a</identifier>
+                    <title>McArthur Forest Fire Danger Index: NARCliM dataset: ~50km resolution, 1970-1989 period, NNRP and R1 ensemble member</title>
+                    <date type="created">2016</date>
+                    <contributor>
+                        <namePart>University of New South Wales</namePart>
+                    </contributor>
+                    <publisher>NSW Office of Environment and Heritage</publisher>
+                </citationMetadata>
+            </citationInfo>
+        </collection>
+    </registryObject>
+    <registryObject group="AUTestingRecords">
+        <key>C11_27</key>
+        <originatingSource type="">http://researchdata.ands.org.au/registry/orca/register_my_data</originatingSource>
+        <collection type="dataset" dateModified="2013-02-05T18:19:00Z" dateAccessioned="2013-02-04T00:00:00Z">
+            <name type="primary">
+                <namePart>Sport and Recreation Spatial dataset COLLECTION C11_27</namePart>
+            </name>
+            <description type="full"> &lt;p&gt;This includes annual data of sport participants, coaches and umpires for the following sports:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;AFL&lt;/li&gt; &lt;li&gt;Basketball&lt;/li&gt; &lt;li&gt;Bowls&lt;/li&gt; &lt;li&gt;Cricket&lt;/li&gt; &lt;li&gt;Hockey&lt;/li&gt; &lt;li&gt;Netball&lt;/li&gt; &lt;li&gt;Soccer&lt;/li&gt; &lt;li&gt;Tennis&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;This data is being mapped at a Victorian state level. Where available the particpant, coach and umpire data includes information on individuals' sport identification codes, date of birth, sex, resident postcode, club name, and sport participation program or level of coach and umpire accreditation. This data will be mapped in the near future.&lt;/p&gt; &lt;p&gt; &lt;/p&gt;</description>
+            <rights>
+                <rightsStatement>Except as set out otherwise in these terms and conditions, you are provided with access to this application only for your personal use and you may not, without our written permission, on-sell or rebadge information obtained from this website, or in any way represent that the information is from any source other than the Federation University Australia Interoperable GIS.</rightsStatement>
+                <accessRights>Access data via website.</accessRights>
+            </rights>
+            <identifier type="uri">C11_27_ID1</identifier>
+            <dates type="dc.created">
+                <date type="dateFrom" dateFormat="W3CDTF">2012-12-22T00:00:00Z</date>
+            </dates>
+            <location>
+                <address>
+          <electronic type="url">
+            <value>http://www.sportandrecreationspatial.com.au/map.php</value>
+          </electronic>
+        </address>
+            </location>
+            <coverage>
+                <temporal>
+                    <date type="dateFrom" dateFormat="W3CDTF">2000-01-05T00:00:00Z</date>
+                </temporal>
+                <spatial type="kmlPolyCoords">149.975470,-33.981051 140.962477,-33.981051 140.962477,-39.201520 149.975470,-39.201520 149.975470,-33.981051</spatial>
+            </coverage>
+            <relatedObject>
+                <key>C1_27</key>
+                <relation type="hasAssociationWith"/>
+            </relatedObject>
+            <subject type="anzsrc-for">1106</subject>
+            <subject type="local">Sports participation</subject>
+            <subject type="local">Physical activity</subject>
+            <subject type="local">Sporting club records</subject>
+            <subject type="local">Coaches</subject>
+            <subject type="local">Umpires</subject>
+            <subject type="local">Sport facilities</subject>
+            <subject type="local">GIS</subject>
+            <subject type="local">AFL</subject>
+            <subject type="local">Basketball</subject>
+            <subject type="local">Tennis</subject>
+            <subject type="local">Cricket</subject>
+            <subject type="local">Netball</subject>
+            <subject type="local">Soccer</subject>
+        </collection>
+    </registryObject>
+    <registryObject group="AUTestingRecords">
+        <key>C2_27</key>
+        <originatingSource type="">http://researchdata.ands.org.au/registry/orca/register_my_data</originatingSource>
+        <collection type="dataset" dateModified="2013-02-05T18:19:00Z" dateAccessioned="2013-02-04T00:00:00Z">
+            <name type="primary">
+                <namePart>Sport and Recreation Spatial dataset COLLECTION C2_27</namePart>
+            </name>
+            <description type="full"> &lt;p&gt;This includes annual data of sport participants, coaches and umpires for the following sports:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;AFL&lt;/li&gt; &lt;li&gt;Basketball&lt;/li&gt; &lt;li&gt;Bowls&lt;/li&gt; &lt;li&gt;Cricket&lt;/li&gt; &lt;li&gt;Hockey&lt;/li&gt; &lt;li&gt;Netball&lt;/li&gt; &lt;li&gt;Soccer&lt;/li&gt; &lt;li&gt;Tennis&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;This data is being mapped at a Victorian state level. Where available the particpant, coach and umpire data includes information on individuals' sport identification codes, date of birth, sex, resident postcode, club name, and sport participation program or level of coach and umpire accreditation. This data will be mapped in the near future.&lt;/p&gt; &lt;p&gt; &lt;/p&gt;</description>
+            <rights>
+                <rightsStatement>Except as set out otherwise in these terms and conditions, you are provided with access to this application only for your personal use and you may not, without our written permission, on-sell or rebadge information obtained from this website, or in any way represent that the information is from any source other than the Federation University Australia Interoperable GIS.</rightsStatement>
+                <accessRights>Access data via website.</accessRights>
+            </rights>
+            <identifier type="uri">C2_27_ID1</identifier>
+            <dates type="dc.created">
+                <date type="dateFrom" dateFormat="W3CDTF">2012-12-22T00:00:00Z</date>
+            </dates>
+            <location>
+                <address>
+          <electronic type="url">
+            <value>http://www.sportandrecreationspatial.com.au/map.php</value>
+          </electronic>
+        </address>
+            </location>
+            <coverage>
+                <temporal>
+                    <date type="dateFrom" dateFormat="W3CDTF">2000-01-05T00:00:00Z</date>
+                </temporal>
+                <spatial type="kmlPolyCoords">149.975470,-33.981051 140.962477,-33.981051 140.962477,-39.201520 149.975470,-39.201520 149.975470,-33.981051</spatial>
+            </coverage>
+            <relatedObject>
+                <key>C1_27</key>
+                <relation type="hasAssociationWith"/>
+            </relatedObject>
+            <subject type="anzsrc-for">1106</subject>
+            <subject type="local">Sports participation</subject>
+            <subject type="local">Physical activity</subject>
+            <subject type="local">Sporting club records</subject>
+            <subject type="local">Coaches</subject>
+            <subject type="local">Umpires</subject>
+            <subject type="local">Sport facilities</subject>
+            <subject type="local">GIS</subject>
+            <subject type="local">AFL</subject>
+            <subject type="local">Basketball</subject>
+            <subject type="local">Tennis</subject>
+            <subject type="local">Cricket</subject>
+            <subject type="local">Netball</subject>
+            <subject type="local">Soccer</subject>
+        </collection>
+    </registryObject>
+    <registryObject group="AUTestingRecords">
+        <key>C3_27</key>
+        <originatingSource type="">http://researchdata.ands.org.au/registry/orca/register_my_data</originatingSource>
+        <collection type="dataset" dateModified="2013-02-05T18:19:00Z" dateAccessioned="2013-02-04T00:00:00Z">
+            <name type="primary">
+                <namePart>Sport and Recreation Spatial dataset COLLECTION C3_27</namePart>
+            </name>
+            <description type="full"> &lt;p&gt;This includes annual data of sport participants, coaches and umpires for the following sports:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;AFL&lt;/li&gt; &lt;li&gt;Basketball&lt;/li&gt; &lt;li&gt;Bowls&lt;/li&gt; &lt;li&gt;Cricket&lt;/li&gt; &lt;li&gt;Hockey&lt;/li&gt; &lt;li&gt;Netball&lt;/li&gt; &lt;li&gt;Soccer&lt;/li&gt; &lt;li&gt;Tennis&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;This data is being mapped at a Victorian state level. Where available the particpant, coach and umpire data includes information on individuals' sport identification codes, date of birth, sex, resident postcode, club name, and sport participation program or level of coach and umpire accreditation. This data will be mapped in the near future.&lt;/p&gt; &lt;p&gt; &lt;/p&gt;</description>
+            <rights>
+                <rightsStatement>Except as set out otherwise in these terms and conditions, you are provided with access to this application only for your personal use and you may not, without our written permission, on-sell or rebadge information obtained from this website, or in any way represent that the information is from any source other than the Federation University Australia Interoperable GIS.</rightsStatement>
+                <accessRights>Access data via website.</accessRights>
+            </rights>
+            <identifier type="uri">C3_27_ID1</identifier>
+            <dates type="dc.created">
+                <date type="dateFrom" dateFormat="W3CDTF">2012-12-22T00:00:00Z</date>
+            </dates>
+            <location>
+                <address>
+          <electronic type="url">
+            <value>http://www.sportandrecreationspatial.com.au/map.php</value>
+          </electronic>
+        </address>
+            </location>
+            <coverage>
+                <temporal>
+                    <date type="dateFrom" dateFormat="W3CDTF">2000-01-05T00:00:00Z</date>
+                </temporal>
+                <spatial type="kmlPolyCoords">149.975470,-33.981051 140.962477,-33.981051 140.962477,-39.201520 149.975470,-39.201520 149.975470,-33.981051</spatial>
+            </coverage>
+            <relatedObject>
+                <key>C1_27</key>
+                <relation type="hasAssociationWith"/>
+            </relatedObject>
+            <subject type="anzsrc-for">1106</subject>
+            <subject type="local">Sports participation</subject>
+            <subject type="local">Physical activity</subject>
+            <subject type="local">Sporting club records</subject>
+            <subject type="local">Coaches</subject>
+            <subject type="local">Umpires</subject>
+            <subject type="local">Sport facilities</subject>
+            <subject type="local">GIS</subject>
+            <subject type="local">AFL</subject>
+            <subject type="local">Basketball</subject>
+            <subject type="local">Tennis</subject>
+            <subject type="local">Cricket</subject>
+            <subject type="local">Netball</subject>
+            <subject type="local">Soccer</subject>
+        </collection>
+    </registryObject>
+    <registryObject group="AUTestingRecords">
+        <key>C4_27</key>
+        <originatingSource type="">http://researchdata.ands.org.au/registry/orca/register_my_data</originatingSource>
+        <collection type="dataset" dateModified="2013-02-05T18:19:00Z" dateAccessioned="2013-02-04T00:00:00Z">
+            <name type="primary">
+                <namePart>Sport and Recreation Spatial dataset COLLECTION C4_27</namePart>
+            </name>
+            <description type="full"> &lt;p&gt;This includes annual data of sport participants, coaches and umpires for the following sports:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;AFL&lt;/li&gt; &lt;li&gt;Basketball&lt;/li&gt; &lt;li&gt;Bowls&lt;/li&gt; &lt;li&gt;Cricket&lt;/li&gt; &lt;li&gt;Hockey&lt;/li&gt; &lt;li&gt;Netball&lt;/li&gt; &lt;li&gt;Soccer&lt;/li&gt; &lt;li&gt;Tennis&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;This data is being mapped at a Victorian state level. Where available the particpant, coach and umpire data includes information on individuals' sport identification codes, date of birth, sex, resident postcode, club name, and sport participation program or level of coach and umpire accreditation. This data will be mapped in the near future.&lt;/p&gt; &lt;p&gt; &lt;/p&gt;</description>
+            <rights>
+                <rightsStatement>Except as set out otherwise in these terms and conditions, you are provided with access to this application only for your personal use and you may not, without our written permission, on-sell or rebadge information obtained from this website, or in any way represent that the information is from any source other than the Federation University Australia Interoperable GIS.</rightsStatement>
+                <accessRights>Access data via website.</accessRights>
+            </rights>
+            <identifier type="uri">C4_27_ID1</identifier>
+            <dates type="dc.created">
+                <date type="dateFrom" dateFormat="W3CDTF">2012-12-22T00:00:00Z</date>
+            </dates>
+            <location>
+                <address>
+          <electronic type="url">
+            <value>http://www.sportandrecreationspatial.com.au/map.php</value>
+          </electronic>
+        </address>
+            </location>
+            <coverage>
+                <temporal>
+                    <date type="dateFrom" dateFormat="W3CDTF">2000-01-05T00:00:00Z</date>
+                </temporal>
+                <spatial type="kmlPolyCoords">149.975470,-33.981051 140.962477,-33.981051 140.962477,-39.201520 149.975470,-39.201520 149.975470,-33.981051</spatial>
+            </coverage>
+            <relatedObject>
+                <key>C1_27</key>
+                <relation type="hasAssociationWith"/>
+            </relatedObject>
+            <subject type="anzsrc-for">1106</subject>
+            <subject type="local">Sports participation</subject>
+            <subject type="local">Physical activity</subject>
+            <subject type="local">Sporting club records</subject>
+            <subject type="local">Coaches</subject>
+            <subject type="local">Umpires</subject>
+            <subject type="local">Sport facilities</subject>
+            <subject type="local">GIS</subject>
+            <subject type="local">AFL</subject>
+            <subject type="local">Basketball</subject>
+            <subject type="local">Tennis</subject>
+            <subject type="local">Cricket</subject>
+            <subject type="local">Netball</subject>
+            <subject type="local">Soccer</subject>
+        </collection>
+    </registryObject>
+    <registryObject group="AUTestingRecords">
+        <key>C5_27</key>
+        <originatingSource type="">http://researchdata.ands.org.au/registry/orca/register_my_data</originatingSource>
+        <collection type="dataset" dateModified="2013-02-05T18:19:00Z" dateAccessioned="2013-02-04T00:00:00Z">
+            <name type="primary">
+                <namePart>Sport and Recreation Spatial dataset COLLECTION C5_27</namePart>
+            </name>
+            <description type="full"> &lt;p&gt;This includes annual data of sport participants, coaches and umpires for the following sports:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;AFL&lt;/li&gt; &lt;li&gt;Basketball&lt;/li&gt; &lt;li&gt;Bowls&lt;/li&gt; &lt;li&gt;Cricket&lt;/li&gt; &lt;li&gt;Hockey&lt;/li&gt; &lt;li&gt;Netball&lt;/li&gt; &lt;li&gt;Soccer&lt;/li&gt; &lt;li&gt;Tennis&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;This data is being mapped at a Victorian state level. Where available the particpant, coach and umpire data includes information on individuals' sport identification codes, date of birth, sex, resident postcode, club name, and sport participation program or level of coach and umpire accreditation. This data will be mapped in the near future.&lt;/p&gt; &lt;p&gt; &lt;/p&gt;</description>
+            <rights>
+                <rightsStatement>Except as set out otherwise in these terms and conditions, you are provided with access to this application only for your personal use and you may not, without our written permission, on-sell or rebadge information obtained from this website, or in any way represent that the information is from any source other than the Federation University Australia Interoperable GIS.</rightsStatement>
+                <accessRights>Access data via website.</accessRights>
+            </rights>
+            <identifier type="uri">C5_27_ID1</identifier>
+            <dates type="dc.created">
+                <date type="dateFrom" dateFormat="W3CDTF">2012-12-22T00:00:00Z</date>
+            </dates>
+            <location>
+                <address>
+          <electronic type="url">
+            <value>http://www.sportandrecreationspatial.com.au/map.php</value>
+          </electronic>
+        </address>
+            </location>
+            <coverage>
+                <temporal>
+                    <date type="dateFrom" dateFormat="W3CDTF">2000-01-05T00:00:00Z</date>
+                </temporal>
+                <spatial type="kmlPolyCoords">149.975470,-33.981051 140.962477,-33.981051 140.962477,-39.201520 149.975470,-39.201520 149.975470,-33.981051</spatial>
+            </coverage>
+            <relatedObject>
+                <key>C1_27</key>
+                <relation type="hasAssociationWith"/>
+            </relatedObject>
+            <subject type="anzsrc-for">1106</subject>
+            <subject type="local">Sports participation</subject>
+            <subject type="local">Physical activity</subject>
+            <subject type="local">Sporting club records</subject>
+            <subject type="local">Coaches</subject>
+            <subject type="local">Umpires</subject>
+            <subject type="local">Sport facilities</subject>
+            <subject type="local">GIS</subject>
+            <subject type="local">AFL</subject>
+            <subject type="local">Basketball</subject>
+            <subject type="local">Tennis</subject>
+            <subject type="local">Cricket</subject>
+            <subject type="local">Netball</subject>
+            <subject type="local">Soccer</subject>
+        </collection>
+    </registryObject>
+    <registryObject group="AUTestingRecords">
+        <key>C6_27</key>
+        <originatingSource type="">http://researchdata.ands.org.au/registry/orca/register_my_data</originatingSource>
+        <collection type="dataset" dateModified="2013-02-05T18:19:00Z" dateAccessioned="2013-02-04T00:00:00Z">
+            <name type="primary">
+                <namePart>Sport and Recreation Spatial dataset COLLECTION C6_27</namePart>
+            </name>
+            <description type="full"> &lt;p&gt;This includes annual data of sport participants, coaches and umpires for the following sports:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;AFL&lt;/li&gt; &lt;li&gt;Basketball&lt;/li&gt; &lt;li&gt;Bowls&lt;/li&gt; &lt;li&gt;Cricket&lt;/li&gt; &lt;li&gt;Hockey&lt;/li&gt; &lt;li&gt;Netball&lt;/li&gt; &lt;li&gt;Soccer&lt;/li&gt; &lt;li&gt;Tennis&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;This data is being mapped at a Victorian state level. Where available the particpant, coach and umpire data includes information on individuals' sport identification codes, date of birth, sex, resident postcode, club name, and sport participation program or level of coach and umpire accreditation. This data will be mapped in the near future.&lt;/p&gt; &lt;p&gt; &lt;/p&gt;</description>
+            <rights>
+                <rightsStatement>Except as set out otherwise in these terms and conditions, you are provided with access to this application only for your personal use and you may not, without our written permission, on-sell or rebadge information obtained from this website, or in any way represent that the information is from any source other than the Federation University Australia Interoperable GIS.</rightsStatement>
+                <accessRights>Access data via website.</accessRights>
+            </rights>
+            <identifier type="uri">C6_27_ID1</identifier>
+            <dates type="dc.created">
+                <date type="dateFrom" dateFormat="W3CDTF">2012-12-22T00:00:00Z</date>
+            </dates>
+            <location>
+                <address>
+          <electronic type="url">
+            <value>http://www.sportandrecreationspatial.com.au/map.php</value>
+          </electronic>
+        </address>
+            </location>
+            <coverage>
+                <temporal>
+                    <date type="dateFrom" dateFormat="W3CDTF">2000-01-05T00:00:00Z</date>
+                </temporal>
+                <spatial type="kmlPolyCoords">149.975470,-33.981051 140.962477,-33.981051 140.962477,-39.201520 149.975470,-39.201520 149.975470,-33.981051</spatial>
+            </coverage>
+            <relatedObject>
+                <key>C1_27</key>
+                <relation type="hasAssociationWith"/>
+            </relatedObject>
+            <subject type="anzsrc-for">1106</subject>
+            <subject type="local">Sports participation</subject>
+            <subject type="local">Physical activity</subject>
+            <subject type="local">Sporting club records</subject>
+            <subject type="local">Coaches</subject>
+            <subject type="local">Umpires</subject>
+            <subject type="local">Sport facilities</subject>
+            <subject type="local">GIS</subject>
+            <subject type="local">AFL</subject>
+            <subject type="local">Basketball</subject>
+            <subject type="local">Tennis</subject>
+            <subject type="local">Cricket</subject>
+            <subject type="local">Netball</subject>
+            <subject type="local">Soccer</subject>
+        </collection>
+    </registryObject>
+    <registryObject group="AUTestingRecords">
+        <key>C7_27</key>
+        <originatingSource type="">http://researchdata.ands.org.au/registry/orca/register_my_data</originatingSource>
+        <collection type="dataset" dateModified="2013-02-05T18:19:00Z" dateAccessioned="2013-02-04T00:00:00Z">
+            <name type="primary">
+                <namePart>Sport and Recreation Spatial dataset COLLECTION C7_27</namePart>
+            </name>
+            <description type="full"> &lt;p&gt;This includes annual data of sport participants, coaches and umpires for the following sports:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;AFL&lt;/li&gt; &lt;li&gt;Basketball&lt;/li&gt; &lt;li&gt;Bowls&lt;/li&gt; &lt;li&gt;Cricket&lt;/li&gt; &lt;li&gt;Hockey&lt;/li&gt; &lt;li&gt;Netball&lt;/li&gt; &lt;li&gt;Soccer&lt;/li&gt; &lt;li&gt;Tennis&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;This data is being mapped at a Victorian state level. Where available the particpant, coach and umpire data includes information on individuals' sport identification codes, date of birth, sex, resident postcode, club name, and sport participation program or level of coach and umpire accreditation. This data will be mapped in the near future.&lt;/p&gt; &lt;p&gt; &lt;/p&gt;</description>
+            <rights>
+                <rightsStatement>Except as set out otherwise in these terms and conditions, you are provided with access to this application only for your personal use and you may not, without our written permission, on-sell or rebadge information obtained from this website, or in any way represent that the information is from any source other than the Federation University Australia Interoperable GIS.</rightsStatement>
+                <accessRights>Access data via website.</accessRights>
+            </rights>
+            <identifier type="uri">C7_27_ID1</identifier>
+            <dates type="dc.created">
+                <date type="dateFrom" dateFormat="W3CDTF">2012-12-22T00:00:00Z</date>
+            </dates>
+            <location>
+                <address>
+          <electronic type="url">
+            <value>http://www.sportandrecreationspatial.com.au/map.php</value>
+          </electronic>
+        </address>
+            </location>
+            <coverage>
+                <temporal>
+                    <date type="dateFrom" dateFormat="W3CDTF">2000-01-05T00:00:00Z</date>
+                </temporal>
+                <spatial type="kmlPolyCoords">149.975470,-33.981051 140.962477,-33.981051 140.962477,-39.201520 149.975470,-39.201520 149.975470,-33.981051</spatial>
+            </coverage>
+            <relatedInfo type="collection">
+                <title>Example Collection</title>
+                <identifier type="local">C1_27_ID1</identifier>
+                <relation type="hasAssociationWith"/>
+                <notes>Link is to a web archive as this program is no longer current</notes>
+            </relatedInfo>
+            <subject type="anzsrc-for">1106</subject>
+            <subject type="local">Sports participation</subject>
+            <subject type="local">Physical activity</subject>
+            <subject type="local">Sporting club records</subject>
+            <subject type="local">Coaches</subject>
+            <subject type="local">Umpires</subject>
+            <subject type="local">Sport facilities</subject>
+            <subject type="local">GIS</subject>
+            <subject type="local">AFL</subject>
+            <subject type="local">Basketball</subject>
+            <subject type="local">Tennis</subject>
+            <subject type="local">Cricket</subject>
+            <subject type="local">Netball</subject>
+            <subject type="local">Soccer</subject>
+        </collection>
+    </registryObject>
+    <registryObject group="AUTestingRecords">
+        <key>C8_27</key>
+        <originatingSource type="">http://researchdata.ands.org.au/registry/orca/register_my_data</originatingSource>
+        <collection type="dataset" dateModified="2013-02-05T18:19:00Z" dateAccessioned="2013-02-04T00:00:00Z">
+            <name type="primary">
+                <namePart>Sport and Recreation Spatial dataset COLLECTION C8_27</namePart>
+            </name>
+            <description type="full"> &lt;p&gt;This includes annual data of sport participants, coaches and umpires for the following sports:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;AFL&lt;/li&gt; &lt;li&gt;Basketball&lt;/li&gt; &lt;li&gt;Bowls&lt;/li&gt; &lt;li&gt;Cricket&lt;/li&gt; &lt;li&gt;Hockey&lt;/li&gt; &lt;li&gt;Netball&lt;/li&gt; &lt;li&gt;Soccer&lt;/li&gt; &lt;li&gt;Tennis&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;This data is being mapped at a Victorian state level. Where available the particpant, coach and umpire data includes information on individuals' sport identification codes, date of birth, sex, resident postcode, club name, and sport participation program or level of coach and umpire accreditation. This data will be mapped in the near future.&lt;/p&gt; &lt;p&gt; &lt;/p&gt;</description>
+            <rights>
+                <rightsStatement>Except as set out otherwise in these terms and conditions, you are provided with access to this application only for your personal use and you may not, without our written permission, on-sell or rebadge information obtained from this website, or in any way represent that the information is from any source other than the Federation University Australia Interoperable GIS.</rightsStatement>
+                <accessRights>Access data via website.</accessRights>
+            </rights>
+            <identifier type="uri">C8_27_ID1</identifier>
+            <dates type="dc.created">
+                <date type="dateFrom" dateFormat="W3CDTF">2012-12-22T00:00:00Z</date>
+            </dates>
+            <location>
+                <address>
+          <electronic type="url">
+            <value>http://www.sportandrecreationspatial.com.au/map.php</value>
+          </electronic>
+        </address>
+            </location>
+            <coverage>
+                <temporal>
+                    <date type="dateFrom" dateFormat="W3CDTF">2000-01-05T00:00:00Z</date>
+                </temporal>
+                <spatial type="kmlPolyCoords">149.975470,-33.981051 140.962477,-33.981051 140.962477,-39.201520 149.975470,-39.201520 149.975470,-33.981051</spatial>
+            </coverage>
+            <relatedInfo type="collection">
+                <title>Example Collection</title>
+                <identifier type="local">C1_27_ID1</identifier>
+                <relation type="hasAssociationWith"/>
+                <notes>Link is to a web archive as this program is no longer current</notes>
+            </relatedInfo>
+            <subject type="anzsrc-for">1106</subject>
+            <subject type="local">Sports participation</subject>
+            <subject type="local">Physical activity</subject>
+            <subject type="local">Sporting club records</subject>
+            <subject type="local">Coaches</subject>
+            <subject type="local">Umpires</subject>
+            <subject type="local">Sport facilities</subject>
+            <subject type="local">GIS</subject>
+            <subject type="local">AFL</subject>
+            <subject type="local">Basketball</subject>
+            <subject type="local">Tennis</subject>
+            <subject type="local">Cricket</subject>
+            <subject type="local">Netball</subject>
+            <subject type="local">Soccer</subject>
+        </collection>
+    </registryObject>
+    <registryObject group="AUTestingRecords">
+        <key>C9_27</key>
+        <originatingSource type="">http://researchdata.ands.org.au/registry/orca/register_my_data</originatingSource>
+        <collection type="dataset" dateModified="2013-02-05T18:19:00Z" dateAccessioned="2013-02-04T00:00:00Z">
+            <name type="primary">
+                <namePart>Sport and Recreation Spatial dataset COLLECTION C9_27</namePart>
+            </name>
+            <description type="full"> &lt;p&gt;This includes annual data of sport participants, coaches and umpires for the following sports:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;AFL&lt;/li&gt; &lt;li&gt;Basketball&lt;/li&gt; &lt;li&gt;Bowls&lt;/li&gt; &lt;li&gt;Cricket&lt;/li&gt; &lt;li&gt;Hockey&lt;/li&gt; &lt;li&gt;Netball&lt;/li&gt; &lt;li&gt;Soccer&lt;/li&gt; &lt;li&gt;Tennis&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;This data is being mapped at a Victorian state level. Where available the particpant, coach and umpire data includes information on individuals' sport identification codes, date of birth, sex, resident postcode, club name, and sport participation program or level of coach and umpire accreditation. This data will be mapped in the near future.&lt;/p&gt; &lt;p&gt; &lt;/p&gt;</description>
+            <rights>
+                <rightsStatement>Except as set out otherwise in these terms and conditions, you are provided with access to this application only for your personal use and you may not, without our written permission, on-sell or rebadge information obtained from this website, or in any way represent that the information is from any source other than the Federation University Australia Interoperable GIS.</rightsStatement>
+                <accessRights>Access data via website.</accessRights>
+            </rights>
+            <identifier type="uri">C9_27_ID1</identifier>
+            <dates type="dc.created">
+                <date type="dateFrom" dateFormat="W3CDTF">2012-12-22T00:00:00Z</date>
+            </dates>
+            <location>
+                <address>
+          <electronic type="url">
+            <value>http://www.sportandrecreationspatial.com.au/map.php</value>
+          </electronic>
+        </address>
+            </location>
+            <coverage>
+                <temporal>
+                    <date type="dateFrom" dateFormat="W3CDTF">2000-01-05T00:00:00Z</date>
+                </temporal>
+                <spatial type="kmlPolyCoords">149.975470,-33.981051 140.962477,-33.981051 140.962477,-39.201520 149.975470,-39.201520 149.975470,-33.981051</spatial>
+            </coverage>
+            <relatedInfo type="collection">
+                <title>Example Collection</title>
+                <identifier type="local">C1_27_ID1</identifier>
+                <relation type="hasAssociationWith"/>
+                <notes>Link is to a web archive as this program is no longer current</notes>
+            </relatedInfo>
+            <subject type="anzsrc-for">1106</subject>
+            <subject type="local">Sports participation</subject>
+            <subject type="local">Physical activity</subject>
+            <subject type="local">Sporting club records</subject>
+            <subject type="local">Coaches</subject>
+            <subject type="local">Umpires</subject>
+            <subject type="local">Sport facilities</subject>
+            <subject type="local">GIS</subject>
+            <subject type="local">AFL</subject>
+            <subject type="local">Basketball</subject>
+            <subject type="local">Tennis</subject>
+            <subject type="local">Cricket</subject>
+            <subject type="local">Netball</subject>
+            <subject type="local">Soccer</subject>
+        </collection>
+    </registryObject>
+    <registryObject group="AUTestingRecords">
+        <key>C10_27</key>
+        <originatingSource type="">http://researchdata.ands.org.au/registry/orca/register_my_data</originatingSource>
+        <collection type="dataset" dateModified="2013-02-05T18:19:00Z" dateAccessioned="2013-02-04T00:00:00Z">
+            <name type="primary">
+                <namePart>Sport and Recreation Spatial dataset COLLECTION C10_27</namePart>
+            </name>
+            <description type="full"> &lt;p&gt;This includes annual data of sport participants, coaches and umpires for the following sports:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;AFL&lt;/li&gt; &lt;li&gt;Basketball&lt;/li&gt; &lt;li&gt;Bowls&lt;/li&gt; &lt;li&gt;Cricket&lt;/li&gt; &lt;li&gt;Hockey&lt;/li&gt; &lt;li&gt;Netball&lt;/li&gt; &lt;li&gt;Soccer&lt;/li&gt; &lt;li&gt;Tennis&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;This data is being mapped at a Victorian state level. Where available the particpant, coach and umpire data includes information on individuals' sport identification codes, date of birth, sex, resident postcode, club name, and sport participation program or level of coach and umpire accreditation. This data will be mapped in the near future.&lt;/p&gt; &lt;p&gt; &lt;/p&gt;</description>
+            <rights>
+                <rightsStatement>Except as set out otherwise in these terms and conditions, you are provided with access to this application only for your personal use and you may not, without our written permission, on-sell or rebadge information obtained from this website, or in any way represent that the information is from any source other than the Federation University Australia Interoperable GIS.</rightsStatement>
+                <accessRights>Access data via website.</accessRights>
+            </rights>
+            <identifier type="uri">C10_27_ID1</identifier>
+            <dates type="dc.created">
+                <date type="dateFrom" dateFormat="W3CDTF">2012-12-22T00:00:00Z</date>
+            </dates>
+            <location>
+                <address>
+          <electronic type="url">
+            <value>http://www.sportandrecreationspatial.com.au/map.php</value>
+          </electronic>
+        </address>
+            </location>
+            <coverage>
+                <temporal>
+                    <date type="dateFrom" dateFormat="W3CDTF">2000-01-05T00:00:00Z</date>
+                </temporal>
+                <spatial type="kmlPolyCoords">149.975470,-33.981051 140.962477,-33.981051 140.962477,-39.201520 149.975470,-39.201520 149.975470,-33.981051</spatial>
+            </coverage>
+            <relatedInfo type="collection">
+                <title>Example Collection</title>
+                <identifier type="local">C1_27_ID1</identifier>
+                <relation type="hasAssociationWith"/>
+                <notes>Link is to a web archive as this program is no longer current</notes>
+            </relatedInfo>
+            <subject type="anzsrc-for">1106</subject>
+            <subject type="local">Sports participation</subject>
+            <subject type="local">Physical activity</subject>
+            <subject type="local">Sporting club records</subject>
+            <subject type="local">Coaches</subject>
+            <subject type="local">Umpires</subject>
+            <subject type="local">Sport facilities</subject>
+            <subject type="local">GIS</subject>
+            <subject type="local">AFL</subject>
+            <subject type="local">Basketball</subject>
+            <subject type="local">Tennis</subject>
+            <subject type="local">Cricket</subject>
+            <subject type="local">Netball</subject>
+            <subject type="local">Soccer</subject>
+        </collection>
+    </registryObject>
+    <!-- ### PARTIES ### -->
+    <registryObject group="AUTestingRecords">
+        <key>P1_27</key>
+        <originatingSource type="authoritative">http://trove.nla.gov.au/people</originatingSource>
+        <party dateModified="2019-07-08T19:00:10Z" type="person">
+            <identifier type="AU-ANL:PEAU">P1_27_ID_1</identifier>
+            
+            <name type="alternative">
+                <namePart type="family">Number 1</namePart>
+                <namePart type="given">Party </namePart>
+            </name>
+            <location>
+                <address>
+          <electronic type="url">
+            <value>http://nla.gov.au/nla.party-1712305</value>
+          </electronic>
+        </address>
+            </location>
+            <description type="brief">Mr Darren Coker</description>
+        </party>
+    </registryObject>
+    <registryObject group="AUTestingRecords">
+        <key>P2_27</key>
+        <originatingSource type="authoritative">http://trove.nla.gov.au/people</originatingSource>
+        <party dateModified="2019-07-08T19:00:10Z" type="person">
+            <identifier type="AU-ANL:PEAU">P2_27_ID_2</identifier>
+            
+            <name type="alternative">
+                <namePart type="family">Number 2</namePart>
+                <namePart type="given">Party </namePart>
+            </name>
+            <location>
+                <address>
+          <electronic type="url">
+            <value>http://nla.gov.au/nla.party-1712305</value>
+          </electronic>
+        </address>
+            </location>
+            <description type="brief">Mr Darren Coker</description>
+        </party>
+    </registryObject>
+    <registryObject group="AUTestingRecords">
+        <key>P3_27</key>
+        <originatingSource type="authoritative">http://trove.nla.gov.au/people</originatingSource>
+        <party dateModified="2019-07-08T19:00:10Z" type="person">
+            <identifier type="AU-ANL:PEAU">P3_27_ID_3</identifier>
+            
+            <name type="alternative">
+                <namePart type="family">Number 3</namePart>
+                <namePart type="given">Party </namePart>
+            </name>
+            <location>
+                <address>
+          <electronic type="url">
+            <value>http://nla.gov.au/nla.party-1712305</value>
+          </electronic>
+        </address>
+            </location>
+            <description type="brief">Mr Darren Coker</description>
+        </party>
+    </registryObject>
+    <registryObject group="AUTestingRecords">
+        <key>P4_27</key>
+        <originatingSource type="authoritative">http://trove.nla.gov.au/people</originatingSource>
+        <party dateModified="2019-07-08T19:00:10Z" type="person">
+            <identifier type="AU-ANL:PEAU">P4_27_ID_4</identifier>
+            
+            <name type="alternative">
+                <namePart type="family">Number 4</namePart>
+                <namePart type="given">Party </namePart>
+            </name>
+            <location>
+                <address>
+          <electronic type="url">
+            <value>http://nla.gov.au/nla.party-1712305</value>
+          </electronic>
+        </address>
+            </location>
+            <description type="brief">Mr Darren Coker</description>
+        </party>
+    </registryObject>
+    <registryObject group="AUTestingRecords">
+        <key>P5_27</key>
+        <originatingSource type="authoritative">http://trove.nla.gov.au/people</originatingSource>
+        <party dateModified="2019-07-08T19:00:10Z" type="person">
+            <identifier type="AU-ANL:PEAU">P5_27_ID_5</identifier>
+            
+            <name type="alternative">
+                <namePart type="family">Number 5</namePart>
+                <namePart type="given">Party </namePart>
+            </name>
+            <location>
+                <address>
+          <electronic type="url">
+            <value>http://nla.gov.au/nla.party-1712305</value>
+          </electronic>
+        </address>
+            </location>
+            <description type="brief">Mr Darren Coker</description>
+        </party>
+    </registryObject>
+    <registryObject group="AUTestingRecords">
+        <key>P6_27</key>
+        <originatingSource type="authoritative">http://trove.nla.gov.au/people</originatingSource>
+        <party dateModified="2019-07-08T19:00:10Z" type="person">
+            <identifier type="AU-ANL:PEAU">P6_27_ID_6</identifier>
+            
+            <name type="alternative">
+                <namePart type="family">Number 6</namePart>
+                <namePart type="given">Party </namePart>
+            </name>
+            <location>
+                <address>
+          <electronic type="url">
+            <value>http://nla.gov.au/nla.party-1712305</value>
+          </electronic>
+        </address>
+            </location>
+            <description type="brief">Mr Darren Coker</description>
+        </party>
+    </registryObject>
+    <registryObject group="AUTestingRecords">
+        <key>P7_27</key>
+        <originatingSource type="authoritative">http://trove.nla.gov.au/people</originatingSource>
+        <party dateModified="2019-07-08T19:00:10Z" type="person">
+            <identifier type="AU-ANL:PEAU">P7_27_ID_7</identifier>
+            
+            <name type="alternative">
+                <namePart type="family">Number 7</namePart>
+                <namePart type="given">Party </namePart>
+            </name>
+            <location>
+                <address>
+          <electronic type="url">
+            <value>http://nla.gov.au/nla.party-1712305</value>
+          </electronic>
+        </address>
+            </location>
+            <description type="brief">Mr Darren Coker</description>
+        </party>
+    </registryObject>
+    <registryObject group="AUTestingRecords">
+        <key>P8_27</key>
+        <originatingSource type="authoritative">http://trove.nla.gov.au/people</originatingSource>
+        <party dateModified="2019-07-08T19:00:10Z" type="person">
+            <identifier type="AU-ANL:PEAU">P8_27_ID_8</identifier>
+            
+            <name type="alternative">
+                <namePart type="family">Number 8</namePart>
+                <namePart type="given">Party </namePart>
+            </name>
+            <location>
+                <address>
+          <electronic type="url">
+            <value>http://nla.gov.au/nla.party-1712305</value>
+          </electronic>
+        </address>
+            </location>
+            <description type="brief">Mr Darren Coker</description>
+        </party>
+    </registryObject>
+    <registryObject group="AUTestingRecords">
+        <key>P9_27</key>
+        <originatingSource type="authoritative">http://trove.nla.gov.au/people</originatingSource>
+        <party dateModified="2019-07-08T19:00:10Z" type="person">
+            <identifier type="AU-ANL:PEAU">P9_27_ID_9</identifier>
+            
+            <name type="alternative">
+                <namePart type="family">Number 9</namePart>
+                <namePart type="given">Party </namePart>
+            </name>
+            <location>
+                <address>
+          <electronic type="url">
+            <value>http://nla.gov.au/nla.party-1712305</value>
+          </electronic>
+        </address>
+            </location>
+            <description type="brief">Mr Darren Coker</description>
+        </party>
+    </registryObject>
+    <registryObject group="AUTestingRecords">
+        <key>P10_27</key>
+        <originatingSource type="authoritative">http://trove.nla.gov.au/people</originatingSource>
+        <party dateModified="2019-07-08T19:00:10Z" type="person">
+            <identifier type="AU-ANL:PEAU">P10_27_ID_10</identifier>
+            
+            <name type="alternative">
+                <namePart type="family">Number 10</namePart>
+                <namePart type="given">Party </namePart>
+            </name>
+            <location>
+                <address>
+          <electronic type="url">
+            <value>http://nla.gov.au/nla.party-1712305</value>
+          </electronic>
+        </address>
+            </location>
+            <description type="brief">Mr Darren Coker</description>
+        </party>
+    </registryObject>
+
+    <registryObject group="AUTestingRecords">
+        <key>P11_27</key>
+        <originatingSource type="authoritative">http://trove.nla.gov.au/people</originatingSource>
+        <party dateModified="2019-07-08T19:00:10Z" type="group">
+            <identifier type="AU-ANL:PEAU">P11_27_ID_1</identifier>
+            
+            <name type="alternative">
+                <namePart type="family">Number 1</namePart>
+                <namePart type="given">Organisation </namePart>
+            </name>
+            <location>
+                <address>
+          <electronic type="url">
+            <value>http://nla.gov.au/nla.party-1712305</value>
+          </electronic>
+        </address>
+            </location>
+            <description type="brief">ORG DESC</description>
+        </party>
+    </registryObject>
+    <registryObject group="AUTestingRecords">
+        <key>P12_27</key>
+        <originatingSource type="authoritative">http://trove.nla.gov.au/people</originatingSource>
+        <party dateModified="2019-07-08T19:00:10Z" type="group">
+            <identifier type="AU-ANL:PEAU">P12_27_ID_1</identifier>
+            
+            <name type="alternative">
+                <namePart type="family">Number 2</namePart>
+                <namePart type="given">Organisation </namePart>
+            </name>
+            <location>
+                <address>
+          <electronic type="url">
+            <value>http://nla.gov.au/nla.party-1712305</value>
+          </electronic>
+        </address>
+            </location>
+            <description type="brief">ORG DESC</description>
+        </party>
+    </registryObject>
+    <registryObject group="AUTestingRecords">
+        <key>P13_27</key>
+        <originatingSource type="authoritative">http://trove.nla.gov.au/people</originatingSource>
+        <party dateModified="2019-07-08T19:00:10Z" type="group">
+            <identifier type="AU-ANL:PEAU">P13_27_ID_1</identifier>
+            
+            <name type="alternative">
+                <namePart type="family">Number 3</namePart>
+                <namePart type="given">Organisation </namePart>
+            </name>
+            <location>
+                <address>
+          <electronic type="url">
+            <value>http://nla.gov.au/nla.party-1712305</value>
+          </electronic>
+        </address>
+            </location>
+            <description type="brief">ORG DESC</description>
+        </party>
+    </registryObject>
+    <registryObject group="AUTestingRecords">
+        <key>P14_27</key>
+        <originatingSource type="authoritative">http://trove.nla.gov.au/people</originatingSource>
+        <party dateModified="2019-07-08T19:00:10Z" type="group">
+            <identifier type="AU-ANL:PEAU">P14_27_ID_1</identifier>
+            
+            <name type="alternative">
+                <namePart type="family">Number 4</namePart>
+                <namePart type="given">Organisation </namePart>
+            </name>
+            <location>
+                <address>
+          <electronic type="url">
+            <value>http://nla.gov.au/nla.party-1712305</value>
+          </electronic>
+        </address>
+            </location>
+            <description type="brief">ORG DESC</description>
+        </party>
+    </registryObject>
+    <registryObject group="AUTestingRecords">
+        <key>P15_27</key>
+        <originatingSource type="authoritative">http://trove.nla.gov.au/people</originatingSource>
+        <party dateModified="2019-07-08T19:00:10Z" type="group">
+            <identifier type="AU-ANL:PEAU">P15_27_ID_1</identifier>
+            
+            <name type="alternative">
+                <namePart type="family">Number 5</namePart>
+                <namePart type="given">Organisation </namePart>
+            </name>
+            <location>
+                <address>
+          <electronic type="url">
+            <value>http://nla.gov.au/nla.party-1712305</value>
+          </electronic>
+        </address>
+            </location>
+            <description type="brief">ORG DESC</description>
+        </party>
+    </registryObject>
+    <registryObject group="AUTestingRecords">
+        <key>P16_27</key>
+        <originatingSource type="authoritative">http://trove.nla.gov.au/people</originatingSource>
+        <party dateModified="2019-07-08T19:00:10Z" type="group">
+            <identifier type="AU-ANL:PEAU">P16_27_ID_1</identifier>
+            
+            <name type="alternative">
+                <namePart type="family">Number 6</namePart>
+                <namePart type="given">Organisation </namePart>
+            </name>
+            <location>
+                <address>
+          <electronic type="url">
+            <value>http://nla.gov.au/nla.party-1712305</value>
+          </electronic>
+        </address>
+            </location>
+            <description type="brief">ORG DESC</description>
+        </party>
+    </registryObject>
+    <registryObject group="AUTestingRecords">
+        <key>P17_27</key>
+        <originatingSource type="authoritative">http://trove.nla.gov.au/people</originatingSource>
+        <party dateModified="2019-07-08T19:00:10Z" type="group">
+            <identifier type="AU-ANL:PEAU">P17_27_ID_1</identifier>
+            
+            <name type="alternative">
+                <namePart type="family">Number 7</namePart>
+                <namePart type="given">Organisation </namePart>
+            </name>
+            <location>
+                <address>
+          <electronic type="url">
+            <value>http://nla.gov.au/nla.party-1712305</value>
+          </electronic>
+        </address>
+            </location>
+            <description type="brief">ORG DESC</description>
+        </party>
+    </registryObject>
+    <registryObject group="AUTestingRecords">
+        <key>P18_27</key>
+        <originatingSource type="authoritative">http://trove.nla.gov.au/people</originatingSource>
+        <party dateModified="2019-07-08T19:00:10Z" type="group">
+            <identifier type="AU-ANL:PEAU">P18_27_ID_1</identifier>
+            
+            <name type="alternative">
+                <namePart type="family">Number 8</namePart>
+                <namePart type="given">Organisation </namePart>
+            </name>
+            <location>
+                <address>
+          <electronic type="url">
+            <value>http://nla.gov.au/nla.party-1712305</value>
+          </electronic>
+        </address>
+            </location>
+            <description type="brief">ORG DESC</description>
+        </party>
+    </registryObject>
+    <registryObject group="AUTestingRecords">
+        <key>P19_27</key>
+        <originatingSource type="authoritative">http://trove.nla.gov.au/people</originatingSource>
+        <party dateModified="2019-07-08T19:00:10Z" type="group">
+            <identifier type="AU-ANL:PEAU">P19_27_ID_1</identifier>
+            
+            <name type="alternative">
+                <namePart type="family">Number 9</namePart>
+                <namePart type="given">Organisation </namePart>
+            </name>
+            <location>
+                <address>
+          <electronic type="url">
+            <value>http://nla.gov.au/nla.party-1712305</value>
+          </electronic>
+        </address>
+            </location>
+            <description type="brief">ORG DESC</description>
+        </party>
+    </registryObject>
+    <registryObject group="AUTestingRecords">
+        <key>P20_27</key>
+        <originatingSource type="authoritative">http://trove.nla.gov.au/people</originatingSource>
+        <party dateModified="2019-07-08T19:00:10Z" type="group">
+            <identifier type="AU-ANL:PEAU">P20_27_ID_1</identifier>
+            
+            <name type="alternative">
+                <namePart type="family">Number 10</namePart>
+                <namePart type="given">Organisation </namePart>
+            </name>
+            <location>
+                <address>
+          <electronic type="url">
+            <value>http://nla.gov.au/nla.party-1712305</value>
+          </electronic>
+        </address>
+            </location>
+            <description type="brief">ORG DESC</description>
+        </party>
+    </registryObject>
+    <!-- ### ACTIVITIES ### --> ## --> <registryObject group="AUTestingRecords">
+        <key>A1_27</key>
+        <originatingSource>arc.gov.au/general/searchable_data.htm</originatingSource>
+        <activity type="grant">
+            <name type="primary">
+                <namePart>(AUTestingRecords3) Grant A6003_27</namePart>
+            </name>
+            <relatedObject>
+                <key>C_27</key>
+                <relation type="isPartOf"/>
+            </relatedObject>
+            <subject type="anzsrc-for">1602</subject>
+            <description type="brief">Grant </description>
+            <description type="fundingAmount">$137,000</description>
+            <description type="fundingScheme">Discovery Projects</description>
+            <description type="researchers">A/Prof CM Alder; Prof K Polk</description>
+            <existenceDates>
+                <startDate dateFormat="W3CDTF">2005</startDate>
+                <endDate dateFormat="W3CDTF">2007</endDate>
+            </existenceDates>
+        </activity>
+    </registryObject>
+    <registryObject group="AUTestingRecords">
+        <key>A2_27</key>
+        <originatingSource>arc.gov.au/general/searchable_data.htm</originatingSource>
+        <activity type="grant">
+            <name type="primary">
+                <namePart>(AUTestingRecords3) Grant A6005_27</namePart>
+            </name>
+            <relatedObject>
+                <key>C_27</key>
+                <relation type="isPartOf"/>
+            </relatedObject>
+            <subject type="anzsrc-for">1602</subject>
+            <description type="brief">Grant </description>
+            <description type="fundingAmount">$137,000</description>
+            <description type="fundingScheme">Discovery Projects</description>
+            <description type="researchers">A/Prof CM Alder; Prof K Polk</description>
+            <existenceDates>
+                <startDate dateFormat="W3CDTF">2005</startDate>
+                <endDate dateFormat="W3CDTF">2007</endDate>
+            </existenceDates>
+        </activity>
+    </registryObject>
+    <registryObject group="AUTestingRecords">
+        <key>A3_27</key>
+        <originatingSource>arc.gov.au/general/searchable_data.htm</originatingSource>
+        <activity type="grant">
+            <name type="primary">
+                <namePart>(AUTestingRecords3) Grant A6001_27</namePart>
+            </name>
+            <relatedObject>
+                <key>C_27</key>
+                <relation type="isPartOf"/>
+            </relatedObject>
+            <subject type="anzsrc-for">1602</subject>
+            <description type="brief">Grant </description>
+            <description type="fundingAmount">$137,000</description>
+            <description type="fundingScheme">Discovery Projects</description>
+            <description type="researchers">A/Prof CM Alder; Prof K Polk</description>
+            <existenceDates>
+                <startDate dateFormat="W3CDTF">2005</startDate>
+                <endDate dateFormat="W3CDTF">2007</endDate>
+            </existenceDates>
+        </activity>
+    </registryObject>
+    <registryObject group="AUTestingRecords">
+        <key>A4_27</key>
+        <originatingSource>arc.gov.au/general/searchable_data.htm</originatingSource>
+        <activity type="grant">
+            <name type="primary">
+                <namePart>(AUTestingRecords3) Grant A6001_27</namePart>
+            </name>
+            <relatedObject>
+                <key>C_27</key>
+                <relation type="isPartOf"/>
+            </relatedObject>
+            <subject type="anzsrc-for">1602</subject>
+            <description type="brief">Grant </description>
+            <description type="fundingAmount">$137,000</description>
+            <description type="fundingScheme">Discovery Projects</description>
+            <description type="researchers">A/Prof CM Alder; Prof K Polk</description>
+            <existenceDates>
+                <startDate dateFormat="W3CDTF">2005</startDate>
+                <endDate dateFormat="W3CDTF">2007</endDate>
+            </existenceDates>
+        </activity>
+    </registryObject>
+    <registryObject group="AUTestingRecords">
+        <key>A5_27</key>
+        <originatingSource>arc.gov.au/general/searchable_data.htm</originatingSource>
+        <activity type="grant">
+            <name type="primary">
+                <namePart>(AUTestingRecords3) Grant A6001_27</namePart>
+            </name>
+            <relatedObject>
+                <key>C_27</key>
+                <relation type="isPartOf"/>
+            </relatedObject>
+            <subject type="anzsrc-for">1602</subject>
+            <description type="brief">Grant </description>
+            <description type="fundingAmount">$137,000</description>
+            <description type="fundingScheme">Discovery Projects</description>
+            <description type="researchers">A/Prof CM Alder; Prof K Polk</description>
+            <existenceDates>
+                <startDate dateFormat="W3CDTF">2005</startDate>
+                <endDate dateFormat="W3CDTF">2007</endDate>
+            </existenceDates>
+        </activity>
+    </registryObject>
+    <registryObject group="AUTestingRecords">
+        <key>A6_27</key>
+        <originatingSource>arc.gov.au/general/searchable_data.htm</originatingSource>
+        <activity type="grant">
+            <name type="primary">
+                <namePart>(AUTestingRecords3) Grant A6007_27</namePart>
+            </name>
+            <relatedObject>
+                <key>C_27</key>
+                <relation type="isPartOf"/>
+            </relatedObject>
+            <subject type="anzsrc-for">1602</subject>
+            <description type="brief">Grant </description>
+            <description type="fundingAmount">$137,000</description>
+            <description type="fundingScheme">Discovery Projects</description>
+            <description type="researchers">A/Prof CM Alder; Prof K Polk</description>
+            <existenceDates>
+                <startDate dateFormat="W3CDTF">2005</startDate>
+                <endDate dateFormat="W3CDTF">2007</endDate>
+            </existenceDates>
+        </activity>
+    </registryObject>
+    <registryObject group="AUTestingRecords">
+        <key>A7_27</key>
+        <originatingSource>arc.gov.au/general/searchable_data.htm</originatingSource>
+        <activity type="grant">
+            <name type="primary">
+                <namePart>(AUTestingRecords3) Grant A6006_27</namePart>
+            </name>
+            <relatedObject>
+                <key>C_27</key>
+                <relation type="isPartOf"/>
+            </relatedObject>
+            <subject type="anzsrc-for">1602</subject>
+            <description type="brief">Grant </description>
+            <description type="fundingAmount">$137,000</description>
+            <description type="fundingScheme">Discovery Projects</description>
+            <description type="researchers">A/Prof CM Alder; Prof K Polk</description>
+            <existenceDates>
+                <startDate dateFormat="W3CDTF">2005</startDate>
+                <endDate dateFormat="W3CDTF">2007</endDate>
+            </existenceDates>
+        </activity>
+    </registryObject>
+    <registryObject group="AUTestingRecords">
+        <key>A8_27</key>
+        <originatingSource>arc.gov.au/general/searchable_data.htm</originatingSource>
+        <activity type="grant">
+            <name type="primary">
+                <namePart>(AUTestingRecords3) Grant A6008_27</namePart>
+            </name>
+            <relatedObject>
+                <key>C_27</key>
+                <relation type="isPartOf"/>
+            </relatedObject>
+            <subject type="anzsrc-for">1602</subject>
+            <description type="brief">Grant </description>
+            <description type="fundingAmount">$137,000</description>
+            <description type="fundingScheme">Discovery Projects</description>
+            <description type="researchers">A/Prof CM Alder; Prof K Polk</description>
+            <existenceDates>
+                <startDate dateFormat="W3CDTF">2005</startDate>
+                <endDate dateFormat="W3CDTF">2007</endDate>
+            </existenceDates>
+        </activity>
+    </registryObject>
+    <registryObject group="AUTestingRecords">
+        <key>A9_27</key>
+        <originatingSource>arc.gov.au/general/searchable_data.htm</originatingSource>
+        <activity type="grant">
+            <name type="primary">
+                <namePart>(AUTestingRecords3) Grant A6010_27</namePart>
+            </name>
+            <relatedObject>
+                <key>C_27</key>
+                <relation type="isPartOf"/>
+            </relatedObject>
+            <subject type="anzsrc-for">1602</subject>
+            <description type="brief">Grant </description>
+            <description type="fundingAmount">$137,000</description>
+            <description type="fundingScheme">Discovery Projects</description>
+            <description type="researchers">A/Prof CM Alder; Prof K Polk</description>
+            <existenceDates>
+                <startDate dateFormat="W3CDTF">2005</startDate>
+                <endDate dateFormat="W3CDTF">2007</endDate>
+            </existenceDates>
+        </activity>
+    </registryObject>
+    <registryObject group="AUTestingRecords">
+        <key>A10_27</key>
+        <originatingSource>arc.gov.au/general/searchable_data.htm</originatingSource>
+        <activity type="grant">
+            <name type="primary">
+                <namePart>(AUTestingRecords3) Grant A6010_27</namePart>
+            </name>
+            <relatedObject>
+                <key>C_27</key>
+                <relation type="isPartOf"/>
+            </relatedObject>
+            <subject type="anzsrc-for">1602</subject>
+            <description type="brief">Grant </description>
+            <description type="fundingAmount">$137,000</description>
+            <description type="fundingScheme">Discovery Projects</description>
+            <description type="researchers">A/Prof CM Alder; Prof K Polk</description>
+            <existenceDates>
+                <startDate dateFormat="W3CDTF">2005</startDate>
+                <endDate dateFormat="W3CDTF">2007</endDate>
+            </existenceDates>
+        </activity>
+    </registryObject>
+    <!-- ### SERVICES ### -->
+    <registryObject group="AUTestingRecords">
+        <key>S1_27</key>
+        <originatingSource>Commonwealth of Australia (Geoscience Australia)</originatingSource>
+        <service type="ESRI:ArcGIS:MapServer">
+            <location>
+                <address>
+          <electronic type="url" target="landingPage">
+            <value>http://ecat.ga.gov.au/geonetwork/srv/eng/search?uuid=fc15ee64-97f1-4171-bc58-36ff77ded053</value>
+          </electronic>
+        </address>
+            </location> <description type="lineage">This is the initial publication of the Acreage Release Marine Environmental Data web map service.Â The lineage statement for the individual datasets must be reviewed separately.</description> <name type="primary">
+                <namePart>S1_27</namePart>
+            </name>
+            <identifier type="global">S1_ID1</identifier>
+            <subject type="local">acreage release</subject>
+            <subject type="local">petroleum</subject>
+            <subject type="local">gas</subject>
+            <subject type="local">marine</subject>
+            <subject type="local">environment</subject>
+            <subject type="local">seabed</subject>
+            <subject type="local">offshore</subject>
+            <subject type="local">Earth Sciences</subject>
+            <subject type="local">web service</subject>
+            <subject type="local">MapServer</subject>
+            <subject type="local">Published_External</subject>
+            <description type="brief">This is the Acreage Release Marine Environmental Data compiled web service to be updated each year with acreage release. It contains the following publicly available datasets, for the 2016 Acreage Release - Marine Survey Towed-video Transects, Marine Sediments Database Samples, Australian Seascapes, Seabed Mud Content on the Northwest Shelf, Seabed Sand Content of the Northwest Shelf and Seabed Gravel Content of the Northwest Shelf.</description>
+            <coverage>
+                <spatial type="iso19139dcmiBox">northlimit=-8; southlimit=-45; westlimit=110; eastLimit=153; projection=GDA94</spatial>
+                <spatial type="text">northlimit=-8; southlimit=-45; westlimit=110; eastLimit=153; projection=GDA94</spatial>
+            </coverage>
+            <rights>
+                <licence rightsUri="http://creativecommons.org/licenses/by/4.0" type="CC-BY">Creative Commons Attribution 4.0 International Licence</licence>
+            </rights>
+            <rights>
+                <accessRights type="open"/>
+            </rights>
+            <relatedObject>
+                <key>C1_27</key>
+                <relation type="isSupportedBy"/>
+            </relatedObject>
+        </service>
+    </registryObject>
+    <registryObject group="AUTestingRecords">
+        <key>S2_27</key>
+        <originatingSource>Commonwealth of Australia (Geoscience Australia)</originatingSource>
+        <service type="ESRI:ArcGIS:MapServer">
+            <location>
+                <address>
+          <electronic type="url" target="landingPage">
+            <value>http://ecat.ga.gov.au/geonetwork/srv/eng/search?uuid=fc15ee64-97f1-4171-bc58-36ff77ded053</value>
+          </electronic>
+        </address>
+            </location> <description type="lineage">This is the initial publication of the Acreage Release Marine Environmental Data web map service.Â The lineage statement for the individual datasets must be reviewed separately.</description> <name type="primary">
+                <namePart>S2_27</namePart>
+            </name>
+            <identifier type="global">S2_ID1</identifier>
+            <subject type="local">acreage release</subject>
+            <subject type="local">petroleum</subject>
+            <subject type="local">gas</subject>
+            <subject type="local">marine</subject>
+            <subject type="local">environment</subject>
+            <subject type="local">seabed</subject>
+            <subject type="local">offshore</subject>
+            <subject type="local">Earth Sciences</subject>
+            <subject type="local">web service</subject>
+            <subject type="local">MapServer</subject>
+            <subject type="local">Published_External</subject>
+            <description type="brief">This is the Acreage Release Marine Environmental Data compiled web service to be updated each year with acreage release. It contains the following publicly available datasets, for the 2016 Acreage Release - Marine Survey Towed-video Transects, Marine Sediments Database Samples, Australian Seascapes, Seabed Mud Content on the Northwest Shelf, Seabed Sand Content of the Northwest Shelf and Seabed Gravel Content of the Northwest Shelf.</description>
+            <coverage>
+                <spatial type="iso19139dcmiBox">northlimit=-8; southlimit=-45; westlimit=110; eastLimit=153; projection=GDA94</spatial>
+                <spatial type="text">northlimit=-8; southlimit=-45; westlimit=110; eastLimit=153; projection=GDA94</spatial>
+            </coverage>
+            <rights>
+                <licence rightsUri="http://creativecommons.org/licenses/by/4.0" type="CC-BY">Creative Commons Attribution 4.0 International Licence</licence>
+            </rights>
+            <rights>
+                <accessRights type="open"/>
+            </rights>
+            <relatedObject>
+                <key>C1_27</key>
+                <relation type="isSupportedBy"/>
+            </relatedObject>
+        </service>
+    </registryObject>
+    <registryObject group="AUTestingRecords">
+        <key>S3_27</key>
+        <originatingSource>Commonwealth of Australia (Geoscience Australia)</originatingSource>
+        <service type="ESRI:ArcGIS:MapServer">
+            <location>
+                <address>
+          <electronic type="url" target="landingPage">
+            <value>http://ecat.ga.gov.au/geonetwork/srv/eng/search?uuid=fc15ee64-97f1-4171-bc58-36ff77ded053</value>
+          </electronic>
+        </address>
+            </location> <description type="lineage">This is the initial publication of the Acreage Release Marine Environmental Data web map service.Â The lineage statement for the individual datasets must be reviewed separately.</description> <name type="primary">
+                <namePart>S3_27</namePart>
+            </name>
+            <identifier type="global">S3_ID1</identifier>
+            <subject type="local">acreage release</subject>
+            <subject type="local">petroleum</subject>
+            <subject type="local">gas</subject>
+            <subject type="local">marine</subject>
+            <subject type="local">environment</subject>
+            <subject type="local">seabed</subject>
+            <subject type="local">offshore</subject>
+            <subject type="local">Earth Sciences</subject>
+            <subject type="local">web service</subject>
+            <subject type="local">MapServer</subject>
+            <subject type="local">Published_External</subject>
+            <description type="brief">This is the Acreage Release Marine Environmental Data compiled web service to be updated each year with acreage release. It contains the following publicly available datasets, for the 2016 Acreage Release - Marine Survey Towed-video Transects, Marine Sediments Database Samples, Australian Seascapes, Seabed Mud Content on the Northwest Shelf, Seabed Sand Content of the Northwest Shelf and Seabed Gravel Content of the Northwest Shelf.</description>
+            <coverage>
+                <spatial type="iso19139dcmiBox">northlimit=-8; southlimit=-45; westlimit=110; eastLimit=153; projection=GDA94</spatial>
+                <spatial type="text">northlimit=-8; southlimit=-45; westlimit=110; eastLimit=153; projection=GDA94</spatial>
+            </coverage>
+            <rights>
+                <licence rightsUri="http://creativecommons.org/licenses/by/4.0" type="CC-BY">Creative Commons Attribution 4.0 International Licence</licence>
+            </rights>
+            <rights>
+                <accessRights type="open"/>
+            </rights>
+            <relatedObject>
+                <key>C1_27</key>
+                <relation type="isSupportedBy"/>
+            </relatedObject>
+        </service>
+    </registryObject>
+    <registryObject group="AUTestingRecords">
+        <key>S4_27</key>
+        <originatingSource>Commonwealth of Australia (Geoscience Australia)</originatingSource>
+        <service type="ESRI:ArcGIS:MapServer">
+            <location>
+                <address>
+          <electronic type="url" target="landingPage">
+            <value>http://ecat.ga.gov.au/geonetwork/srv/eng/search?uuid=fc15ee64-97f1-4171-bc58-36ff77ded053</value>
+          </electronic>
+        </address>
+            </location> <description type="lineage">This is the initial publication of the Acreage Release Marine Environmental Data web map service.Â The lineage statement for the individual datasets must be reviewed separately.</description> <name type="primary">
+                <namePart>S4_27</namePart>
+            </name>
+            <identifier type="global">S4_ID1</identifier>
+            <subject type="local">acreage release</subject>
+            <subject type="local">petroleum</subject>
+            <subject type="local">gas</subject>
+            <subject type="local">marine</subject>
+            <subject type="local">environment</subject>
+            <subject type="local">seabed</subject>
+            <subject type="local">offshore</subject>
+            <subject type="local">Earth Sciences</subject>
+            <subject type="local">web service</subject>
+            <subject type="local">MapServer</subject>
+            <subject type="local">Published_External</subject>
+            <description type="brief">This is the Acreage Release Marine Environmental Data compiled web service to be updated each year with acreage release. It contains the following publicly available datasets, for the 2016 Acreage Release - Marine Survey Towed-video Transects, Marine Sediments Database Samples, Australian Seascapes, Seabed Mud Content on the Northwest Shelf, Seabed Sand Content of the Northwest Shelf and Seabed Gravel Content of the Northwest Shelf.</description>
+            <coverage>
+                <spatial type="iso19139dcmiBox">northlimit=-8; southlimit=-45; westlimit=110; eastLimit=153; projection=GDA94</spatial>
+                <spatial type="text">northlimit=-8; southlimit=-45; westlimit=110; eastLimit=153; projection=GDA94</spatial>
+            </coverage>
+            <rights>
+                <licence rightsUri="http://creativecommons.org/licenses/by/4.0" type="CC-BY">Creative Commons Attribution 4.0 International Licence</licence>
+            </rights>
+            <rights>
+                <accessRights type="open"/>
+            </rights>
+            <relatedObject>
+                <key>C1_27</key>
+                <relation type="isSupportedBy"/>
+            </relatedObject>
+        </service>
+    </registryObject>
+    <registryObject group="AUTestingRecords">
+        <key>S5_27</key>
+        <originatingSource>Commonwealth of Australia (Geoscience Australia)</originatingSource>
+        <service type="ESRI:ArcGIS:MapServer">
+            <location>
+                <address>
+          <electronic type="url" target="landingPage">
+            <value>http://ecat.ga.gov.au/geonetwork/srv/eng/search?uuid=fc15ee64-97f1-4171-bc58-36ff77ded053</value>
+          </electronic>
+        </address>
+            </location> <description type="lineage">This is the initial publication of the Acreage Release Marine Environmental Data web map service.Â The lineage statement for the individual datasets must be reviewed separately.</description> <name type="primary">
+                <namePart>S5_27</namePart>
+            </name>
+            <identifier type="global">S5_ID1</identifier>
+            <subject type="local">acreage release</subject>
+            <subject type="local">petroleum</subject>
+            <subject type="local">gas</subject>
+            <subject type="local">marine</subject>
+            <subject type="local">environment</subject>
+            <subject type="local">seabed</subject>
+            <subject type="local">offshore</subject>
+            <subject type="local">Earth Sciences</subject>
+            <subject type="local">web service</subject>
+            <subject type="local">MapServer</subject>
+            <subject type="local">Published_External</subject>
+            <description type="brief">This is the Acreage Release Marine Environmental Data compiled web service to be updated each year with acreage release. It contains the following publicly available datasets, for the 2016 Acreage Release - Marine Survey Towed-video Transects, Marine Sediments Database Samples, Australian Seascapes, Seabed Mud Content on the Northwest Shelf, Seabed Sand Content of the Northwest Shelf and Seabed Gravel Content of the Northwest Shelf.</description>
+            <coverage>
+                <spatial type="iso19139dcmiBox">northlimit=-8; southlimit=-45; westlimit=110; eastLimit=153; projection=GDA94</spatial>
+                <spatial type="text">northlimit=-8; southlimit=-45; westlimit=110; eastLimit=153; projection=GDA94</spatial>
+            </coverage>
+            <rights>
+                <licence rightsUri="http://creativecommons.org/licenses/by/4.0" type="CC-BY">Creative Commons Attribution 4.0 International Licence</licence>
+            </rights>
+            <rights>
+                <accessRights type="open"/>
+            </rights>
+            <relatedObject>
+                <key>C1_27</key>
+                <relation type="isSupportedBy"/>
+            </relatedObject>
+        </service>
+    </registryObject>
+    <registryObject group="AUTestingRecords">
+        <key>S6_27</key>
+        <originatingSource>Commonwealth of Australia (Geoscience Australia)</originatingSource>
+        <service type="ESRI:ArcGIS:MapServer">
+            <location>
+                <address>
+          <electronic type="url" target="landingPage">
+            <value>http://ecat.ga.gov.au/geonetwork/srv/eng/search?uuid=fc15ee64-97f1-4171-bc58-36ff77ded053</value>
+          </electronic>
+        </address>
+            </location> <description type="lineage">This is the initial publication of the Acreage Release Marine Environmental Data web map service.Â The lineage statement for the individual datasets must be reviewed separately.</description> <name type="primary">
+                <namePart>S6_27</namePart>
+            </name>
+            <identifier type="global">S6_ID1</identifier>
+            <subject type="local">acreage release</subject>
+            <subject type="local">petroleum</subject>
+            <subject type="local">gas</subject>
+            <subject type="local">marine</subject>
+            <subject type="local">environment</subject>
+            <subject type="local">seabed</subject>
+            <subject type="local">offshore</subject>
+            <subject type="local">Earth Sciences</subject>
+            <subject type="local">web service</subject>
+            <subject type="local">MapServer</subject>
+            <subject type="local">Published_External</subject>
+            <description type="brief">This is the Acreage Release Marine Environmental Data compiled web service to be updated each year with acreage release. It contains the following publicly available datasets, for the 2016 Acreage Release - Marine Survey Towed-video Transects, Marine Sediments Database Samples, Australian Seascapes, Seabed Mud Content on the Northwest Shelf, Seabed Sand Content of the Northwest Shelf and Seabed Gravel Content of the Northwest Shelf.</description>
+            <coverage>
+                <spatial type="iso19139dcmiBox">northlimit=-8; southlimit=-45; westlimit=110; eastLimit=153; projection=GDA94</spatial>
+                <spatial type="text">northlimit=-8; southlimit=-45; westlimit=110; eastLimit=153; projection=GDA94</spatial>
+            </coverage>
+            <rights>
+                <licence rightsUri="http://creativecommons.org/licenses/by/4.0" type="CC-BY">Creative Commons Attribution 4.0 International Licence</licence>
+            </rights>
+            <rights>
+                <accessRights type="open"/>
+            </rights>
+            <relatedObject>
+                <key>C1_27</key>
+                <relation type="isSupportedBy"/>
+            </relatedObject>
+        </service>
+    </registryObject>
+    <registryObject group="AUTestingRecords">
+        <key>S7_27</key>
+        <originatingSource>Commonwealth of Australia (Geoscience Australia)</originatingSource>
+        <service type="ESRI:ArcGIS:MapServer">
+            <location>
+                <address>
+          <electronic type="url" target="landingPage">
+            <value>http://ecat.ga.gov.au/geonetwork/srv/eng/search?uuid=fc15ee64-97f1-4171-bc58-36ff77ded053</value>
+          </electronic>
+        </address>
+            </location>
+            <description type="lineage">This is the initial publication of the Acreage Release Marine Environmental Data web map service.Â The lineage statement for the individual datasets must be reviewed separately.</description>
+            <name type="primary">
+                <namePart>S7_27</namePart>
+            </name>
+            <identifier type="global">S7_ID1</identifier>
+            <subject type="local">acreage release</subject>
+            <subject type="local">petroleum</subject>
+            <subject type="local">gas</subject>
+            <subject type="local">marine</subject>
+            <subject type="local">environment</subject>
+            <subject type="local">seabed</subject>
+            <subject type="local">offshore</subject>
+            <subject type="local">Earth Sciences</subject>
+            <subject type="local">web service</subject>
+            <subject type="local">MapServer</subject>
+            <subject type="local">Published_External</subject>
+            <description type="brief">This is the Acreage Release Marine Environmental Data compiled web service to be updated each year with acreage release. It contains the following publicly available datasets, for the 2016 Acreage Release - Marine Survey Towed-video Transects, Marine Sediments Database Samples, Australian Seascapes, Seabed Mud Content on the Northwest Shelf, Seabed Sand Content of the Northwest Shelf and Seabed Gravel Content of the Northwest Shelf.</description>
+            <coverage>
+                <spatial type="iso19139dcmiBox">northlimit=-8; southlimit=-45; westlimit=110; eastLimit=153; projection=GDA94</spatial>
+                <spatial type="text">northlimit=-8; southlimit=-45; westlimit=110; eastLimit=153; projection=GDA94</spatial>
+            </coverage>
+            <rights>
+                <licence rightsUri="http://creativecommons.org/licenses/by/4.0" type="CC-BY">Creative Commons Attribution 4.0 International Licence</licence>
+            </rights>
+            <rights>
+                <accessRights type="open"/>
+            </rights></service>
+    </registryObject>
+    <registryObject group="AUTestingRecords">
+        <key>S8_27</key>
+        <originatingSource>Commonwealth of Australia (Geoscience Australia)</originatingSource>
+        <service type="ESRI:ArcGIS:MapServer">
+            <location>
+                <address>
+          <electronic type="url" target="landingPage">
+            <value>http://ecat.ga.gov.au/geonetwork/srv/eng/search?uuid=fc15ee64-97f1-4171-bc58-36ff77ded053</value>
+          </electronic>
+        </address>
+            </location>
+            <description type="lineage">This is the initial publication of the Acreage Release Marine Environmental Data web map service.Â The lineage statement for the individual datasets must be reviewed separately.</description>
+            <name type="primary">
+                <namePart>S8_27</namePart>
+            </name>
+            <identifier type="global">S8_ID1</identifier>
+            <subject type="local">acreage release</subject>
+            <subject type="local">petroleum</subject>
+            <subject type="local">gas</subject>
+            <subject type="local">marine</subject>
+            <subject type="local">environment</subject>
+            <subject type="local">seabed</subject>
+            <subject type="local">offshore</subject>
+            <subject type="local">Earth Sciences</subject>
+            <subject type="local">web service</subject>
+            <subject type="local">MapServer</subject>
+            <subject type="local">Published_External</subject>
+            <description type="brief">This is the Acreage Release Marine Environmental Data compiled web service to be updated each year with acreage release. It contains the following publicly available datasets, for the 2016 Acreage Release - Marine Survey Towed-video Transects, Marine Sediments Database Samples, Australian Seascapes, Seabed Mud Content on the Northwest Shelf, Seabed Sand Content of the Northwest Shelf and Seabed Gravel Content of the Northwest Shelf.</description>
+            <coverage>
+                <spatial type="iso19139dcmiBox">northlimit=-8; southlimit=-45; westlimit=110; eastLimit=153; projection=GDA94</spatial>
+                <spatial type="text">northlimit=-8; southlimit=-45; westlimit=110; eastLimit=153; projection=GDA94</spatial>
+            </coverage>
+            <rights>
+                <licence rightsUri="http://creativecommons.org/licenses/by/4.0" type="CC-BY">Creative Commons Attribution 4.0 International Licence</licence>
+            </rights>
+            <rights>
+                <accessRights type="open"/>
+            </rights></service>
+    </registryObject>
+    <registryObject group="AUTestingRecords">
+        <key>S9_27</key>
+        <originatingSource>Commonwealth of Australia (Geoscience Australia)</originatingSource>
+        <service type="ESRI:ArcGIS:MapServer">
+            <location>
+                <address>
+          <electronic type="url" target="landingPage">
+            <value>http://ecat.ga.gov.au/geonetwork/srv/eng/search?uuid=fc15ee64-97f1-4171-bc58-36ff77ded053</value>
+          </electronic>
+        </address>
+            </location>
+            <description type="lineage">This is the initial publication of the Acreage Release Marine Environmental Data web map service.Â The lineage statement for the individual datasets must be reviewed separately.</description>
+            <name type="primary">
+                <namePart>S9_27</namePart>
+            </name>
+            <identifier type="global">S9_ID1</identifier>
+            <subject type="local">acreage release</subject>
+            <subject type="local">petroleum</subject>
+            <subject type="local">gas</subject>
+            <subject type="local">marine</subject>
+            <subject type="local">environment</subject>
+            <subject type="local">seabed</subject>
+            <subject type="local">offshore</subject>
+            <subject type="local">Earth Sciences</subject>
+            <subject type="local">web service</subject>
+            <subject type="local">MapServer</subject>
+            <subject type="local">Published_External</subject>
+            <description type="brief">This is the Acreage Release Marine Environmental Data compiled web service to be updated each year with acreage release. It contains the following publicly available datasets, for the 2016 Acreage Release - Marine Survey Towed-video Transects, Marine Sediments Database Samples, Australian Seascapes, Seabed Mud Content on the Northwest Shelf, Seabed Sand Content of the Northwest Shelf and Seabed Gravel Content of the Northwest Shelf.</description>
+            <coverage>
+                <spatial type="iso19139dcmiBox">northlimit=-8; southlimit=-45; westlimit=110; eastLimit=153; projection=GDA94</spatial>
+                <spatial type="text">northlimit=-8; southlimit=-45; westlimit=110; eastLimit=153; projection=GDA94</spatial>
+            </coverage>
+            <rights>
+                <licence rightsUri="http://creativecommons.org/licenses/by/4.0" type="CC-BY">Creative Commons Attribution 4.0 International Licence</licence>
+            </rights>
+            <rights>
+                <accessRights type="open"/>
+            </rights></service>
+    </registryObject>
+    <registryObject group="AUTestingRecords">
+        <key>S10_27</key>
+        <originatingSource>Commonwealth of Australia (Geoscience Australia)</originatingSource>
+        <service type="ESRI:ArcGIS:MapServer">
+            <location>
+                <address>
+          <electronic type="url" target="landingPage">
+            <value>http://ecat.ga.gov.au/geonetwork/srv/eng/search?uuid=fc15ee64-97f1-4171-bc58-36ff77ded053</value>
+          </electronic>
+        </address>
+            </location>
+            <description type="lineage">This is the initial publication of the Acreage Release Marine Environmental Data web map service.Â The lineage statement for the individual datasets must be reviewed separately.</description>
+            <name type="primary">
+                <namePart>S10_27</namePart>
+            </name>
+            <identifier type="global">S10_ID1</identifier>
+            <subject type="local">acreage release</subject>
+            <subject type="local">petroleum</subject>
+            <subject type="local">gas</subject>
+            <subject type="local">marine</subject>
+            <subject type="local">environment</subject>
+            <subject type="local">seabed</subject>
+            <subject type="local">offshore</subject>
+            <subject type="local">Earth Sciences</subject>
+            <subject type="local">web service</subject>
+            <subject type="local">MapServer</subject>
+            <subject type="local">Published_External</subject>
+            <description type="brief">This is the Acreage Release Marine Environmental Data compiled web service to be updated each year with acreage release. It contains the following publicly available datasets, for the 2016 Acreage Release - Marine Survey Towed-video Transects, Marine Sediments Database Samples, Australian Seascapes, Seabed Mud Content on the Northwest Shelf, Seabed Sand Content of the Northwest Shelf and Seabed Gravel Content of the Northwest Shelf.</description>
+            <coverage>
+                <spatial type="iso19139dcmiBox">northlimit=-8; southlimit=-45; westlimit=110; eastLimit=153; projection=GDA94</spatial>
+                <spatial type="text">northlimit=-8; southlimit=-45; westlimit=110; eastLimit=153; projection=GDA94</spatial>
+            </coverage>
+            <rights>
+                <licence rightsUri="http://creativecommons.org/licenses/by/4.0" type="CC-BY">Creative Commons Attribution 4.0 International Licence</licence>
+            </rights>
+            <rights>
+                <accessRights type="open"/>
+            </rights></service>
+    </registryObject>
+</registryObjects>
