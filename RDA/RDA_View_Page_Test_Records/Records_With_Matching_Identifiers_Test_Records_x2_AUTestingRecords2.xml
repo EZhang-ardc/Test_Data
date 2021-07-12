@@ -6,6 +6,7 @@
       <name type="primary">
         <namePart>(AUTestingRecords2) Collection B Duplicate Identifiers</namePart>
       </name>
+            <description type="brief">&amp;lt;p&amp;gt;Bird Sightings at Kangawalla, 20kms East of Glen Innes&amp;lt;/p&amp;gt;</description>
       <identifier type="doi">10.AUTestingRecords/123</identifier>
       <identifier type="doi">10.AUTestingRecords2/345</identifier>
       <relatedObject>
