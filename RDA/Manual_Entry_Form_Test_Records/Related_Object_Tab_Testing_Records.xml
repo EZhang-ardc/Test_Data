@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<registryObjects xmlns="http://ands.org.au/standards/rif-cs/registryObjects" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ands.org.au/standards/rif-cs/registryObjects http://services.ands.org.au/documentation/rifcs/schema/registryObjects.xsd">
+  <registryObject group="AUTestingRecords">
+    <key>7c7f9e2c-2299-8e03-4ecb-fcaf5678765d48fc5ce</key>
+    <originatingSource type="">https://test.researchdata.ardc.edu.au/registry//orca/register_my_data</originatingSource>
+    <collection type="collection">
+      <name>
+        <namePart>Collection for Related Object Test</namePart>
+      </name>
+      <description type="brief">&lt;p&gt;I am a brief description&lt;/p&gt;</description>
+    </collection>
+  </registryObject>
+
+ <registryObject group="AUTestingRecords">
+    <key>NEII/RobertJohnson111223</key>
+    <originatingSource>Australian Bureau of Meteorology</originatingSource>
+    <party type="person">
+      <name type="primary">
+        <namePart>Robert Johnson Test</namePart>
+      </name>
+      <location>
+        <address>
+          <electronic type="url">
+            <value>http://www.bom.gov.au/environment/activities/coastal-info.shtml</value>
+          </electronic>
+        </address>
+      </location>
+      <location>
+        <address>
+          <electronic type="email">
+            <value>sros@bom.gov.au</value>
+          </electronic>
+        </address>
+      </location>
+    </party>
+  </registryObject>
+
+  <registryObject group="AUTestingRecords">
+    <key>GA/ea718227-5e5rewtytuyiuoie-4b77-8205-b9a88914e6c4123</key>
+    <originatingSource type="">Commonwealth of Australia (Geoscience Australia)</originatingSource>
+    <service type="ESRI:ArcGIS:ImageServer">
+      <name type="primary">
+        <namePart>Test MapServer</namePart>
+      </name>
+      <description type="lineage">&lt;p&gt;The purpose of this service is to provide a mechanism to access the legacy data found in the second-generation AMSIS application. These services will be retired as new data is generated to replace it.These services will allow for the decommissioning of AMSIS2.&lt;/p&gt;</description>
+      <description type="brief">&lt;p&gt;The data contained in this service is not authoritative and has not been updated since 2006. This web service contains the legacy data found in the Australian Marine Spatial Information System (AMSIS) between 2006 and 2015, with a currency date of 2006. To honour the original licensing arrangements with the data holders, only the WMS is available. Users will need to contact the agency responsible for the data to check current validity and spatial precision.&lt;/p&gt;</description>
+      <rights>
+        <licence type="CC-BY" rightsUri="http://creativecommons.org/licenses/by/4.0">Creative Commons Attribution 4.0 International Licence</licence>
+      </rights>
+      <rights>
+        <accessRights type="open"/>
+      </rights>
+
+      <location>
+        <address>
+          <electronic type="url">
+            <value>http://ecat.ga.gov.au/geonetwork/srv/eng/search?uuid=ea718227-5e5e-4b77-8205-b9a88914e6c4</value>
+          </electronic>
+        </address>
+      </location>
+      <coverage>
+        <spatial type="iso19139dcmiBox">northlimit=-9; southlimit=-88; westlimit=45; eastLimit=168; projection=GDA94</spatial>
+        <spatial type="text">northlimit=-9; southlimit=-88; westlimit=45; eastLimit=168; projection=GDA94</spatial>
+      </coverage>
+      <subject type="local">geoscientificInformation</subject>
+      <subject type="local">Earth Sciences</subject>
+      <subject type="local">AMSIS</subject>
+      <subject type="local">legacy</subject>
+      <subject type="local">Fisheries</subject>
+      <subject type="local">Web service</subject>
+      <subject type="local">Australia</subject>
+    </service>
+  </registryObject>
+      </registryObjects>
