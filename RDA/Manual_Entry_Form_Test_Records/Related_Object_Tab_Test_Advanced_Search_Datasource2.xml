@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<registryObjects xmlns="http://ands.org.au/standards/rif-cs/registryObjects" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ands.org.au/standards/rif-cs/registryObjects http://services.ands.org.au/documentation/rifcs/schema/registryObjects.xsd">
+  <registryObject group="AUTestingRecords">
+    <key>ThisIsACollection0rfegth4321wertyr</key>
+    <originatingSource type="">https://test.researchdata.ardc.edu.au/registry//orca/register_my_data</originatingSource>
+    <collection type="collection">
+      <name>
+        <namePart>test advanced search DS2</namePart>
+      </name>
+      <description type="brief">&lt;p&gt;I am a brief description&lt;/p&gt;</description>
+    </collection>
+  </registryObject>
+
+      </registryObjects>
