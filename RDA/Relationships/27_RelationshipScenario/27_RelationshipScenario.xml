@@ -49,48 +49,54 @@
             <relatedInfo type="party">
                 <title>Example Party 9</title>
                 <identifier type="AU-ANL:PEAU">P1_27_ID_9</identifier>
-                <relation type="hasPrincipalInvestigator"/>
+                <relation type="hasAssociationWith"/>
                 <notes>Link is to a web archive as this program is no longer current</notes>
             </relatedInfo>
             <relatedInfo type="party">
                 <title>Example Party 10</title>
                 <identifier type="AU-ANL:PEAU">P1_27_ID_10</identifier>
-                <relation type="hasPrincipalInvestigator"/>
+                <relation type="localRelation"/>
                 <notes>Link is to a web archive as this program is no longer current</notes>
-            </relatedInfo> <relatedInfo type="service">
+            </relatedInfo> 
+
+
+
+            <relatedInfo type="service">
                 <title>Example Service</title>
                 <identifier type="global">S6_ID1</identifier>
-                <relation type="isProducedby"/>
+                <relation type="isProducedBy"/>
             </relatedInfo>
             <relatedInfo type="service">
                 <title>Example Service</title>
                 <identifier type="global">S7_ID1</identifier>
-                <relation type="isProducedby"/>
+                <relation type="supports"/>
             </relatedInfo>
             <relatedInfo type="service">
                 <title>Example Service</title>
                 <identifier type="global">S8_ID1</identifier>
-                <relation type="isProducedby"/>
+                <relation type="isPresentedBy"/>
             </relatedInfo>
             <relatedInfo type="service">
                 <title>Example Service</title>
                 <identifier type="global">S9_ID1</identifier>
-                <relation type="isProducedby"/>
+                <relation type="localRelation"/>
             </relatedInfo>
             <relatedInfo type="service">
                 <title>Example Service</title>
                 <identifier type="global">S10_ID1</identifier>
-                <relation type="isProducedby"/>
-            </relatedInfo> <relatedInfo type="publication">
+                <relation type="isOperatedOnBy"/>
+            </relatedInfo> 
+
+
+            <relatedInfo type="publication">
                 <title>Example Publication1</title>
                 <identifier type="DOI">10.123/2343241</identifier>
-                <relation type="isCitedBy"/>
+                <relation type="isReviewedBy"/>
                 <notes>Pub notes</notes>
             </relatedInfo>
             <relatedInfo type="publication">
                 <title>Example Publication2</title>
                 <identifier type="DOI">10.123/2343242</identifier>
-                <relation type="isCitedBy"/>
                 <notes>Pub notes</notes>
             </relatedInfo>
             <relatedInfo type="publication">
@@ -108,19 +114,19 @@
             <relatedInfo type="publication">
                 <title>Example Publication5</title>
                 <identifier type="DOI">10.123/2343245</identifier>
-                <relation type="isCitedBy"/>
+                <relation type="isDocumentedBy"/>
                 <notes>Pub notes</notes>
             </relatedInfo>
             <relatedInfo type="publication">
                 <title>Example Publication6</title>
                 <identifier type="DOI">10.123/2343246</identifier>
-                <relation type="isCitedBy"/>
+                <relation type="isReviewedBy"/>
                 <notes>Pub notes</notes>
             </relatedInfo>
             <relatedInfo type="publication">
                 <title>Example Publication7</title>
                 <identifier type="DOI">10.123/2343247</identifier>
-                <relation type="isCitedBy"/>
+                <relation type="isSupportedBy"/>
                 <notes>Pub notes</notes>
             </relatedInfo>
             <relatedInfo type="publication">
@@ -132,7 +138,7 @@
             <relatedInfo type="publication">
                 <title>Example Publication9</title>
                 <identifier type="DOI">10.123/2343249</identifier>
-                <relation type="isCitedBy"/>
+                <relation type="isSupplementTo"/>
                 <notes>Pub notes</notes>
             </relatedInfo>
             <relatedInfo type="publication">
@@ -140,7 +146,10 @@
                 <identifier type="DOI">10.123/23432410</identifier>
                 <relation type="isCitedBy"/>
                 <notes>Pub notes</notes>
-            </relatedInfo> <relatedInfo type="website">
+            </relatedInfo> 
+
+
+            <relatedInfo type="website">
                 <title>Example Website1</title>
                 <identifier type="URL">https://somewebsite.com/1</identifier>
                 <relation type="isReferencedBy"/>
@@ -149,7 +158,6 @@
             <relatedInfo type="website">
                 <title>Example Website2</title>
                 <identifier type="URL">https://somewebsite.com/2</identifier>
-                <relation type="isReferencedBy"/>
                 <notes>Pub notes</notes>
             </relatedInfo>
             <relatedInfo type="website">
@@ -167,7 +175,7 @@
             <relatedInfo type="website">
                 <title>Example Website5</title>
                 <identifier type="URL">https://somewebsite.com/5</identifier>
-                <relation type="isReferencedBy"/>
+                <relation type="isAvailableThrough"/>
                 <notes>Pub notes</notes>
             </relatedInfo>
             <relatedInfo type="website">
@@ -201,7 +209,7 @@
                 <notes>Pub notes</notes>
             </relatedInfo> 
 
-<relatedObject>
+            <relatedObject>
                 <key>P11_27</key>
                 <relation type="isManagedBy"/>
             </relatedObject>
@@ -221,33 +229,33 @@
                 <key>P15_27</key>
                 <relation type="hasPrincipalInvestigator"/>
             </relatedObject> <relatedInfo type="party">
-                <title>Example Org 6</title>
+                <title>Example Org 16</title>
                 <identifier type="AU-ANL:PEAU">P16_27_ID_1</identifier>
                 <relation type="hasPrincipalInvestigator"/>
                 <notes>Link is to a web archive as this program is no longer current</notes>
             </relatedInfo>
             <relatedInfo type="party">
-                <title>Example Party 7</title>
-                <identifier type="AU-ANL:PEAU">P17_27_ID_2</identifier>
-                <relation type="hasPrincipalInvestigator"/>
+                <title>Example Party 17</title>
+                <identifier type="AU-ANL:PEAU">P17_27_ID_1</identifier>
+                <relation type="isManagedBy"/>
                 <notes>Link is to a web archive as this program is no longer current</notes>
             </relatedInfo>
             <relatedInfo type="party">
-                <title>Example Party 8</title>
+                <title>Example Party 18</title>
                 <identifier type="AU-ANL:PEAU">P18_27_ID_1</identifier>
-                <relation type="hasPrincipalInvestigator"/>
+                <relation type="isOwnedBy"/>
                 <notes>Link is to a web archive as this program is no longer current</notes>
             </relatedInfo>
             <relatedInfo type="party">
-                <title>Example Party 9</title>
+                <title>Example Party 19</title>
                 <identifier type="AU-ANL:PEAU">P19_27_ID_1</identifier>
-                <relation type="hasPrincipalInvestigator"/>
+                <relation type="localRelation"/>
                 <notes>Link is to a web archive as this program is no longer current</notes>
             </relatedInfo>
             <relatedInfo type="party">
-                <title>Example Party 10</title>
-                <identifier type="AU-ANL:PEAU">P20_27_ID_11</identifier>
-                <relation type="hasPrincipalInvestigator"/>
+                <title>Example Party 20</title>
+                <identifier type="AU-ANL:PEAU">P20_27_ID_1</identifier>
+                <relation type="isOwnedBy"/>
                 <notes>Link is to a web archive as this program is no longer current</notes>
             </relatedInfo>
 
@@ -427,7 +435,7 @@
             </coverage>
             <relatedObject>
                 <key>C1_27</key>
-                <relation type="hasAssociationWith"/>
+                <relation type="isLocatedIn"/>
             </relatedObject>
             <subject type="anzsrc-for">1106</subject>
             <subject type="local">Sports participation</subject>
@@ -476,7 +484,7 @@
             </coverage>
             <relatedObject>
                 <key>C1_27</key>
-                <relation type="hasAssociationWith"/>
+                <relation type="hasDerivedCollection"/>
             </relatedObject>
             <subject type="anzsrc-for">1106</subject>
             <subject type="local">Sports participation</subject>
@@ -624,7 +632,7 @@
             <relatedInfo type="collection">
                 <title>Example Collection</title>
                 <identifier type="local">C1_27_ID1</identifier>
-                <relation type="hasAssociationWith"/>
+                <relation type="hasPart"/>
                 <notes>Link is to a web archive as this program is no longer current</notes>
             </relatedInfo>
             <subject type="anzsrc-for">1106</subject>
@@ -675,7 +683,7 @@
             <relatedInfo type="collection">
                 <title>Example Collection</title>
                 <identifier type="local">C1_27_ID1</identifier>
-                <relation type="hasAssociationWith"/>
+                <relation type="isPartOf"/>
                 <notes>Link is to a web archive as this program is no longer current</notes>
             </relatedInfo>
             <subject type="anzsrc-for">1106</subject>
@@ -726,7 +734,7 @@
             <relatedInfo type="collection">
                 <title>Example Collection</title>
                 <identifier type="local">C1_27_ID1</identifier>
-                <relation type="hasAssociationWith"/>
+                <relation type="localRelation"/>
                 <notes>Link is to a web archive as this program is no longer current</notes>
             </relatedInfo>
             <subject type="anzsrc-for">1106</subject>
@@ -1583,7 +1591,7 @@
             </rights>
             <relatedObject>
                 <key>C1_27</key>
-                <relation type="isSupportedBy"/>
+                <relation type="produces"/>
             </relatedObject>
         </service>
     </registryObject>
@@ -1625,7 +1633,7 @@
             </rights>
             <relatedObject>
                 <key>C1_27</key>
-                <relation type="isSupportedBy"/>
+                <relation type="makesAvailable"/>
             </relatedObject>
         </service>
     </registryObject>

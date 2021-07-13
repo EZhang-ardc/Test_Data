@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d6e6600b-2bcf-432b-81c3-4510c5cd1692" name="Default Changelist" comment="Add a test file for related object testing">
-      <change afterPath="$PROJECT_DIR$/RDA/Manual_Entry_Form_Test_Records/Related_Object_Tab_Test_Advanced_Search_Classes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RDA/Manual_Entry_Form_Test_Records/Related_Object_Tab_Test_Advanced_Search_Datasource1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RDA/Manual_Entry_Form_Test_Records/Related_Object_Tab_Test_Advanced_Search_Datasource2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="d6e6600b-2bcf-432b-81c3-4510c5cd1692" name="Default Changelist" comment="Add a test file for quality metadata report.">
+      <change afterPath="$PROJECT_DIR$/RDA/Manual_Entry_Form_Test_Records/Related_Object_Tab_Testing_Records.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,13 +22,9 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/RDA/Manual_Entry_Form_Test_Records" />
     <property name="settings.editor.selected.configurable" value="preferences.externalDependencies" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/RDA/Manual_Entry_Form_Test_Records" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -171,14 +164,7 @@
       <option name="project" value="LOCAL" />
       <updated>1626130489634</updated>
     </task>
-    <task id="LOCAL-00016" summary="Add a test file for related object testing">
-      <created>1626130910241</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1626130910243</updated>
-    </task>
-    <option name="localTasksCounter" value="17" />
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -209,7 +195,6 @@
     <MESSAGE value="Add test case for contributor section." />
     <MESSAGE value="Add a new test case for contributor page." />
     <MESSAGE value="Add a test file for quality metadata report." />
-    <MESSAGE value="Add a test file for related object testing" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add a test file for related object testing" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add a test file for quality metadata report." />
   </component>
 </project>
