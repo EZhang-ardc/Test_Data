@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d6e6600b-2bcf-432b-81c3-4510c5cd1692" name="Default Changelist" comment="Add a test file for quality metadata report.">
-      <change afterPath="$PROJECT_DIR$/RDA/Manual_Entry_Form_Test_Records/Related_Object_Tab_Testing_Records.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RDA/Relationships/28_RelationshipScenario/28_RelationshipScenario_Loop.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RDA/Relationships/29_RelationshipScenario/29_RelationshipScenario_Polyhierarchy.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
