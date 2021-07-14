@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d6e6600b-2bcf-432b-81c3-4510c5cd1692" name="Default Changelist" comment="Add a test file for quality metadata report.">
-      <change afterPath="$PROJECT_DIR$/RDA/Relationships/28_RelationshipScenario/28_RelationshipScenario_Loop.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RDA/Relationships/29_RelationshipScenario/29_RelationshipScenario_Polyhierarchy.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="d6e6600b-2bcf-432b-81c3-4510c5cd1692" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/RDA/Relationships/27_RelationshipScenario/27_RelationshipScenario.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RDA/Relationships/27_RelationshipScenario/27_RelationshipScenario.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +15,7 @@
   <component name="ProjectId" id="1s2uGGNYe2NfKA94g6t6iNuQh3X" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
@@ -59,7 +58,7 @@
       <workItem from="1622002690444" duration="1927000" />
       <workItem from="1622498034409" duration="1667000" />
       <workItem from="1623707694642" duration="667000" />
-      <workItem from="1625124329663" duration="7581000" />
+      <workItem from="1625124329663" duration="9132000" />
     </task>
     <task id="LOCAL-00001" summary="Test Commit">
       <created>1620083305036</created>
@@ -145,44 +144,32 @@
       <option name="project" value="LOCAL" />
       <updated>1625619693575</updated>
     </task>
-    <task id="LOCAL-00013" summary="Add test case for contributor section.">
-      <created>1626044457664</created>
+    <task id="LOCAL-00013" summary="Update RDA Relationship Scenario 27">
+      <created>1625731409376</created>
       <option name="number" value="00013" />
       <option name="presentableId" value="LOCAL-00013" />
       <option name="project" value="LOCAL" />
-      <updated>1626044457664</updated>
+      <updated>1625731409376</updated>
     </task>
-    <task id="LOCAL-00014" summary="Add a new test case for contributor page.">
-      <created>1626049849208</created>
+    <task id="LOCAL-00014" summary="Add Large Harvest Example 5000 records.xml">
+      <created>1626133429717</created>
       <option name="number" value="00014" />
       <option name="presentableId" value="LOCAL-00014" />
       <option name="project" value="LOCAL" />
-      <updated>1626049849208</updated>
+      <updated>1626133429717</updated>
     </task>
-    <task id="LOCAL-00015" summary="Add a test file for quality metadata report.">
-      <created>1626130489632</created>
+    <task id="LOCAL-00015" summary="Update Large Harvest Example 5000 records.xml">
+      <created>1626133615832</created>
       <option name="number" value="00015" />
       <option name="presentableId" value="LOCAL-00015" />
       <option name="project" value="LOCAL" />
-      <updated>1626130489634</updated>
+      <updated>1626133615832</updated>
     </task>
     <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Test Commit" />
@@ -194,9 +181,27 @@
     <MESSAGE value="Add RDA Relationship Scenario 19 &amp; 20" />
     <MESSAGE value="Add RDA Relationship Scenario 21, 22 &amp; 23" />
     <MESSAGE value="Update RDA Relationship Scenario 23" />
-    <MESSAGE value="Add test case for contributor section." />
-    <MESSAGE value="Add a new test case for contributor page." />
-    <MESSAGE value="Add a test file for quality metadata report." />
-    <option name="LAST_COMMIT_MESSAGE" value="Add a test file for quality metadata report." />
+    <MESSAGE value="Update RDA Relationship Scenario 27" />
+    <MESSAGE value="Add Large Harvest Example 5000 records.xml" />
+    <MESSAGE value="Update Large Harvest Example 5000 records.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update Large Harvest Example 5000 records.xml" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="743" y="107" key="CommitChangelistDialog2" timestamp="1626133614375">
+      <screen x="0" y="23" width="2048" height="1005" />
+    </state>
+    <state x="743" y="107" key="CommitChangelistDialog2/-1440.0.1440.900/0.23.2048.1005@0.23.2048.1005" timestamp="1626133614375" />
+    <state x="727" y="242" key="MultipleFileMergeDialog" timestamp="1626133444220">
+      <screen x="0" y="23" width="2048" height="1005" />
+    </state>
+    <state x="727" y="242" key="MultipleFileMergeDialog/-1440.0.1440.900/0.23.2048.1005@0.23.2048.1005" timestamp="1626133444220" />
+    <state x="749" y="245" key="Vcs.Push.Dialog.v2" timestamp="1626133620037">
+      <screen x="0" y="23" width="2048" height="1005" />
+    </state>
+    <state x="749" y="245" key="Vcs.Push.Dialog.v2/-1440.0.1440.900/0.23.2048.1005@0.23.2048.1005" timestamp="1626133620037" />
+    <state x="811" y="390" key="git4idea.rebase.GitRebaseDialog" timestamp="1626223031589">
+      <screen x="0" y="23" width="2048" height="1005" />
+    </state>
+    <state x="811" y="390" key="git4idea.rebase.GitRebaseDialog/-1440.0.1440.900/0.23.2048.1005@0.23.2048.1005" timestamp="1626223031589" />
   </component>
 </project>

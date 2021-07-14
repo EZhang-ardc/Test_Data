@@ -30,31 +30,31 @@
                 <relation type="hasPrincipalInvestigator"/>
             </relatedObject> <relatedInfo type="party">
                 <title>Example Party 6</title>
-                <identifier type="AU-ANL:PEAU">P1_27_ID_6</identifier>
+                <identifier type="AU-ANL:PEAU">P6_27_ID_1</identifier>
                 <relation type="hasPrincipalInvestigator"/>
                 <notes>Link is to a web archive as this program is no longer current</notes>
             </relatedInfo>
             <relatedInfo type="party">
                 <title>Example Party 7</title>
-                <identifier type="AU-ANL:PEAU">P1_27_ID_7</identifier>
+                <identifier type="AU-ANL:PEAU">P7_27_ID_1</identifier>
                 <relation type="hasPrincipalInvestigator"/>
                 <notes>Link is to a web archive as this program is no longer current</notes>
             </relatedInfo>
             <relatedInfo type="party">
                 <title>Example Party 8</title>
-                <identifier type="AU-ANL:PEAU">P1_27_ID_8</identifier>
+                <identifier type="AU-ANL:PEAU">P8_27_ID_1</identifier>
                 <relation type="hasPrincipalInvestigator"/>
                 <notes>Link is to a web archive as this program is no longer current</notes>
             </relatedInfo>
             <relatedInfo type="party">
                 <title>Example Party 9</title>
-                <identifier type="AU-ANL:PEAU">P1_27_ID_9</identifier>
+                <identifier type="AU-ANL:PEAU">P9_27_ID_1</identifier>
                 <relation type="hasAssociationWith"/>
                 <notes>Link is to a web archive as this program is no longer current</notes>
             </relatedInfo>
             <relatedInfo type="party">
                 <title>Example Party 10</title>
-                <identifier type="AU-ANL:PEAU">P1_27_ID_10</identifier>
+                <identifier type="AU-ANL:PEAU">P10_27_ID_1</identifier>
                 <relation type="localRelation"/>
                 <notes>Link is to a web archive as this program is no longer current</notes>
             </relatedInfo> 
@@ -829,7 +829,7 @@
         <key>P2_27</key>
         <originatingSource type="authoritative">http://trove.nla.gov.au/people</originatingSource>
         <party dateModified="2019-07-08T19:00:10Z" type="person">
-            <identifier type="AU-ANL:PEAU">P2_27_ID_2</identifier>
+            <identifier type="AU-ANL:PEAU">P2_27_ID_1</identifier>
             
             <name type="alternative">
                 <namePart type="family">Number 2</namePart>
@@ -849,7 +849,7 @@
         <key>P3_27</key>
         <originatingSource type="authoritative">http://trove.nla.gov.au/people</originatingSource>
         <party dateModified="2019-07-08T19:00:10Z" type="person">
-            <identifier type="AU-ANL:PEAU">P3_27_ID_3</identifier>
+            <identifier type="AU-ANL:PEAU">P3_27_ID_1</identifier>
             
             <name type="alternative">
                 <namePart type="family">Number 3</namePart>
@@ -869,7 +869,7 @@
         <key>P4_27</key>
         <originatingSource type="authoritative">http://trove.nla.gov.au/people</originatingSource>
         <party dateModified="2019-07-08T19:00:10Z" type="person">
-            <identifier type="AU-ANL:PEAU">P4_27_ID_4</identifier>
+            <identifier type="AU-ANL:PEAU">P4_27_ID_1</identifier>
             
             <name type="alternative">
                 <namePart type="family">Number 4</namePart>
@@ -889,7 +889,7 @@
         <key>P5_27</key>
         <originatingSource type="authoritative">http://trove.nla.gov.au/people</originatingSource>
         <party dateModified="2019-07-08T19:00:10Z" type="person">
-            <identifier type="AU-ANL:PEAU">P5_27_ID_5</identifier>
+            <identifier type="AU-ANL:PEAU">P5_27_ID_1</identifier>
             
             <name type="alternative">
                 <namePart type="family">Number 5</namePart>
@@ -909,7 +909,7 @@
         <key>P6_27</key>
         <originatingSource type="authoritative">http://trove.nla.gov.au/people</originatingSource>
         <party dateModified="2019-07-08T19:00:10Z" type="person">
-            <identifier type="AU-ANL:PEAU">P6_27_ID_6</identifier>
+            <identifier type="AU-ANL:PEAU">P6_27_ID_1</identifier>
             
             <name type="alternative">
                 <namePart type="family">Number 6</namePart>
@@ -929,7 +929,7 @@
         <key>P7_27</key>
         <originatingSource type="authoritative">http://trove.nla.gov.au/people</originatingSource>
         <party dateModified="2019-07-08T19:00:10Z" type="person">
-            <identifier type="AU-ANL:PEAU">P7_27_ID_7</identifier>
+            <identifier type="AU-ANL:PEAU">P7_27_ID_1</identifier>
             
             <name type="alternative">
                 <namePart type="family">Number 7</namePart>
@@ -949,7 +949,7 @@
         <key>P8_27</key>
         <originatingSource type="authoritative">http://trove.nla.gov.au/people</originatingSource>
         <party dateModified="2019-07-08T19:00:10Z" type="person">
-            <identifier type="AU-ANL:PEAU">P8_27_ID_8</identifier>
+            <identifier type="AU-ANL:PEAU">P8_27_ID_1</identifier>
             
             <name type="alternative">
                 <namePart type="family">Number 8</namePart>
@@ -969,7 +969,7 @@
         <key>P9_27</key>
         <originatingSource type="authoritative">http://trove.nla.gov.au/people</originatingSource>
         <party dateModified="2019-07-08T19:00:10Z" type="person">
-            <identifier type="AU-ANL:PEAU">P9_27_ID_9</identifier>
+            <identifier type="AU-ANL:PEAU">P9_27_ID_1</identifier>
             
             <name type="alternative">
                 <namePart type="family">Number 9</namePart>
@@ -989,7 +989,7 @@
         <key>P10_27</key>
         <originatingSource type="authoritative">http://trove.nla.gov.au/people</originatingSource>
         <party dateModified="2019-07-08T19:00:10Z" type="person">
-            <identifier type="AU-ANL:PEAU">P10_27_ID_10</identifier>
+            <identifier type="AU-ANL:PEAU">P10_27_ID_1</identifier>
             
             <name type="alternative">
                 <namePart type="family">Number 10</namePart>
