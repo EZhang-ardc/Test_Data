@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<registryObjects xmlns="http://ands.org.au/standards/rif-cs/registryObjects" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ands.org.au/standards/rif-cs/registryObjects http://services.ands.org.au/documentation/rifcs/schema/registryObjects.xsd">
+  <registryObject group="Australian Ocean Data Network">
+    <key>RandomKey234564243543870e</key>
+    <originatingSource type="">https://test.researchdata.ardc.edu.au/registry//orca/register_my_data</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>Test Metadata Crosswalks - Scholix</namePart>
+      </name>
+      <name type="alternative">
+        <namePart>test name</namePart>
+      </name>
+      <description type="full">&lt;p&gt;just a description&lt;/p&gt;</description>
+      <relatedObject>
+        <key>www.nicta.com.au/collection-3-test</key>
+        <relation type="isReferencedBy"/>
+      </relatedObject>
+      <relatedObject>
+        <key>GA/Cooper,A.K.</key>
+        <relation type="hasPrincipalInvestigator"/>
+      </relatedObject>
+      <relatedInfo type="publication">
+        <title>test scholix 1</title>
+        <identifier type="doi">14.444/555</identifier>
+        <relation type="isReferencedBy"/>
+      </relatedInfo>
+      <relatedInfo type="publication">
+        <title>test scholix 2</title>
+        <identifier type="doi">11.222/333</identifier>
+        <relation type="isAvailableThrough"/>
+      </relatedInfo>
+
+      <citationInfo>
+        <fullCitation style="APA">Stein, L. I., & Test, M. A. (1980). Alternative to mental hospital treatment: I. Conceptual model, treatment program, and clinical evaluation. Archives of general psychiatry, 37(4), 392-397.</fullCitation>
+      </citationInfo>
+    </collection>
+  </registryObject>
+</registryObjects>
