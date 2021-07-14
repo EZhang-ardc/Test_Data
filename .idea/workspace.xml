@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d6e6600b-2bcf-432b-81c3-4510c5cd1692" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/RDA/Scholix_Test_Records/Scholix_Relationship_Test.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RDA/RDA_View_Page_Test_Records/RDA_Collection_View_Page_View_n_Related_RIFCS.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RDA/RDA_View_Page_Test_Records/RDA_Collection_View_Page_View_n_Related_RIFCS.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RDA/Relationships/30_RelationshipScenario/30_RelationshipScenario.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +15,7 @@
   <component name="ProjectId" id="1s2uGGNYe2NfKA94g6t6iNuQh3X" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
@@ -59,7 +58,7 @@
       <workItem from="1622002690444" duration="1927000" />
       <workItem from="1622498034409" duration="1667000" />
       <workItem from="1623707694642" duration="667000" />
-      <workItem from="1625124329663" duration="9809000" />
+      <workItem from="1625124329663" duration="10459000" />
     </task>
     <task id="LOCAL-00001" summary="Test Commit">
       <created>1620083305036</created>
@@ -173,23 +172,18 @@
       <option name="project" value="LOCAL" />
       <updated>1626223057671</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Fix grants links in 27_RelationshipScenario.xml">
+      <created>1626223746647</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1626223746647</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Test Commit" />
@@ -205,21 +199,22 @@
     <MESSAGE value="Add Large Harvest Example 5000 records.xml" />
     <MESSAGE value="Update Large Harvest Example 5000 records.xml" />
     <MESSAGE value="Update 27_RelationshipScenario.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update 27_RelationshipScenario.xml" />
+    <MESSAGE value="Fix grants links in 27_RelationshipScenario.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix grants links in 27_RelationshipScenario.xml" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="743" y="107" key="CommitChangelistDialog2" timestamp="1626223057491">
+    <state x="743" y="107" key="CommitChangelistDialog2" timestamp="1626223746455">
       <screen x="0" y="23" width="2048" height="1005" />
     </state>
-    <state x="743" y="107" key="CommitChangelistDialog2/-1440.0.1440.900/0.23.2048.1005@0.23.2048.1005" timestamp="1626223057491" />
+    <state x="743" y="107" key="CommitChangelistDialog2/-1440.0.1440.900/0.23.2048.1005@0.23.2048.1005" timestamp="1626223746455" />
     <state x="727" y="242" key="MultipleFileMergeDialog" timestamp="1626223065671">
       <screen x="0" y="23" width="2048" height="1005" />
     </state>
     <state x="727" y="242" key="MultipleFileMergeDialog/-1440.0.1440.900/0.23.2048.1005@0.23.2048.1005" timestamp="1626223065671" />
-    <state x="749" y="245" key="Vcs.Push.Dialog.v2" timestamp="1626223071308">
+    <state x="749" y="245" key="Vcs.Push.Dialog.v2" timestamp="1626223748023">
       <screen x="0" y="23" width="2048" height="1005" />
     </state>
-    <state x="749" y="245" key="Vcs.Push.Dialog.v2/-1440.0.1440.900/0.23.2048.1005@0.23.2048.1005" timestamp="1626223071308" />
+    <state x="749" y="245" key="Vcs.Push.Dialog.v2/-1440.0.1440.900/0.23.2048.1005@0.23.2048.1005" timestamp="1626223748023" />
     <state x="811" y="390" key="git4idea.rebase.GitRebaseDialog" timestamp="1626223031589">
       <screen x="0" y="23" width="2048" height="1005" />
     </state>
