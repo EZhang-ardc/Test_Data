@@ -140,7 +140,7 @@
         <party type="group">
             <!-- TITLE -->
             <name type="primary">
-                <namePart>(AUTestingRecords) Example related party (3) for duplicated records</namePart>
+                <namePart>related party (3) for duplicated records</namePart>
             </name>
             <description type="brief">&amp;lt;p&amp;gt;A party for all&amp;lt;/p&amp;gt;</description>
             <!-- IDENTIFIER -->
@@ -161,7 +161,7 @@
         <originatingSource>http://www.proteomebrowser.org</originatingSource>
         <party type="group">
             <name type="primary">
-                <namePart type="">Example party (4) related to duplicated collections.</namePart>
+                <namePart type="">related party (4) for duplicated collections.</namePart>
             </name>
             <identifier type="local">P2_ID1_20210809_2</identifier>
             <location>

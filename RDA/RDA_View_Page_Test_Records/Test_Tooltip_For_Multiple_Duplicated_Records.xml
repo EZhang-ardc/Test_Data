@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<registryObjects xmlns="http://ands.org.au/standards/rif-cs/registryObjects" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ands.org.au/standards/rif-cs/registryObjects http://services.ands.org.au/documentation/rifcs/schema/registryObjects.xsd">
+            <registryObject group="AUTestingContributor1">
+        <!-- KEY -->
+        <key>A_new_collection_20210809_02</key>
+        <originatingSource type="">http://demo.ands.org.au/registry/orca/register_my_data</originatingSource>
+        <collection dateModified="2013-04-10T23:51:55Z" type="collection">
+            <!-- TITLE -->
+            <name type="primary">
+                <namePart>Test multiple duplicated collection 5</namePart>
+            </name>
+            <description type="local">&amp;lt;p&amp;gt;This is a local statement for the colleciton&amp;lt;/p&amp;gt;</description>
+            <rights>
+                <rightsStatement rightsUri="http://www.rightsuri.com">Rights Statement Rights Statement</rightsStatement>
+                <licence rightsUri="http://www.rightsuri.com" type="AusGOALRestrictive">LicenceLicenceLicence</licence>
+                <accessRights rightsUri="http://www.rightsuri.com">Access Rights</accessRights>
+            </rights>
+            <!-- IDENTIFIERS -->
+            <identifier type="local">C5_ID1_duplicate1</identifier>
+            <identifier type="local">C5_ID2_duplicate1</identifier>
+            <subject type="anzsrc-seo">830201</subject>
+            <subject type="anzsrc-for">0303</subject>
+            <citationInfo>
+                <citationMetadata>
+                    <identifier type="doi">10.123123123R</identifier>
+                    <title>Citation Title</title>
+                    <version>V0.2</version>
+                    <placePublished>Australia</placePublished>
+                    <publisher>Some Example Publisher</publisher>
+                    <url>http://www.exapmle.com</url>
+                    <context>Context</context>
+                    <contributor seq="1">
+                        <namePart type="given">Joe Blogs</namePart>
+                    </contributor>
+                    <date type="created">12-12-2001</date>
+                </citationMetadata>
+            </citationInfo>
+        </collection>
+    </registryObject>
+
+    <registryObject group="AUTestingContributor2">
+        <!-- KEY -->
+        <key>A_new_collection_20210809_03</key>
+        <originatingSource type="">http://demo.ands.org.au/registry/orca/register_my_data</originatingSource>
+        <collection dateModified="2013-04-10T23:51:55Z" type="collection">
+            <!-- TITLE -->
+            <name type="primary">
+                <namePart>Test multiple duplicated collection 6</namePart>
+            </name>
+            <description type="local">&amp;lt;p&amp;gt;This is a local statement for the colleciton&amp;lt;/p&amp;gt;</description>
+            <rights>
+                <rightsStatement rightsUri="http://www.rightsuri.com">Rights Statement Rights Statement</rightsStatement>
+                <licence rightsUri="http://www.rightsuri.com" type="AusGOALRestrictive">LicenceLicenceLicence</licence>
+                <accessRights rightsUri="http://www.rightsuri.com">Access Rights</accessRights>
+            </rights>
+            <!-- IDENTIFIERS -->
+            <identifier type="local">C5_ID1_duplicate1</identifier>
+            <identifier type="local">C6_ID2_duplicate1</identifier>
+            <subject type="local">localSubject</subject>
+            <subject type="anzsrc-seo">830201</subject>
+            <subject type="anzsrc-for">0303</subject>
+            <citationInfo>
+                <citationMetadata>
+                    <identifier type="doi">10.123123123R</identifier>
+                    <title>Citation Title</title>
+                    <version>V0.2</version>
+                    <placePublished>Australia</placePublished>
+                    <publisher>Some Example Publisher</publisher>
+                    <url>http://www.exapmle.com</url>
+                    <context>Context</context>
+                    <contributor seq="1">
+                        <namePart type="given">Joe Blogs</namePart>
+                    </contributor>
+                    <date type="created">12-12-2001</date>
+                </citationMetadata>
+            </citationInfo>
+        </collection>
+    </registryObject>
+
+                <registryObject group="AUTestingContributor3">
+        <!-- KEY -->
+        <key>A_new_collection_20210809_04</key>
+        <originatingSource type="">http://demo.ands.org.au/registry/orca/register_my_data</originatingSource>
+        <collection dateModified="2013-04-10T23:51:55Z" type="collection">
+            <!-- TITLE -->
+            <name type="primary">
+                <namePart>Test multiple duplicated collection 7</namePart>
+            </name>
+            <description type="local">&amp;lt;p&amp;gt;This is a local statement for the colleciton&amp;lt;/p&amp;gt;</description>
+            <rights>
+                <rightsStatement rightsUri="http://www.rightsuri.com">Rights Statement Rights Statement</rightsStatement>
+                <licence rightsUri="http://www.rightsuri.com" type="AusGOALRestrictive">LicenceLicenceLicence</licence>
+                <accessRights rightsUri="http://www.rightsuri.com">Access Rights</accessRights>
+            </rights>
+            <!-- IDENTIFIERS -->
+            <identifier type="local">C7_ID1_duplicate1</identifier>
+            <identifier type="local">C5_ID2_duplicate1</identifier>
+            <subject type="anzsrc-for">0303</subject>
+            <citationInfo>
+                <citationMetadata>
+                    <identifier type="doi">10.123123123R</identifier>
+                    <title>Citation Title</title>
+                    <version>V0.2</version>
+                    <placePublished>Australia</placePublished>
+                    <publisher>Some Example Publisher</publisher>
+                    <url>http://www.exapmle.com</url>
+                    <context>Context</context>
+                    <contributor seq="1">
+                        <namePart type="given">Joe Blogs</namePart>
+                    </contributor>
+                    <date type="created">12-12-2001</date>
+                </citationMetadata>
+            </citationInfo>
+        </collection>
+    </registryObject>
+
+    <registryObject group="AUTestingContributor3">
+        <!-- KEY -->
+        <key>A_new_collection_20210809_05</key>
+        <originatingSource type="">http://demo.ands.org.au/registry/orca/register_my_data</originatingSource>
+        <collection dateModified="2013-04-10T23:51:55Z" type="collection">
+            <!-- TITLE -->
+            <name type="primary">
+                <namePart>Test multiple duplicated collection 8</namePart>
+            </name>
+            <description type="local">&amp;lt;p&amp;gt;This is a local statement for the colleciton&amp;lt;/p&amp;gt;</description>
+            <rights>
+                <rightsStatement rightsUri="http://www.rightsuri.com">Rights Statement Rights Statement</rightsStatement>
+                <licence rightsUri="http://www.rightsuri.com" type="AusGOALRestrictive">LicenceLicenceLicence</licence>
+                <accessRights rightsUri="http://www.rightsuri.com">Access Rights</accessRights>
+            </rights>
+            <!-- IDENTIFIERS -->
+            <identifier type="local">C8_ID1_duplicate1</identifier>
+            <identifier type="local">C5_ID2_duplicate1</identifier>
+            <subject type="anzsrc-seo">830201</subject>
+            <subject type="anzsrc-for">0303</subject>
+            <citationInfo>
+                <citationMetadata>
+                    <identifier type="doi">10.123123123R</identifier>
+                    <title>Citation Title</title>
+                    <version>V0.2</version>
+                    <placePublished>Australia</placePublished>
+                    <publisher>Some Example Publisher</publisher>
+                    <url>http://www.exapmle.com</url>
+                    <context>Context</context>
+                    <contributor seq="1">
+                        <namePart type="given">Joe Blogs</namePart>
+                    </contributor>
+                    <date type="created">12-12-2001</date>
+                </citationMetadata>
+            </citationInfo>
+        </collection>
+    </registryObject>
+
+
+</registryObjects>
+

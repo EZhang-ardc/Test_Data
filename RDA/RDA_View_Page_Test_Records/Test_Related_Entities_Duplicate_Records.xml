@@ -129,6 +129,45 @@
 
         </collection>
     </registryObject>
+
+            <registryObject group="AUTestingRecordsRelationships">
+        <!-- KEY -->
+        <key>A_new_collection_20210809</key>
+        <originatingSource type="">http://demo.ands.org.au/registry/orca/register_my_data</originatingSource>
+        <collection dateModified="2013-04-10T23:51:55Z" type="collection">
+            <!-- TITLE -->
+            <name type="primary">
+                <namePart>Test new collection</namePart>
+            </name>
+            <description type="local">&amp;lt;p&amp;gt;This is a local statement for the colleciton&amp;lt;/p&amp;gt;</description>
+            <rights>
+                <rightsStatement rightsUri="http://www.rightsuri.com">Rights Statement Rights Statement</rightsStatement>
+                <licence rightsUri="http://www.rightsuri.com" type="AusGOALRestrictive">LicenceLicenceLicence</licence>
+                <accessRights rightsUri="http://www.rightsuri.com">Access Rights</accessRights>
+            </rights>
+
+<relatedInfo type="party"><title>Example party 9</title><identifier type="local">P1_ID1_17</identifier><relation type="isManagedBy"/></relatedInfo><relatedInfo type="party"><title>Example party 9</title><identifier type="local">http://nla.gov.au/nla.party-AUT9</identifier><relation type="isOwnedBy"/></relatedInfo>-->
+            <subject type="local">localSubject</subject>
+            <subject type="anzsrc-seo">830201</subject>
+            <subject type="anzsrc-for">0303</subject>
+            <citationInfo>
+                <citationMetadata>
+                    <identifier type="doi">10.123123123R</identifier>
+                    <title>Citation Title</title>
+                    <version>V0.2</version>
+                    <placePublished>Australia</placePublished>
+                    <publisher>Some Example Publisher</publisher>
+                    <url>http://www.exapmle.com</url>
+                    <context>Context</context>
+                    <contributor seq="1">
+                        <namePart type="given">Joe Blogs</namePart>
+                    </contributor>
+                    <date type="created">12-12-2001</date>
+                </citationMetadata>
+            </citationInfo>
+        </collection>
+    </registryObject>
+
     <!-- ### PARTIES ### -->
     <registryObject group="AUTestingRecordsRelationships">
         <!-- KEY -->
@@ -137,7 +176,7 @@
         <party type="group">
             <!-- TITLE -->
             <name type="primary">
-                <namePart>(AUTestingRecords) Example related party for duplicated records</namePart>
+                <namePart>Example related party (1) for duplicated records</namePart>
             </name>
             <description type="brief">&amp;lt;p&amp;gt;A party for all&amp;lt;/p&amp;gt;</description>
             <!-- IDENTIFIER -->
@@ -158,7 +197,7 @@
         <originatingSource>http://www.proteomebrowser.org</originatingSource>
         <party type="group">
             <name type="primary">
-                <namePart type="">Example party (2) related to duplicated collections.</namePart>
+                <namePart type="">Example related party (2) for duplicated collections.</namePart>
             </name>
             <identifier type="local">P2_ID1_20210809</identifier>
             <location>
