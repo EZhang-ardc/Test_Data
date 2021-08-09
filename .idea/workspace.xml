@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d6e6600b-2bcf-432b-81c3-4510c5cd1692" name="Default Changelist" comment="Add test files for registry object advanced search">
-      <change afterPath="$PROJECT_DIR$/RDA/RDA_View_Page_Nested_Collection_Test_Records/Test_Nested_Collection_Large_Record.xml" afterDir="false" />
+    <list default="true" id="d6e6600b-2bcf-432b-81c3-4510c5cd1692" name="Default Changelist" comment="Add test files for the nested collection testing">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,9 +22,13 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/RDA/RDA_View_Page_Nested_Collection_Test_Records" />
     <property name="settings.editor.selected.configurable" value="preferences.externalDependencies" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/RDA/RDA_View_Page_Nested_Collection_Test_Records" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -42,6 +45,7 @@
       </list>
     </option>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="d6e6600b-2bcf-432b-81c3-4510c5cd1692" name="Default Changelist" comment="" />
@@ -200,7 +204,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626667225488</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Add test files for the nested collection testing">
+      <created>1626748439815</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1626748439816</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -235,6 +246,7 @@
     <MESSAGE value="Fix grants links in 27_RelationshipScenario.xml" />
     <MESSAGE value="Add 30_RelationshipScenario.xml" />
     <MESSAGE value="Add test files for registry object advanced search" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add test files for registry object advanced search" />
+    <MESSAGE value="Add test files for the nested collection testing" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add test files for the nested collection testing" />
   </component>
 </project>
