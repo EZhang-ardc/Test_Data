@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<registryObjects xmlns="http://ands.org.au/standards/rif-cs/registryObjects" xmlns:extRif="http://ands.org.au/standards/rif-cs/extendedRegistryObjects" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ands.org.au/standards/rif-cs/registryObjects http://services.ands.org.au/documentation/rifcs/schema/registryObjects.xsd">
+<registryObject group="QFAB">
+    <key>1nest_leaf1</key>
+    <originatingSource>http://services.ands.org.au/sandbox/orca/register_my_data</originatingSource>
+    <collection type="collection">
+      <identifier type="local">www.qfab.org/collection-97111111</identifier>
+      <name type="primary">
+        <namePart>leaf 1 </namePart>
+      </name>
+
+      <description type="note">the end node of a nested collection</description>
+      <description type="full">This data collection contains all currently published nucleotide (DNA/RNA) and protein sequences from  the Australian research institution,Queensland University of Technology.The nucleotide (DNA/RNA) and protein sequences have been sourced through the European Nucleotide Archive (ENA) and Universal Protein Resource (UniProt), databases that contains comprehensive sets of nucleotide (DNA/RNA) and protein sequences from all organisms that have been published by the International Research Community.
+</description>
+      <description type="accessRights">This data is freely available to any individual for any purpose. For more information see http:www.ebi.ac.uk/Information/termsofuse.html</description>
+      <relatedObject>
+        <key>1branch1</key>
+        <relation type="isPartOf"/>
+      </relatedObject>
+        <relatedObject>
+        <key>1Manager1</key>
+        <relation type="isManagedBy"/>
+      </relatedObject>
+    </collection>
+  </registryObject>
+
+    <registryObject group="QFAB">
+    <key>1nest_leaf2</key>
+    <originatingSource>http://services.ands.org.au/sandbox/orca/register_my_data</originatingSource>
+    <collection type="collection">
+      <identifier type="local">www.qfab.org/collection-97111112</identifier>
+      <name type="primary">
+        <namePart>leaf 2 </namePart>
+      </name>
+
+      <description type="note">the end node of a nested collection</description>
+      <description type="full">This data collection contains all currently published nucleotide (DNA/RNA) and protein sequences from  the Australian research institution,Queensland University of Technology.The nucleotide (DNA/RNA) and protein sequences have been sourced through the European Nucleotide Archive (ENA) and Universal Protein Resource (UniProt), databases that contains comprehensive sets of nucleotide (DNA/RNA) and protein sequences from all organisms that have been published by the International Research Community.
+</description>
+      <description type="accessRights">This data is freely available to any individual for any purpose. For more information see http:www.ebi.ac.uk/Information/termsofuse.html</description>
+      <relatedObject>
+        <key>1branch1</key>
+        <relation type="isPartOf"/>
+      </relatedObject>
+    </collection>
+  </registryObject>
+
+        <registryObject group="QFAB">
+    <key>1branch1</key>
+    <originatingSource>http://services.ands.org.au/sandbox/orca/register_my_data</originatingSource>
+    <collection type="collection">
+      <identifier type="local">www.qfab.org/collection-97111</identifier>
+      <name type="primary">
+        <namePart>branch 1 </namePart>
+      </name>
+
+      <description type="note">A branch on the nested collection tree</description>
+      <description type="full">This data collection contains all currently published nucleotide (DNA/RNA) and protein sequences from  the Australian research institution,Queensland University of Technology.The nucleotide (DNA/RNA) and protein sequences have been sourced through the European Nucleotide Archive (ENA) and Universal Protein Resource (UniProt), databases that contains comprehensive sets of nucleotide (DNA/RNA) and protein sequences from all organisms that have been published by the International Research Community.
+</description>
+      <description type="accessRights">This data is freely available to any individual for any purpose. For more information see http:www.ebi.ac.uk/Information/termsofuse.html</description>
+      <relatedObject>
+        <key>1branch2-1</key>
+        <relation type="isPartOf"/>
+      </relatedObject>
+    </collection>
+  </registryObject>
+
+           <registryObject group="QFAB">
+    <key>1branch2</key>
+    <originatingSource>http://services.ands.org.au/sandbox/orca/register_my_data</originatingSource>
+    <collection type="collection">
+      <identifier type="local">www.qfab.org/collection-971112</identifier>
+      <name type="primary">
+        <namePart>branch 2 </namePart>
+      </name>
+
+      <description type="note">A branch on the nested collection tree</description>
+      <description type="full">This data collection contains all currently published nucleotide (DNA/RNA) and protein sequences from  the Australian research institution,Queensland University of Technology.The nucleotide (DNA/RNA) and protein sequences have been sourced through the European Nucleotide Archive (ENA) and Universal Protein Resource (UniProt), databases that contains comprehensive sets of nucleotide (DNA/RNA) and protein sequences from all organisms that have been published by the International Research Community.
+</description>
+      <description type="accessRights">This data is freely available to any individual for any purpose. For more information see http:www.ebi.ac.uk/Information/termsofuse.html</description>
+      <relatedObject>
+        <key>1branch2-1</key>
+        <relation type="isPartOf"/>
+      </relatedObject>
+    </collection>
+  </registryObject>
+
+
+           <registryObject group="QFAB">
+    <key>1branch2-1</key>
+    <originatingSource>http://services.ands.org.au/sandbox/orca/register_my_data</originatingSource>
+    <collection type="collection">
+      <identifier type="local">www.qfab.org/collection-9711122345345</identifier>
+      <name type="primary">
+        <namePart>parent </namePart>
+      </name>
+
+      <description type="note">A parent node on the nested collection tree</description>
+      <description type="full">This data collection contains all currently published nucleotide (DNA/RNA) and protein sequences from  the Australian research institution,Queensland University of Technology.The nucleotide (DNA/RNA) and protein sequences have been sourced through the European Nucleotide Archive (ENA) and Universal Protein Resource (UniProt), databases that contains comprehensive sets of nucleotide (DNA/RNA) and protein sequences from all organisms that have been published by the International Research Community.
+</description>
+      <description type="accessRights">This data is freely available to any individual for any purpose. For more information see http:www.ebi.ac.uk/Information/termsofuse.html</description>
+      <relatedObject>
+        <key>1branch3-1</key>
+        <relation type="isPartOf"/>
+      </relatedObject>
+    </collection>
+  </registryObject>
+
+             <registryObject group="QFAB">
+    <key>1branch3-1</key>
+    <originatingSource>http://services.ands.org.au/sandbox/orca/register_my_data</originatingSource>
+    <collection type="collection">
+      <identifier type="local">www.qfab.org/collection-9711124tyrty</identifier>
+      <name type="primary">
+        <namePart>grandparent </namePart>
+      </name>
+
+      <description type="note">A grandparent node on the nested collection tree</description>
+      <description type="full">This data collection contains all currently published nucleotide (DNA/RNA) and protein sequences from  the Australian research institution,Queensland University of Technology.The nucleotide (DNA/RNA) and protein sequences have been sourced through the European Nucleotide Archive (ENA) and Universal Protein Resource (UniProt), databases that contains comprehensive sets of nucleotide (DNA/RNA) and protein sequences from all organisms that have been published by the International Research Community.
+</description>
+      <description type="accessRights">This data is freely available to any individual for any purpose. For more information see http:www.ebi.ac.uk/Information/termsofuse.html</description>
+    </collection>
+  </registryObject>
+
+     <registryObject group="National Library of Australia">
+    <key>1Manager1</key>
+    <originatingSource type="authoritative">http://trove.nla.gov.au/people</originatingSource>
+    <party dateModified="2019-07-16T11:33:51Z" type="group">
+
+      <name type="alternative">
+        <namePart>Test Manager for grants network: Monash University</namePart>
+      </name>
+      <name type="alternative">
+        <namePart>Universytet im. Monasha</namePart>
+      </name>
+      <name type="primary">
+        <namePart>Monash University</namePart>
+      </name>
+      <name type="alternative">
+        <namePart>Monash University</namePart>
+      </name>
+      <name type="alternative">
+        <namePart>Monash University</namePart>
+      </name>
+      <location>
+        <address>
+          <electronic type="url">
+            <value>http://nla.gov.au/nla.party-507067</value>
+          </electronic>
+        </address>
+      </location>
+      <description type="brief"/>
+      <description type="brief">In 1958 Monash University was established by an Act of Parliament. Originally it consisted of a single campus in Clayton and the initial intake of students, in 1961, was 363. Since then Monash University has grown to six campuses within Australia as well as one in Malaysia and had a total of 42,950 students enrolled in 1999.</description>
+      <description type="full">Monash University website, viewed February 9, 2016</description>
+      <description type="full">(Named after engineer, military leader and public administrator Sir John Monash, Monash University was established by an Act of Parliament in 1958. When our first students began their studies at our foundation campus in Clayton in 1961, we became the first university established in the state of Victoria in over 100 years. The growth from technology/science specialists to general university was rapid. It was accelerated by a merger with Chisholm Institute in 1990, which saw the Caulfield and Peninsula campuses become a part of the University. A year later the Victorian College of Pharmacy entered into a partnership with Monash that allowed us to bring Parkville into our portfolio of campuses. The growth continued apace with the establishment of a new campus within the south-eastern growth corridor of Melbourne in 1994 - our Berwick campus. In 1998, the Malaysian Ministry of Education invited Monash to set up a campus in Malaysia in collaboration with the Sunway Group. Monash University Malaysia was established in the same year, the first Monash campus outside Australia and the first "foreign" university in Malaysia. A second off-shore campus was opened in South Africa in 2001. Since 2014, Monash South Africa has not operated as a full campus of Monash University but remains a location where Monash University degrees are delivered, along with qualifications unique to this location.)</description>
+      <description type="full">No description available</description>
+    </party>
+  </registryObject>
+
+</registryObjects>

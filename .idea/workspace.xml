@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d6e6600b-2bcf-432b-81c3-4510c5cd1692" name="Default Changelist" comment="Update the test files for duplicated records.">
+      <change afterPath="$PROJECT_DIR$/RDA/RDA_View_Page_Nested_Collection_Test_Records/Test_Nested_Collection_Small_test_data.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RDA/RDA_View_Page_Test_Records/Test_Tooltip_For_Multiple_Duplicated_Records.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RDA/RDA_View_Page_Test_Records/Test_Tooltip_For_Multiple_Duplicated_Records.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,13 +31,13 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/RDA/RDA_View_Page_Test_Records" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/RDA/RDA_View_Page_Nested_Collection_Test_Records" />
     <property name="settings.editor.selected.configurable" value="preferences.externalDependencies" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/RDA/RDA_View_Page_Test_Records" />
       <recent name="$PROJECT_DIR$/RDA/RDA_View_Page_Nested_Collection_Test_Records" />
+      <recent name="$PROJECT_DIR$/RDA/RDA_View_Page_Test_Records" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -235,7 +235,14 @@
       <option name="project" value="LOCAL" />
       <updated>1628486397790</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Update the test files for duplicated records.">
+      <created>1628490420437</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1628490420437</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
