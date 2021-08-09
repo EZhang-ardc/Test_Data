@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d6e6600b-2bcf-432b-81c3-4510c5cd1692" name="Default Changelist" comment="Add test files for testing duplicated records and duplicated relations.">
-      <change afterPath="$PROJECT_DIR$/RDA/RDA_View_Page_Test_Records/Test_Tooltip_For_Multiple_Duplicated_Records.xml" afterDir="false" />
+    <list default="true" id="d6e6600b-2bcf-432b-81c3-4510c5cd1692" name="Default Changelist" comment="Update the test files for duplicated records.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RDA/RDA_View_Page_Test_Records/Test_Duplicate_Records_Duplicated_Relations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RDA/RDA_View_Page_Test_Records/Test_Duplicate_Records_Duplicated_Relations.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RDA/RDA_View_Page_Test_Records/Test_Related_Entities_Duplicate_Records.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RDA/RDA_View_Page_Test_Records/Test_Related_Entities_Duplicate_Records.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RDA/RDA_View_Page_Test_Records/Test_Tooltip_For_Multiple_Duplicated_Records.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RDA/RDA_View_Page_Test_Records/Test_Tooltip_For_Multiple_Duplicated_Records.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -230,7 +228,14 @@
       <option name="project" value="LOCAL" />
       <updated>1628482017298</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Update the test files for duplicated records.">
+      <created>1628486397790</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1628486397790</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -267,6 +272,7 @@
     <MESSAGE value="Add test files for registry object advanced search" />
     <MESSAGE value="Add test files for the nested collection testing" />
     <MESSAGE value="Add test files for testing duplicated records and duplicated relations." />
-    <option name="LAST_COMMIT_MESSAGE" value="Add test files for testing duplicated records and duplicated relations." />
+    <MESSAGE value="Update the test files for duplicated records." />
+    <option name="LAST_COMMIT_MESSAGE" value="Update the test files for duplicated records." />
   </component>
 </project>
