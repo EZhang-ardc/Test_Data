@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d6e6600b-2bcf-432b-81c3-4510c5cd1692" name="Default Changelist" comment="Update the test files for identical related objects">
-      <change afterPath="$PROJECT_DIR$/RDA/RDA_View_Page_Test_Records/Test_Related_Objects_Unresolved_Records.xml" afterDir="false" />
+    <list default="true" id="d6e6600b-2bcf-432b-81c3-4510c5cd1692" name="Default Changelist" comment="Update the test files for unresolved related objects">
+      <change afterPath="$PROJECT_DIR$/RDA/RDA_View_Page_Test_Records/Test_RelatedInfo_Section_Related_Object_Popout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RDA/RDA_View_Page_Test_Records/Test_Resove_doi_In_Related_Info.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -256,7 +257,14 @@
       <option name="project" value="LOCAL" />
       <updated>1628558715888</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Update the test files for unresolved related objects">
+      <created>1628570619679</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1628570619679</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -296,6 +304,7 @@
     <MESSAGE value="Update the test files for duplicated records." />
     <MESSAGE value="Update the test files for nested collections" />
     <MESSAGE value="Update the test files for identical related objects" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update the test files for identical related objects" />
+    <MESSAGE value="Update the test files for unresolved related objects" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update the test files for unresolved related objects" />
   </component>
 </project>
