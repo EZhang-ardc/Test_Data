@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d6e6600b-2bcf-432b-81c3-4510c5cd1692" name="Default Changelist" comment="Update the test files for unresolved related info">
-      <change afterPath="$PROJECT_DIR$/RDA/Identifier_Normalisation_Test_Records/Test_Same_Identifier_Different_Record_Type.xml" afterDir="false" />
+    <list default="true" id="d6e6600b-2bcf-432b-81c3-4510c5cd1692" name="Default Changelist" comment="Upload new test files for duplicated records">
+      <change afterPath="$PROJECT_DIR$/RDA/Relationships/26_RelationshipScenario/26.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -277,7 +277,14 @@
       <option name="project" value="LOCAL" />
       <updated>1628579094697</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Upload new test files for duplicated records">
+      <created>1628644666264</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1628644666264</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -319,6 +326,7 @@
     <MESSAGE value="Update the test files for identical related objects" />
     <MESSAGE value="Update the test files for unresolved related objects" />
     <MESSAGE value="Update the test files for unresolved related info" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update the test files for unresolved related info" />
+    <MESSAGE value="Upload new test files for duplicated records" />
+    <option name="LAST_COMMIT_MESSAGE" value="Upload new test files for duplicated records" />
   </component>
 </project>

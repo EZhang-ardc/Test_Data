@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<registryObjects xmlns="http://ands.org.au/standards/rif-cs/registryObjects" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ands.org.au/standards/rif-cs/registryObjects http://services.ands.org.au/documentation/rifcs/schema/registryObjects.xsd">
+     <registryObject group="AUTestingRecords2">
+    <key>20210811AWRDC-Partywerwrete</key>
+    <originatingSource type="">https://researchdata.ands.org.au/registry//orca/register_my_data</originatingSource>
+    <party type="group" dateModified="2013-12-04T00:26:58Z">
+      <name type="primary">
+        <namePart>S26: Test Funder P1</namePart>
+      </name>
+      <name type="abbreviated">
+        <namePart>AWRDC</namePart>
+      </name>
+      <description type="full">&lt;p&gt;The Australian Water Research and improve and understand the landscape and act as research knowledge brokers for the betterment of the urban water industry in Australia.&lt;/p&gt;</description>
+      <relatedObject>
+        <key>20210811collection740335</key>
+        <relation type="isFunderOf"/>
+      </relatedObject>
+        <relatedObject>
+        <key>20210811collection740335</key>
+        <relation type="isCollectorOf"/>
+      </relatedObject>
+        <relatedObject>
+        <key>20210811collection740335</key>
+        <relation type="enriches"/>
+      </relatedObject>
+      <subject type="anzsrc-for">05</subject>
+      <subject type="anzsrc-for">1205</subject>
+      <existenceDates>
+        <startDate dateFormat="W3CDTF">2007</startDate>
+        <endDate dateFormat="W3CDTF">2015</endDate>
+      </existenceDates>
+    </party>
+  </registryObject>
+
+
+      <registryObject group="AUTestingRecords2">
+    <key>20210811collection740335</key>
+    <originatingSource>nla.gov.au</originatingSource>
+    <collection dateAccessioned="2016-04-29T01:05:09+10:00" type="dataset">
+      <name type="primary">
+        <namePart>Test collection C1 - Relationship Scenario 26</namePart></name>
+      <description type="brief">The provided data (the Data) represent a raster map of agricultural profit at full equity (PFE) for Australia for the year 2005/06. Values of PFE are provided in ($/ha). PFE is a measure of profit which is calculated as the revenue from the sale of agricultural commodities minus all fixed and variable costs. This concept is based on the assumption that the land is fully owned (100% equity). The unit of PFE is $/ha. The Data are provided as a raster dataset that is compatible with ArcGIS. The spatial resolution is ~ 1km. Values provided are not for individual commodities (e.g. wheat, barley etc.) but for a set of commodity classes known as SPREAD classes (e.g. winter cereals, winter oilseeds) and broad land use categories (grazing, natural pastures etc.). The Data do not provide information with regards to the associated land use. To link values of PFE to the associated land use (SPREAD class) the Data need to be linked to the land use map of the year 2005/06 (Source: ABARE–BRS 2010. Land Use of Australia, Version 4, 2005-06 dataset).</description>
+      <description type="lineage">Overview of the process how data was produced is provided in Marinoni O, Navarro Garcia J, Marvanek S, Prestwidge D, Clifford D, Laredo L. 2012. Development of a system to produce maps of agricultural profit on a continental scale: An example for Australia. Agricultural Systems. 105, 1, 33-45.</description>
+    </collection>
+  </registryObject>
+
+          <registryObject group="AUTestingRecords2">
+    <key>23456901244213245364676475367202108101234254randomKey345123.456.654/003</key>
+    <originatingSource>nla.gov.au</originatingSource>
+    <collection dateAccessioned="2016-04-29T01:05:09+10:00" type="dataset">
+      <name type="primary">
+        <namePart>Test collection C2 - Relationship Scenario 26</namePart></name>
+      <description type="brief">The provided data (the Data) represent a raster map of agricultural profit at full equity (PFE) for Australia for the year 2005/06. Values of PFE are provided in ($/ha). PFE is a measure of profit which is calculated as the revenue from the sale of agricultural commodities minus all fixed and variable costs. This concept is based on the assumption that the land is fully owned (100% equity). The unit of PFE is $/ha. The Data are provided as a raster dataset that is compatible with ArcGIS. The spatial resolution is ~ 1km. Values provided are not for individual commodities (e.g. wheat, barley etc.) but for a set of commodity classes known as SPREAD classes (e.g. winter cereals, winter oilseeds) and broad land use categories (grazing, natural pastures etc.). The Data do not provide information with regards to the associated land use. To link values of PFE to the associated land use (SPREAD class) the Data need to be linked to the land use map of the year 2005/06 (Source: ABARE–BRS 2010. Land Use of Australia, Version 4, 2005-06 dataset).</description>
+      <description type="lineage">Overview of the process how data was produced is provided in Marinoni O, Navarro Garcia J, Marvanek S, Prestwidge D, Clifford D, Laredo L. 2012. Development of a system to produce maps of agricultural profit on a continental scale: An example for Australia. Agricultural Systems. 105, 1, 33-45.</description>
+        <relatedObject>
+        <key>20210811collection740335</key>
+        <relation type="isPartOf"/>
+      </relatedObject>
+
+    </collection>
+  </registryObject>
+
+       <registryObject group="Geoscience Australia">
+    <key>7860d9e9-e4b3-7600-61f5-b493ca82055e122211113333333</key>
+    <originatingSource type="">https://test.researchdata.ardc.edu.au/registry//orca/register_my_data</originatingSource>
+    <party type="person">
+      <name type="primary">
+        <namePart>Test collection C3 - Relationship Scenario 26</namePart>
+      </name>
+      <description type="">&lt;p&gt;this record contains a purl identifier with a wrong type (uri)&lt;/p&gt;</description>
+    </party>
+  </registryObject>
+
+
+</registryObjects>
