@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d6e6600b-2bcf-432b-81c3-4510c5cd1692" name="Default Changelist" comment="Upload new test files for duplicated records">
-      <change afterPath="$PROJECT_DIR$/RDA/Relationships/26_RelationshipScenario/26.xml" afterDir="false" />
+    <list default="true" id="d6e6600b-2bcf-432b-81c3-4510c5cd1692" name="Default Changelist" comment="Upload new test files for relationship scenario 26">
+      <change afterPath="$PROJECT_DIR$/RDA/Relationships/31_RelationshipScenario/31_RelationshipScenario_DS2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RDA/Relationships/32_RelationshipScenario/32_RelationshipScenario_DS2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RDA/Relationships/33_RelationshipScenario/33_RelationshipScenario_DS1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RDA/Relationships/33_RelationshipScenario/33_RelationshipScenario_DS2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RDA/Relationships/34_RelationshipScenario/34_RelationshipScenario_DS1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RDA/Relationships/34_RelationshipScenario/34_RelationshipScenario_DS2.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RDA/Relationships/32_RelationshipScenario/32_RelationshipScenario.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RDA/Relationships/32_RelationshipScenario/32_RelationshipScenario_DS1.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,11 +37,13 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/RDA/RDA_View_Page_Test_Records" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/RDA/Relationships/34_RelationshipScenario" />
     <property name="settings.editor.selected.configurable" value="preferences.externalDependencies" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/RDA/Relationships/34_RelationshipScenario" />
+      <recent name="$PROJECT_DIR$/RDA/Relationships/33_RelationshipScenario" />
       <recent name="$PROJECT_DIR$/RDA/RDA_View_Page_Test_Records" />
       <recent name="$PROJECT_DIR$/RDA/RDA_View_Page_Nested_Collection_Test_Records" />
     </key>
@@ -284,7 +292,14 @@
       <option name="project" value="LOCAL" />
       <updated>1628644666264</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Upload new test files for relationship scenario 26">
+      <created>1628659180532</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1628659180532</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -327,6 +342,7 @@
     <MESSAGE value="Update the test files for unresolved related objects" />
     <MESSAGE value="Update the test files for unresolved related info" />
     <MESSAGE value="Upload new test files for duplicated records" />
-    <option name="LAST_COMMIT_MESSAGE" value="Upload new test files for duplicated records" />
+    <MESSAGE value="Upload new test files for relationship scenario 26" />
+    <option name="LAST_COMMIT_MESSAGE" value="Upload new test files for relationship scenario 26" />
   </component>
 </project>
