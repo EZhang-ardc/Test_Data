@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d6e6600b-2bcf-432b-81c3-4510c5cd1692" name="Default Changelist" comment="Upload new test files for relationship scenario 31-34">
-      <change afterPath="$PROJECT_DIR$/RDA/Relationships/36_RelationshipScenario/36_RelationshipScenario_DS1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RDA/Relationships/36_RelationshipScenario/36_RelationshipScenario_DS2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RDA/Relationships/37_RelationshipScenario/37_RelationshipScenario.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RDA/Relationships/38_RelationshipScenario/38_RelationshipScenario.xml" afterDir="false" />
+    <list default="true" id="d6e6600b-2bcf-432b-81c3-4510c5cd1692" name="Default Changelist" comment="Upload new test files for relationship scenario 36-38">
+      <change afterPath="$PROJECT_DIR$/RDA/Relationships/35_RelationshipScenario/35_RelationshipScenario_DS1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RDA/Relationships/35_RelationshipScenario/35_RelationshipScenario_DS2.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RDA/Relationships/37_RelationshipScenario/37_RelationshipScenario.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RDA/Relationships/37_RelationshipScenario/37_RelationshipScenario.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,16 +33,16 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/RDA/Relationships/38_RelationshipScenario" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/RDA/Relationships/35_RelationshipScenario" />
     <property name="settings.editor.selected.configurable" value="preferences.externalDependencies" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/RDA/Relationships/35_RelationshipScenario" />
       <recent name="$PROJECT_DIR$/RDA/Relationships/38_RelationshipScenario" />
       <recent name="$PROJECT_DIR$/RDA/Relationships/37_RelationshipScenario" />
       <recent name="$PROJECT_DIR$/RDA/Relationships/34_RelationshipScenario" />
       <recent name="$PROJECT_DIR$/RDA/Relationships/33_RelationshipScenario" />
-      <recent name="$PROJECT_DIR$/RDA/RDA_View_Page_Test_Records" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -304,7 +303,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629098043621</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Upload new test files for relationship scenario 36-38">
+      <created>1629181217786</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1629181217787</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -323,7 +329,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add all test files" />
     <MESSAGE value="Add DRVS Test Files" />
     <MESSAGE value="Update DOIs in DRVS_Test_Data_Collections_Test_Partner_1_With_ARDC_Test_ DOIs.csv" />
     <MESSAGE value="Fix test data for Relationship Scenario 13" />
@@ -348,6 +353,7 @@
     <MESSAGE value="Upload new test files for duplicated records" />
     <MESSAGE value="Upload new test files for relationship scenario 26" />
     <MESSAGE value="Upload new test files for relationship scenario 31-34" />
-    <option name="LAST_COMMIT_MESSAGE" value="Upload new test files for relationship scenario 31-34" />
+    <MESSAGE value="Upload new test files for relationship scenario 36-38" />
+    <option name="LAST_COMMIT_MESSAGE" value="Upload new test files for relationship scenario 36-38" />
   </component>
 </project>
