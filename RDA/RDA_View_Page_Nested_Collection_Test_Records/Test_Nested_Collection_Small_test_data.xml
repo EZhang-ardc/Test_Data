@@ -18,8 +18,8 @@
         <relation type="isPartOf"/>
       </relatedObject>
         <relatedObject>
-        <key>1Manager1</key>
-        <relation type="isManagedBy"/>
+        <key>The Funder for Nested collection 11</key>
+        <relation type="isFundedBy"/>
       </relatedObject>
     </collection>
   </registryObject>
@@ -122,12 +122,12 @@
   </registryObject>
 
      <registryObject group="National Library of Australia">
-    <key>1Manager1</key>
+    <key>The Funder for Nested collection 11</key>
     <originatingSource type="authoritative">http://trove.nla.gov.au/people</originatingSource>
     <party dateModified="2019-07-16T11:33:51Z" type="group">
 
       <name type="alternative">
-        <namePart>Test Manager for grants network: Monash University</namePart>
+        <namePart>Test Funder for grants network: Monash University</namePart>
       </name>
       <name type="alternative">
         <namePart>Universytet im. Monasha</namePart>
