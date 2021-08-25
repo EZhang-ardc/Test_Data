@@ -1,0 +1,10 @@
+Metadata Concept,Collection Capacity,Local Collection ID, Application Research Disciplines,Title,Description,Data Controller/s,Collection ID,Actionable Digital Registry entry,Owner/s Contributors,Merit,License,Collection type,Publication Year,DOI
+,555,TC-20,,DRVS Test DOI 20 - Publisher in plain text format,Test the new validation rule for the publisher,Brendan Davey - https://orcid.org/0000-0002-1482-7119,,,,,,,,10.80298/TEST_DOI_6029mjh390
+,444,TC-21,,DRVS Test DOI 21 - Empty publisher,Test the new validation rule for the publisher,Brendan Davey - https://orcid.org/0000-0002-1482-7119,,,,,,,,10.80298/TEST_DOI_6029c09f12rb7
+,666,TC-22,,DRVS Test DOI 22 - TiB as a validated size type,Other description,Brendan Davey - https://orcid.org/0000-0002-1482-7119,,,,,,,,10.80298/TEST_DOI_6029cke9f12r4b9
+,777,TC-23,,"DRVS Test DOI 23 - Trim the identifier's ""/"" surffix",Test that the orcid identifier can still be recognised despite having a slash at the end,Brendan Davey - https://orcid.org/0000-0002-1482-7119,,,,,,,,10.80298/TEST_DOI_6029c6da741bg
+,4.7,TC-24,,"DRVS Test DOI 24 - ANZSRC 2-digit code with literal",Test for the Literal ANZSRC FOR code,Brendan Davey - https://orcid.org/0000-0002-1482-7119,,,,,,,,10.80298/TEST_DOI_6029c3456da74155
+,4.7,TC-25,,"DRVS Test DOI 25 - ANZSRC 4-digit code with literal",Test for the Literal ANZSRC FOR code,Brendan Davey - https://orcid.org/0000-0002-1482-7119,,,,,,,,10.80298/TEST_DOI_60256768wfg155
+,4.65,TC-26,,"DRVS Test DOI 26 - ANZSRC 6-digit code with literal",Test for the Literal ANZSRC FOR code,Brendan Davey - https://orcid.org/0000-0002-1482-7119,,,,,,,,10.80298/TEST_DOI_60124nhtjkti5
+,4.25,TC-27,,"DRVS Test DOI 27 - ANZSRC literal only",Test for the Literal ANZSRC FOR code,Brendan Davey - https://orcid.org/0000-0002-1482-7119,,,,,,,,10.80298/TEST_DOI_6029c3456da741sd
+,4.25,TC-28,,"DRVS Test DOI 28 - ANZSRC literal capital letters",Test for the Literal ANZSRC FOR code,Brendan Davey - https://orcid.org/0000-0002-1482-7119,,,,,,,,10.80298/TEST_DOI_6029cloda741r87
