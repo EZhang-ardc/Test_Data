@@ -23,7 +23,7 @@
             </address>
             </location>
             <relatedObject>
-                <key>PROV VA 871</key>
+                <key>PROV VA 871aw</key>
                 <relation type="hasCreator">
                     <description>1891 - 1915</description>
                 </relation>
@@ -94,7 +94,7 @@
       <location>
         <address>
           <electronic type="url">
-            <value>http://rda.ebi.edu.au/default.jsp?collectionId=192&view=preview</value>
+            <value>http://rda.ebi.edu.au/default.jsp?collectionId=192&amp;view=preview</value>
           </electronic>
         </address>
       </location>
@@ -108,27 +108,27 @@ The identification of species in Boryaceae as Australian dwelling organisms has 
       <subject type="anzsrc-for">060102</subject>
       <subject type="anzsrc-for">060411</subject>
       <relatedObject>
-        <key>www.qfab.org/collection-814</key>
+        <key>www.qfab.org/collection-814aw</key>
         <relation type="isPartOf"/>
       </relatedObject>
       <relatedObject>
-        <key>www.qfab.org/party-1</key>
+        <key>www.qfab.org/party-1aw</key>
         <relation type="hasCollector"/>
       </relatedObject>
       <relatedInfo>
-        <identifier type="uri">http://www.ebi.ac.uk/ena</identifier>
+        <identifier type="uri">http://www.ebi.ac.uk/enaaw</identifier>
         <title>ENA (European Nucleotide Archive)</title>
       </relatedInfo>
       <relatedInfo>
-        <identifier type="uri">http://www.uniprot.org</identifier>
+        <identifier type="uri">http://www.uniprot.orgaw</identifier>
         <title>Uniprot (Universal Protein Resource)</title>
       </relatedInfo>
       <relatedInfo>
-        <identifier type="uri">http://www.ala.org.au</identifier>
+        <identifier type="uri">http://www.ala.org.auaw</identifier>
         <title>Atlas of Living Australia</title>
       </relatedInfo>
       <relatedInfo>
-        <identifier type="uri">http://www.ebi.ac.uk</identifier>
+        <identifier type="uri">http://www.ebi.ac.ukaw</identifier>
         <title>EBI (European Bioinformatics Institute)</title>
       </relatedInfo>
     </collection>
@@ -174,25 +174,25 @@ The identification of species in Boryaceae as Australian dwelling organisms has 
         <relation type="’hasPrincipalInvestigator’"/>
       </relatedObject>
       <relatedObject>
-        <key>www.ballarat.edu.au/party/0000017769</key>
+        <key>www.ballarat.edu.au/party/0000017769wa</key>
         <relation type="hasAssociationWith"/>
       </relatedObject>
       <relatedObject>
-        <key>www.ballarat.edu.au/party/0000015158</key>
+        <key>www.ballarat.edu.au/party/0000015158aw</key>
         <relation type="hasAssociationWith">
           <description>Principal Researcher</description>
         </relation>
       </relatedObject>
       <relatedObject>
-        <key>www.cecc.com</key>
+        <key>www.cecc.comaw</key>
         <relation type="isManagedBy"/>
       </relatedObject>
       <relatedObject>
-        <key>federation.edu.au/party/001</key>
+        <key>federation.edu.au/party/001aw</key>
         <relation type="isOutputOf"/>
       </relatedObject>
       <relatedObject>
-        <key>www.ballarat.edu.au/serv/1</key>
+        <key>www.ballarat.edu.au/serv/1aw</key>
         <relation type="makesAvailable"/>
       </relatedObject>
       <subject type="local">Geohazards</subject>
@@ -202,11 +202,11 @@ The identification of species in Boryaceae as Australian dwelling organisms has 
       <subject type="anzsrc-for">0403</subject>
       <relatedInfo>
         <title>CCMA Landslide and Erosion Database</title>
-        <identifier type="uri">http://www.ccma.vic.gov.au/soilhealth/documents/background_reports/Landslide and Erosion Report Final.pdf</identifier>
+        <identifier type="uri">http://www.ccma.vic.gov.au/soilhealth/documents/background_reports/Landslide and Erosion Report Finalaw.pdf</identifier>
       </relatedInfo>
       <relatedInfo type="website">
         <title>Corangamite Soil Health Strategy and Background reports</title>
-        <identifier type="uri">http://www.ccma.vic.gov.au/soilhealth/reports.htm</identifier>
+        <identifier type="uri">http://www.ccma.vic.gov.au/soilhealth/reports.htmaw</identifier>
       </relatedInfo>
     </collection>
   </registryObject>
@@ -251,25 +251,25 @@ The identification of species in Boryaceae as Australian dwelling organisms has 
         <relation type="hasCollector"/>
       </relatedObject>
       <relatedObject>
-        <key>www.ballarat.edu.au/party/0000017769</key>
+        <key>www.ballarat.edu.au/party/0000017769aw</key>
         <relation type="hasAssociationWith"/>
       </relatedObject>
       <relatedObject>
-        <key>www.ballarat.edu.au/party/0000015158</key>
+        <key>www.ballarat.edu.au/party/0000015158aw</key>
         <relation type="hasAssociationWith">
           <description>Principal Researcher</description>
         </relation>
       </relatedObject>
       <relatedObject>
-        <key>www.cecc.com</key>
+        <key>www.cecc.comaw</key>
         <relation type="isManagedBy"/>
       </relatedObject>
       <relatedObject>
-        <key>federation.edu.au/party/001</key>
+        <key>federation.edu.au/party/001aw</key>
         <relation type="isOutputOf"/>
       </relatedObject>
       <relatedObject>
-        <key>www.ballarat.edu.au/serv/1</key>
+        <key>www.ballarat.edu.au/serv/1aw</key>
         <relation type="makesAvailable"/>
       </relatedObject>
       <subject type="local">Geohazards</subject>
@@ -279,11 +279,11 @@ The identification of species in Boryaceae as Australian dwelling organisms has 
       <subject type="anzsrc-for">0403</subject>
       <relatedInfo>
         <title>CCMA Landslide and Erosion Database</title>
-        <identifier type="uri">http://www.ccma.vic.gov.au/soilhealth/documents/background_reports/Landslide and Erosion Report Final.pdf</identifier>
+        <identifier type="uri">http://www.ccma.vic.gov.au/soilhealth/documents/background_reports/Landslide and Erosion Report Finalaw.pdf</identifier>
       </relatedInfo>
       <relatedInfo type="website">
         <title>Corangamite Soil Health Strategy and Background reports</title>
-        <identifier type="uri">http://www.ccma.vic.gov.au/soilhealth/reports.htm</identifier>
+        <identifier type="uri">http://www.ccma.vic.gov.au/soilhealth/repoawrts.htm</identifier>
       </relatedInfo>
     </collection>
   </registryObject>
@@ -305,28 +305,28 @@ The identification of species in Boryaceae as Australian dwelling organisms has 
         </address>
       </location>
       <relatedObject>
-        <key>http://www.ga.gov.au/Finlayson,D.M.</key>
+        <key>http://www.ga.gov.au/Finlayson,D.M.aw</key>
         <relation type="author"/>
       </relatedObject>
       <relatedObject>
-        <key>http://www.ga.gov.au/Cull,J.P.</key>
+        <key>http://www.ga.gov.au/Cull,J.P.aw</key>
         <relation type="author"/>
       </relatedObject>
       <relatedObject>
-        <key>http://www.ga.gov.au/Drummond,B.J.</key>
+        <key>http://www.ga.gov.au/Drummond,B.J.aw</key>
         <relation type="author"/>
       </relatedObject>
       <relatedObject>
-        <key>http://www.ga.gov.au/GeoscienceAustralia</key>
+        <key>http://www.ga.gov.au/GeoscienceAustraliaaw</key>
         <relation type="pointOfContact"/>
         <relation type="distributor"/>
       </relatedObject>
       <relatedObject>
-        <key>http://www.ga.gov.au/BureauofMineralResources,GeologyandGeophysics</key>
+        <key>http://www.ga.gov.au/BureauofMineralResources,GeologyandGeophysicsaw</key>
         <relation type="publisher"/>
       </relatedObject>
       <relatedObject>
-        <key>http://www.ga.gov.au/CommonwealthofAustralia(GeoscienceAustralia)</key>
+        <key>http://www.ga.gov.au/CommonwealthofAustralia(GeoscienceAustralia)aw</key>
         <relation type="owner"/>
         <relation type="custodian"/>
       </relatedObject>
@@ -338,7 +338,7 @@ The identification of species in Boryaceae as Australian dwelling organisms has 
       <subject type="anzsrc-for">04</subject>
       <description type="brief">Legacy product - no abstract available</description>
       <relatedInfo type="website">
-        <identifier type="uri">https://d28rz98at9flks.cloudfront.net/13101</identifier>
+        <identifier type="uri">https://d28rz98at9flks.cloudfront.net/13101aw</identifier>
         <relation type="hasAssociationWith">
           <description>Access via service</description>
           <url>https://d28rz98at9flks.cloudfront.net/13101/Rec1974_061.pdf</url>

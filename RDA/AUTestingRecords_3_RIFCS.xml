@@ -9,6 +9,9 @@
       <name type="primary">
         <namePart>(AUTestingRecords3) Collection C Duplicate Identifiers</namePart>
       </name>
+        <description type="brief">
+            A compliant implementation of WMS plus most of the SLD extension (dynamic styling). Can also generate PDF, SVG, KML, GeoRSS
+        </description>
       <identifier type="doi">10.AUTestingRecords2/345</identifier>
       <relatedObject>
         <key>AUTestingRecords3RelatedCollectionDatasetRelObj1</key>
