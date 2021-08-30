@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d6e6600b-2bcf-432b-81c3-4510c5cd1692" name="Default Changelist" comment="Updated the test csv file and the original xml file for the DRVS change request tests">
-      <change afterPath="$PROJECT_DIR$/RDA/Relationships/39_RelationshipScenario/39_RelationshipScenario.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RDA/Relationships/40_RelationshipScenario/40_RelationshipScenario.xml" afterDir="false" />
+    <list default="true" id="d6e6600b-2bcf-432b-81c3-4510c5cd1692" name="Default Changelist" comment="Updated the test files for Relationship Scenario 39 and 40">
+      <change afterPath="$PROJECT_DIR$/RDA/Relationships/41_RelationshipScenario/41_RelationshipScenario.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -221,7 +220,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629880299323</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Updated the test files for Relationship Scenario 39 and 40">
+      <created>1630290218401</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1630290218401</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -257,6 +263,7 @@
     <MESSAGE value="Add 30_RelationshipScenario.xml" />
     <MESSAGE value="Update 30_RelationshipScenario.xml" />
     <MESSAGE value="Updated the test csv file and the original xml file for the DRVS change request tests" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated the test csv file and the original xml file for the DRVS change request tests" />
+    <MESSAGE value="Updated the test files for Relationship Scenario 39 and 40" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated the test files for Relationship Scenario 39 and 40" />
   </component>
 </project>
