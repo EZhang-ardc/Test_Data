@@ -190,7 +190,7 @@
 		<creators>
 			<creator>
 				<creatorName>Organisation 1</creatorName>
-				<nameIdentifier nameIdentifierScheme="orcid">0000-3333-5645-7811/</nameIdentifier>
+				<nameIdentifier nameIdentifierScheme="orcid">0000-3333-5645-7811</nameIdentifier>
 			</creator>
 		</creators>
 	</resource>
@@ -224,7 +224,7 @@
 		<creators>
 			<creator>
 				<creatorName>Organisation 1</creatorName>
-				<nameIdentifier nameIdentifierScheme="orcid">0000-3333-5645-7811/</nameIdentifier>
+				<nameIdentifier nameIdentifierScheme="orcid">0000-3333-5645-7811</nameIdentifier>
 			</creator>
 		</creators>
 	</resource>
@@ -259,7 +259,7 @@
 		<creators>
 			<creator>
 				<creatorName>Organisation 1</creatorName>
-				<nameIdentifier nameIdentifierScheme="orcid">0000-3333-5645-7811/</nameIdentifier>
+				<nameIdentifier nameIdentifierScheme="orcid">0000-3333-5645-7811</nameIdentifier>
 			</creator>
 		</creators>
 	</resource>
@@ -294,7 +294,7 @@
 		<creators>
 			<creator>
 				<creatorName>Organisation 1</creatorName>
-				<nameIdentifier nameIdentifierScheme="orcid">0000-3333-5645-7811/</nameIdentifier>
+				<nameIdentifier nameIdentifierScheme="orcid">0000-3333-5645-7811</nameIdentifier>
 			</creator>
 		</creators>
 	</resource>
@@ -330,10 +330,257 @@
 		<creators>
 			<creator>
 				<creatorName>Organisation 1</creatorName>
-				<nameIdentifier nameIdentifierScheme="orcid">0000-3333-5645-7811/</nameIdentifier>
+				<nameIdentifier nameIdentifierScheme="orcid">0000-3333-5645-7811</nameIdentifier>
 			</creator>
 		</creators>
 	</resource>
 
+	<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.2/metadata.xsd">
+		<identifier identifierType="DOI">10.80298/TEST_DOI_6029cwefsdv741sd</identifier>
+		<publisher>https://ror.org/038sjwq14</publisher>
+		<publicationYear>2001</publicationYear>
+		<resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+		<titles>
+			<title>DRVS Test DOI 29 - Pass - ANZSRC literal in Māori </title>
+		</titles>
+		<subjects>
+			<subject subjectScheme="anzsrc">4508 Mātauranga Māori (Māori education)</subject>
+		</subjects>
+		<alternateIdentifiers>
+			<alternateIdentifier alternateIdentifierType="local_id">TC-29</alternateIdentifier>
+		</alternateIdentifiers>
+		<relatedIdentifiers>
+			<relatedIdentifier relatedIdentifierType="ISSN" relationType="IsCitedBy" resourceTypeGeneral="DataPaper">issn1233</relatedIdentifier>
+		</relatedIdentifiers>
+		<sizes>
+			<size>4.25TB</size>
+		</sizes>
+		<descriptions>
+			<description descriptionType="Other">Other description</description>
+		</descriptions>
+		<rightsList>
+			<rights>Some example rights</rights>
+		</rightsList>
+		<creators>
+			<creator>
+				<creatorName>Organisation 1</creatorName>
+				<nameIdentifier nameIdentifierScheme="orcid">0000-3333-5645-7811</nameIdentifier>
+			</creator>
+		</creators>
+	</resource>
+
+
+
+	<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.2/metadata.xsd">
+		<identifier identifierType="DOI">10.80298/TEST_DOI_1129cy09gmsdv741rtf</identifier>
+		<publisher>https://ror.org/038sjwq14</publisher>
+		<publicationYear>2001</publicationYear>
+		<resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+		<titles>
+			<title>DRVS Test DOI 30 - Pass - ANZSRC FoR switched positions for digits and literal </title>
+		</titles>
+		<subjects>
+			<subject subjectScheme="anzsrc">Policy and administration 4407</subject>
+		</subjects>
+		<alternateIdentifiers>
+			<alternateIdentifier alternateIdentifierType="local_id">TC-30</alternateIdentifier>
+		</alternateIdentifiers>
+		<relatedIdentifiers>
+			<relatedIdentifier relatedIdentifierType="ISSN" relationType="IsCitedBy" resourceTypeGeneral="DataPaper">issn1233</relatedIdentifier>
+		</relatedIdentifiers>
+		<sizes>
+			<size>4.25TB</size>
+		</sizes>
+		<descriptions>
+			<description descriptionType="Other">Other description</description>
+		</descriptions>
+		<rightsList>
+			<rights>Some example rights</rights>
+		</rightsList>
+		<creators>
+			<creator>
+				<creatorName>Organisation 1</creatorName>
+				<nameIdentifier nameIdentifierScheme="orcid">0000-3333-5645-7811</nameIdentifier>
+			</creator>
+		</creators>
+	</resource>
+
+	<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.2/metadata.xsd">
+		<identifier identifierType="DOI">10.80298/TEST_DOI_112ji36saqd</identifier>
+		<publisher>https://ror.org/038sjwq14</publisher>
+		<publicationYear>2001</publicationYear>
+		<resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+		<titles>
+			<title>DRVS Test DOI 31 - Pass - ANZSRC FoR digital code + capital terms </title>
+		</titles>
+		<subjects>
+			<subject subjectScheme="anzsrc">33 BUILT ENVIRONMENT AND DESIGN</subject>
+		</subjects>
+		<alternateIdentifiers>
+			<alternateIdentifier alternateIdentifierType="local_id">TC-31</alternateIdentifier>
+		</alternateIdentifiers>
+		<relatedIdentifiers>
+			<relatedIdentifier relatedIdentifierType="ISSN" relationType="IsCitedBy" resourceTypeGeneral="DataPaper">issn1233</relatedIdentifier>
+		</relatedIdentifiers>
+		<sizes>
+			<size>4.25TB</size>
+		</sizes>
+		<descriptions>
+			<description descriptionType="Other">Other description</description>
+		</descriptions>
+		<rightsList>
+			<rights>Some example rights</rights>
+		</rightsList>
+		<creators>
+			<creator>
+				<creatorName>Organisation 1</creatorName>
+				<nameIdentifier nameIdentifierScheme="orcid">0000-3333-5645-7811</nameIdentifier>
+			</creator>
+		</creators>
+	</resource>
+
+			<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.2/metadata.xsd">
+		<identifier identifierType="DOI">10.80298/TEST_DOI_112j456mnnjkq</identifier>
+		<publisher>https://ror.org/038sjwq14</publisher>
+		<publicationYear>2001</publicationYear>
+		<resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+		<titles>
+			<title>DRVS Test DOI 32 - Correct FoR literal, wrong digital code </title>
+		</titles>
+		<subjects>
+			<subject subjectScheme="anzsrc">123456 Earth Sciences</subject>
+		</subjects>
+		<alternateIdentifiers>
+			<alternateIdentifier alternateIdentifierType="local_id">TC-32</alternateIdentifier>
+		</alternateIdentifiers>
+		<relatedIdentifiers>
+			<relatedIdentifier relatedIdentifierType="ISSN" relationType="IsCitedBy" resourceTypeGeneral="DataPaper">issn1233</relatedIdentifier>
+		</relatedIdentifiers>
+		<sizes>
+			<size>4.25TB</size>
+		</sizes>
+		<descriptions>
+			<description descriptionType="Other">Other description</description>
+		</descriptions>
+		<rightsList>
+			<rights>Some example rights</rights>
+		</rightsList>
+		<creators>
+			<creator>
+				<creatorName>Organisation 1</creatorName>
+				<nameIdentifier nameIdentifierScheme="orcid">0000-3333-5645-7811</nameIdentifier>
+			</creator>
+		</creators>
+	</resource>
+
+	<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.2/metadata.xsd">
+		<identifier identifierType="DOI">10.80298/TEST_DOI_112jvmdcs09nnjkp</identifier>
+		<publisher>https://ror.org/038sjwq14</publisher>
+		<publicationYear>2001</publicationYear>
+		<resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+		<titles>
+			<title>DRVS Test DOI 33 - Correct FoR digital code, wrong literal </title>
+		</titles>
+		<subjects>
+			<subject subjectScheme="anzsrc">33 Building ENVIRONMENT AND DESIGN</subject>
+		</subjects>
+		<alternateIdentifiers>
+			<alternateIdentifier alternateIdentifierType="local_id">TC-33</alternateIdentifier>
+		</alternateIdentifiers>
+		<relatedIdentifiers>
+			<relatedIdentifier relatedIdentifierType="ISSN" relationType="IsCitedBy" resourceTypeGeneral="DataPaper">issn1233</relatedIdentifier>
+		</relatedIdentifiers>
+		<sizes>
+			<size>4.25TB</size>
+		</sizes>
+		<descriptions>
+			<description descriptionType="Other">Other description</description>
+		</descriptions>
+		<rightsList>
+			<rights>Some example rights</rights>
+		</rightsList>
+		<creators>
+			<creator>
+				<creatorName>Organisation 1</creatorName>
+				<nameIdentifier nameIdentifierScheme="orcid">0000-3333-5645-7811</nameIdentifier>
+			</creator>
+		</creators>
+	</resource>
+
+	<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.2/metadata.xsd">
+		<identifier identifierType="DOI">10.80298/TEST_DOI_113054iefh</identifier>
+		<publisher>https://ror.org/038sjwq14</publisher>
+		<publicationYear>2001</publicationYear>
+		<resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+		<titles>
+			<title>DRVS Test DOI 34 - Wrong FoR literal, wrong digital code </title>
+		</titles>
+		<subjects>
+			<subject subjectScheme="anzsrc">123456 Earth Scientists</subject>
+		</subjects>
+		<alternateIdentifiers>
+			<alternateIdentifier alternateIdentifierType="local_id">TC-34</alternateIdentifier>
+		</alternateIdentifiers>
+		<relatedIdentifiers>
+			<relatedIdentifier relatedIdentifierType="ISSN" relationType="IsCitedBy" resourceTypeGeneral="DataPaper">issn1233</relatedIdentifier>
+		</relatedIdentifiers>
+		<sizes>
+			<size>4.25TB</size>
+		</sizes>
+		<descriptions>
+			<description descriptionType="Other">Other description</description>
+		</descriptions>
+		<rightsList>
+			<rights>Some example rights</rights>
+		</rightsList>
+		<creators>
+			<creator>
+				<creatorName>Organisation 1</creatorName>
+				<nameIdentifier nameIdentifierScheme="orcid">0000-3333-5645-7811</nameIdentifier>
+			</creator>
+		</creators>
+	</resource>
+
+
+	<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.2/metadata.xsd">
+		<identifier identifierType="DOI">10.80298/TEST_DOI_fewrgko978</identifier>
+		<publisher>Test text Publisher</publisher>
+		<publicationYear>2018</publicationYear>
+		<resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+		<titles>
+			<title>DRVS Test DOI 35 - More weird identifier suffixes </title>
+		</titles>
+		<subjects>
+			<subject subjectScheme="anzsrc">33</subject>
+		</subjects>
+		<alternateIdentifiers>
+			<alternateIdentifier alternateIdentifierType="local id">TC-35</alternateIdentifier>
+		</alternateIdentifiers>
+		<sizes>
+			<size>4.25TB</size>
+		</sizes>
+		<descriptions>
+			<description descriptionType="Other">Other description</description>
+		</descriptions>
+		<rightsList>
+			<rights rightsIdentifier="234345Rights" rightsURI="http://rightsUri.com">Some example rights</rights>
+		</rightsList>
+		<creators>
+			<creator>
+				<creatorName>Organisation 1</creatorName>
+				<nameIdentifier nameIdentifierScheme="orcid">0000-3333-5645-4569*</nameIdentifier>
+			</creator>
+			<creator>
+				<creatorName>Organisation 1</creatorName>
+				<nameIdentifier nameIdentifierScheme="orcid">0000-3333-5645-1235!</nameIdentifier>
+			</creator>
+		</creators>
+		<fundingReferences>
+			<fundingReference>
+				<funderName>Funder 1</funderName>
+				<awardNumber>123T3</awardNumber>
+			</fundingReference>
+		</fundingReferences>
+	</resource>
 
 </resources>

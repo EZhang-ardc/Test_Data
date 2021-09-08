@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d6e6600b-2bcf-432b-81c3-4510c5cd1692" name="Default Changelist" comment="Updated the test files for grants network testing">
+    <list default="true" id="d6e6600b-2bcf-432b-81c3-4510c5cd1692" name="Default Changelist" comment="Updated the test files for title change side effect">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRVS/Test_Partner_2/Test_xml_csv_for_change_requests/DRVS_Test_Data_Collections_Change_Requests.csv" beforeDir="false" afterPath="$PROJECT_DIR$/DRVS/Test_Partner_2/Test_xml_csv_for_change_requests/DRVS_Test_Data_Collections_Change_Requests.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DRVS/Test_Partner_2/Test_xml_csv_for_change_requests/TC-DRVS-DOI.xml" beforeDir="false" afterPath="$PROJECT_DIR$/DRVS/Test_Partner_2/Test_xml_csv_for_change_requests/TC-DRVS-DOI.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

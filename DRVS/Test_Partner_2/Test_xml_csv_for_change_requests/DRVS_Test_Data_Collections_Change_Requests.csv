@@ -8,3 +8,10 @@ Metadata Concept,Collection Capacity,Local Collection ID, Application Research D
 ,4.65,TC-26,,"DRVS Test DOI 26 - ANZSRC 6-digit code with literal",Test for the Literal ANZSRC FOR code,Brendan Davey - https://orcid.org/0000-0002-1482-7119,,,,,,,,10.80298/TEST_DOI_60124nhtjkti5
 ,4.25,TC-27,,"DRVS Test DOI 27 - ANZSRC literal only",Test for the Literal ANZSRC FOR code,Brendan Davey - https://orcid.org/0000-0002-1482-7119,,,,,,,,10.80298/TEST_DOI_6029c3456da741sd
 ,4.25,TC-28,,"DRVS Test DOI 28 - ANZSRC literal capital letters",Test for the Literal ANZSRC FOR code,Brendan Davey - https://orcid.org/0000-0002-1482-7119,,,,,,,,10.80298/TEST_DOI_6029cloda741r87
+,4.26,TC-29,,"DRVS Test DOI 29 - Pass - ANZSRC literal in Māori",Test for the Literal ANZSRC FOR code,Brendan Davey - https://orcid.org/0000-0002-1482-7119,,,,,,,,10.80298/TEST_DOI_6029cwefsdv741sd
+,4.26,TC-30,,"DRVS Test DOI 30 - Pass - ANZSRC FoR switched positions for digits and literal",Test for the Literal ANZSRC FOR code,Brendan Davey - https://orcid.org/0000-0002-1482-7119,,,,,,,,10.80298/TEST_DOI_1129cy09gmsdv741rtf
+,4.7,TC-31,,"DRVS Test DOI 31 - Pass - ANZSRC FoR digital code + capital terms",Test for the Literal ANZSRC FOR code,Brendan Davey - https://orcid.org/0000-0002-1482-7119,,,,,,,,10.80298/TEST_DOI_112ji36saqd
+,4.65,TC-32,,"DRVS Test DOI 32 - Correct FoR literal, wrong digital code",Test for the Literal ANZSRC FOR code,Brendan Davey - https://orcid.org/0000-0002-1482-7119,,,,,,,,10.80298/TEST_DOI_112j456mnnjkq
+,4.25,TC-33,,"DRVS Test DOI 33 - Correct FoR digital code, wrong literal",Test for the Literal ANZSRC FOR code,Brendan Davey - https://orcid.org/0000-0002-1482-7119,,,,,,,,10.80298/TEST_DOI_112jvmdcs09nnjkp
+,4.25,TC-34,,"DRVS Test DOI 34 - Wrong FoR literal, wrong digital code",Test for the Literal ANZSRC FOR code,Brendan Davey - https://orcid.org/0000-0002-1482-7119,,,,,,,,10.80298/TEST_DOI_113054iefh
+,4.26,TC-35,,"DRVS Test DOI 35 - More weird identifier suffixes",Test for the Literal ANZSRC FOR code,Brendan Davey - https://orcid.org/0000-0002-1482-7119,,,,,,,,10.80298/TEST_DOI_fewrgko978
