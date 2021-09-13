@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d6e6600b-2bcf-432b-81c3-4510c5cd1692" name="Default Changelist" comment="Updated the test files for title change side effect">
+    <list default="true" id="d6e6600b-2bcf-432b-81c3-4510c5cd1692" name="Default Changelist" comment="Updated the test files for more FoR scenarios and the identifier trimming">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DRVS/Test_Partner_2/Test_xml_csv_for_change_requests/DRVS_Test_Data_Collections_Change_Requests.csv" beforeDir="false" afterPath="$PROJECT_DIR$/DRVS/Test_Partner_2/Test_xml_csv_for_change_requests/DRVS_Test_Data_Collections_Change_Requests.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DRVS/Test_Partner_2/Test_xml_csv_for_change_requests/TC-DRVS-DOI.xml" beforeDir="false" afterPath="$PROJECT_DIR$/DRVS/Test_Partner_2/Test_xml_csv_for_change_requests/TC-DRVS-DOI.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RDA/Grants_Network_Test_Records/Small_Grants_Network_Test_Inferred_Funder_Relation.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RDA/Grants_Network_Test_Records/Small_Grants_Network_Test_Inferred_Funder_Relation.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -251,7 +250,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630373986975</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Updated the test files for more FoR scenarios and the identifier trimming">
+      <created>1631083938345</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1631083938346</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -290,6 +296,7 @@
     <MESSAGE value="Updated the test files for Relationship Scenario 39 and 40" />
     <MESSAGE value="Updated the test files for Relationship Scenario 41" />
     <MESSAGE value="Updated the test files for grants network testing" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated the test files for grants network testing" />
+    <MESSAGE value="Updated the test files for more FoR scenarios and the identifier trimming" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated the test files for more FoR scenarios and the identifier trimming" />
   </component>
 </project>
