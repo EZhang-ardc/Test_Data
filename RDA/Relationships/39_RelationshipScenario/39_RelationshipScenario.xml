@@ -10,7 +10,7 @@
       <description type="lineage">Overview of the process how data was produced is provided in Marinoni O, Navarro Garcia J, Marvanek S, Prestwidge D, Clifford D, Laredo L. 2012. Development of a system to produce maps of agricultural profit on a continental scale: An example for Australia. Agricultural Systems. 105, 1, 33-45.</description>
         <relatedObject>
     <key>Relationship scenario 39 - 20210830 - P1</key>
-    <relation type="isCollectedBy"/>
+    <relation type="hasCollector"/>
     </relatedObject>
     </collection>
   </registryObject>
@@ -29,7 +29,7 @@
     </relatedObject>
         <relatedObject>
     <key>Relationship scenario 39 - 20210830 - P1</key>
-    <relation type="isEnrichedBy"/>
+    <relation type="hasCollector"/>
     </relatedObject>
     </collection>
   </registryObject>
