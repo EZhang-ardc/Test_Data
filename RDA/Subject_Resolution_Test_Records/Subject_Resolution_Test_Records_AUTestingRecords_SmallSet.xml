@@ -332,4 +332,934 @@
         </collection>
     </registryObject>
 
+<registryObject group="AUTestingRecords">
+        <key>AUTestingRecords2020SubjectsResolution1</key>
+        <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+        <collection type="registry">
+            <name type="primary">
+                <namePart>(AUTestingRecords) Collection To Test ANZSRC FOR 2020 Subject Resolution Where Value is  Notation Only type=anzsrc-for value=30</namePart>
+            </name>
+            <subject type="anzsrc-for">30</subject>
+            <description type="brief">Expected resolved subject values:
+                AGRICULTURAL, VETERINARY AND FOOD SCIENCES
+            </description>
+        </collection>
+    </registryObject>
+
+        <registryObject group="AUTestingRecords">
+        <key>AUTestingRecords2020SubjectsResolution2</key>
+        <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+        <collection type="registry">
+            <name type="primary">
+                <namePart>(AUTestingRecords) Collection To Test ANZSRC FOR 2020 Subject Resolution Where Value is  Notation Only type=anzsrc-for value=3007</namePart>
+            </name>
+            <subject type="anzsrc-for">3007</subject>
+            <description type="brief">Expected resolved subject values:
+                Forestry sciences
+                AGRICULTURAL, VETERINARY AND FOOD SCIENCES
+            </description>
+        </collection>
+    </registryObject>
+
+    <registryObject group="AUTestingRecords">
+        <key>AUTestingRecords2020SubjectsResolution3</key>
+        <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+        <collection type="registry">
+            <name type="primary">
+                <namePart>(AUTestingRecords) Collection To Test ANZSRC FOR 2020 Subject Resolution Where Value is  Notation Only type=anzsrc-for value=300705</namePart>
+            </name>
+            <subject type="anzsrc-for">300705</subject>
+            <description type="brief">Expected resolved subject values:
+                Forestry biomass and bioproducts
+                Forestry sciences
+                AGRICULTURAL, VETERINARY AND FOOD SCIENCES
+            </description>
+        </collection>
+    </registryObject>
+
+        <registryObject group="AUTestingRecords">
+        <key>AUTestingRecords2020SubjectsResolution4</key>
+        <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+        <collection type="registry">
+            <name type="primary">
+                <namePart>(AUTestingRecords) Collection To Test ANZSRC FOR 2020 Subject Resolution Where Value is Notation Only type=anzsrc-for value=451016</namePart>
+            </name>
+            <subject type="anzsrc-for">451016</subject>
+            <description type="brief">Expected resolved subject values:
+                Te hauora mamao o te Māori (Māori remote health)
+                Te hauora me te oranga o te Māori (Māori health and wellbeing)
+                INDIGENOUS STUDIES
+            </description>
+        </collection>
+    </registryObject>
+
+    <registryObject group="AUTestingRecords">
+        <key>AUTestingRecords2020SubjectsResolution5</key>
+        <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+        <collection type="registry">
+            <name type="primary">
+                <namePart>(AUTestingRecords) Collection To Testmultiple ANZSRC FOR 2020 Subject Resolution Where Value is Notation Only</namePart>
+            </name>
+            <subject type="anzsrc-for">451016</subject>
+            <subject type="anzsrc-for">3007</subject>
+            <description type="brief">Expected resolved subject values:
+                Te hauora mamao o te Māori (Māori remote health)
+                Te hauora me te oranga o te Māori (Māori health and wellbeing)
+                INDIGENOUS STUDIES
+                Forestry sciences
+                AGRICULTURAL, VETERINARY AND FOOD SCIENCES
+            </description>
+        </collection>
+    </registryObject>
+
+        <registryObject group="AUTestingRecords">
+        <key>AUTestingRecords2020SubjectsResolution6</key>
+        <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+        <collection type="registry">
+            <name type="primary">
+                <namePart>(AUTestingRecords) Collection To Test ANZSRC FOR 2020 Subject Resolution Where Value is label Only</namePart>
+            </name>
+            <subject type="anzsrc-for">Midwifery</subject>
+            <subject type="anzsrc-for">Sports science and exercise</subject>
+            <description type="brief">Expected resolved subject values:
+                (Non notation values should only be matched against 2008 vocabs. Midwifery should match but Sports sciene... does not exist)
+                Midwifery 
+                NURSING
+                MEDICAL AND HEALTH SCIENCES
+                Sports science and exercise
+            </description>
+        </collection>
+    </registryObject>
+
+    <registryObject group="AUTestingRecords">
+        <key>AUTestingRecords2020SubjectsResolution7</key>
+        <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+        <collection type="registry">
+            <name type="primary">
+                <namePart>(AUTestingRecords) Collection To Test ANZSRC FOR 2020 Subject Resolution mix of vaues including 2008 notations and strings</namePart>
+            </name>
+            <subject type="anzsrc-for">1602</subject>
+            <subject type="anzsrc-for">Acoustics and Acoustical Devices; Waves</subject>
+            <subject type="anzsrc-for">Dance and dance studies</subject>
+            <subject type="anzsrc-for">4208 Traditional, complementary and integrative medicine</subject>
+            <subject type="local">4401</subject>
+            <subject type="local">99784</subject>
+            <description type="brief">Expected resolved subject values:
+                (Non notation values should only be matched against 2008 vocabs. Midwifery should match but Sports sciene... does not exist)
+                CRIMINOLOGY (1602)
+                STUDIES IN HUMAN SOCIETY (16)
+                Acoustics and Acoustical Devices; Waves (020301)
+                CLASSICAL PHYSICS (0203)
+                PHYSICAL SCIENCES (02)
+                Dance and dance studies
+                Anthropology (4401)
+                HUMAN SOCIETY (44)
+                99784
+                4208 Traditional, complementary and integrative medicine
+            </description>
+        </collection>
+    </registryObject>
+
+            <registryObject group="AUTestingRecords">
+        <key>AUTestingRecords2020SubjectsResolution8</key>
+        <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+        <collection type="registry">
+            <name type="primary">
+                <namePart>(AUTestingRecords) Collection To Test ANZSRC FOR 2020 Subject Resolution local type but valid codes</namePart>
+            </name>
+            <subject type="local">52</subject>
+            <subject type="local">49</subject>
+            <subject type="local">3802</subject>
+            <subject type="local">04</subject>
+            <description type="brief">Expected resolved subject values:
+                (Non notation values should only be matched against 2008 vocabs. Midwifery should match but Sports sciene... does not exist)
+                PSYCHOLOGY (52)
+                MATHEMATICAL SCIENCES (49)
+                Econometrics (3802)
+                ECONOMICS (38)
+                EARTH SCIENCES (04)
+            </description>
+        </collection>
+    </registryObject>
+    <registryObject group="AUTestingRecords">
+        <key>AUTestingRecords2020SubjectsResolution9</key>
+        <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+        <collection type="registry">
+            <name type="primary">
+                <namePart>(AUTestingRecords) Collection To Test ANZSRC FOR 2020 Subject Resolution counts</namePart>
+            </name>
+            <subject type="anzsrc-for">340501</subject>
+            <description type="brief">Expected resolved subject values: 
+                Free radical chemistry (340501) 
+                Organic chemistry (3405) 
+                CHEMICAL SCIENCES (34) </description>
+        </collection>
+    </registryObject>
+    <registryObject group="AUTestingRecords">
+        <key>AUTestingRecords2020SubjectsResolution10</key>
+        <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+        <collection type="registry">
+            <name type="primary">
+                <namePart>(AUTestingRecords) Collection To Test ANZSRC FOR 2020 Subject Resolution counts</namePart>
+            </name>
+            <subject type="anzsrc-for">340501</subject>
+            <description type="brief">Expected resolved subject values: 
+                Free radical chemistry (340501) 
+                Organic chemistry (3405) 
+                CHEMICAL SCIENCES (34) </description>
+        </collection>
+    </registryObject>
+    <registryObject group="AUTestingRecords">
+        <key>AUTestingRecords2020SubjectsResolution11</key>
+        <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+        <collection type="registry">
+            <name type="primary">
+                <namePart>(AUTestingRecords) Collection To Test ANZSRC FOR 2020 Subject Resolution counts</namePart>
+            </name>
+            <subject type="anzsrc-for">340501</subject>
+            <description type="brief">Expected resolved subject values: 
+Free radical chemistry (340501)
+ Organic chemistry (3405)
+ CHEMICAL SCIENCES (34)
+ </description>
+        </collection>
+    </registryObject>
+    <registryObject group="AUTestingRecords">
+        <key>AUTestingRecords2020SubjectsResolution12</key>
+        <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+        <collection type="registry">
+            <name type="primary">
+                <namePart>(AUTestingRecords) Collection To Test ANZSRC FOR 2020 Subject Resolution counts</namePart>
+            </name>
+            <subject type="anzsrc-for">340501</subject>
+            <description type="brief">Expected resolved subject values: 
+Free radical chemistry (340501)
+ Organic chemistry (3405)
+ CHEMICAL SCIENCES (34)
+ </description>
+        </collection>
+    </registryObject>
+    <registryObject group="AUTestingRecords">
+        <key>AUTestingRecords2020SubjectsResolution13</key>
+        <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+        <collection type="registry">
+            <name type="primary">
+                <namePart>(AUTestingRecords) Collection To Test ANZSRC FOR 2020 Subject Resolution counts</namePart>
+            </name>
+            <subject type="anzsrc-for">340501</subject>
+            <description type="brief">Expected resolved subject values: 
+Free radical chemistry (340501)
+ Organic chemistry (3405)
+ CHEMICAL SCIENCES (34)
+ </description>
+        </collection>
+    </registryObject>
+    <registryObject group="AUTestingRecords">
+        <key>AUTestingRecords2020SubjectsResolution14</key>
+        <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+        <collection type="registry">
+            <name type="primary">
+                <namePart>(AUTestingRecords) Collection To Test ANZSRC FOR 2020 Subject Resolution counts</namePart>
+            </name>
+            <subject type="anzsrc-for">340501</subject>
+            <description type="brief">Expected resolved subject values: 
+Free radical chemistry (340501)
+ Organic chemistry (3405)
+ CHEMICAL SCIENCES (34)
+ </description>
+        </collection>
+    </registryObject>
+    <registryObject group="AUTestingRecords">
+        <key>AUTestingRecords2020SubjectsResolution15</key>
+        <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+        <collection type="registry">
+            <name type="primary">
+                <namePart>(AUTestingRecords) Collection To Test ANZSRC FOR 2020 Subject Resolution counts</namePart>
+            </name>
+            <subject type="anzsrc-for">340501</subject>
+            <description type="brief">Expected resolved subject values: 
+Free radical chemistry (340501)
+ Organic chemistry (3405)
+ CHEMICAL SCIENCES (34)
+ </description>
+        </collection>
+    </registryObject>
+    <registryObject group="AUTestingRecords">
+        <key>AUTestingRecords2020SubjectsResolution16</key>
+        <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+        <collection type="registry">
+            <name type="primary">
+                <namePart>(AUTestingRecords) Collection To Test ANZSRC FOR 2020 Subject Resolution counts</namePart>
+            </name>
+            <subject type="anzsrc-for">340501</subject>
+            <description type="brief">Expected resolved subject values: 
+Free radical chemistry (340501)
+ Organic chemistry (3405)
+ CHEMICAL SCIENCES (34)
+ </description>
+        </collection>
+    </registryObject>
+    <registryObject group="AUTestingRecords">
+        <key>AUTestingRecords2020SubjectsResolution17</key>
+        <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+        <collection type="registry">
+            <name type="primary">
+                <namePart>(AUTestingRecords) Collection To Test ANZSRC FOR 2020 Subject Resolution counts</namePart>
+            </name>
+            <subject type="anzsrc-for">340501</subject>
+            <description type="brief">Expected resolved subject values: 
+Free radical chemistry (340501)
+ Organic chemistry (3405)
+ CHEMICAL SCIENCES (34)
+ </description>
+        </collection>
+    </registryObject>
+    <registryObject group="AUTestingRecords">
+        <key>AUTestingRecords2020SubjectsResolution18</key>
+        <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+        <collection type="registry">
+            <name type="primary">
+                <namePart>(AUTestingRecords) Collection To Test ANZSRC FOR 2020 Subject Resolution counts</namePart>
+            </name>
+            <subject type="anzsrc-for">340501</subject>
+            <description type="brief">Expected resolved subject values: 
+Free radical chemistry (340501)
+ Organic chemistry (3405)
+ CHEMICAL SCIENCES (34)
+ </description>
+        </collection>
+    </registryObject>
+    <registryObject group="AUTestingRecords">
+        <key>AUTestingRecords2020SubjectsResolution19</key>
+        <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+        <collection type="registry">
+            <name type="primary">
+                <namePart>(AUTestingRecords) Collection To Test ANZSRC FOR 2020 Subject Resolution counts</namePart>
+            </name>
+            <subject type="anzsrc-for">340501</subject>
+            <description type="brief">Expected resolved subject values: 
+Free radical chemistry (340501)
+ Organic chemistry (3405)
+ CHEMICAL SCIENCES (34)
+ </description>
+        </collection>
+    </registryObject>
+    <registryObject group="AUTestingRecords">
+        <key>AUTestingRecords2020SubjectsResolution20</key>
+        <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+        <collection type="registry">
+            <name type="primary">
+                <namePart>(AUTestingRecords) Collection To Test ANZSRC FOR 2020 Subject Resolution counts</namePart>
+            </name>
+            <subject type="anzsrc-for">340501</subject>
+            <description type="brief">Expected resolved subject values: 
+Free radical chemistry (340501)
+ Organic chemistry (3405)
+ CHEMICAL SCIENCES (34)
+ </description>
+        </collection>
+    </registryObject>
+    <registryObject group="AUTestingRecords">
+        <key>AUTestingRecords2020SubjectsResolution21</key>
+        <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+        <collection type="registry">
+            <name type="primary">
+                <namePart>(AUTestingRecords) Collection To Test ANZSRC FOR 2020 Subject Resolution counts</namePart>
+            </name>
+            <subject type="anzsrc-for">340501</subject>
+            <description type="brief">Expected resolved subject values: 
+Free radical chemistry (340501)
+ Organic chemistry (3405)
+ CHEMICAL SCIENCES (34)
+ </description>
+        </collection>
+    </registryObject>
+    <registryObject group="AUTestingRecords">
+        <key>AUTestingRecords2020SubjectsResolution22</key>
+        <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+        <collection type="registry">
+            <name type="primary">
+                <namePart>(AUTestingRecords) Collection To Test ANZSRC FOR 2020 Subject Resolution counts</namePart>
+            </name>
+            <subject type="anzsrc-for">340501</subject>
+            <description type="brief">Expected resolved subject values: 
+Free radical chemistry (340501)
+ Organic chemistry (3405)
+ CHEMICAL SCIENCES (34)
+ </description>
+        </collection>
+    </registryObject>
+    <registryObject group="AUTestingRecords">
+        <key>AUTestingRecords2020SubjectsResolution23</key>
+        <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+        <collection type="registry">
+            <name type="primary">
+                <namePart>(AUTestingRecords) Collection To Test ANZSRC FOR 2020 Subject Resolution counts</namePart>
+            </name>
+            <subject type="anzsrc-for">340501</subject>
+            <description type="brief">Expected resolved subject values: 
+Free radical chemistry (340501)
+ Organic chemistry (3405)
+ CHEMICAL SCIENCES (34)
+ </description>
+        </collection>
+    </registryObject>
+    <registryObject group="AUTestingRecords">
+        <key>AUTestingRecords2020SubjectsResolution24</key>
+        <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+        <collection type="registry">
+            <name type="primary">
+                <namePart>(AUTestingRecords) Collection To Test ANZSRC FOR 2020 Subject Resolution counts</namePart>
+            </name>
+            <subject type="anzsrc-for">340501</subject>
+            <description type="brief">Expected resolved subject values: 
+Free radical chemistry (340501)
+ Organic chemistry (3405)
+ CHEMICAL SCIENCES (34)
+ </description>
+        </collection>
+    </registryObject>
+    <registryObject group="AUTestingRecords">
+        <key>AUTestingRecords2020SubjectsResolution25</key>
+        <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+        <collection type="registry">
+            <name type="primary">
+                <namePart>(AUTestingRecords) Collection To Test ANZSRC FOR 2020 Subject Resolution counts</namePart>
+            </name>
+            <subject type="anzsrc-for">340501</subject>
+            <description type="brief">Expected resolved subject values: 
+Free radical chemistry (340501)
+ Organic chemistry (3405)
+ CHEMICAL SCIENCES (34)
+ </description>
+        </collection>
+    </registryObject>
+    <registryObject group="AUTestingRecords">
+        <key>AUTestingRecords2020SubjectsResolution26</key>
+        <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+        <collection type="registry">
+            <name type="primary">
+                <namePart>(AUTestingRecords) Collection To Test ANZSRC FOR 2020 Subject Resolution counts</namePart>
+            </name>
+            <subject type="anzsrc-for">340501</subject>
+            <description type="brief">Expected resolved subject values: 
+Free radical chemistry (340501)
+ Organic chemistry (3405)
+ CHEMICAL SCIENCES (34)
+ </description>
+        </collection>
+    </registryObject>
+    <registryObject group="AUTestingRecords">
+        <key>AUTestingRecords2020SubjectsResolution27</key>
+        <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+        <collection type="registry">
+            <name type="primary">
+                <namePart>(AUTestingRecords) Collection To Test ANZSRC FOR 2020 Subject Resolution counts</namePart>
+            </name>
+            <subject type="anzsrc-for">340501</subject>
+            <description type="brief">Expected resolved subject values: 
+Free radical chemistry (340501)
+ Organic chemistry (3405)
+ CHEMICAL SCIENCES (34)
+ </description>
+        </collection>
+    </registryObject>
+    <registryObject group="AUTestingRecords">
+        <key>AUTestingRecords2020SubjectsResolution28</key>
+        <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+        <collection type="registry">
+            <name type="primary">
+                <namePart>(AUTestingRecords) Collection To Test ANZSRC FOR 2020 Subject Resolution counts</namePart>
+            </name>
+            <subject type="anzsrc-for">340501</subject>
+            <description type="brief">Expected resolved subject values: 
+Free radical chemistry (340501)
+ Organic chemistry (3405)
+ CHEMICAL SCIENCES (34)
+ </description>
+        </collection>
+    </registryObject>
+    <registryObject group="AUTestingRecords">
+        <key>AUTestingRecords2020SubjectsResolution29</key>
+        <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+        <collection type="registry">
+            <name type="primary">
+                <namePart>(AUTestingRecords) Collection To Test ANZSRC FOR 2020 Subject Resolution counts</namePart>
+            </name>
+            <subject type="anzsrc-for">340501</subject>
+            <description type="brief">Expected resolved subject values: 
+Free radical chemistry (340501)
+ Organic chemistry (3405)
+ CHEMICAL SCIENCES (34)
+ </description>
+        </collection>
+    </registryObject>
+    <registryObject group="AUTestingRecords">
+        <key>AUTestingRecords2020SubjectsResolution30</key>
+        <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+        <collection type="registry">
+            <name type="primary">
+                <namePart>(AUTestingRecords) Collection To Test ANZSRC FOR 2020 Subject Resolution counts</namePart>
+            </name>
+            <subject type="anzsrc-for">3102</subject>
+            <description type="brief">Expected resolved subject values: 
+Bioinformatics and computational biology (3102)
+ BIOLOGICAL SCIENCES (31)
+ </description>
+        </collection>
+    </registryObject>
+    <registryObject group="AUTestingRecords">
+        <key>AUTestingRecords2020SubjectsResolution31</key>
+        <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+        <collection type="registry">
+            <name type="primary">
+                <namePart>(AUTestingRecords) Collection To Test ANZSRC FOR 2020 Subject Resolution counts</namePart>
+            </name>
+            <subject type="anzsrc-for">3102</subject>
+            <description type="brief">Expected resolved subject values: 
+Bioinformatics and computational biology (3102)
+ BIOLOGICAL SCIENCES (31)
+ </description>
+        </collection>
+    </registryObject>
+    <registryObject group="AUTestingRecords">
+        <key>AUTestingRecords2020SubjectsResolution32</key>
+        <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+        <collection type="registry">
+            <name type="primary">
+                <namePart>(AUTestingRecords) Collection To Test ANZSRC FOR 2020 Subject Resolution counts</namePart>
+            </name>
+            <subject type="anzsrc-for">3102</subject>
+            <description type="brief">Expected resolved subject values: 
+Bioinformatics and computational biology (3102)
+ BIOLOGICAL SCIENCES (31)
+ </description>
+        </collection>
+    </registryObject>
+    <registryObject group="AUTestingRecords">
+        <key>AUTestingRecords2020SubjectsResolution33</key>
+        <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+        <collection type="registry">
+            <name type="primary">
+                <namePart>(AUTestingRecords) Collection To Test ANZSRC FOR 2020 Subject Resolution counts</namePart>
+            </name>
+            <subject type="anzsrc-for">3102</subject>
+            <description type="brief">Expected resolved subject values: 
+Bioinformatics and computational biology (3102)
+ BIOLOGICAL SCIENCES (31)
+ </description>
+        </collection>
+    </registryObject>
+    <registryObject group="AUTestingRecords">
+        <key>AUTestingRecords2020SubjectsResolution34</key>
+        <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+        <collection type="registry">
+            <name type="primary">
+                <namePart>(AUTestingRecords) Collection To Test ANZSRC FOR 2020 Subject Resolution counts</namePart>
+            </name>
+            <subject type="anzsrc-for">3102</subject>
+            <description type="brief">Expected resolved subject values: 
+Bioinformatics and computational biology (3102)
+ BIOLOGICAL SCIENCES (31)
+ </description>
+        </collection>
+    </registryObject>
+    <registryObject group="AUTestingRecords">
+        <key>AUTestingRecords2020SubjectsResolution35</key>
+        <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+        <collection type="registry">
+            <name type="primary">
+                <namePart>(AUTestingRecords) Collection To Test ANZSRC FOR 2020 Subject Resolution counts</namePart>
+            </name>
+            <subject type="anzsrc-for">3102</subject>
+            <description type="brief">Expected resolved subject values: 
+Bioinformatics and computational biology (3102)
+ BIOLOGICAL SCIENCES (31)
+ </description>
+        </collection>
+    </registryObject>
+    <registryObject group="AUTestingRecords">
+        <key>AUTestingRecords2020SubjectsResolution36</key>
+        <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+        <collection type="registry">
+            <name type="primary">
+                <namePart>(AUTestingRecords) Collection To Test ANZSRC FOR 2020 Subject Resolution counts</namePart>
+            </name>
+            <subject type="anzsrc-for">3102</subject>
+            <description type="brief">Expected resolved subject values: 
+Bioinformatics and computational biology (3102)
+ BIOLOGICAL SCIENCES (31)
+ </description>
+        </collection>
+    </registryObject>
+    <registryObject group="AUTestingRecords">
+        <key>AUTestingRecords2020SubjectsResolution37</key>
+        <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+        <collection type="registry">
+            <name type="primary">
+                <namePart>(AUTestingRecords) Collection To Test ANZSRC FOR 2020 Subject Resolution counts</namePart>
+            </name>
+            <subject type="anzsrc-for">3102</subject>
+            <description type="brief">Expected resolved subject values: 
+Bioinformatics and computational biology (3102)
+ BIOLOGICAL SCIENCES (31)
+ </description>
+        </collection>
+    </registryObject>
+    <registryObject group="AUTestingRecords">
+        <key>AUTestingRecords2020SubjectsResolution38</key>
+        <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+        <collection type="registry">
+            <name type="primary">
+                <namePart>(AUTestingRecords) Collection To Test ANZSRC FOR 2020 Subject Resolution counts</namePart>
+            </name>
+            <subject type="anzsrc-for">3102</subject>
+            <description type="brief">Expected resolved subject values: 
+Bioinformatics and computational biology (3102)
+ BIOLOGICAL SCIENCES (31)
+ </description>
+        </collection>
+    </registryObject>
+    <registryObject group="AUTestingRecords">
+        <key>AUTestingRecords2020SubjectsResolution39</key>
+        <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+        <collection type="registry">
+            <name type="primary">
+                <namePart>(AUTestingRecords) Collection To Test ANZSRC FOR 2020 Subject Resolution counts</namePart>
+            </name>
+            <subject type="anzsrc-for">3102</subject>
+            <description type="brief">Expected resolved subject values: 
+Bioinformatics and computational biology (3102)
+ BIOLOGICAL SCIENCES (31)
+ </description>
+        </collection>
+    </registryObject>
+    <registryObject group="AUTestingRecords">
+        <key>AUTestingRecords2020SubjectsResolution40</key>
+        <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+        <collection type="registry">
+            <name type="primary">
+                <namePart>(AUTestingRecords) Collection To Test ANZSRC FOR 2020 Subject Resolution counts</namePart>
+            </name>
+            <subject type="anzsrc-for">3102</subject>
+            <description type="brief">Expected resolved subject values: 
+Bioinformatics and computational biology (3102)
+ BIOLOGICAL SCIENCES (31)
+ </description>
+        </collection>
+    </registryObject>
+    <registryObject group="AUTestingRecords">
+        <key>AUTestingRecords2020SubjectsResolution41</key>
+        <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+        <collection type="registry">
+            <name type="primary">
+                <namePart>(AUTestingRecords) Collection To Test ANZSRC FOR 2020 Subject Resolution counts</namePart>
+            </name>
+            <subject type="anzsrc-for">3102</subject>
+            <description type="brief">Expected resolved subject values: 
+Bioinformatics and computational biology (3102)
+ BIOLOGICAL SCIENCES (31)
+ </description>
+        </collection>
+    </registryObject>
+    <registryObject group="AUTestingRecords">
+        <key>AUTestingRecords2020SubjectsResolution42</key>
+        <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+        <collection type="registry">
+            <name type="primary">
+                <namePart>(AUTestingRecords) Collection To Test ANZSRC FOR 2020 Subject Resolution counts</namePart>
+            </name>
+            <subject type="anzsrc-for">3102</subject>
+            <description type="brief">Expected resolved subject values: 
+Bioinformatics and computational biology (3102)
+ BIOLOGICAL SCIENCES (31)
+ </description>
+        </collection>
+    </registryObject>
+    <registryObject group="AUTestingRecords">
+        <key>AUTestingRecords2020SubjectsResolution43</key>
+        <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+        <collection type="registry">
+            <name type="primary">
+                <namePart>(AUTestingRecords) Collection To Test ANZSRC FOR 2020 Subject Resolution counts</namePart>
+            </name>
+            <subject type="anzsrc-for">3102</subject>
+            <description type="brief">Expected resolved subject values: 
+Bioinformatics and computational biology (3102)
+ BIOLOGICAL SCIENCES (31)
+ </description>
+        </collection>
+    </registryObject>
+    <registryObject group="AUTestingRecords">
+        <key>AUTestingRecords2020SubjectsResolution44</key>
+        <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+        <collection type="registry">
+            <name type="primary">
+                <namePart>(AUTestingRecords) Collection To Test ANZSRC FOR 2020 Subject Resolution counts</namePart>
+            </name>
+            <subject type="anzsrc-for">3102</subject>
+            <description type="brief">Expected resolved subject values: 
+Bioinformatics and computational biology (3102)
+ BIOLOGICAL SCIENCES (31)
+ </description>
+        </collection>
+    </registryObject>
+    <registryObject group="AUTestingRecords">
+        <key>AUTestingRecords2020SubjectsResolution45</key>
+        <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+        <collection type="registry">
+            <name type="primary">
+                <namePart>(AUTestingRecords) Collection To Test ANZSRC FOR 2020 Subject Resolution counts</namePart>
+            </name>
+            <subject type="anzsrc-for">3102</subject>
+            <description type="brief">Expected resolved subject values: 
+Bioinformatics and computational biology (3102)
+ BIOLOGICAL SCIENCES (31)
+ </description>
+        </collection>
+    </registryObject>
+    <registryObject group="AUTestingRecords">
+        <key>AUTestingRecords2020SubjectsResolution46</key>
+        <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+        <collection type="registry">
+            <name type="primary">
+                <namePart>(AUTestingRecords) Collection To Test ANZSRC FOR 2020 Subject Resolution counts</namePart>
+            </name>
+            <subject type="anzsrc-for">3102</subject>
+            <description type="brief">Expected resolved subject values: 
+Bioinformatics and computational biology (3102)
+ BIOLOGICAL SCIENCES (31)
+ </description>
+        </collection>
+    </registryObject>
+    <registryObject group="AUTestingRecords">
+        <key>AUTestingRecords2020SubjectsResolution47</key>
+        <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+        <collection type="registry">
+            <name type="primary">
+                <namePart>(AUTestingRecords) Collection To Test ANZSRC FOR 2020 Subject Resolution counts</namePart>
+            </name>
+            <subject type="anzsrc-for">3102</subject>
+            <description type="brief">Expected resolved subject values: 
+Bioinformatics and computational biology (3102)
+ BIOLOGICAL SCIENCES (31)
+ </description>
+        </collection>
+    </registryObject>
+    <registryObject group="AUTestingRecords">
+        <key>AUTestingRecords2020SubjectsResolution48</key>
+        <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+        <collection type="registry">
+            <name type="primary">
+                <namePart>(AUTestingRecords) Collection To Test ANZSRC FOR 2020 Subject Resolution counts</namePart>
+            </name>
+            <subject type="anzsrc-for">3102</subject>
+            <description type="brief">Expected resolved subject values: 
+Bioinformatics and computational biology (3102)
+ BIOLOGICAL SCIENCES (31)
+ </description>
+        </collection>
+    </registryObject>
+    <registryObject group="AUTestingRecords">
+        <key>AUTestingRecords2020SubjectsResolution49</key>
+        <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+        <collection type="registry">
+            <name type="primary">
+                <namePart>(AUTestingRecords) Collection To Test ANZSRC FOR 2020 Subject Resolution counts</namePart>
+            </name>
+            <subject type="anzsrc-for">3102</subject>
+            <description type="brief">Expected resolved subject values: 
+Bioinformatics and computational biology (3102)
+ BIOLOGICAL SCIENCES (31)
+ </description>
+        </collection>
+    </registryObject>
+    <registryObject group="AUTestingRecords">
+        <key>AUTestingRecords2020SubjectsResolution50</key>
+        <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+        <collection type="registry">
+            <name type="primary">
+                <namePart>(AUTestingRecords) Collection To Test ANZSRC FOR 2020 Subject Resolution counts</namePart>
+            </name>
+            <subject type="anzsrc-for">3102</subject>
+            <description type="brief">Expected resolved subject values: 
+Bioinformatics and computational biology (3102)
+ BIOLOGICAL SCIENCES (31)
+ </description>
+        </collection>
+    </registryObject>
+
+     <registryObject group="AUTestingRecords">
+        <key>AUTestingRecords2020SubjectsResolution51</key>
+        <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+        <collection type="registry">
+            <name type="primary">
+                <namePart>(AUTestingRecords) Collection To Test ANZSRC SEO 2020 Subject Resolution Where Value is  Notation Only type=anzsrc-seo value=10</namePart>
+            </name>
+            <subject type="anzsrc-seo">10</subject>
+            <description type="brief">Expected resolved subject values:
+                ANIMAL PRODUCTION AND ANIMAL PRIMARY PRODUCTS (10)
+            </description>
+        </collection>
+    </registryObject>
+
+     <registryObject group="AUTestingRecords">
+        <key>AUTestingRecords2020SubjectsResolution52</key>
+        <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+        <collection type="registry">
+            <name type="primary">
+                <namePart>(AUTestingRecords) Collection To Test ANZSRC SEO 2020 Subject Resolution Where Value is  Notation Only type=anzsrc-seo value=130702</namePart>
+            </name>
+            <subject type="anzsrc-seo">130702</subject>
+            <description type="brief">Expected resolved subject values:
+                Understanding Asia’s past (130702)
+                Understanding past societies (1307)
+                CULTURE AND SOCIETY (13)
+            </description>
+        </collection>
+    </registryObject>
+
+        <registryObject group="AUTestingRecords">
+        <key>AUTestingRecords2020SubjectsResolution53</key>
+        <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+        <collection type="registry">
+            <name type="primary">
+                <namePart>(AUTestingRecords) Collection To Test ANZSRC SEO 2020 Subject Resolution Where Value is label Only</namePart>
+            </name>
+            <subject type="anzsrc-seo">Government and politics</subject>
+            <subject type="anzsrc-seo">Fresh, ground and surface water systems and management</subject>
+            <subject type="anzsrc-seo">International passenger water transport (e.g. passenger ships)</subject>
+            <description type="brief">Expected resolved subject values:
+                (Non notation values should only be matched against 2008 vocabs. Midwifery should match but Sports sciene... does not exist)
+                Government and politics (9402)
+                LAW, POLITICS AND COMMUNITY SERVICES (94)
+                Fresh, ground and surface water systems and management
+                International passenger water transport (e.g. passenger ships)
+            </description>
+        </collection>
+    </registryObject>
+
+  <registryObject group="AUTestingRecords">
+    <key>AUTestingRecords2020SubjectsResolution54</key>
+    <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+    <collection type="registry">
+      <name type="primary">
+        <namePart>(AUTestingRecords) Collection To Test ANZSRC FOR 2020 Subject Resolution where value is notation plus literal and type is local</namePart>
+      </name>
+      <subject type="local">3405 Organic chemistry</subject>
+      <description type="brief">Expected resolved subject values: 
+        Organic chemistry (3405)
+        CHEMICAL SCIENCES (34)
+ </description>
+    </collection>
+  </registryObject>
+
+  <registryObject group="AUTestingRecords">
+    <key>AUTestingRecords2020SubjectsResolution55</key>
+    <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+    <collection type="registry">
+      <name type="primary">
+        <namePart>(AUTestingRecords) Collection To Test ANZSRC FOR 2020 Subject Resolution where value is notation plus literal and type is anzsrc-for</namePart>
+      </name>
+      <subject type="anzsrc-for">3405 Organic chemistry</subject>
+      <description type="brief">Expected resolved subject values: 
+        Organic chemistry (3405)
+        CHEMICAL SCIENCES (34)
+ </description>
+    </collection>
+  </registryObject>
+
+  <registryObject group="AUTestingRecords">
+    <key>AUTestingRecords2020SubjectsResolution56</key>
+    <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+    <collection type="registry">
+      <name type="primary">
+        <namePart>(AUTestingRecords) Collection To Test ANZSRC FOR 2020 Subject Resolution where value is notation only and type is local</namePart>
+      </name>
+      <subject type="local">3102</subject>
+      <description type="brief">Expected resolved subject values: 
+        3102
+        </description>
+    </collection>
+  </registryObject>
+
+       <registryObject group="AUTestingRecords">
+        <key>AUTestingRecords2020SubjectsResolution57</key>
+        <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+        <collection type="registry">
+            <name type="primary">
+                <namePart>(AUTestingRecords) Collection To Test ANZSRC SEO 2020 Subject Resolution Where Value is  Notation + Literal type=anzsrc-seo</namePart>
+            </name>
+            <subject type="anzsrc-seo"> 170201 Coal exploration</subject>
+            <description type="brief">Expected resolved subject values:
+                Coal exploration (170201)
+                Energy exploration (1702)
+                ENERGY (17)
+            </description>
+        </collection>
+    </registryObject>
+
+           <registryObject group="AUTestingRecords">
+        <key>AUTestingRecords2020SubjectsResolution58</key>
+        <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+        <collection type="registry">
+            <name type="primary">
+                <namePart>(AUTestingRecords) Collection To Test ANZSRC SEO 2008 Subject Resolution Where Value is  Notation + Literal type=anzsrc-seo</namePart>
+            </name>
+            <subject type="anzsrc-seo"> 850101 Coal exploration</subject>
+            <description type="brief">Expected resolved subject values:
+                Coal exploration (850101)
+                Energy exploration (8501)
+                ENERGY (85)
+            </description>
+        </collection>
+    </registryObject>
+
+
+       <registryObject group="AUTestingRecords">
+        <key>AUTestingRecords2020SubjectsResolution59</key>
+        <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+        <collection type="registry">
+            <name type="primary">
+                <namePart>(AUTestingRecords) Collection To Test ANZSRC SEO 2020 Subject Resolution Where Value is  Notation + Literal type=local</namePart>
+            </name>
+            <subject type="local"> 170201 Coal exploration</subject>
+            <description type="brief">Expected resolved subject values:
+                Coal exploration (170201)
+                Energy exploration (1702)
+                ENERGY (17)
+            </description>
+        </collection>
+    </registryObject>
+
+
+    <registryObject group="AUTestingRecords">
+        <key>AUTestingRecords2020SubjectsResolution60</key>
+        <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+        <collection type="registry">
+            <name type="primary">
+                <namePart>(AUTestingRecords) Collection To Test ANZSRC 2020, 2008 and local Subject Resolution</namePart>
+            </name>
+            <subject type="anzsrc-seo">Government and politics</subject>
+            <subject type="anzsrc-seo">Fresh, ground and surface water systems and management</subject>
+            <subject type="anzsrc-seo">International passenger water transport (e.g. passenger ships)</subject>
+            <subject type="local">170201 Coal exploration</subject>
+            <subject type="anzsrc-seo">130702</subject>
+            <subject type="local">Keyword 1</subject>
+            <description type="brief">Expected resolved subject values:
+                (Non notation values should only be matched against 2008 vocabs. Midwifery should match but Sports sciene... does not exist)
+                Government and politics (9402)
+                LAW, POLITICS AND COMMUNITY SERVICES (94)
+                Fresh, ground and surface water systems and management
+                International passenger water transport (e.g. passenger ships)
+                Coal exploration (170201)
+                Energy exploration (1702)
+                ENERGY (17)
+                Understanding Asia’s past (130702)
+                Understanding past societies (1307)
+                CULTURE AND SOCIETY (13)
+                Keyword 1
+             </description>
+        </collection>
+    </registryObject>
 </registryObjects>

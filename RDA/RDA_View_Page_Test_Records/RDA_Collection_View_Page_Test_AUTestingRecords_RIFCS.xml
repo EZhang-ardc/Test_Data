@@ -3921,4 +3921,179 @@
         </party>
     </registryObject>
 
+    <registryObject group="AUTestingRecords">
+        <key>AUTestingRecords2020SubjectsResolution1</key>
+        <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+        <collection type="registry">
+            <name type="primary">
+                <namePart>(AUTestingRecords) Collection To Test ANZSRC FOR 2020 Subject Resolution Where Value is  Notation Only type=anzsrc-for value=30</namePart>
+            </name>
+            <subject type="anzsrc-for">30</subject>
+            <description type="brief">Expected resolved subject values:
+                AGRICULTURAL, VETERINARY AND FOOD SCIENCES
+            </description>
+        </collection>
+    </registryObject>
+
+    <registryObject group="AUTestingRecords">
+        <key>AUTestingRecords2020SubjectsResolution3</key>
+        <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+        <collection type="registry">
+            <name type="primary">
+                <namePart>(AUTestingRecords) Collection To Test ANZSRC FOR 2020 Subject Resolution Where Value is  Notation Only type=anzsrc-for value=300705</namePart>
+            </name>
+            <subject type="anzsrc-for">300705</subject>
+            <description type="brief">Expected resolved subject values:
+                Forestry biomass and bioproducts
+                Forestry sciences
+                AGRICULTURAL, VETERINARY AND FOOD SCIENCES
+            </description>
+        </collection>
+    </registryObject>
+
+        <registryObject group="AUTestingRecords">
+        <key>AUTestingRecords2020SubjectsResolution4</key>
+        <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+        <collection type="registry">
+            <name type="primary">
+                <namePart>(AUTestingRecords) Collection To Test ANZSRC FOR 2020 Subject Resolution Where Value is Notation Only type=anzsrc-for value=451016</namePart>
+            </name>
+            <subject type="anzsrc-for">451016</subject>
+            <description type="brief">Expected resolved subject values:
+                Te hauora mamao o te Māori (Māori remote health)
+                Te hauora me te oranga o te Māori (Māori health and wellbeing)
+                INDIGENOUS STUDIES
+            </description>
+        </collection>
+    </registryObject>
+
+
+        <registryObject group="AUTestingRecords">
+        <key>AUTestingRecords2020SubjectsResolution6</key>
+        <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+        <collection type="registry">
+            <name type="primary">
+                <namePart>(AUTestingRecords) Collection To Test ANZSRC FOR 2020 Subject Resolution Where Value is label Only</namePart>
+            </name>
+            <subject type="anzsrc-for">Midwifery</subject>
+            <subject type="anzsrc-for">Sports science and exercise</subject>
+            <description type="brief">Expected resolved subject values:
+                (Non notation values should only be matched against 2008 vocabs. Midwifery should match but Sports sciene... does not exist)
+                Midwifery 
+                NURSING
+                MEDICAL AND HEALTH SCIENCES
+                Sports science and exercise
+            </description>
+        </collection>
+    </registryObject>
+
+    <registryObject group="AUTestingRecords">
+        <key>AUTestingRecords2020SubjectsResolution7</key>
+        <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+        <collection type="registry">
+            <name type="primary">
+                <namePart>(AUTestingRecords) Collection To Test ANZSRC FOR 2020 Subject Resolution mix of vaues including 2008 notations and strings</namePart>
+            </name>
+            <subject type="anzsrc-for">1602</subject>
+            <subject type="anzsrc-for">Acoustics and Acoustical Devices; Waves</subject>
+            <subject type="anzsrc-for">Dance and dance studies</subject>
+            <subject type="anzsrc-for">4208 Traditional, complementary and integrative medicine</subject>
+            <subject type="local">4401</subject>
+            <subject type="local">99784</subject>
+            <description type="brief">Expected resolved subject values:
+                (Non notation values should only be matched against 2008 vocabs. Midwifery should match but Sports sciene... does not exist)
+                CRIMINOLOGY (1602)
+                STUDIES IN HUMAN SOCIETY (16)
+                Acoustics and Acoustical Devices; Waves (020301)
+                CLASSICAL PHYSICS (0203)
+                PHYSICAL SCIENCES (02)
+                Dance and dance studies
+                4401
+                99784
+                HEALTH SCIENCES (42)
+                Traditional, complementary and integrative medicine (4208)
+            </description>
+        </collection>
+    </registryObject>
+
+    <registryObject group="AUTestingRecords">
+        <key>AUTestingRecords2020SubjectsResolution51</key>
+        <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+        <collection type="registry">
+            <name type="primary">
+                <namePart>(AUTestingRecords) Collection To Test ANZSRC SEO 2020 Subject Resolution Where Value is  Notation Only type=anzsrc-seo value=10</namePart>
+            </name>
+            <subject type="anzsrc-seo">10</subject>
+            <description type="brief">Expected resolved subject values:
+                ANIMAL PRODUCTION AND ANIMAL PRIMARY PRODUCTS (10)
+            </description>
+        </collection>
+    </registryObject>
+
+        <registryObject group="AUTestingRecords">
+        <key>AUTestingRecords2020SubjectsResolution53</key>
+        <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+        <collection type="registry">
+            <name type="primary">
+                <namePart>(AUTestingRecords) Collection To Test ANZSRC SEO 2020 Subject Resolution Where Value is label Only</namePart>
+            </name>
+            <subject type="anzsrc-seo">Government and politics</subject>
+            <subject type="anzsrc-seo">Fresh, ground and surface water systems and management</subject>
+            <subject type="anzsrc-seo">International passenger water transport (e.g. passenger ships)</subject>
+            <description type="brief">Expected resolved subject values:
+                (Non notation values should only be matched against 2008 vocabs. Midwifery should match but Sports sciene... does not exist)
+                Government and politics (9402)
+                LAW, POLITICS AND COMMUNITY SERVICES (94)
+                Fresh, ground and surface water systems and management
+                International passenger water transport (e.g. passenger ships)
+            </description>
+        </collection>
+    </registryObject>
+
+               <registryObject group="AUTestingRecords">
+        <key>AUTestingRecords2020SubjectsResolution58</key>
+        <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+        <collection type="registry">
+            <name type="primary">
+                <namePart>(AUTestingRecords) Collection To Test ANZSRC SEO 2008 Subject Resolution Where Value is  Notation + Literal type=anzsrc-seo</namePart>
+            </name>
+            <subject type="anzsrc-seo"> 850101 Coal exploration</subject>
+            <description type="brief">Expected resolved subject values:
+                Coal exploration (850101)
+                Energy exploration (8501)
+                ENERGY (85)
+            </description>
+        </collection>
+    </registryObject>
+
+    <registryObject group="AUTestingRecords">
+        <key>AUTestingRecords2020SubjectsResolution60</key>
+        <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+        <collection type="registry">
+            <name type="primary">
+                <namePart>(AUTestingRecords) Collection To Test ANZSRC 2020, 2008 and local Subject Resolution</namePart>
+            </name>
+            <subject type="anzsrc-seo">Government and politics</subject>
+            <subject type="anzsrc-seo">Fresh, ground and surface water systems and management</subject>
+            <subject type="anzsrc-seo">International passenger water transport (e.g. passenger ships)</subject>
+            <subject type="local">170201 Coal exploration</subject>
+            <subject type="anzsrc-seo">130702</subject>
+            <subject type="local">Keyword 1</subject>
+            <description type="brief">Expected resolved subject values:
+                (Non notation values should only be matched against 2008 vocabs. Midwifery should match but Sports sciene... does not exist)
+                Government and politics (9402)
+                LAW, POLITICS AND COMMUNITY SERVICES (94)
+                Fresh, ground and surface water systems and management
+                International passenger water transport (e.g. passenger ships)
+                Coal exploration (170201)
+                Energy exploration (1702)
+                ENERGY (17)
+                Understanding Asia’s past (130702)
+                Understanding past societies (1307)
+                CULTURE AND SOCIETY (13)
+                Keyword 1
+             </description>
+        </collection>
+    </registryObject>
+
 </registryObjects>
