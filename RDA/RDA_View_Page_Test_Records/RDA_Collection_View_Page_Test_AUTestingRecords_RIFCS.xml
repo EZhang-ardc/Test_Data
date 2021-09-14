@@ -2387,9 +2387,7 @@
                 AIR QUALITY
                 EMISSIONS
             </description>
-            <subject type="gcmd">EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC RADIATION &gt; ATMOSPHERIC EMITTED
-                RADIATION
-            </subject>
+            <subject type="gcmd">EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC RADIATION &gt; ATMOSPHERIC EMITTED RADIATION</subject>
             <subject type="gcmd">Biosphere &gt; Ecological Dynamics &gt; Fire Ecology</subject>
             <subject type="gcmd">CAML &gt; CENSUS OF ANTARCTIC MARINE LIFE</subject>
             <subject type="gcmd">CONTINENT &gt; ANTARCTICA &gt; Brattstrand Bluff</subject>
@@ -2419,9 +2417,7 @@
                 AIR QUALITY
                 EMISSIONS
             </description>
-            <subject type="local">EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC RADIATION &gt; ATMOSPHERIC EMITTED
-                RADIATION
-            </subject>
+            <subject type="local">EARTH SCIENCE &gt; ATMOSPHERE &gt; ATMOSPHERIC RADIATION &gt; ATMOSPHERIC EMITTED RADIATION</subject>
             <subject type="local">Biosphere &gt; Ecological Dynamics &gt; Fire Ecology</subject>
             <subject type="local">CAML &gt; CENSUS OF ANTARCTIC MARINE LIFE</subject>
             <subject type="local">CONTINENT &gt; ANTARCTICA &gt; Brattstrand Bluff</subject>
