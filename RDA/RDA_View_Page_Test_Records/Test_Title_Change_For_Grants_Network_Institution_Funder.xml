@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<registryObjects xmlns="http://ands.org.au/standards/rif-cs/registryObjects" xmlns:extRif="http://ands.org.au/standards/rif-cs/extendedRegistryObjects" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ands.org.au/standards/rif-cs/registryObjects http://services.ands.org.au/documentation/rifcs/schema/registryObjects.xsd">
+<registryObject group="Test Grants Network">
+    <key>20210901titlechangetestcase 373 TestInstitution</key>
+    <originatingSource type="">http://api.crossref.org/funders?filter=location:Australia</originatingSource>
+    <party type="group">
+      <name type="primary">
+        <namePart>Test Title Change: Institution/Funder</namePart>
+      </name>
+      <description type="brief">&lt;p&gt;The Department of the Environment designs and implements the Australian Government’s policies and programmes to protect and conserve the environment, water and heritage and promote climate action. The environmental framework is being delivered under four pillars:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Clean Water&lt;/li&gt;
+&lt;li&gt;Clean Air&lt;/li&gt;
+&lt;li&gt;Clean Land&lt;/li&gt;
+&lt;li&gt;National heritage&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The Department funds the &lt;a href=&quot;https://www.environment.gov.au/science/nesp/about&quot; target=&quot;_blank&quot;&gt;National Environmental Science Programme&lt;/a&gt;.  This programme will assist decision makers to understand, manage and conserve Australia's environment by funding $142.5 million of world-class biodiversity and climate science.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_tZ2PC11rrUgr2U22vDmkQCAi1lA2cBXmaCj_oguF5idIqO-N&quot; alt=&quot;&quot; width=&quot;195&quot; height=&quot;146&quot; /&gt;&lt;img src=&quot;https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSUznnlr6F41Qcr0eBBc8dDueTNiTjCfIIqZ9gWRxFsSy-ZaiIs&quot; alt=&quot;&quot; width=&quot;202&quot; height=&quot;143&quot; /&gt;&lt;img src=&quot;https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTB_XPkOIwb0XpTrhMezqtwPNVqCIrd09QmDtY1iWI-bTBihp3I&quot; alt=&quot;&quot; width=&quot;191&quot; height=&quot;143&quot; /&gt;&lt;/p&gt;
+&lt;div class=&quot;boxtwocols&quot;&gt; &lt;/div&gt;</description>
+      <identifier type="doi">http://dx.doi.org/10.13039/20210901aaabbb</identifier>
+      <location>
+        <address>
+          <electronic type="url">
+            <value>http://www.environment.gov.au/webform/website-feedback</value>
+          </electronic>
+        </address>
+        <spatial type="iso31661">AU</spatial>
+      </location>
+      <relatedInfo type="website">
+        <title>Web Site</title>
+        <identifier type="uri">http://www.environment.gov.au</identifier>
+      </relatedInfo>
+      <existenceDates>
+        <startDate dateFormat="W3CDTF">2013-09-18</startDate>
+      </existenceDates>
+    </party>
+  </registryObject>
+
+  <registryObject group="Department of the Environment">
+    <key>20210901titlechangetestcase 373 Test a1</key>
+    <originatingSource>Scraped from the Web</originatingSource>
+    <activity type="grant">
+      <name type="primary">
+        <namePart>Test activity 1 </namePart>
+      </name>
+      <relatedInfo type="party">
+        <identifier type="doi">http://dx.doi.org/10.13039/20210901aaabbb</identifier>
+        <relation type="isFundedBy"/>
+        <title>Test Title Change: Institution/Funder</title>
+      </relatedInfo>
+      <relatedObject>
+        <key>20210901titlechangetestcase 373 TestInstitution</key>
+        <relation type="isManagedBy"/>
+      </relatedObject>
+      <description type="brief">&lt;p&gt;This project aims at leveraging the extensive time-series of earth observation image data in the Australian Geoscience Data Cube (AGDC) by developing change detection algorithms to analyse key environmental parameters in the coastal and marine zone.
+&lt;/p&gt;&lt;p&gt;Spatial information produced by this project can inform management decisions, and assist in evaluating management action outcomes, by providing a quantifiable measure of historical change and ongoing monitoring and change detection capabilities.
+&lt;/p&gt;&lt;p&gt;In Phase 1 of this project we aim to demonstrate the capability of using the AGDC through the development of an inter-tidal zone change detection algorithm and data set, with a view to developing and implementing an expanded range of stakeholder targeted algorithms to inform decision making processes in Phase 2.
+&lt;/p&gt;</description>
+      <description type="note">In addition to the NESP funding, this project is matched by an equivalent amount of in-kind support and co-investment from project partners and collaborators.</description>
+      <existenceDates>
+        <startDate dateFormat="W3CDTF">2015-05-01</startDate>
+      </existenceDates>
+    </activity>
+  </registryObject>
+
+  <registryObject group="Department of the Environment">
+    <key>20210901titlechangetestcase 373 Test a2</key>
+    <originatingSource>Scraped from the Web</originatingSource>
+    <activity type="grant">
+      <name type="primary">
+        <namePart>Test activity 2 </namePart>
+      </name>
+      <relatedObject>
+        <key>20210901titlechangetestcase 373 TestInstitution</key>
+        <relation type="isFundedBy"/>
+      </relatedObject>
+      <description type="brief">&lt;p&gt;This project aims at leveraging the extensive time-series of earth observation image data in the Australian Geoscience Data Cube (AGDC) by developing change detection algorithms to analyse key environmental parameters in the coastal and marine zone.
+&lt;/p&gt;&lt;p&gt;Spatial information produced by this project can inform management decisions, and assist in evaluating management action outcomes, by providing a quantifiable measure of historical change and ongoing monitoring and change detection capabilities.
+&lt;/p&gt;&lt;p&gt;In Phase 1 of this project we aim to demonstrate the capability of using the AGDC through the development of an inter-tidal zone change detection algorithm and data set, with a view to developing and implementing an expanded range of stakeholder targeted algorithms to inform decision making processes in Phase 2.
+&lt;/p&gt;</description>
+      <description type="note">In addition to the NESP funding, this project is matched by an equivalent amount of in-kind support and co-investment from project partners and collaborators.</description>
+      <existenceDates>
+        <startDate dateFormat="W3CDTF">2015-05-01</startDate>
+      </existenceDates>
+    </activity>
+  </registryObject>
+
+
+  <registryObject group="Department of the Environment">
+    <key>20210901titlechangetestcase 373 Test a3</key>
+    <originatingSource>Scraped from the Web</originatingSource>
+    <activity type="grant">
+      <name type="primary">
+        <namePart>Test activity 3 </namePart>
+      </name>
+      <relatedObject>
+        <key>20210901titlechangetestcase 373 TestInstitution</key>
+        <relation type="isFundedBy"/>
+      </relatedObject>
+      <description type="brief">&lt;p&gt;This project aims at leveraging the extensive time-series of earth observation image data in the Australian Geoscience Data Cube (AGDC) by developing change detection algorithms to analyse key environmental parameters in the coastal and marine zone.
+&lt;/p&gt;&lt;p&gt;Spatial information produced by this project can inform management decisions, and assist in evaluating management action outcomes, by providing a quantifiable measure of historical change and ongoing monitoring and change detection capabilities.
+&lt;/p&gt;&lt;p&gt;In Phase 1 of this project we aim to demonstrate the capability of using the AGDC through the development of an inter-tidal zone change detection algorithm and data set, with a view to developing and implementing an expanded range of stakeholder targeted algorithms to inform decision making processes in Phase 2.
+&lt;/p&gt;</description>
+      <description type="note">In addition to the NESP funding, this project is matched by an equivalent amount of in-kind support and co-investment from project partners and collaborators.</description>
+      <existenceDates>
+        <startDate dateFormat="W3CDTF">2015-05-01</startDate>
+      </existenceDates>
+    </activity>
+  </registryObject>
+
+</registryObjects>

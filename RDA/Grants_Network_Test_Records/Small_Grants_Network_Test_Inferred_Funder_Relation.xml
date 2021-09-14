@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<registryObjects xmlns="http://ands.org.au/standards/rif-cs/registryObjects" xmlns:extRif="http://ands.org.au/standards/rif-cs/extendedRegistryObjects" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ands.org.au/standards/rif-cs/registryObjects http://services.ands.org.au/documentation/rifcs/schema/registryObjects.xsd">
+<registryObject group="AUTestRecords">
+    <key>http://purl.org/au-research/grants/nhmrc/570876111</key>
+    <originatingSource>www.nhmrc.gov.au/grants/research-funding-statistics-and-data</originatingSource>
+    <activity type="grant">
+      <identifier type="purl">http://purl.org/au-research/grants/nhmrc/570876111</identifier>
+      <identifier type="nhmrc">570876111</identifier>
+      <name type="primary">
+        <namePart>The role of alpha-haemoglobin test record</namePart>
+      </name>
+      <name type="alternative">
+        <namePart>The biology of red blood cell </namePart>
+      </name>
+      <relatedObject>
+        <key>http://dx.doi.org/10.12345/50110000092</key>
+        <relation type="isFundedBy"/>
+      </relatedObject>
+      <relatedObject>
+        <key>http://nla.gov.au/nla.party-1457598111</key>
+        <relation type="isManagedBy"/>
+      </relatedObject>
+     
+      <description type="brief">Thalassaemias.</description>
+      <description type="fundingAmount">$AUD 320,936.34</description>
+      <description type="fundingScheme">NHMRC Project Grants</description>
+      <description type="notes">Standard Project Grant</description>
+      <existenceDates>
+        <startDate dateFormat="W3CDTF">2009</startDate>
+        <endDate dateFormat="W3CDTF">2011</endDate>
+      </existenceDates>
+    </activity>
+  </registryObject>
+  
+  <registryObject group="Trove - People and Organisations">
+    <key>http://nla.gov.au/nla.party-1457598111</key>
+    <originatingSource>nla.gov.au</originatingSource>
+    <party type="group">
+      <identifier type="AU-ANL:PEAU">http://nla.gov.au/nla.party-1457598111</identifier>
+      <name type="primary">
+        <namePart>Menzies Research Institute</namePart>
+      </name>
+    </party>
+  </registryObject>
+  
+  
+  <registryObject group="Trove - People and Organisations">
+    <key>http://dx.doi.org/10.12345/50110000092</key>
+    <originatingSource>nla.gov.au</originatingSource>
+    <party type="group">
+      <name type="primary">
+        <namePart>NHMRC</namePart>
+      </name>
+    </party>
+  </registryObject>
+  
+  <registryObject group="The University of Sydney">
+    <key>mytardis-nsw-col20110920-02111</key>
+    <originatingSource>http://services.ands.org.au/home/orca/register_my_data</originatingSource>
+    <collection type="collection">
+      <name type="alternative">
+        <namePart type="">Crystal structure of human met-haemoglobin complexed with the first NEAr-iron Transporter (NEAT) domain of Iron-regulated surface determinant protein H (IsdH) from Staphylococcus aureus </namePart>
+      </name>
+      <name type="primary">
+        <namePart type="">Crystal structure 1</namePart>
+      </name>
+      <description type="brief">&lt;p&gt;
+    This data was recorded in the School of Molecular Bioscience, University of Sydney. Files prefixed HbAN1 Crystal structure of human met-haemoglobin complexed with the first NEAT domain of IsdH from Staphylococcus aureus. Resolved protein structure available at http://www.pdb.org Data set located within local file serve within the School of molecular Bioscience at the University of Sydney&lt;/p&gt;
+</description>
+      <description type="accessRights">&lt;p&gt;
+    This Data set is available via mediated access by contacting the researcher&lt;/p&gt;
+</description>
+      <description type="rights">&lt;p&gt;
+    For licensing and reuse rights please contact the researcher&lt;/p&gt;
+</description>
+      <location>
+        <address>
+          <physical type="streetAddress">
+            <addressPart type="text">Corner Butlin Avenue and Maze Crescent, GO8 Building (School of Molecular Bioscience), University of Sydney, Darlington, Australia</addressPart>
+          </physical>
+        </address>
+      </location>
+      <relatedObject>
+        <key>http://purl.org/au-research/grants/nhmrc/570876111</key>
+        <relation type="isOutputOf">
+          <url/>
+        </relation>
+      </relatedObject>
+
+      <subject type="anzsrc-for">060199</subject>
+      <relatedInfo type="website">
+        <identifier type="uri">http://www.rcsb.org/pdb/explore/explore.do?structureId=3szk</identifier>
+        <title>This is the resolved structure for this data set</title>
+        <notes/>
+      </relatedInfo>
+    </collection>
+  </registryObject>
+  
+  
+  <registryObject group="The University of Sydney">
+    <key>mytardis-nsw-col20110920-02112</key>
+    <originatingSource>http://services.ands.org.au/home/orca/register_my_data</originatingSource>
+    <collection type="collection">
+      <name type="alternative">
+        <namePart type="">Crystal structure of human met-haemoglobin complexed with the first NEAr-iron Transporter (NEAT) domain of Iron-regulated surface determinant protein H (IsdH) from Staphylococcus aureus </namePart>
+      </name>
+      <name type="primary">
+        <namePart type="">Crystal structure 2</namePart>
+      </name>
+      <description type="brief">&lt;p&gt;
+    This data was recorded in the School of Molecular Bioscience, University of Sydney. Files prefixed HbAN1 Crystal structure of human met-haemoglobin complexed with the first NEAT domain of IsdH from Staphylococcus aureus. Resolved protein structure available at http://www.pdb.org Data set located within local file serve within the School of molecular Bioscience at the University of Sydney&lt;/p&gt;
+</description>
+      <description type="accessRights">&lt;p&gt;
+    This Data set is available via mediated access by contacting the researcher&lt;/p&gt;
+</description>
+      <description type="rights">&lt;p&gt;
+    For licensing and reuse rights please contact the researcher&lt;/p&gt;
+</description>
+      <location>
+        <address>
+          <physical type="streetAddress">
+            <addressPart type="text">Corner Butlin Avenue and Maze Crescent, GO8 Building (School of Molecular Bioscience), University of Sydney, Darlington, Australia</addressPart>
+          </physical>
+        </address>
+      </location>
+      <relatedObject>
+        <key>http://purl.org/au-research/grants/nhmrc/570876111</key>
+        <relation type="isOutputOf">
+          <url/>
+        </relation>
+      </relatedObject>
+
+      <subject type="anzsrc-for">060199</subject>
+      <relatedInfo type="website">
+        <identifier type="uri">http://www.rcsb.org/pdb/explore/explore.do?structureId=3szk</identifier>
+        <title>This is the resolved structure for this data set</title>
+        <notes/>
+      </relatedInfo>
+    </collection>
+  </registryObject>
+  
+  
+  <registryObject group="The University of Sydney">
+    <key>mytardis-nsw-col20110920-02113</key>
+    <originatingSource>http://services.ands.org.au/home/orca/register_my_data</originatingSource>
+    <collection type="collection">
+      <name type="alternative">
+        <namePart type="">Crystal structure of human met-haemoglobin complexed with the first NEAr-iron Transporter (NEAT) domain of Iron-regulated surface determinant protein H (IsdH) from Staphylococcus aureus </namePart>
+      </name>
+      <name type="primary">
+        <namePart type="">Crystal structure 1-1</namePart>
+      </name>
+      <description type="brief">&lt;p&gt;
+    This data was recorded in the School of Molecular Bioscience, University of Sydney. Files prefixed HbAN1 Crystal structure of human met-haemoglobin complexed with the first NEAT domain of IsdH from Staphylococcus aureus. Resolved protein structure available at http://www.pdb.org Data set located within local file serve within the School of molecular Bioscience at the University of Sydney&lt;/p&gt;
+</description>
+      <description type="accessRights">&lt;p&gt;
+    This Data set is available via mediated access by contacting the researcher&lt;/p&gt;
+</description>
+      <description type="rights">&lt;p&gt;
+    For licensing and reuse rights please contact the researcher&lt;/p&gt;
+</description>
+      <location>
+        <address>
+          <physical type="streetAddress">
+            <addressPart type="text">Corner Butlin Avenue and Maze Crescent, GO8 Building (School of Molecular Bioscience), University of Sydney, Darlington, Australia</addressPart>
+          </physical>
+        </address>
+      </location>
+      <relatedObject>
+        <key>mytardis-nsw-col20110920-02111</key>
+        <relation type="isPartOf">
+          <url/>
+        </relation>
+      </relatedObject>
+
+      <subject type="anzsrc-for">060199</subject>
+      <relatedInfo type="website">
+        <identifier type="uri">http://www.rcsb.org/pdb/explore/explore.do?structureId=3szk</identifier>
+        <title>This is the resolved structure for this data set</title>
+        <notes/>
+      </relatedInfo>
+    </collection>
+  </registryObject>
+  
+</registryObjects>
+ 
+
