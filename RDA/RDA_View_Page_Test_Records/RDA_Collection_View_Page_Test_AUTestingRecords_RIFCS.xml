@@ -4053,7 +4053,7 @@
             <name type="primary">
                 <namePart>(AUTestingRecords) Collection To Test ANZSRC SEO 2008 Subject Resolution Where Value is  Notation + Literal type=anzsrc-seo</namePart>
             </name>
-            <subject type="anzsrc-seo"> 850101 Coal exploration</subject>
+            <subject type="anzsrc-seo">850101 Coal exploration</subject>
             <description type="brief">Expected resolved subject values:
                 Coal exploration (850101)
                 Energy exploration (8501)
