@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<registryObjects xmlns="http://ands.org.au/standards/rif-cs/registryObjects" xmlns:extRif="http://ands.org.au/standards/rif-cs/extendedRegistryObjects" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ands.org.au/standards/rif-cs/registryObjects http://services.ands.org.au/documentation/rifcs/schema/registryObjects.xsd">
+<registryObject group="AUTestingRecords3">
+    <key>w2lqsztY80hgTtXZrNXv4ah9jQ1uJuH6mSmEiFtgsdfa5cNSxI</key>
+    <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+    <party type="person">
+<name type="primary">
+        <namePart type="title">Prof</namePart>
+        <namePart type="family">Sviridov</namePart>
+        <namePart type="given">Dmitri</namePart>
+      </name>
+      <relatedObject>
+        <key>http://AUT.org/au-research/grants/arc/DP34d0665938aa</key>
+        <relation type="isParticipantIn"/>
+      </relatedObject>
+            <relatedObject>
+        <key>http://purl.org/au-research/grants/nhmrc/1020281aa</key>
+        <relation type="isParticipantIn"/>
+      </relatedObject>
+    </party>
+  </registryObject>
+
+<registryObject group="AUTestingRecords3">
+    <key>w2lqsztY80hgTtXZrNXv4ah9jQ1uJuH6mSmEiFtgwBnfUa5cNSxI</key>
+    <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+    <party type="person">
+      <name type="primary">
+        <namePart type="title">A/Pr</namePart>
+        <namePart type="family">Smyth</namePart>
+        <namePart type="given">Ian</namePart>
+      </name>
+      <relatedObject>
+        <key>http://AUT.org/au-research/grants/arc/DP34d0665938aa</key>
+        <relation type="isParticipantIn"/>
+      </relatedObject>
+      <relatedObject>
+        <key>http://purl.org/au-research/grants/nhmrc/1020281aa</key>
+        <relation type="Partner Investigator"/>
+      </relatedObject>
+    </party>
+  </registryObject>
+
+
+<registryObject group="AUTestingRecords3">
+    <key>w2lqsztY80hgTtXZrNXv4ah9jQhhg4JuH6mSmEiFtgwBnfUa5cNSxI</key>
+    <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+    <party type="person">
+      <name type="primary">
+        <namePart>Researcher 3</namePart>
+      </name>
+      <relatedObject>
+        <key>http://AUT.org/au-research/grants/arc/DP34d0665938aa</key>
+        <relation type="isPrincipalInvestigatorOf"/>
+      </relatedObject>
+    </party>
+  </registryObject>
+
+
+<registryObject group="AUTestingRecords3">
+    <key>w2lqsztY80hgTtXZrNXv4ah9h664eJuH6mSmEiFtgwBnfUa5cNSxI</key>
+    <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+    <party type="person">
+      <name type="primary">
+        <namePart type="title">Dr</namePart>
+        <namePart type="family">Remaley</namePart>
+        <namePart type="given">Alan</namePart>
+      </name>
+      <relatedObject>
+        <key>http://AUT.org/au-research/grants/arc/DP34d0665938aa</key>
+        <relation type="isParticipantIn"/>
+      </relatedObject>
+    </party>
+  </registryObject>
+
+
+<registryObject group="AUTestingRecords3">
+    <key>w2lqsztY80hgTtXZrNXv4ah9jQ1uJudsfdsf232SmEiFtgwBnfUa5cNSxI</key>
+    <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+    <party type="person">
+      <name type="primary">
+        <namePart>A/Pr Jowett FullString Name</namePart>
+      </name>
+      <relatedObject>
+        <key>http://AUT.org/au-research/grants/arc/DP34d0665938aa</key>
+        <relation type="isPrincipalInvestigatorOf"/>
+      </relatedObject>
+    </party>
+  </registryObject>
+
+<registryObject group="AUTestingRecords3">
+    <key>w2lqsztY80hgTtXZrNXv4ah9jQ1dfdssmSmEiFtgwBnfUa5cNSxI</key>
+    <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+    <party type="person">
+      <name type="primary">
+        <namePart>Dr Steve FullString Name</namePart>
+      </name>
+      <relatedObject>
+        <key>http://AUT.org/au-research/grants/arc/DP34d0665938aa</key>
+        <relation type="isParticipantIn"/>
+      </relatedObject>
+      <relatedObject>
+        <key>http://purl.org/au-research/grants/nhmrc/1020281aa</key>
+        <relation type="Fellow/Awardee"/>
+      </relatedObject>
+    </party>
+  </registryObject>
+
+<registryObject group="AUTestingRecords3">
+    <key>w2lqsztY80hgTtXZrNXv4ahfff9jQ1dfdssmSmEiFtgwBnfUa5cNSxI</key>
+    <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+    <party type="person">
+      <name type="primary">
+        <namePart>Researcher 7</namePart>
+      </name>
+      <relatedObject>
+        <key>http://AUT.org/au-research/grants/arc/DP34d0665938aa</key>
+        <relation type="isParticipantIn"/>
+      </relatedObject>
+    </party>
+  </registryObject>
+  
+  <registryObject group="AUTestingRecords3">
+    <key>http://AUT.org/au-research/grants/arc/DP34d0665938aa</key>
+    <originatingSource type="">arc.gov.au/general/searchable_data.htm</originatingSource>
+    <activity type="grant">
+      <name type="primary">
+        <namePart>(AUTestingRecords3)Grant with 6 related researchers to test view all link. Heterobimetallic Coordination Complexes Containing Rare Earth and d-Block Ions</namePart>
+      </name>
+      <description type="brief">&lt;p&gt;Rare earth compounds have major industrial applications such as MRI contrast agents and as catalysts within the rubber and petroleum industries. The fundamental knowledge ensuing from this project has the potential to produce new and advanced magnetic materials. Nanotechnological industries are being developed in Australia and this research will provide materials with the capacity to act as optical or electrical switches, magnetic storage devices or molecular sensors. This pioneering work will ensure that Australia remains at the forefront of chemical research within the rapidly advancing field of magnetochemistry.&lt;/p&gt;</description>
+      <description type="fundingAmount">&lt;p&gt;$272,000&lt;/p&gt;</description>
+      <description type="fundingScheme">&lt;p&gt;Discovery Projects&lt;/p&gt;</description>
+      <identifier type="purl">http://AUT.org/au-research/grants/arc/DP34d0665938aaAUTdd334x.Grant</identifier>
+      <identifier type="arc">DP0665938AUTx.Grant</identifier>
+      <relatedObject>
+        <key>http://dx.doi.org/10.13039/AUT2.xDept</key>
+        <relation type="isFundedBy"/>
+      </relatedObject>
+      <relatedObject>
+        <key>http://nla.gov.au/nla.party-AUT2</key>
+        <relation type="isManagedBy"/>
+      </relatedObject>
+      <subject type="anzsrc-for">0302</subject>
+      <subject type="local">advanced materials</subject>
+      <subject type="local">coordination polymers</subject>
+      <subject type="local">heterobimetallic</subject>
+      <subject type="local">molecular magnets</subject>
+      <subject type="local">rare earths</subject>
+      <subject type="local">transition metals</subject>
+      <existenceDates>
+        <startDate dateFormat="W3CDTF">2006</startDate>
+        <endDate dateFormat="W3CDTF">2008</endDate>
+      </existenceDates>
+    </activity>
+  </registryObject>
+
+
+  <registryObject group="AUTestingRecords3">
+    <key>http://purl.org/au-research/grants/nhmrc/1020281aa</key>
+    <originatingSource>www.nhmrc.gov.au/grants/research-funding-statistics-and-data</originatingSource>
+    <activity type="grant">
+      <identifier type="purl">http://purl.org/au-research/grants/nhmrc/1020281aa</identifier>
+      <identifier type="nhmrc">1020281aa</identifier>
+      <name type="primary">
+        <namePart>ABCA12 – a New Regulator of Cellular Lipid Metabolism and Inflammation</namePart>
+      </name>
+      <relatedObject>
+        <key>http://dx.doi.org/10.13039/AUT2.xDept</key>
+        <relation type="isFundedBy"/>
+      </relatedObject>
+      <relatedObject>
+        <key>http://nla.gov.au/nla.party-AUT2</key>
+        <relation type="isManagedBy"/>
+      </relatedObject>
+
+      <relatedObject>
+        <key>w2lqsztY80hgTtXZrNXv4ahfff9jQ1dfdssmSmEiFtgwBnfUa5cNSxI</key>
+        <relation type="Chief Investigator"/>
+      </relatedObject>
+      <relatedObject>
+        <key>w2lqsztY80hgTtXZrNXv4ah9jQ1uJuH6mSmEiFtgwBnfUa5cNSxI</key>
+        <relation type="Chief Investigator"/>
+      </relatedObject>
+      <subject type="anzsrc-for">110201</subject>
+      <subject type="local">cholesterol metabolism</subject>
+      <subject type="local">transporters</subject>
+      <subject type="local">atherosclerosis</subject>
+      <subject type="local">skin disease</subject>
+      <subject type="local">receptors</subject>
+      <description type="brief">Dysregulation of cholesterol metabolism plays a key role in a number of diseases – from diabetes and atherosclerosis to neurological and skin disorders. Mechanisms of regulation of cholesterol metabolism are poorly understood. We have recently discovered a new pathway regulating cholesterol metabolism and in this study we will investigate molecular, cellular and physiological mechanisms of this pathway and will identify the possibilities to target it for therapeutic intervention.</description>
+      <description type="fundingAmount">$AUD 786,676.30</description>
+      <description type="fundingScheme">Project Grants</description>
+      <description type="notes">Standard Project Grant</description>
+      <existenceDates>
+        <startDate dateFormat="W3CDTF">2012</startDate>
+        <endDate dateFormat="W3CDTF">2014</endDate>
+      </existenceDates>
+    </activity>
+  </registryObject>
+
+  <registryObject group="AUTestingRecords3">
+    <key>http://purl.org/au-research/grants/arc/FT0991045aa</key>
+    <originatingSource>arc.gov.au/general/searchable_data.htm</originatingSource>
+    <activity type="grant">
+      <name type="primary">
+        <namePart>A Bayesian State Space Methodology for Forecasting Stock Market Volatility and Associated Time-varying Risk Premia</namePart>
+      </name>
+      <identifier type="purl">http://purl.org/au-research/grants/arc/FT0991045aa</identifier>
+      <identifier type="arc">FT0991045aa</identifier>
+      <relatedObject>
+        <key>http://dx.doi.org/10.13039/AUT2.xDept</key>
+        <relation type="isFundedBy"/>
+      </relatedObject>
+      <relatedObject>
+        <key>http://nla.gov.au/nla.party-AUT2</key>
+        <relation type="isManagedBy"/>
+      </relatedObject>
+      <subject type="anzsrc-for">3404</subject>
+      <subject type="local">bayesian inference</subject>
+      <subject type="local">distributional forecasts</subject>
+      <subject type="local">high frequency financial data</subject>
+      <subject type="local">non-gaussian time series</subject>
+      <subject type="local">nonparametric estimation</subject>
+      <subject type="local">state space models</subject>
+      <description type="brief">Accurate prediction of stock market volatility is critical for effective financial risk management. Along with information on volatility embedded in historical stock market returns, the prices of options written on the underlying stocks also reflect the option market's assessment of future volatility. This project will exploit this dual data source in a completely new way, using it to produce forecasts of both volatility itself and the premia factored into asset prices as a result of traders' perceptions of volatility risk. State-of-the-art statistical methods will be used to produce up-dates of the probability of extreme volatility and/or extreme risk aversion, as new market data becomes available each trading day.</description>
+      <description type="fundingAmount">$834,200</description>
+      <description type="fundingScheme">Future Fellowships</description>
+      <description type="researchers">A/Prof GM Martin, Dr Claire Smithers, David Clake</description>
+      <existenceDates>
+        <startDate dateFormat="W3CDTF">2009</startDate>
+        <endDate dateFormat="W3CDTF">2013</endDate>
+      </existenceDates>
+    </activity>
+  </registryObject>
+</registryObjects>

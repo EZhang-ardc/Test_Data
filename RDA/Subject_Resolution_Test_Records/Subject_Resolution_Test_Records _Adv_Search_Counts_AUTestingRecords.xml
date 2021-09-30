@@ -118,6 +118,7 @@
             </name>
 <description type="brief">Subject count collection</description>
 <subject type="anzsrc-for">520406</subject>
+<subject type="anzsrc-for">5204</subject>
 <subject type="anzsrc-seo">240203</subject>
             
         </collection>
@@ -131,8 +132,8 @@
             </name>
 <description type="brief">Subject count collection</description>
 <subject type="anzsrc-for">520406</subject>
+<subject type="anzsrc-for">52</subject>
 <subject type="anzsrc-seo">240203</subject>
-            
         </collection>
     </registryObject>
     <registryObject group="AUTestingRecords">
