@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<registryObjects xmlns="http://ands.org.au/standards/rif-cs/registryObjects" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ands.org.au/standards/rif-cs/registryObjects http://services.ands.org.au/documentation/rifcs/schema/registryObjects.xsd">
+  <registryObject group="Curtin University">
+    <key>10.25917/5ee848123cdae</key>
+    <originatingSource>https://redbox.library.curtin.edu.au/redbox/default</originatingSource>
+    <collection type="dataset" dateAccessioned="2020-06-15T00:00:00">
+      <identifier type="doi">10.25917/5ee848123cdae</identifier>
+      <name type="primary" xml:lang="en">
+        <namePart>Publications used to review the relative effectiveness of different methods for sampling bees in &quot;The relative performance of sampling methods for native bees: an empirical test and review of the literature&quot;</namePart>
+      </name>
+      <location>
+        <address>
+          <electronic type="url">
+            <value>http://ddfe.curtin.edu.au/5EE848123CDAE/</value>
+          </electronic>
+        </address>
+      </location>
+      <relatedObject>
+        <key>curtin.edu.au/parties/people/254</key>
+        <relation type="hasCollector"/>
+      </relatedObject>
+      <relatedObject>
+        <key>curtin.edu.au/parties/people/255</key>
+        <relation type="hasCollector"/>
+      </relatedObject>
+      <relatedObject>
+        <key>curtin.edu.au/parties/people/256</key>
+        <relation type="hasCollector"/>
+      </relatedObject>
+      <relatedObject>
+        <key>curtin.edu.au/parties/people/257</key>
+        <relation type="hasCollector"/>
+      </relatedObject>
+      <relatedObject>
+        <key>curtin.edu.au/parties/people/254</key>
+        <relation type="hasAssociationWith">
+          <description>Primary Contact</description>
+        </relation>
+      </relatedObject>
+      <relatedObject>
+        <key>curtin.edu.au/parties/groups/1</key>
+        <relation type="isManagedBy"/>
+      </relatedObject>
+      <subject type="local" xml:lang="en">sampling</subject>
+      <subject type="local" xml:lang="en">monitoring</subject>
+      <subject type="local" xml:lang="en">methods</subject>
+      <subject type="local" xml:lang="en">literature review</subject>
+      <subject type="local" xml:lang="en">bees</subject>
+      <subject type="local" xml:lang="en">entomology</subject>
+      <subject type="local" xml:lang="en">techniques</subject>
+      <subject type="local" xml:lang="en">sweep netting</subject>
+      <subject type="local" xml:lang="en">pan traps</subject>
+      <subject type="local" xml:lang="en">biodiversity</subject>
+      <subject type="anzsrc-for" xml:lang="en">050102</subject>
+      <subject type="anzsrc-for" xml:lang="en">050202</subject>
+      <subject type="anzsrc-for" xml:lang="en">050204</subject>
+      <subject type="anzsrc-for" xml:lang="en">050205</subject>
+      <subject type="anzsrc-for" xml:lang="en">050206</subject>
+      <subject type="anzsrc-for" xml:lang="en">050211</subject>
+      <subject type="anzsrc-for" xml:lang="en">060202</subject>
+      <description type="full" xml:lang="en">A review by Kit S. Prendergast was conducted to identify articles that compare sampling methods, or were surveys of bee communities that included two or more sampling methodologies. Articles were sourced through Google Scholar using the search terms &#8220;sampling bees method* technique pan bowl trap* sweep net* pollinator bait vane&#8221; and through references in the articles thus found. Articles included were those published prior to 28 November 2019.</description>
+      <rights>
+        <rightsStatement rightsUri="http://creativecommons.org/licenses/by/4.0/">Free for re-use under a CC BY: Attribution 4.0 licence</rightsStatement>
+        <accessRights rightsUri="http://creativecommons.org/licenses/by/4.0/">Free for re-use</accessRights>
+        <licence rightsUri="http://creativecommons.org/licenses/by/4.0/">CC BY: Attribution 4.0</licence>
+      </rights>
+      <relatedInfo type="publication">
+        <identifier type="uri">http://doi.org/10.1002/ecs2.3076</identifier>
+        <title>The relative performance of sampling methods for native bees: an empirical test and review of the literature</title>
+      </relatedInfo>
+      <citationInfo>
+        <fullCitation style="Datacite">Prendergast, Kit; Menz, Myles H.M.; Bateman, Philip; Dixon, Kingsley (2020): Publications used to review the relative effectiveness of different methods for sampling bees in &quot;The relative performance of sampling methods for native bees: an empirical test and review of the literature&quot;. Curtin University. http://dx.doi.org/10.25917/5ee848123cdae</fullCitation>
+      </citationInfo>
+    </collection>
+  </registryObject>
+</registryObjects>
+ 
