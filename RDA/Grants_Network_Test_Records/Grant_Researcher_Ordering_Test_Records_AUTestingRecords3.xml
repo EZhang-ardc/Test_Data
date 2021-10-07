@@ -17,8 +17,7 @@
         <key>http://purl.org/au-research/grants/nhmrc/1020281aa</key>
         <relation type="isParticipantIn"/>
       </relatedObject>
-      </relatedObject>
-      <relatedObject>
+        <relatedObject>
         <key>http://purl.org/au-research/grants/nhmrc/1020281bb</key>
         <relation type="Chief Investigator"/>
       </relatedObject>
@@ -163,6 +162,16 @@
       </relatedObject>
     </party>
   </registryObject>
+
+    <registryObject group="AUTestingRecords3">
+    <key>http://dx.doi.org/10.13039/AUT2.xDeptx</key>
+    <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+    <party type="group">
+      <name type="primary">
+        <namePart>Da Funder</namePart>
+      </name>
+    </party>
+  </registryObject>
   
   <registryObject group="AUTestingRecords3">
     <key>http://AUT.org/au-research/grants/arc/DP34d0665938aa</key>
@@ -177,7 +186,7 @@
       <identifier type="purl">http://AUT.org/au-research/grants/arc/DP34d0665938aaAUTdd334x.Grant</identifier>
       <identifier type="arc">DP0665938AUTx.Grant</identifier>
       <relatedObject>
-        <key>http://dx.doi.org/10.13039/AUT2.xDept</key>
+        <key>http://dx.doi.org/10.13039/AUT2.xDeptx</key>
         <relation type="isFundedBy"/>
       </relatedObject>
       <relatedObject>
@@ -209,7 +218,7 @@
         <namePart>ABCA12 – a New Regulator of Cellular Lipid Metabolism and Inflammation</namePart>
       </name>
       <relatedObject>
-        <key>http://dx.doi.org/10.13039/AUT2.xDept</key>
+        <key>http://dx.doi.org/10.13039/AUT2.xDeptx</key>
         <relation type="isFundedBy"/>
       </relatedObject>
       <relatedObject>
@@ -252,7 +261,7 @@
       <identifier type="purl">http://purl.org/au-research/grants/arc/FT0991045aa</identifier>
       <identifier type="arc">FT0991045aa</identifier>
       <relatedObject>
-        <key>http://dx.doi.org/10.13039/AUT2.xDept</key>
+        <key>http://dx.doi.org/10.13039/AUT2.xDeptx</key>
         <relation type="isFundedBy"/>
       </relatedObject>
       <relatedObject>
@@ -287,7 +296,7 @@
         <namePart>ABCA1sbb2 –  Lipid Metabolism and Inflammationa New Regulator of Cellular</namePart>
       </name>
       <relatedObject>
-        <key>http://dx.doi.org/10.13039/AUT2.xDept</key>
+        <key>http://dx.doi.org/10.13039/AUT2.xDeptx</key>
         <relation type="isFundedBy"/>
       </relatedObject>
       <relatedObject>
@@ -306,7 +315,7 @@
       <description type="notes">Standard Project Grant</description>
       <existenceDates>
         <startDate dateFormat="W3CDTF">2012</startDate>
-        <endDate dateFormat="W3CDTF">2014</endDate>
+        <endDate dateFormat="W3CDTF">2031</endDate>
       </existenceDates>
     </activity>
   </registryObject>
