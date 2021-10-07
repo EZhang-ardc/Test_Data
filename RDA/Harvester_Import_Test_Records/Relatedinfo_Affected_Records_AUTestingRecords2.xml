@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<registryObjects xmlns="http://ands.org.au/standards/rif-cs/registryObjects" xmlns:extRif="http://ands.org.au/standards/rif-cs/extendedRegistryObjects" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ands.org.au/standards/rif-cs/registryObjects http://services.ands.org.au/documentation/rifcs/schema/registryObjects.xsd">
+    <registryObject group="AUTestingRecordsRelationships">
+        <!-- KEY -->
+        <key>http://nla.gov.au/nla.party-AUTR_11_2</key>
+
+        <originatingSource type="">nla.gov.au</originatingSource>
+        <party type="group">
+            <!-- TITLE -->
+            <name type="primary">
+                <namePart>(AUTestingRecords) Example related party 2_11</namePart>
+            </name>
+
+            <description type="brief">&amp;lt;p&amp;gt;A party for all&amp;lt;/p&amp;gt;</description>
+
+            <identifier type="local">http://nla.gov.au/nla.party-AUT_11_2</identifier>
+
+            <relatedInfo type="collection">
+                <title>Collection 4</title>
+                <identifier type="local">nla.AUTCollection1R_11_0</identifier>
+                <relation type="isOwnerOf"/>
+            </relatedInfo>
+
+            <location>
+                <address>
+                    <electronic type="url">
+                        <value>http://www.unsw.edu.au/a</value>
+                    </electronic>
+                </address>
+            </location>
+        </party>
+    </registryObject>
+</registryObjects>

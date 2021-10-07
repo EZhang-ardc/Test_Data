@@ -17,6 +17,11 @@
         <key>http://purl.org/au-research/grants/nhmrc/1020281aa</key>
         <relation type="isParticipantIn"/>
       </relatedObject>
+      </relatedObject>
+      <relatedObject>
+        <key>http://purl.org/au-research/grants/nhmrc/1020281bb</key>
+        <relation type="Chief Investigator"/>
+      </relatedObject>
     </party>
   </registryObject>
 
@@ -37,6 +42,10 @@
         <key>http://purl.org/au-research/grants/nhmrc/1020281aa</key>
         <relation type="Partner Investigator"/>
       </relatedObject>
+            <relatedObject>
+        <key>http://purl.org/au-research/grants/nhmrc/1020281bb</key>
+        <relation type="Chief Investigator"/>
+      </relatedObject>
     </party>
   </registryObject>
 
@@ -51,6 +60,10 @@
       <relatedObject>
         <key>http://AUT.org/au-research/grants/arc/DP34d0665938aa</key>
         <relation type="isPrincipalInvestigatorOf"/>
+      </relatedObject>
+          <relatedObject>
+        <key>http://purl.org/au-research/grants/nhmrc/1020281bb</key>
+        <relation type="Chief Investigator"/>
       </relatedObject>
     </party>
   </registryObject>
@@ -69,6 +82,10 @@
         <key>http://AUT.org/au-research/grants/arc/DP34d0665938aa</key>
         <relation type="isParticipantIn"/>
       </relatedObject>
+            <relatedObject>
+        <key>http://purl.org/au-research/grants/nhmrc/1020281bb</key>
+        <relation type="Chief Investigator"/>
+      </relatedObject>
     </party>
   </registryObject>
 
@@ -83,6 +100,10 @@
       <relatedObject>
         <key>http://AUT.org/au-research/grants/arc/DP34d0665938aa</key>
         <relation type="isPrincipalInvestigatorOf"/>
+      </relatedObject>
+            <relatedObject>
+        <key>http://purl.org/au-research/grants/nhmrc/1020281bb</key>
+        <relation type="Chief Investigator"/>
       </relatedObject>
     </party>
   </registryObject>
@@ -102,6 +123,10 @@
         <key>http://purl.org/au-research/grants/nhmrc/1020281aa</key>
         <relation type="Fellow/Awardee"/>
       </relatedObject>
+            <relatedObject>
+        <key>http://purl.org/au-research/grants/nhmrc/1020281bb</key>
+        <relation type="Chief Investigator"/>
+      </relatedObject>
     </party>
   </registryObject>
 
@@ -110,11 +135,31 @@
     <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
     <party type="person">
       <name type="primary">
-        <namePart>Researcher 7</namePart>
+        <namePart type="title">Dr</namePart>
+        <namePart type="family">Has</namePart>
+        <namePart type="given">Name</namePart>
       </name>
       <relatedObject>
         <key>http://AUT.org/au-research/grants/arc/DP34d0665938aa</key>
         <relation type="isParticipantIn"/>
+      </relatedObject>
+            <relatedObject>
+        <key>http://purl.org/au-research/grants/nhmrc/1020281bb</key>
+        <relation type="Chief Investigator"/>
+      </relatedObject>
+    </party>
+  </registryObject>
+
+  <registryObject group="AUTestingRecords3">
+    <key>partgrantordering10</key>
+    <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+    <party type="person">
+      <name type="primary">
+        <namePart>Researcher 7</namePart>
+      </name>
+      <relatedObject>
+        <key>http://purl.org/au-research/grants/nhmrc/1020281bb</key>
+        <relation type="Chief Investigator"/>
       </relatedObject>
     </party>
   </registryObject>
@@ -228,6 +273,40 @@
       <existenceDates>
         <startDate dateFormat="W3CDTF">2009</startDate>
         <endDate dateFormat="W3CDTF">2013</endDate>
+      </existenceDates>
+    </activity>
+  </registryObject>
+
+  <registryObject group="AUTestingRecords3">
+    <key>http://purl.org/au-research/grants/nhmrc/1020281bb</key>
+    <originatingSource>www.nhmrc.gov.au/grants/research-funding-statistics-and-data</originatingSource>
+    <activity type="grant">
+      <identifier type="purl">http://purl.org/au-research/grants/nhmrc/1020281b</identifier>
+      <identifier type="nhmrc">1020281aa</identifier>
+      <name type="primary">
+        <namePart>ABCA1sbb2 –  Lipid Metabolism and Inflammationa New Regulator of Cellular</namePart>
+      </name>
+      <relatedObject>
+        <key>http://dx.doi.org/10.13039/AUT2.xDept</key>
+        <relation type="isFundedBy"/>
+      </relatedObject>
+      <relatedObject>
+        <key>http://nla.gov.au/nla.party-AUT2</key>
+        <relation type="isManagedBy"/>
+      </relatedObject>
+     <subject type="anzsrc-for">110201</subject>
+      <subject type="local">cholesterol metabolism</subject>
+      <subject type="local">transporters</subject>
+      <subject type="local">atherosclerosis</subject>
+      <subject type="local">skin disease</subject>
+      <subject type="local">receptors</subject>
+      <description type="brief">Dysregulation of cholesterol metabolism plays a key role in a number of diseases – from diabetes and atherosclerosis to neurological and skin disorders. Mechanisms of regulation of cholesterol metabolism are poorly understood. We have recently discovered a new pathway regulating cholesterol metabolism and in this study we will investigate molecular, cellular and physiological mechanisms of this pathway and will identify the possibilities to target it for therapeutic intervention.</description>
+      <description type="fundingAmount">$AUD 786,676.30</description>
+      <description type="fundingScheme">Project Grants</description>
+      <description type="notes">Standard Project Grant</description>
+      <existenceDates>
+        <startDate dateFormat="W3CDTF">2012</startDate>
+        <endDate dateFormat="W3CDTF">2014</endDate>
       </existenceDates>
     </activity>
   </registryObject>
