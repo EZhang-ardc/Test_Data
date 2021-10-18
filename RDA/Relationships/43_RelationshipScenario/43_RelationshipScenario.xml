@@ -63,11 +63,11 @@
                     </electronic>
                 </address>
             </location>
-        </party>
-      <relatedObject>
+          <relatedObject>
     <key>RelationshipScenario4320210922A1</key>
     <relation type="isFunderOf"/>
     </relatedObject>
+        </party>
     </registryObject>
 
 
