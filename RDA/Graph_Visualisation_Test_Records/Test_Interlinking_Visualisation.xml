@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<registryObjects xmlns="http://ands.org.au/standards/rif-cs/registryObjects" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ands.org.au/standards/rif-cs/registryObjects http://services.ands.org.au/documentation/rifcs/schema/registryObjects.xsd">
+  <registryObject group="AUTestingRecords2">
+    <key>ARDC/Test/Visualisation/Interlinking/A1</key>
+    <originatingSource>ARDC</originatingSource>
+    <activity type="program">
+      <name type="primary">
+        <namePart>A1</namePart>
+      </name>
+      <relatedObject>
+        <key>ARDC/Test/Visualisation/Interlinking/A2</key>
+        <relation type="hasPart"/>
+      </relatedObject>
+      <relatedObject>
+        <key>ARDC/Test/Visualisation/Interlinking/A3</key>
+        <relation type="hasPart"/>
+      </relatedObject>
+    </activity>
+  </registryObject>
+
+  <registryObject group="AUTestingRecords2">
+    <key>ARDC/Test/Visualisation/Interlinking/A2</key>
+    <originatingSource>ARDC</originatingSource>
+    <activity type="program">
+      <name type="primary">
+        <namePart>A2</namePart>
+      </name>
+       <relatedObject>
+        <key>ARDC/Test/Visualisation/Interlinking/A3</key>
+        <relation type="hasPart"/>
+      </relatedObject>
+    </activity>
+  </registryObject>
+
+  <registryObject group="AUTestingRecords2">
+    <key>ARDC/Test/Visualisation/Interlinking/A3</key>
+    <originatingSource>ARDC</originatingSource>
+    <activity type="program">
+      <name type="primary">
+        <namePart>A3</namePart>
+      </name>
+      <relatedObject>
+        <key>ARDC/Test/Visualisation/Interlinking/A1</key>
+        <relation type="isPartOf"/>
+      </relatedObject>
+      <relatedObject>
+        <key>ARDC/Test/Visualisation/Interlinking/A2</key>
+        <relation type="hasAssociationWith"/>
+      </relatedObject>
+    </activity>
+  </registryObject>
+
+</registryObjects>
+
