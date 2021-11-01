@@ -291,7 +291,7 @@
     <originatingSource>www.nhmrc.gov.au/grants/research-funding-statistics-and-data</originatingSource>
     <activity type="grant">
       <identifier type="purl">http://purl.org/au-research/grants/nhmrc/1020281b</identifier>
-      <identifier type="nhmrc">1020281aa</identifier>
+      <identifier type="nhmrc">1020281b</identifier>
       <name type="primary">
         <namePart>ABCA1sbb2 –  Lipid Metabolism and Inflammationa New Regulator of Cellular</namePart>
       </name>
