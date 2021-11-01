@@ -146,7 +146,16 @@
                 <accessRights rightsUri="http://www.rightsuri.com">Access Rights</accessRights>
             </rights>
 
-<relatedInfo type="party"><title>Example party 9</title><identifier type="local">P1_ID1_17</identifier><relation type="isManagedBy"/></relatedInfo><relatedInfo type="party"><title>Example party 9</title><identifier type="local">http://nla.gov.au/nla.party-AUT9</identifier><relation type="isOwnedBy"/></relatedInfo>-->
+    <relatedInfo type="party">
+    <title>Example party 9</title>
+    <identifier type="local">P1_ID1_17</identifier>
+    <relation type="isManagedBy"/>
+    </relatedInfo>
+            <relatedInfo type="party">
+                <title>Example party 9</title>
+                <identifier type="local">http://nla.gov.au/nla.party-AUT9</identifier>
+                <relation type="isOwnedBy"/>
+            </relatedInfo>
             <subject type="local">localSubject</subject>
             <subject type="anzsrc-seo">830201</subject>
             <subject type="anzsrc-for">0303</subject>
@@ -215,6 +224,5 @@
             <subject type="anzsrc-for">110702</subject>
         </party>
     </registryObject>
-    <!-- ### SERVICES ### -->
-    <!-- ### ACTIVITIES ### -->
+
 </registryObjects>

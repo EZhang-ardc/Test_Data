@@ -59,21 +59,7 @@
         <key>0503131246_test_service</key>
         <relation type="isProducedBy"/>
       </relatedObject>
-      <citationInfo>
-        <citationMetadata>
-          <identifier type="uri">http://aekos.org.au/collection/adelaide.edu.au/TAB</identifier>
-          <title>TERN Australian Transect Network, Biodiversity and Adaptation Transect Sydney (BATS) - Vegetation and trait data (2011 - 2015)</title>
-          <version>1/2018</version>
-          <placePublished/>
-          <publisher>TERN AEKOS, rights owned by The University of Adelaide</publisher>
-          <url>http://aekos.org.au/collection/adelaide.edu.au/TAB</url>
-          <context/>
-          <contributor seq="1">
-            <namePart type="">The University of Adelaide</namePart>
-          </contributor>
-          <date type="publicationDate">2018</date>
-        </citationMetadata>
-      </citationInfo>
+
     </collection>
   </registryObject>
 
