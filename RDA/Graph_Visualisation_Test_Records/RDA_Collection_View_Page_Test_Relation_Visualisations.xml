@@ -55,6 +55,16 @@
         <key>0503131246_test_service</key>
         <relation type="isProducedBy"/>
       </relatedObject>
+         <relatedInfo type="website">
+        <title>Test website</title>
+        <identifier type="uri">https://github.com/</identifier>
+        <relation type="hasValueAddedBy"/>
+      </relatedInfo>
+      <relatedInfo type="publication">
+        <title>Test publication</title>
+        <identifier type="local">localIdentifier123456</identifier>
+        <relation type="hasAssociationWith"/>
+      </relatedInfo>
       <citationInfo>
         <fullCitation style="Datacite">TERN Australian Transect Network, TERN Ausplots, Rossetto, M., H. McPherson, M. van der Merwe (2018). TERN Australian Transect Network, Biodiversity and Adaptation Transect Sydney (BATS) - Vegetation and trait data (2011 - 2015), Version 1/2018. Persistent URL: http://www.aekos.org.au/collection/adelaide.edu.au/TAB. TERN AEKOS, rights owned by The University of Adelaide. Accessed [dd mmm yyyy, e.g. 01 Jan 2016].</fullCitation>
       </citationInfo>
