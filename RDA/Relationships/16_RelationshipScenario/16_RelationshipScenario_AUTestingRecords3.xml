@@ -5,7 +5,7 @@
     <originatingSource>Scraped from the Web</originatingSource>
     <activity type="program">
       <name type="primary">
-        <namePart>(AUTestingRecords3) Hub2</namePart>
+        <namePart>( A3_16 AUTestingRecords3) Hub2</namePart>
       </name>
       <identifier type="purl">A3_ID1_16</identifier>
       <relatedObject>
@@ -22,7 +22,7 @@ The Marine Biodiversity Hub will research Australian oceans and marine environme
     <originatingSource>Scraped from the Web</originatingSource>
     <activity type="program">
       <name type="primary">
-        <namePart>(AUTestingRecords3) Hub1</namePart>
+        <namePart>(A4_16 AUTestingRecords3) Hub1</namePart>
       </name>
       <identifier type="purl">A4_ID1_16</identifier>
       <relatedObject>
@@ -39,7 +39,7 @@ The Marine Biodiversity Hub will research Australian oceans and marine environme
     <originatingSource type="">https://demo.ands.org.au/registry//orca/register_my_data</originatingSource>
     <activity type="program">
       <name type="primary">
-        <namePart>(AUTestingRecords3) Program12</namePart>
+        <namePart>(A1_16 AUTestingRecords3) Program12</namePart>
       </name>
       <name type="abbreviated">
         <namePart>AAPG</namePart>
@@ -91,7 +91,7 @@ The Marine Biodiversity Hub will research Australian oceans and marine environme
     <originatingSource type="">http://api.crossref.org/funders?filter=location:Australia</originatingSource>
     <party type="group">
       <name type="primary">
-        <namePart>(AUTestingRecords3) P1_16</namePart>
+        <namePart>(P1_16 AUTestingRecords3) P1_16</namePart>
       </name>
       <description type="brief">&amp;lt;p&amp;gt;The Department of the AUTestingRecords3 designs and implements the Australian Government’s policies and programmes to protect and conserve the environment, water and heritage and promote climate action. The environmental framework is being delivered under four pillars:&amp;lt;/p&amp;gt;
 &amp;lt;ul&amp;gt;
@@ -126,7 +126,7 @@ The Marine Biodiversity Hub will research Australian oceans and marine environme
     <originatingSource type="">http://api.crossref.org/funders?filter=location:Australia</originatingSource>
     <party type="group">
       <name type="primary">
-        <namePart>(AUTestingRecords3) P5_16</namePart>
+        <namePart>(P5_16 AUTestingRecords3) P5_16</namePart>
       </name>
       <description type="brief">&amp;lt;p&amp;gt;The Department of the AUTestingRecords3 designs and implements the Australian Government’s policies and programmes to protect and conserve the environment, water and heritage and promote climate action. The environmental framework is being delivered under four pillars:&amp;lt;/p&amp;gt;
 &amp;lt;ul&amp;gt;
@@ -160,7 +160,7 @@ The Marine Biodiversity Hub will research Australian oceans and marine environme
     <originatingSource>arc.gov.au/general/searchable_data.htm</originatingSource>
     <activity type="grant">
       <name type="primary">
-        <namePart>(AUTestingRecords3) GrantDP0987282</namePart>
+        <namePart>(A5_16 AUTestingRecords3) GrantDP0987282</namePart>
       </name>
       <identifier type="purl">A5_ID1_16</identifier>
       <identifier type="arc">A5_ID2_16</identifier>
@@ -194,7 +194,7 @@ The Marine Biodiversity Hub will research Australian oceans and marine environme
     <originatingSource>arc.gov.au/general/searchable_data.htm</originatingSource>
     <activity type="grant">
       <name type="primary">
-        <namePart>(AUTestingRecords3) GrantDP0558457   An investigation swarkie xoop of two non-punitive crime chorizo control strategies for the illicit traffic in S.E. Asian antiquities(Q KEYWORD TITLE)</namePart>
+        <namePart>(A6_16 AUTestingRecords3) GrantDP0558457   An investigation swarkie xoop of two non-punitive crime chorizo control strategies for the illicit traffic in S.E. Asian antiquities(Q KEYWORD TITLE)</namePart>
       </name>
       <identifier type="purl">A6_ID1_16</identifier>
       <identifier type="arc">A6_ID2_16</identifier>
@@ -226,7 +226,7 @@ The Marine Biodiversity Hub will research Australian oceans and marine environme
     <originatingSource type="">http://researchdata.ands.org.au/registry/orca/register_my_data</originatingSource>
     <collection dateModified="2015-04-02T00:16:24Z" type="collection">
       <name type="primary">
-        <namePart>(AUTestingRecords3) Collection1 Collection related to grant hierarchy with relatedInfo</namePart>
+        <namePart>(C1_16 AUTestingRecords3) Collection1 Collection related to grant hierarchy with relatedInfo</namePart>
       </name>
       <description type="full">&lt;p&gt;The Geoffrey Blainey Research Centre (GBRC) is located on the top floor of the E.J. Barker Library (Mt Helen Campus) and includes a supervised reading room where collections can be accessed and read.&lt;/p&gt;
     &lt;p&gt;The GBRC includes the Geoffrey Blainey Mining Collection and the Federation University Australia Special Collection, both of which can be searched online via the FedUni &lt;a href=&quot;http://innopac.ballarat.edu.au/&quot;&gt;Library catalogue&lt;/a&gt;.&lt;/p&gt;
@@ -267,7 +267,7 @@ The Marine Biodiversity Hub will research Australian oceans and marine environme
     <originatingSource>Project List supplied by Australian Water Recycling Centre of Excellence</originatingSource>
     <activity type="program">
       <name type="primary">
-        <namePart>(AUTestingRecords3) Program13</namePart>
+        <namePart>(A2_16 AUTestingRecords3) Program13</namePart>
       </name>
       <identifier type="purl">A2_ID1_16</identifier>
       <location>
@@ -294,7 +294,7 @@ The Marine Biodiversity Hub will research Australian oceans and marine environme
     <originatingSource>arc.gov.au/general/searchable_data.htm</originatingSource>
     <activity type="project">
       <name type="primary">
-        <namePart>(AUTestingRecords3) ProjectLP0347149 A combinatorial approach to creation of new swarkie epitopes with biological activity</namePart>
+        <namePart>(A7_16 AUTestingRecords3) ProjectLP0347149 A combinatorial approach to creation of new swarkie epitopes with biological activity</namePart>
       </name>
       <identifier type="purl">A7_ID1_16</identifier>
       <identifier type="arc">A7_ID2_16</identifier>
@@ -328,7 +328,7 @@ The Marine Biodiversity Hub will research Australian oceans and marine environme
     <originatingSource>arc.gov.au/general/searchable_data.htm</originatingSource>
     <activity type="grant">
       <name type="primary">
-        <namePart>(AUTestingRecords3) A8_16</namePart>
+        <namePart>(A8_16 AUTestingRecords3) A8_16</namePart>
       </name>
       <identifier type="purl">A8_ID1_16</identifier>
       <identifier type="arc">A8_ID2_16</identifier>
@@ -366,7 +366,7 @@ The Marine Biodiversity Hub will research Australian oceans and marine environme
     <originatingSource>arc.gov.au/general/searchable_data.htm</originatingSource>
     <activity type="grant">
       <name type="primary">
-        <namePart>(AUTestingRecords3)A9_16 DP0987152 Assessing gene function in the developing brain using zebrafish as a model system(Q KEYWORD SUBJECT)</namePart>
+        <namePart>(A9_16 AUTestingRecords3)A9_16 DP0987152 Assessing gene function in the developing brain using zebrafish as a model system(Q KEYWORD SUBJECT)</namePart>
       </name>
       <identifier type="purl">A9_ID1_16</identifier>
       <identifier type="arc">A9_ID2_16</identifier>
@@ -404,7 +404,7 @@ The Marine Biodiversity Hub will research Australian oceans and marine environme
     <originatingSource>arc.gov.au/general/searchable_data.htm</originatingSource>
     <activity type="grant">
       <name type="primary">
-        <namePart>(AUTestingRecords3) A10_16 A unique driver assessment tool to improve four wheel drive and sedan driving competencies (Q KEYWORD BRIEF DESC)</namePart>
+        <namePart>(A10_16 AUTestingRecords3) A10_16 A unique driver assessment tool to improve four wheel drive and sedan driving competencies (Q KEYWORD BRIEF DESC)</namePart>
       </name>
       <identifier type="purl">A10_ID1_16</identifier>
       <identifier type="arc">A10_ID2_16</identifier>
@@ -439,7 +439,7 @@ The Marine Biodiversity Hub will research Australian oceans and marine environme
     <originatingSource type="">https://demo.ands.org.au/registry//orca/register_my_data</originatingSource>
     <collection type="dataset">
       <name type="primary">
-        <namePart>(AUTestingRecords3) Collection2 (LVL 4)Digital Soil Mapping</namePart>
+        <namePart>(C2_16 AUTestingRecords3) Collection2 (LVL 4)Digital Soil Mapping</namePart>
       </name>
       <name type="abbreviated">
         <namePart>(AUTestingRecords3)(LVL 4)OzDSM</namePart>

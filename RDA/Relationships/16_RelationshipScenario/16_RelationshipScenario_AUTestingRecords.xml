@@ -8,7 +8,7 @@ key = C7_16 is directly related to the grant (A6_ID1_16  Title "(AUTestingRecord
 </originatingSource>
     <collection dateAccessioned="2013-02-19T00:00:00Z" dateModified="2013-02-19T00:00:00Z" type="collection">
       <name type="primary">
-        <namePart type="">(AUTestingRecords) Collection4 Collection to test party of type group ordering in title bar.</namePart>
+        <namePart type="">(C6_16 AUTestingRecords) Collection4 Collection to test party of type group ordering in title bar.</namePart>
       </name>
       <description type="full">&amp;lt;p&amp;gt; A Visual Representation of Music &amp; Aural Representation of Image:&amp;lt;/p&amp;gt; &amp;lt;p&amp;gt; The&amp;nbsp;&amp;lt;em&amp;gt;Intermedia Frottage&amp;nbsp;&amp;lt;/em&amp;gt;collection documents the development of compositional method for using graphic synthesis techniques to create sounds from images, and images from sounds. The products of these processes are then layered and arranged in cohesive, meaningful combinations. Moving back-and-forth between the two mediums in this dynamic interaction, a narrative interplay develops, connecting the materials created. Together with the sound compositions, the canvases and artists&amp;rsquo; scorebooks tell this story.&amp;nbsp;&amp;lt;/p&amp;gt; &amp;lt;p&amp;gt; The collection consists of:&amp;lt;/p&amp;gt; &amp;lt;ol&amp;gt; &amp;lt;li&amp;gt; 200pp. exegesis, text with 48 coloured figures,&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt; 14-track CD sound recording,&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt; Exhibition collection of 6 artists books and 10 giclee (digital print) canvases,&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt; DVD of images exhibition canvases and artists books,&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt; Exhibition copies of 14-track audio CD.&amp;lt;/li&amp;gt; &amp;lt;/ol&amp;gt; &amp;lt;p&amp;gt; The collection represents the complete body of work submitted by Melissa Cary to complete her PhD. The collection was exhibited at the Southern Cross University, NEXT Gallery as an installation of visual artworks accompanied by headphone listening stations with copies of the audio CD.&amp;lt;/p&amp;gt;
 </description>
@@ -68,7 +68,7 @@ key = C7_16 is directly related to the grant (A6_ID1_16  Title "(AUTestingRecord
 </originatingSource>
     <collection dateAccessioned="2013-02-19T00:00:00Z" dateModified="2013-02-19T00:00:00Z" type="collection">
       <name type="primary">
-        <namePart type="">(AUTestingRecords) Collection to test party ordering in title bar.</namePart>
+        <namePart type="">(C7_16 AUTestingRecords) Collection to test party ordering in title bar.</namePart>
       </name>
       <description type="full">&amp;lt;p&amp;gt; A Visual Representation of Music &amp; Aural Representation of Image:&amp;lt;/p&amp;gt; &amp;lt;p&amp;gt; The&amp;nbsp;&amp;lt;em&amp;gt;Intermedia Frottage&amp;nbsp;&amp;lt;/em&amp;gt;collection documents the development of compositional method for using graphic synthesis techniques to create sounds from images, and images from sounds. The products of these processes are then layered and arranged in cohesive, meaningful combinations. Moving back-and-forth between the two mediums in this dynamic interaction, a narrative interplay develops, connecting the materials created. Together with the sound compositions, the canvases and artists&amp;rsquo; scorebooks tell this story.&amp;nbsp;&amp;lt;/p&amp;gt; &amp;lt;p&amp;gt; The collection consists of:&amp;lt;/p&amp;gt; &amp;lt;ol&amp;gt; &amp;lt;li&amp;gt; 200pp. exegesis, text with 48 coloured figures,&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt; 14-track CD sound recording,&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt; Exhibition collection of 6 artists books and 10 giclee (digital print) canvases,&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt; DVD of images exhibition canvases and artists books,&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt; Exhibition copies of 14-track audio CD.&amp;lt;/li&amp;gt; &amp;lt;/ol&amp;gt; &amp;lt;p&amp;gt; The collection represents the complete body of work submitted by Melissa Cary to complete her PhD. The collection was exhibited at the Southern Cross University, NEXT Gallery as an installation of visual artworks accompanied by headphone listening stations with copies of the audio CD.&amp;lt;/p&amp;gt;
 </description>
@@ -133,7 +133,7 @@ key = C7_16 is directly related to the grant (A6_ID1_16  Title "(AUTestingRecord
     <collection type="dataset">
       <identifier type="local">C6_ID1_16</identifier>
       <name type="primary">
-        <namePart>(AUTestingRecords) Collection with citationMetadata with DOI in full resolvable URL format  and single contributor as string(not all elements). Duplicate of C6_16 and should inherit grants network relationships.
+        <namePart>(C8_16 AUTestingRecords) Collection with citationMetadata with DOI in full resolvable URL format  and single contributor as string(not all elements). Duplicate of C6_16 and should inherit grants network relationships.
 </namePart>
       </name>
       <dates type="created">

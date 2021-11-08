@@ -13,7 +13,7 @@ key = C5_16 has child collection (key = C3_16) and should NOT inherit grants net
         <collection type="dataset">
             <identifier type="uri">C3_ID1_16</identifier>
             <name type="primary">
-                <namePart>(AUTestingRecords2)(LVL 1)
+                <namePart>(C3_16 AUTestingRecords2)(LVL 1)
                     Collection3 AOML - Argo float, WMO 1900812
                 </namePart>
             </name>
@@ -99,11 +99,7 @@ key = C5_16 has child collection (key = C3_16) and should NOT inherit grants net
             <identifier type="uri">C3_ID1_16</identifier>
             <identifier type="uri">C4_ID1_16</identifier>
             <name type="primary">
-                <namePart>(AUTestingRecords2)(LVL 1)
-                    Collection3Duplicate (relatedObjects should
-                    inherit from C3_16 AOML - Argo float,
-                    WMO 1900812
-                </namePart>
+                <namePart>(C4_16 AUTestingRecords2)(LVL 1) Collection3Duplicate (relatedObjects should inherit from C3_16 AOML - Argo float, WMO 1900812</namePart>
             </name>
             <dates type="created">
                 <date type="dateFrom" dateFormat="W3CDTF">2014-09-09T06:06:15</date>
@@ -180,11 +176,7 @@ key = C5_16 has child collection (key = C3_16) and should NOT inherit grants net
         <collection type="dataset">
             <identifier type="local">C3.1_ID1_16</identifier>
             <name type="primary">
-                <namePart type="full">(AUTestingRecords2)
-                    Collection 3.1 Collection which
-                    is the child of a collection which is linked to grants network.
-                </namePart>
-            </name>
+                <namePart type="full">(C3.1_16 AUTestingRecords2) Collection 3.1 Collection which is the child of a collection which is linked to grants network.</name>
             <description type="full">
                 This dataset contains temperature, salinity and pressure data for all profiles of the Argo float 1900812
                 managed by the Atlantic Oceanographic and Meteorological Laboratory (AOML). Argo is a major
@@ -230,9 +222,7 @@ key = C5_16 has child collection (key = C3_16) and should NOT inherit grants net
         <collection type="dataset">
             <identifier type="local">C5_ID1_16</identifier>
             <name type="primary">
-                <namePart type="full">(AUTestingRecords2)CollectionNotLinkedToGrantsNetwork Collection which has child
-                    collection which is linked to grants network.
-                </namePart>
+                <namePart type="full">( C5_16 AUTestingRecords2)CollectionNotLinkedToGrantsNetwork Collection which has child collection which is linked to grants network.</namePart>
             </name>
             <location>
                 <address>
@@ -322,7 +312,7 @@ key = C5_16 has child collection (key = C3_16) and should NOT inherit grants net
         <originatingSource type="">nla.gov.au</originatingSource>
         <party type="group">
             <name type="primary">
-                <namePart>(AUTestingRecords2) University of AUTestingRecords2</namePart>
+                <namePart>(P2_16 AUTestingRecords2) University of AUTestingRecords2</namePart>
             </name>
             <identifier type="AU-ANL:PEAU">P2_ID1_16</identifier>
             <location>
@@ -340,7 +330,7 @@ key = C5_16 has child collection (key = C3_16) and should NOT inherit grants net
         <party type="group">
             <identifier type="AU-ANL:PEAU">P2_ID1_16</identifier>
             <name type="primary">
-                <namePart>(AUTestingRecords2) University of AUTestingRecords2 DUPLICATE ONE</namePart>
+                <namePart>(P3_16 AUTestingRecords2) University of AUTestingRecords2 DUPLICATE ONE</namePart>
             </name>
             <location>
                 <address>
@@ -358,7 +348,7 @@ key = C5_16 has child collection (key = C3_16) and should NOT inherit grants net
             <identifier type="AU-ANL:PEAU">P2_ID1_16</identifier>
             <identifier type="orcid">orcid-123932993kd</identifier>
             <name type="primary">
-                <namePart>(AUTestingRecords2) University of AUTestingRecords2 DUPLICATE TWO</namePart>
+                <namePart>(P4_16 AUTestingRecords2) University of AUTestingRecords2 DUPLICATE TWO</namePart>
             </name>
             <location>
                 <address>
