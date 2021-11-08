@@ -176,7 +176,8 @@ key = C5_16 has child collection (key = C3_16) and should NOT inherit grants net
         <collection type="dataset">
             <identifier type="local">C3.1_ID1_16</identifier>
             <name type="primary">
-                <namePart type="full">(C3.1_16 AUTestingRecords2) Collection 3.1 Collection which is the child of a collection which is linked to grants network.</name>
+                <namePart type="full">(C3.1_16 AUTestingRecords2) Collection 3.1 Collection which is the child of a collection which is linked to grants network.</namePart>
+            </name>
             <description type="full">
                 This dataset contains temperature, salinity and pressure data for all profiles of the Argo float 1900812
                 managed by the Atlantic Oceanographic and Meteorological Laboratory (AOML). Argo is a major
