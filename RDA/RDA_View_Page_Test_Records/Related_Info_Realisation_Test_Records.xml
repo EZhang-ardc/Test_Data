@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<registryObjects xmlns="http://ands.org.au/standards/rif-cs/registryObjects" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ands.org.au/standards/rif-cs/registryObjects http://services.ands.org.au/documentation/rifcs/schema/registryObjects.xsd">
+<registryObject group="State Records Authority of New South Wales">
+    <key>http://search.records.nsw.gov.au/series/19808124</key>
+    <originatingSource>http://www.records.nsw.gov.au</originatingSource>
+    <collection dateModified="2011-07-27" type="collection">
+      <identifier type="uri">http://search.records.nsw.gov.au/series/19808</identifier>
+      <dates type="dc.created">
+        <date dateFormat="W3CDTF" type="dateFrom">1888-05-30</date>
+        <date dateFormat="W3CDTF" type="dateTo"/>
+      </dates>
+      <name>
+        <namePart type="full">Relationship Info Realisation: Main record Water specifications</namePart>
+      </name>
+      <location>
+        <address>
+          <electronic type="url">
+            <value>http://search.records.nsw.gov.au/series/19808</value>
+          </electronic>
+          <physical type="streetAddress">
+            <addressPart type="text">Western Sydney Records Centre
+143 O'Connell Street KINGSWOOD NSW</addressPart>
+          </physical>
+        </address>
+      </location>
+      <subject type="anzsrc-for">2103 HISTORICAL STUDIES</subject>
+      <description type="full">This series consists of specifications for contract works commissioned by the Board of Water Supply and Sewerage, the Metropolitan Board of Water Supply and Sewerage and the Metropolitan Water Sewerage and Drainage Board. The records were created to provide evidence of the work undertaken and the standards that applied to that work. The Specifications begin in 1888, the year that the first Board of Water Supply and Sewerage was constituted. Water Specifications incorporated many different types of work, including the construction of cottages at reservoirs, raised reservoirs in suburbs, high pressure pipes for water supply, the supply of blue metal for roadways and stabilisation projects. Included in this series are specifications for the construction of a new head office for the Metropolitan Water Sewerage and Drainage Board in 1937. The contracts in this series begin at number 1 twice. Tthe first occasion is for the first contract in 1888 called by the Board of Water Supply and Sewerage. The Specifications extend to number 1302 and begin again at number 1 at a time that coincides with the constitution of the Metropolitan Water Sewerage and Drainage Board. There are indexes to the Water Specifications contracts in the volumes from 1888 to 1895 (volumes 1 to 6). Contracts that begin with a "W" generally refer to work undertaken at Warragamba (for example volumes 260, 261, 262, etc). Some of the Specifications were not dated. The specifications are contained in bound volumes and arranged chronologically by volume and specification number.</description>
+      <coverage>
+        <temporal>
+          <date dateFormat="W3CDTF" type="dateFrom">1888-05-30T00:00:00+10:00</date>
+        </temporal>
+      </coverage>
+      <rights>
+        <accessRights rightsUri="http://www.records.nsw.gov.au/state-archives/register-of-access-directions">The State Records Act 1998 (NSW) provides a general entitlement of public access to State records that are at least 30 years old. For a record to be available under the Act it must be subject to an 'open to public access' direction. Some records containing sensitive information may be closed for longer than 30 years under a ‘closed to public access’ direction. View access directions at: http://www.records.nsw.gov.au/state-archives/register-of-access-directions</accessRights>
+        <rightsStatement rightsUri="http://www.records.nsw.gov.au/state-archives/guides-and-finding-aids/archives-in-brief/archives-in-brief-74"> Records held by the State Records Authority of New South Wales are covered by copyright. For information on reusing material from the collection see Archives in Brief 74 – Research and Copyright.</rightsStatement>
+      </rights>
+      <relatedInfo type="collection">
+        <identifier type="local">records.nsw.gov.au/series/19808</identifier>
+        <relation type="describes"/>
+      </relatedInfo>
+      <relatedInfo type="party">
+        <title>test party info </title>
+        <identifier type="local">identifier_local1</identifier>
+        <relation type="hasCollector"/>
+      </relatedInfo>
+      <relatedInfo type="activity">
+        <title>test A</title>
+        <identifier type="doi">10.213.678/abc123</identifier>
+        <relation type="hasAssociationWith"/>
+      </relatedInfo>
+      <citationInfo>
+        <fullCitation>SRNSW: NRS 19808</fullCitation>
+      </citationInfo>
+    </collection>
+  </registryObject>
+
+  <registryObject group="TestContributor">
+    <key>A_new_collection_20211122</key>
+    <originatingSource type="">http://demo.ands.org.au/registry/orca/register_my_data</originatingSource>
+    <collection type="collection" dateModified="2013-04-10T23:51:55Z">
+      <name type="primary">
+        <namePart>Relationship Info Realisation: Collection which needs an identifier</namePart>
+      </name>
+      <description type="local">&lt;p&gt;This is a local statement for the colleciton&lt;/p&gt;</description>
+      <rights>
+        <rightsStatement rightsUri="http://www.rightsuri.com">Rights Statement Rights Statement</rightsStatement>
+        <licence type="AusGOALRestrictive" rightsUri="http://www.rightsuri.com">LicenceLicenceLicence</licence>
+        <accessRights rightsUri="http://www.rightsuri.com">Access Rights</accessRights>
+      </rights>
+      <subject type="anzsrc-seo">830201</subject>
+      <subject type="anzsrc-for">0303</subject>
+      <citationInfo>
+        <citationMetadata>
+          <identifier type="doi">10.123123123R</identifier>
+          <title>Citation Title</title>
+          <version>V0.2</version>
+          <placePublished>Australia</placePublished>
+          <publisher>Some Example Publisher</publisher>
+          <url>http://www.exapmle.com</url>
+          <context>Context</context>
+          <contributor seq="1">
+            <namePart type="given">Joe Blogs</namePart>
+          </contributor>
+          <date type="created">12-12-2001</date>
+        </citationMetadata>
+      </citationInfo>
+    </collection>
+  </registryObject>
+
+     <registryObject group="Australian Antarctic Data Centre">
+    <key>Test record/JARVIS,TOBY</key>
+    <originatingSource>Australian Antarctic Data Centre</originatingSource>
+    <party type="person">
+      <name type="primary">
+        <namePart>Relationship Info Realisation: JARVIS, TOBY</namePart>
+      </name>
+      <location>
+        <address>
+          <physical type="streetAddress">
+            <addressPart type="addressLine">JARVIS, TOBY</addressPart>
+          </physical>
+        </address>
+      </location>
+      <location>
+        <address>
+          <electronic type="email">
+            <value>toby@tobyjarvis.com</value>
+          </electronic>
+        </address>
+      </location>
+    </party>
+  </registryObject>
+
+      <registryObject group="Australian Research Council">
+    <key>http://purl.org/au-research/grants/arc/DP0559283123456</key>
+    <originatingSource>https://dataportal.arc.gov.au/NCGP/API/grants/</originatingSource>
+    <activity type="grant">
+      <name type="primary">
+        <namePart>Relationship Info Realisation: Activity which needs an identifier</namePart>
+      </name>
+      <location>
+        <address>
+          <electronic type="url" target="landingPage">
+            <value>https://dataportal.arc.gov.au/NCGP/Web/Grant/Grant/DP0559283</value>
+          </electronic>
+        </address>
+      </location>
+      <existenceDates>
+        <startDate dateFormat="W3CDTF">2005-01-01</startDate>
+        <endDate dateFormat="W3CDTF">2008-12-30</endDate>
+      </existenceDates>
+      <description type="brief">A Bayesian framework for frequency domain identification. The national and social benefits of the project will be reflected\r\nthrough the application recognition of the research work in the various industry and research community; and also through our international collaboration. The national and social benefits are also delivered by producing specialized researchers and engineers in systems and control engineering. These people include the research students who will participate in and learn from the proposed project.</description>
+      <description type="fundingAmount">$99,772</description>
+      <description type="fundingScheme">Discovery Projects</description>
+      <subject type="anzsrc-for">0102</subject>
+      <subject type="anzsrc-for">230119</subject>
+      <subject type="anzsrc-for">230202</subject>
+      <subject type="anzsrc-for">280204</subject>
+      <subject type="anzsrc-seo">610104</subject>
+      <subject type="anzsrc-seo">700302</subject>
+      <subject type="anzsrc-seo">730114</subject>
+    </activity>
+  </registryObject>
+
+
+</registryObjects>
