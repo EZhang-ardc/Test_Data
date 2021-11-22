@@ -1,0 +1,1286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<registryObjects xmlns="http://ands.org.au/standards/rif-cs/registryObjects" xmlns:extRif="http://ands.org.au/standards/rif-cs/extendedRegistryObjects" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ands.org.au/standards/rif-cs/registryObjects http://services.ands.org.au/documentation/rifcs/schema/registryObjects.xsd">
+
+    <registryObject group="Queensland University of Technology">
+    <key>testTOP5MainRecord</key>
+    <originatingSource type="authoritative">http://www.qut.edu.au</originatingSource>
+    <collection type="registry">
+      <name type="primary">
+        <namePart> Test top 5 main record </namePart>
+      </name>
+           <description type="brief">The provided data (the Data) represent a raster map of agricultural profit at full equity (PFE) for Australia for the year 2005/06. Values of PFE are provided in ($/ha). PFE is a measure of profit which is calculated as the revenue from the sale of agricultural commodities minus all fixed and variable costs. This concept is based on the assumption that the land is fully owned (100% equity). The unit of PFE is $/ha. The Data are provided as a raster dataset that is compatible with ArcGIS. The spatial resolution is ~ 1km. Values provided are not for individual commodities (e.g. wheat, barley etc.) but for a set of commodity classes known as SPREAD classes (e.g. winter cereals, winter oilseeds) and broad land use categories (grazing, natural pastures etc.). The Data do not provide information with regards to the associated land use. To link values of PFE to the associated land use (SPREAD class) the Data need to be linked to the land use map of the year 2005/06 (Source: ABARE–BRS 2010. Land Use of Australia, Version 4, 2005-06 dataset).</description>
+      <relatedObject>
+        <key>testTOP5Collection1</key>
+        <relation type="hasAssociationWith"/>
+      </relatedObject>
+      <relatedObject>
+        <key>testTOP5Collection2</key>
+        <relation type="isVersionOf"/>
+      </relatedObject>
+      <relatedObject>
+        <key>testTOP5Collection3</key>
+        <relation type="hasDerivedCollection"/>
+      </relatedObject>
+      <relatedObject>
+        <key>testTOP5Collection4</key>
+        <relation type="describes"/>
+      </relatedObject>
+       <relatedObject>
+        <key>testTOP5Collection5</key>
+        <relation type="hasAssociationWith"/>
+      </relatedObject>
+      <relatedObject>
+        <key>testTOP5Collection6</key>
+        <relation type="isVersionOf"/>
+      </relatedObject>
+      <relatedObject>
+        <key>testTOP5Collection7</key>
+        <relation type="hasDerivedCollection"/>
+      </relatedObject>
+      <relatedObject>
+        <key>testTOP5Collection8</key>
+        <relation type="describes"/>
+      </relatedObject>
+      <relatedObject>
+        <key>testTOP5PeoPle1</key>
+        <relation type="hasPrincipalInvestigator"/>
+        <relation type="hasAssociationWith"/>
+      </relatedObject>
+      <relatedObject>
+        <key>testTOP5PeoPle2</key>
+        <relation type="hasCollector"/>
+      </relatedObject>
+      <relatedObject>
+        <key>testTOP5PeoPle3</key>
+        <relation type="hasPrincipalInvestigator"/>
+      </relatedObject>
+      <relatedObject>
+        <key>testTOP5PeoPle4</key>
+        <relation type="hasCollector"/>
+      </relatedObject>
+      <relatedObject>
+        <key>testTOP5PeoPle5</key>
+        <relation type="hasAssociationWith"/>
+      </relatedObject>
+      <relatedObject>
+        <key>testTOP5PeoPle6</key>
+        <relation type="hasPrincipalInvestigator"/>
+      </relatedObject>
+      <relatedObject>
+        <key>testTOP5PeoPle7</key>
+        <relation type="hasCollector"/>
+      </relatedObject>
+      <relatedObject>
+        <key>testTOP5Org1</key>
+        <relation type="isManagedBy"/>
+        <relation type="hasAssociationWith"/>
+      </relatedObject>
+      <relatedObject>
+        <key>testTOP5Org2</key>
+        <relation type="isManagedBy"/>
+      </relatedObject>
+      <relatedObject>
+        <key>testTOP5Org3</key>
+        <relation type="isOwnedBy"/>
+      </relatedObject>
+      <relatedObject>
+        <key>testTOP5Org4</key>
+        <relation type="hasAssociationWith"/>
+      </relatedObject>
+      <relatedObject>
+        <key>testTOP5Org5</key>
+        <relation type="hasAssociationWith"/>
+      </relatedObject>
+      <relatedObject>
+        <key>testTOP5Org6</key>
+        <relation type="isOwnedBy"/>
+      </relatedObject>
+      <relatedObject>
+        <key>testTOP5Org7</key>
+        <relation type="isOwnedBy"/>
+      </relatedObject>
+      <relatedObject>
+        <key>testTOP5Service1</key>
+        <relation type="supports"/>
+      </relatedObject>
+      <relatedObject>
+        <key>testTOP5Service2</key>
+        <relation type="supports"/>
+      </relatedObject>
+        <relatedObject>
+      <key>testTOP5Service3</key>
+        <relation type="supports"/>
+      </relatedObject>
+      <relatedObject>
+        <key>testTOP5Service4</key>
+        <relation type="hasAssociationWith"/>
+      </relatedObject>
+         <relatedObject>
+       <key>testTOP5Service5</key>
+        <relation type="supports"/>
+      </relatedObject>
+      <relatedObject>
+        <key>testTOP5Service6</key>
+        <relation type="supports"/>
+      </relatedObject>
+         <relatedObject>
+      <key>testTOP5Service7</key>
+        <relation type="supports"/>
+      </relatedObject>
+      <relatedObject>
+        <key>testTOP5Service8</key>
+        <relation type="hasAssociationWith"/>
+      </relatedObject>
+       <relatedObject>
+        <key>testTOP5Program1</key>
+        <relation type="hasAssociationWith"/>
+      </relatedObject>
+       <relatedObject>
+        <key>testTOP5Program2</key>
+        <relation type="hasAssociationWith"/>
+      </relatedObject>
+      <relatedObject>
+        <key>testTOP5Program3</key>
+        <relation type="hasAssociationWith"/>
+      </relatedObject>
+       <relatedObject>
+        <key>testTOP5Program4</key>
+        <relation type="hasAssociationWith"/>
+      </relatedObject>
+      <relatedObject>
+        <key>testTOP5Program5</key>
+        <relation type="hasAssociationWith"/>
+      </relatedObject>
+      <relatedObject>
+        <key>testTOP5Program6</key>
+        <relation type="hasAssociationWith"/>
+      </relatedObject>
+       <relatedObject>
+        <key>testTOP5Program7</key>
+        <relation type="hasAssociationWith"/>
+      </relatedObject>
+      <relatedObject>
+        <key>testTOP5Grants1</key>
+        <relation type="hasAssociationWith"/>
+      </relatedObject>
+      <relatedObject>
+        <key>testTOP5Grants2</key>
+        <relation type="isOutputOf"/>
+      </relatedObject>
+      <relatedObject>
+        <key>testTOP5Grants3</key>
+        <relation type="isOutputOf"/>
+      </relatedObject>
+      <relatedObject>
+        <key>testTOP5Grants4</key>
+        <relation type="hasAssociationWith"/>
+      </relatedObject>
+      <relatedObject>
+        <key>testTOP5Grants5</key>
+        <relation type="isOutputOf"/>
+      </relatedObject>
+      <relatedObject>
+        <key>testTOP5Grants6</key>
+        <relation type="isOutputOf"/>
+      </relatedObject>
+      <subject type="local">Orthopaedics</subject>
+      <subject type="anzsrc-for">0699</subject>
+      <subject type="anzsrc-for">010202</subject>
+      <subject type="anzsrc-for">1103</subject>
+      <subject type="anzsrc-for">0103</subject>
+      <subject type="anzsrc-for">0903</subject>
+    </collection>
+
+  </registryObject>
+
+    <registryObject group="Test Collection">
+    <key>testTOP5Collection1</key>
+    <originatingSource>nla.gov.au</originatingSource>
+    <collection dateAccessioned="2016-04-29T01:05:09+10:00" type="dataset">
+      <name type="primary">
+        <namePart>test TOP5 Related Data 1</namePart></name>
+      <description type="brief">The provided data (the Data) represent a raster map of agricultural profit at full equity (PFE) for Australia for the year 2005/06. Values of PFE are provided in ($/ha). PFE is a measure of profit which is calculated as the revenue from the sale of agricultural commodities minus all fixed and variable costs. This concept is based on the assumption that the land is fully owned (100% equity). The unit of PFE is $/ha. The Data are provided as a raster dataset that is compatible with ArcGIS. The spatial resolution is ~ 1km. Values provided are not for individual commodities (e.g. wheat, barley etc.) but for a set of commodity classes known as SPREAD classes (e.g. winter cereals, winter oilseeds) and broad land use categories (grazing, natural pastures etc.). The Data do not provide information with regards to the associated land use. To link values of PFE to the associated land use (SPREAD class) the Data need to be linked to the land use map of the year 2005/06 (Source: ABARE–BRS 2010. Land Use of Australia, Version 4, 2005-06 dataset).</description>
+
+    </collection>
+  </registryObject>
+
+    <registryObject group="Test Collection">
+    <key>testTOP5Collection2</key>
+    <originatingSource>nla.gov.au</originatingSource>
+    <collection dateAccessioned="2016-04-29T01:05:09+10:00" type="dataset">
+      <name type="primary">
+        <namePart>test TOP5 Related Data 2</namePart></name>
+      <description type="brief">The provided data (the Data) represent a raster map of agricultural profit at full equity (PFE) for Australia for the year 2005/06. Values of PFE are provided in ($/ha). PFE is a measure of profit which is calculated as the revenue from the sale of agricultural commodities minus all fixed and variable costs. This concept is based on the assumption that the land is fully owned (100% equity). The unit of PFE is $/ha. The Data are provided as a raster dataset that is compatible with ArcGIS. The spatial resolution is ~ 1km. Values provided are not for individual commodities (e.g. wheat, barley etc.) but for a set of commodity classes known as SPREAD classes (e.g. winter cereals, winter oilseeds) and broad land use categories (grazing, natural pastures etc.). The Data do not provide information with regards to the associated land use. To link values of PFE to the associated land use (SPREAD class) the Data need to be linked to the land use map of the year 2005/06 (Source: ABARE–BRS 2010. Land Use of Australia, Version 4, 2005-06 dataset).</description>
+
+    </collection>
+  </registryObject>
+
+
+    <registryObject group="Test Collection">
+    <key>testTOP5Collection3</key>
+    <originatingSource>nla.gov.au</originatingSource>
+    <collection dateAccessioned="2016-04-29T01:05:09+10:00" type="dataset">
+      <name type="primary">
+        <namePart>test TOP5 Related Data 3</namePart></name>
+      <description type="brief">The provided data (the Data) represent a raster map of agricultural profit at full equity (PFE) for Australia for the year 2005/06. Values of PFE are provided in ($/ha). PFE is a measure of profit which is calculated as the revenue from the sale of agricultural commodities minus all fixed and variable costs. This concept is based on the assumption that the land is fully owned (100% equity). The unit of PFE is $/ha. The Data are provided as a raster dataset that is compatible with ArcGIS. The spatial resolution is ~ 1km. Values provided are not for individual commodities (e.g. wheat, barley etc.) but for a set of commodity classes known as SPREAD classes (e.g. winter cereals, winter oilseeds) and broad land use categories (grazing, natural pastures etc.). The Data do not provide information with regards to the associated land use. To link values of PFE to the associated land use (SPREAD class) the Data need to be linked to the land use map of the year 2005/06 (Source: ABARE–BRS 2010. Land Use of Australia, Version 4, 2005-06 dataset).</description>
+
+    </collection>
+  </registryObject>
+
+      <registryObject group="Test Collection">
+    <key>testTOP5Collection4</key>
+    <originatingSource>nla.gov.au</originatingSource>
+    <collection dateAccessioned="2016-04-29T01:05:09+10:00" type="dataset">
+      <name type="primary">
+        <namePart>test TOP5 Related Data 4</namePart></name>
+      <description type="brief">The provided data (the Data) represent a raster map of agricultural profit at full equity (PFE) for Australia for the year 2005/06. Values of PFE are provided in ($/ha). PFE is a measure of profit which is calculated as the revenue from the sale of agricultural commodities minus all fixed and variable costs. This concept is based on the assumption that the land is fully owned (100% equity). The unit of PFE is $/ha. The Data are provided as a raster dataset that is compatible with ArcGIS. The spatial resolution is ~ 1km. Values provided are not for individual commodities (e.g. wheat, barley etc.) but for a set of commodity classes known as SPREAD classes (e.g. winter cereals, winter oilseeds) and broad land use categories (grazing, natural pastures etc.). The Data do not provide information with regards to the associated land use. To link values of PFE to the associated land use (SPREAD class) the Data need to be linked to the land use map of the year 2005/06 (Source: ABARE–BRS 2010. Land Use of Australia, Version 4, 2005-06 dataset).</description>
+
+    </collection>
+  </registryObject>
+
+      <registryObject group="Test Collection">
+    <key>testTOP5Collection5</key>
+    <originatingSource>nla.gov.au</originatingSource>
+    <collection dateAccessioned="2016-04-29T01:05:09+10:00" type="dataset">
+      <name type="primary">
+        <namePart>test TOP5 Related Data 5</namePart></name>
+      <description type="brief">The provided data (the Data) represent a raster map of agricultural profit at full equity (PFE) for Australia for the year 2005/06. Values of PFE are provided in ($/ha). PFE is a measure of profit which is calculated as the revenue from the sale of agricultural commodities minus all fixed and variable costs. This concept is based on the assumption that the land is fully owned (100% equity). The unit of PFE is $/ha. The Data are provided as a raster dataset that is compatible with ArcGIS. The spatial resolution is ~ 1km. Values provided are not for individual commodities (e.g. wheat, barley etc.) but for a set of commodity classes known as SPREAD classes (e.g. winter cereals, winter oilseeds) and broad land use categories (grazing, natural pastures etc.). The Data do not provide information with regards to the associated land use. To link values of PFE to the associated land use (SPREAD class) the Data need to be linked to the land use map of the year 2005/06 (Source: ABARE–BRS 2010. Land Use of Australia, Version 4, 2005-06 dataset).</description>
+
+    </collection>
+  </registryObject>
+
+      <registryObject group="Test Collection">
+    <key>testTOP5Collection6</key>
+    <originatingSource>nla.gov.au</originatingSource>
+    <collection dateAccessioned="2016-04-29T01:05:09+10:00" type="dataset">
+      <name type="primary">
+        <namePart>test TOP5 Related Data 6</namePart></name>
+      <description type="brief">The provided data (the Data) represent a raster map of agricultural profit at full equity (PFE) for Australia for the year 2005/06. Values of PFE are provided in ($/ha). PFE is a measure of profit which is calculated as the revenue from the sale of agricultural commodities minus all fixed and variable costs. This concept is based on the assumption that the land is fully owned (100% equity). The unit of PFE is $/ha. The Data are provided as a raster dataset that is compatible with ArcGIS. The spatial resolution is ~ 1km. Values provided are not for individual commodities (e.g. wheat, barley etc.) but for a set of commodity classes known as SPREAD classes (e.g. winter cereals, winter oilseeds) and broad land use categories (grazing, natural pastures etc.). The Data do not provide information with regards to the associated land use. To link values of PFE to the associated land use (SPREAD class) the Data need to be linked to the land use map of the year 2005/06 (Source: ABARE–BRS 2010. Land Use of Australia, Version 4, 2005-06 dataset).</description>
+
+    </collection>
+  </registryObject>
+
+      <registryObject group="Test Collection">
+    <key>testTOP5Collection7</key>
+    <originatingSource>nla.gov.au</originatingSource>
+    <collection dateAccessioned="2016-04-29T01:05:09+10:00" type="dataset">
+      <name type="primary">
+        <namePart>test TOP5 Related Data 7</namePart></name>
+      <description type="brief">The provided data (the Data) represent a raster map of agricultural profit at full equity (PFE) for Australia for the year 2005/06. Values of PFE are provided in ($/ha). PFE is a measure of profit which is calculated as the revenue from the sale of agricultural commodities minus all fixed and variable costs. This concept is based on the assumption that the land is fully owned (100% equity). The unit of PFE is $/ha. The Data are provided as a raster dataset that is compatible with ArcGIS. The spatial resolution is ~ 1km. Values provided are not for individual commodities (e.g. wheat, barley etc.) but for a set of commodity classes known as SPREAD classes (e.g. winter cereals, winter oilseeds) and broad land use categories (grazing, natural pastures etc.). The Data do not provide information with regards to the associated land use. To link values of PFE to the associated land use (SPREAD class) the Data need to be linked to the land use map of the year 2005/06 (Source: ABARE–BRS 2010. Land Use of Australia, Version 4, 2005-06 dataset).</description>
+
+    </collection>
+  </registryObject>
+
+      <registryObject group="Test Collection">
+    <key>testTOP5Collection8</key>
+    <originatingSource>nla.gov.au</originatingSource>
+    <collection dateAccessioned="2016-04-29T01:05:09+10:00" type="dataset">
+      <name type="primary">
+        <namePart>test TOP5 Related Data 8</namePart></name>
+      <description type="brief">The provided data (the Data) represent a raster map of agricultural profit at full equity (PFE) for Australia for the year 2005/06. Values of PFE are provided in ($/ha). PFE is a measure of profit which is calculated as the revenue from the sale of agricultural commodities minus all fixed and variable costs. This concept is based on the assumption that the land is fully owned (100% equity). The unit of PFE is $/ha. The Data are provided as a raster dataset that is compatible with ArcGIS. The spatial resolution is ~ 1km. Values provided are not for individual commodities (e.g. wheat, barley etc.) but for a set of commodity classes known as SPREAD classes (e.g. winter cereals, winter oilseeds) and broad land use categories (grazing, natural pastures etc.). The Data do not provide information with regards to the associated land use. To link values of PFE to the associated land use (SPREAD class) the Data need to be linked to the land use map of the year 2005/06 (Source: ABARE–BRS 2010. Land Use of Australia, Version 4, 2005-06 dataset).</description>
+
+    </collection>
+  </registryObject>
+
+
+  <registryObject group="Australian Ocean Data Network">
+    <key>testTOP5PeoPle1</key>
+    <originatingSource>http://eatlas.org.au</originatingSource>
+    <party type="person">
+      <name type="primary">
+        <namePart>test TOP5 PeoPle 1: Berkelmans, Ray, Dr</namePart>
+      </name>
+      <location>
+        <address>
+          <physical type="streetAddress">
+            <addressPart type="telephoneNumber">+61 7 4753 4268</addressPart>
+          </physical>
+        </address>
+      </location>
+      <location>
+        <address>
+          <electronic type="email">
+            <value>R.Berkelmans@aims.gov.au</value>
+          </electronic>
+        </address>
+      </location>
+    </party>
+  </registryObject>
+
+
+  <registryObject group="Australian Ocean Data Network">
+    <key>testTOP5PeoPle2</key>
+    <originatingSource>http://eatlas.org.au</originatingSource>
+    <party type="person">
+      <name type="primary">
+        <namePart>test TOP5 PeoPle 2: Berkelmans, Ray, Dr</namePart>
+      </name>
+      <location>
+        <address>
+          <physical type="streetAddress">
+            <addressPart type="telephoneNumber">+61 7 4753 4268</addressPart>
+          </physical>
+        </address>
+      </location>
+      <location>
+        <address>
+          <electronic type="email">
+            <value>R.Berkelmans@aims.gov.au</value>
+          </electronic>
+        </address>
+      </location>
+    </party>
+  </registryObject>
+
+
+  <registryObject group="Australian Ocean Data Network">
+    <key>testTOP5PeoPle3</key>
+    <originatingSource>http://eatlas.org.au</originatingSource>
+    <party type="person">
+      <name type="primary">
+        <namePart>test TOP5 PeoPle 3: Berkelmans, Ray, Dr</namePart>
+      </name>
+      <location>
+        <address>
+          <physical type="streetAddress">
+            <addressPart type="telephoneNumber">+61 7 4753 4268</addressPart>
+          </physical>
+        </address>
+      </location>
+      <location>
+        <address>
+          <electronic type="email">
+            <value>R.Berkelmans@aims.gov.au</value>
+          </electronic>
+        </address>
+      </location>
+    </party>
+  </registryObject>
+
+
+  <registryObject group="Australian Ocean Data Network">
+    <key>testTOP5PeoPle4</key>
+    <originatingSource>http://eatlas.org.au</originatingSource>
+    <party type="person">
+      <name type="primary">
+        <namePart>test TOP5 PeoPle 4: Berkelmans, Ray, Dr</namePart>
+      </name>
+      <location>
+        <address>
+          <physical type="streetAddress">
+            <addressPart type="telephoneNumber">+61 7 4753 4268</addressPart>
+          </physical>
+        </address>
+      </location>
+      <location>
+        <address>
+          <electronic type="email">
+            <value>R.Berkelmans@aims.gov.au</value>
+          </electronic>
+        </address>
+      </location>
+    </party>
+  </registryObject>
+
+
+  <registryObject group="Australian Ocean Data Network">
+    <key>testTOP5PeoPle5</key>
+    <originatingSource>http://eatlas.org.au</originatingSource>
+    <party type="person">
+      <name type="primary">
+        <namePart>test TOP5 PeoPle 5: Berkelmans, Ray, Dr</namePart>
+      </name>
+      <location>
+        <address>
+          <physical type="streetAddress">
+            <addressPart type="telephoneNumber">+61 7 4753 4268</addressPart>
+          </physical>
+        </address>
+      </location>
+      <location>
+        <address>
+          <electronic type="email">
+            <value>R.Berkelmans@aims.gov.au</value>
+          </electronic>
+        </address>
+      </location>
+    </party>
+  </registryObject>
+
+
+  <registryObject group="Australian Ocean Data Network">
+    <key>testTOP5PeoPle6</key>
+    <originatingSource>http://eatlas.org.au</originatingSource>
+    <party type="person">
+      <name type="primary">
+        <namePart>test TOP5 PeoPle 6: Berkelmans, Ray, Dr</namePart>
+      </name>
+      <location>
+        <address>
+          <physical type="streetAddress">
+            <addressPart type="telephoneNumber">+61 7 4753 4268</addressPart>
+          </physical>
+        </address>
+      </location>
+      <location>
+        <address>
+          <electronic type="email">
+            <value>R.Berkelmans@aims.gov.au</value>
+          </electronic>
+        </address>
+      </location>
+    </party>
+  </registryObject>
+
+
+  <registryObject group="Australian Ocean Data Network">
+    <key>testTOP5PeoPle7</key>
+    <originatingSource>http://eatlas.org.au</originatingSource>
+    <party type="person">
+      <name type="primary">
+        <namePart>test TOP5 PeoPle 7: Berkelmans, Ray, Dr</namePart>
+      </name>
+      <location>
+        <address>
+          <physical type="streetAddress">
+            <addressPart type="telephoneNumber">+61 7 4753 4268</addressPart>
+          </physical>
+        </address>
+      </location>
+      <location>
+        <address>
+          <electronic type="email">
+            <value>R.Berkelmans@aims.gov.au</value>
+          </electronic>
+        </address>
+      </location>
+    </party>
+  </registryObject>
+
+  <registryObject group="Australian Ocean Data Network">
+    <key>testTOP5Org1</key>
+    <originatingSource>https://catalogue-imos.aodn.org.au</originatingSource>
+    <party type="group">
+      <name type="primary">
+        <namePart>test TOP5 Orgnaisation 1 </namePart>
+      </name>
+      <location>
+        <address>
+          <electronic type="url">
+            <value>http://www.aims.gov.au</value>
+          </electronic>
+        </address>
+      </location>
+      <location>
+        <address>
+          <physical type="streetAddress">
+            <addressPart type="telephoneNumber">+61 7 4753 4444</addressPart>
+          </physical>
+        </address>
+      </location>
+      <location>
+        <address>
+          <physical type="streetAddress">
+            <addressPart type="faxNumber">+61 7 4772 5852</addressPart>
+          </physical>
+        </address>
+      </location>
+      <location>
+        <address>
+          <electronic type="email">
+            <value>reception@aims.gov.au</value>
+          </electronic>
+        </address>
+      </location>
+      <location>
+        <address>
+          <physical type="streetAddress">
+            <addressPart type="addressLine">Australian Institute of Marine Science (AIMS)</addressPart>
+            <addressPart type="addressLine">Private Mail Bag 3, Townsville Mail Centre</addressPart>
+            <addressPart type="suburbOrPlaceLocality">Townsville</addressPart>
+            <addressPart type="stateOrTerritory">Queensland</addressPart>
+            <addressPart type="postCode">4810</addressPart>
+            <addressPart type="country">Australia</addressPart>
+          </physical>
+        </address>
+      </location>
+    </party>
+  </registryObject>
+
+
+  <registryObject group="Australian Ocean Data Network">
+    <key>testTOP5Org2</key>
+    <originatingSource>https://catalogue-imos.aodn.org.au</originatingSource>
+    <party type="group">
+      <name type="primary">
+        <namePart>test TOP5 Orgnaisation 2 </namePart>
+      </name>
+      <location>
+        <address>
+          <electronic type="url">
+            <value>http://www.aims.gov.au</value>
+          </electronic>
+        </address>
+      </location>
+      <location>
+        <address>
+          <physical type="streetAddress">
+            <addressPart type="telephoneNumber">+61 7 4753 4444</addressPart>
+          </physical>
+        </address>
+      </location>
+      <location>
+        <address>
+          <physical type="streetAddress">
+            <addressPart type="faxNumber">+61 7 4772 5852</addressPart>
+          </physical>
+        </address>
+      </location>
+      <location>
+        <address>
+          <electronic type="email">
+            <value>reception@aims.gov.au</value>
+          </electronic>
+        </address>
+      </location>
+      <location>
+        <address>
+          <physical type="streetAddress">
+            <addressPart type="addressLine">Australian Institute of Marine Science (AIMS)</addressPart>
+            <addressPart type="addressLine">Private Mail Bag 3, Townsville Mail Centre</addressPart>
+            <addressPart type="suburbOrPlaceLocality">Townsville</addressPart>
+            <addressPart type="stateOrTerritory">Queensland</addressPart>
+            <addressPart type="postCode">4810</addressPart>
+            <addressPart type="country">Australia</addressPart>
+          </physical>
+        </address>
+      </location>
+    </party>
+  </registryObject>
+
+
+  <registryObject group="Australian Ocean Data Network">
+    <key>testTOP5Org3</key>
+    <originatingSource>https://catalogue-imos.aodn.org.au</originatingSource>
+    <party type="group">
+      <name type="primary">
+        <namePart>test TOP5 Orgnaisation 3 </namePart>
+      </name>
+      <location>
+        <address>
+          <electronic type="url">
+            <value>http://www.aims.gov.au</value>
+          </electronic>
+        </address>
+      </location>
+      <location>
+        <address>
+          <physical type="streetAddress">
+            <addressPart type="telephoneNumber">+61 7 4753 4444</addressPart>
+          </physical>
+        </address>
+      </location>
+      <location>
+        <address>
+          <physical type="streetAddress">
+            <addressPart type="faxNumber">+61 7 4772 5852</addressPart>
+          </physical>
+        </address>
+      </location>
+      <location>
+        <address>
+          <electronic type="email">
+            <value>reception@aims.gov.au</value>
+          </electronic>
+        </address>
+      </location>
+      <location>
+        <address>
+          <physical type="streetAddress">
+            <addressPart type="addressLine">Australian Institute of Marine Science (AIMS)</addressPart>
+            <addressPart type="addressLine">Private Mail Bag 3, Townsville Mail Centre</addressPart>
+            <addressPart type="suburbOrPlaceLocality">Townsville</addressPart>
+            <addressPart type="stateOrTerritory">Queensland</addressPart>
+            <addressPart type="postCode">4810</addressPart>
+            <addressPart type="country">Australia</addressPart>
+          </physical>
+        </address>
+      </location>
+    </party>
+  </registryObject>
+
+
+  <registryObject group="Australian Ocean Data Network">
+    <key>testTOP5Org4</key>
+    <originatingSource>https://catalogue-imos.aodn.org.au</originatingSource>
+    <party type="group">
+      <name type="primary">
+        <namePart>test TOP5 Orgnaisation 4 </namePart>
+      </name>
+      <location>
+        <address>
+          <electronic type="url">
+            <value>http://www.aims.gov.au</value>
+          </electronic>
+        </address>
+      </location>
+      <location>
+        <address>
+          <physical type="streetAddress">
+            <addressPart type="telephoneNumber">+61 7 4753 4444</addressPart>
+          </physical>
+        </address>
+      </location>
+      <location>
+        <address>
+          <physical type="streetAddress">
+            <addressPart type="faxNumber">+61 7 4772 5852</addressPart>
+          </physical>
+        </address>
+      </location>
+      <location>
+        <address>
+          <electronic type="email">
+            <value>reception@aims.gov.au</value>
+          </electronic>
+        </address>
+      </location>
+      <location>
+        <address>
+          <physical type="streetAddress">
+            <addressPart type="addressLine">Australian Institute of Marine Science (AIMS)</addressPart>
+            <addressPart type="addressLine">Private Mail Bag 3, Townsville Mail Centre</addressPart>
+            <addressPart type="suburbOrPlaceLocality">Townsville</addressPart>
+            <addressPart type="stateOrTerritory">Queensland</addressPart>
+            <addressPart type="postCode">4810</addressPart>
+            <addressPart type="country">Australia</addressPart>
+          </physical>
+        </address>
+      </location>
+    </party>
+  </registryObject>
+
+
+  <registryObject group="Australian Ocean Data Network">
+    <key>testTOP5Org5</key>
+    <originatingSource>https://catalogue-imos.aodn.org.au</originatingSource>
+    <party type="group">
+      <name type="primary">
+        <namePart>test TOP5 Orgnaisation 5 </namePart>
+      </name>
+      <location>
+        <address>
+          <electronic type="url">
+            <value>http://www.aims.gov.au</value>
+          </electronic>
+        </address>
+      </location>
+      <location>
+        <address>
+          <physical type="streetAddress">
+            <addressPart type="telephoneNumber">+61 7 4753 4444</addressPart>
+          </physical>
+        </address>
+      </location>
+      <location>
+        <address>
+          <physical type="streetAddress">
+            <addressPart type="faxNumber">+61 7 4772 5852</addressPart>
+          </physical>
+        </address>
+      </location>
+      <location>
+        <address>
+          <electronic type="email">
+            <value>reception@aims.gov.au</value>
+          </electronic>
+        </address>
+      </location>
+      <location>
+        <address>
+          <physical type="streetAddress">
+            <addressPart type="addressLine">Australian Institute of Marine Science (AIMS)</addressPart>
+            <addressPart type="addressLine">Private Mail Bag 3, Townsville Mail Centre</addressPart>
+            <addressPart type="suburbOrPlaceLocality">Townsville</addressPart>
+            <addressPart type="stateOrTerritory">Queensland</addressPart>
+            <addressPart type="postCode">4810</addressPart>
+            <addressPart type="country">Australia</addressPart>
+          </physical>
+        </address>
+      </location>
+    </party>
+  </registryObject>
+
+
+  <registryObject group="Australian Ocean Data Network">
+    <key>testTOP5Org6</key>
+    <originatingSource>https://catalogue-imos.aodn.org.au</originatingSource>
+    <party type="group">
+      <name type="primary">
+        <namePart>test TOP5 Orgnaisation 6 </namePart>
+      </name>
+      <location>
+        <address>
+          <electronic type="url">
+            <value>http://www.aims.gov.au</value>
+          </electronic>
+        </address>
+      </location>
+      <location>
+        <address>
+          <physical type="streetAddress">
+            <addressPart type="telephoneNumber">+61 7 4753 4444</addressPart>
+          </physical>
+        </address>
+      </location>
+      <location>
+        <address>
+          <physical type="streetAddress">
+            <addressPart type="faxNumber">+61 7 4772 5852</addressPart>
+          </physical>
+        </address>
+      </location>
+      <location>
+        <address>
+          <electronic type="email">
+            <value>reception@aims.gov.au</value>
+          </electronic>
+        </address>
+      </location>
+      <location>
+        <address>
+          <physical type="streetAddress">
+            <addressPart type="addressLine">Australian Institute of Marine Science (AIMS)</addressPart>
+            <addressPart type="addressLine">Private Mail Bag 3, Townsville Mail Centre</addressPart>
+            <addressPart type="suburbOrPlaceLocality">Townsville</addressPart>
+            <addressPart type="stateOrTerritory">Queensland</addressPart>
+            <addressPart type="postCode">4810</addressPart>
+            <addressPart type="country">Australia</addressPart>
+          </physical>
+        </address>
+      </location>
+    </party>
+  </registryObject>
+
+
+  <registryObject group="Australian Ocean Data Network">
+    <key>testTOP5Org7</key>
+    <originatingSource>https://catalogue-imos.aodn.org.au</originatingSource>
+    <party type="group">
+      <name type="primary">
+        <namePart>test TOP5 Orgnaisation 7 </namePart>
+      </name>
+      <location>
+        <address>
+          <electronic type="url">
+            <value>http://www.aims.gov.au</value>
+          </electronic>
+        </address>
+      </location>
+      <location>
+        <address>
+          <physical type="streetAddress">
+            <addressPart type="telephoneNumber">+61 7 4753 4444</addressPart>
+          </physical>
+        </address>
+      </location>
+      <location>
+        <address>
+          <physical type="streetAddress">
+            <addressPart type="faxNumber">+61 7 4772 5852</addressPart>
+          </physical>
+        </address>
+      </location>
+      <location>
+        <address>
+          <electronic type="email">
+            <value>reception@aims.gov.au</value>
+          </electronic>
+        </address>
+      </location>
+      <location>
+        <address>
+          <physical type="streetAddress">
+            <addressPart type="addressLine">Australian Institute of Marine Science (AIMS)</addressPart>
+            <addressPart type="addressLine">Private Mail Bag 3, Townsville Mail Centre</addressPart>
+            <addressPart type="suburbOrPlaceLocality">Townsville</addressPart>
+            <addressPart type="stateOrTerritory">Queensland</addressPart>
+            <addressPart type="postCode">4810</addressPart>
+            <addressPart type="country">Australia</addressPart>
+          </physical>
+        </address>
+      </location>
+    </party>
+  </registryObject>
+
+  <registryObject group="Australian Institute of Marine Science">
+    <key>testTOP5Service1</key>
+    <originatingSource>http://data.aims.gov.au</originatingSource>
+    <service type="software">
+      <name type="primary">
+        <namePart>Test Top5 Service 1</namePart>
+      </name>
+      <location>
+        <address>
+          <electronic type="url" target="landingPage">
+            <value>http://data.aims.gov.au/metadataviewer/faces/view.xhtml?uuid=3caf89c0-55b9-11dc-8d3c-00008a07204e</value>
+          </electronic>
+        </address>
+      </location>
+      <description type="brief">Coral ID is an illustrated, comprehensively researched interactive key to the identification of the world's reef-building corals. Coral ID can be used both as a learning tool for novices and as an advanced operational tool by experts. The CD-ROM can be used alone or in association with "Corals of the World" (Veron 2000).</description>
+    </service>
+  </registryObject>
+
+    <registryObject group="Australian Institute of Marine Science">
+    <key>testTOP5Service2</key>
+    <originatingSource>http://data.aims.gov.au</originatingSource>
+    <service type="software">
+      <name type="primary">
+        <namePart>Test Top5 Service 2</namePart>
+      </name>
+      <location>
+        <address>
+          <electronic type="url" target="landingPage">
+            <value>http://data.aims.gov.au/metadataviewer/faces/view.xhtml?uuid=3caf89c0-55b9-11dc-8d3c-00008a07204e</value>
+          </electronic>
+        </address>
+      </location>
+      <description type="brief">Coral ID is an illustrated, comprehensively researched interactive key to the identification of the world's reef-building corals. Coral ID can be used both as a learning tool for novices and as an advanced operational tool by experts. The CD-ROM can be used alone or in association with "Corals of the World" (Veron 2000).</description>
+    </service>
+  </registryObject>
+
+    <registryObject group="Australian Institute of Marine Science">
+    <key>testTOP5Service3</key>
+    <originatingSource>http://data.aims.gov.au</originatingSource>
+    <service type="software">
+      <name type="primary">
+        <namePart>Test Top5 Service 3</namePart>
+      </name>
+      <location>
+        <address>
+          <electronic type="url" target="landingPage">
+            <value>http://data.aims.gov.au/metadataviewer/faces/view.xhtml?uuid=3caf89c0-55b9-11dc-8d3c-00008a07204e</value>
+          </electronic>
+        </address>
+      </location>
+      <description type="brief">Coral ID is an illustrated, comprehensively researched interactive key to the identification of the world's reef-building corals. Coral ID can be used both as a learning tool for novices and as an advanced operational tool by experts. The CD-ROM can be used alone or in association with "Corals of the World" (Veron 2000).</description>
+    </service>
+  </registryObject>
+
+    <registryObject group="Australian Institute of Marine Science">
+    <key>testTOP5Service4</key>
+    <originatingSource>http://data.aims.gov.au</originatingSource>
+    <service type="software">
+      <name type="primary">
+        <namePart>Test Top5 Service 4</namePart>
+      </name>
+      <location>
+        <address>
+          <electronic type="url" target="landingPage">
+            <value>http://data.aims.gov.au/metadataviewer/faces/view.xhtml?uuid=3caf89c0-55b9-11dc-8d3c-00008a07204e</value>
+          </electronic>
+        </address>
+      </location>
+      <description type="brief">Coral ID is an illustrated, comprehensively researched interactive key to the identification of the world's reef-building corals. Coral ID can be used both as a learning tool for novices and as an advanced operational tool by experts. The CD-ROM can be used alone or in association with "Corals of the World" (Veron 2000).</description>
+    </service>
+  </registryObject>
+
+    <registryObject group="Australian Institute of Marine Science">
+    <key>testTOP5Service5</key>
+    <originatingSource>http://data.aims.gov.au</originatingSource>
+    <service type="software">
+      <name type="primary">
+        <namePart>Test Top5 Service 5</namePart>
+      </name>
+      <location>
+        <address>
+          <electronic type="url" target="landingPage">
+            <value>http://data.aims.gov.au/metadataviewer/faces/view.xhtml?uuid=3caf89c0-55b9-11dc-8d3c-00008a07204e</value>
+          </electronic>
+        </address>
+      </location>
+      <description type="brief">Coral ID is an illustrated, comprehensively researched interactive key to the identification of the world's reef-building corals. Coral ID can be used both as a learning tool for novices and as an advanced operational tool by experts. The CD-ROM can be used alone or in association with "Corals of the World" (Veron 2000).</description>
+    </service>
+  </registryObject>
+
+  <registryObject group="Australian Institute of Marine Science">
+    <key>testTOP5Service6</key>
+    <originatingSource>http://data.aims.gov.au</originatingSource>
+    <service type="software">
+      <name type="primary">
+        <namePart>Test Top5 Service 6</namePart>
+      </name>
+      <location>
+        <address>
+          <electronic type="url" target="landingPage">
+            <value>http://data.aims.gov.au/metadataviewer/faces/view.xhtml?uuid=3caf89c0-55b9-11dc-8d3c-00008a07204e</value>
+          </electronic>
+        </address>
+      </location>
+      <description type="brief">Coral ID is an illustrated, comprehensively researched interactive key to the identification of the world's reef-building corals. Coral ID can be used both as a learning tool for novices and as an advanced operational tool by experts. The CD-ROM can be used alone or in association with "Corals of the World" (Veron 2000).</description>
+    </service>
+  </registryObject>
+
+    <registryObject group="Australian Institute of Marine Science">
+    <key>testTOP5Service7</key>
+    <originatingSource>http://data.aims.gov.au</originatingSource>
+    <service type="software">
+      <name type="primary">
+        <namePart>Test Top5 Service 7</namePart>
+      </name>
+      <location>
+        <address>
+          <electronic type="url" target="landingPage">
+            <value>http://data.aims.gov.au/metadataviewer/faces/view.xhtml?uuid=3caf89c0-55b9-11dc-8d3c-00008a07204e</value>
+          </electronic>
+        </address>
+      </location>
+      <description type="brief">Coral ID is an illustrated, comprehensively researched interactive key to the identification of the world's reef-building corals. Coral ID can be used both as a learning tool for novices and as an advanced operational tool by experts. The CD-ROM can be used alone or in association with "Corals of the World" (Veron 2000).</description>
+    </service>
+  </registryObject>
+
+    <registryObject group="Australian Institute of Marine Science">
+    <key>testTOP5Service8</key>
+    <originatingSource>http://data.aims.gov.au</originatingSource>
+    <service type="software">
+      <name type="primary">
+        <namePart>Test Top5 Service 8</namePart>
+      </name>
+      <location>
+        <address>
+          <electronic type="url" target="landingPage">
+            <value>http://data.aims.gov.au/metadataviewer/faces/view.xhtml?uuid=3caf89c0-55b9-11dc-8d3c-00008a07204e</value>
+          </electronic>
+        </address>
+      </location>
+      <description type="brief">Coral ID is an illustrated, comprehensively researched interactive key to the identification of the world's reef-building corals. Coral ID can be used both as a learning tool for novices and as an advanced operational tool by experts. The CD-ROM can be used alone or in association with "Corals of the World" (Veron 2000).</description>
+    </service>
+  </registryObject>
+
+  <registryObject group="Australian Institute of Marine Science">
+    <key>testTOP5Program1</key>
+    <originatingSource>http://data.aims.gov.au</originatingSource>
+    <activity type="program">
+      <name type="primary">
+        <namePart>Test top5 program 1</namePart>
+      </name>
+
+      <description type="brief">The 'Facility for Automated Intelligent Monitoring of Marine Systems' (FAIMMS) is a facility of the Australian 'Integrated Marine Observing System' (IMOS) project. This data set was collected by the FAIMMS Great Barrier Reef Sensor Network and contains data from the following sensor deployments: loyment - 'added by auto deploy'.
+There have been 2 deployments for the PAR data set.
+Instrumentation was deployed for measuring PAR at 1.9m  from 08 May 2011 through to 30 Apr 2012, and the installation was located at/on Davies Reef Base Station Latitude:-18.83162 - Longitude:147.6345. Sensor deployed was a Licor LI-192SA Quantum Sensor (PAR Sensor) manufactured by LI-COR Inc., model LI-192SA.
+Instrumentation was deployed for measuring PAR at 1.9m  from 30 Apr 2012 through to 22 Sep 2017, and the installation was located at/on Davies Reef Base Station Latitude:-18.83162 - Longitude:147.6345. Sensor deployed was a Licor LI-192SA Quantum Sensor (PAR Sensor) manufactured by LI-COR Inc., model LI-192SA. The following comment was recorded regarding this deployment - 'added by auto deploy'.</description>
+
+      <coverage>
+        <spatial type="iso19139dcmiBox">northlimit=-18.83162; southlimit=-18.83162; westlimit=147.6345; eastLimit=147.6345; projection=GDA94</spatial>
+        <spatial type="text">northlimit=-18.83162; southlimit=-18.83162; westlimit=147.6345; eastLimit=147.6345; projection=GDA94</spatial>
+      </coverage>
+      <rights>
+        <licence type="CC-BY" rightsUri="http://creativecommons.org/licenses/by/2.5/au/"/>
+      </rights>
+    </activity>
+  </registryObject>
+
+    <registryObject group="Australian Institute of Marine Science">
+    <key>testTOP5Program2</key>
+    <originatingSource>http://data.aims.gov.au</originatingSource>
+    <activity type="program">
+      <name type="primary">
+        <namePart>Test top5 program 2</namePart>
+      </name>
+
+      <description type="brief">The 'Facility for Automated Intelligent Monitoring of Marine Systems' (FAIMMS) is a facility of the Australian 'Integrated Marine Observing System' (IMOS) project. This data set was collected by the FAIMMS Great Barrier Reef Sensor Network and contains data from the following sensor deployments: loyment - 'added by auto deploy'.
+There have been 2 deployments for the PAR data set.
+Instrumentation was deployed for measuring PAR at 1.9m  from 08 May 2011 through to 30 Apr 2012, and the installation was located at/on Davies Reef Base Station Latitude:-18.83162 - Longitude:147.6345. Sensor deployed was a Licor LI-192SA Quantum Sensor (PAR Sensor) manufactured by LI-COR Inc., model LI-192SA.
+Instrumentation was deployed for measuring PAR at 1.9m  from 30 Apr 2012 through to 22 Sep 2017, and the installation was located at/on Davies Reef Base Station Latitude:-18.83162 - Longitude:147.6345. Sensor deployed was a Licor LI-192SA Quantum Sensor (PAR Sensor) manufactured by LI-COR Inc., model LI-192SA. The following comment was recorded regarding this deployment - 'added by auto deploy'.</description>
+
+      <coverage>
+        <spatial type="iso19139dcmiBox">northlimit=-18.83162; southlimit=-18.83162; westlimit=147.6345; eastLimit=147.6345; projection=GDA94</spatial>
+        <spatial type="text">northlimit=-18.83162; southlimit=-18.83162; westlimit=147.6345; eastLimit=147.6345; projection=GDA94</spatial>
+      </coverage>
+      <rights>
+        <licence type="CC-BY" rightsUri="http://creativecommons.org/licenses/by/2.5/au/"/>
+      </rights>
+    </activity>
+  </registryObject>
+
+    <registryObject group="Australian Institute of Marine Science">
+    <key>testTOP5Program3</key>
+    <originatingSource>http://data.aims.gov.au</originatingSource>
+    <activity type="program">
+      <name type="primary">
+        <namePart>Test top5 program 3</namePart>
+      </name>
+
+      <description type="brief">The 'Facility for Automated Intelligent Monitoring of Marine Systems' (FAIMMS) is a facility of the Australian 'Integrated Marine Observing System' (IMOS) project. This data set was collected by the FAIMMS Great Barrier Reef Sensor Network and contains data from the following sensor deployments: loyment - 'added by auto deploy'.
+There have been 2 deployments for the PAR data set.
+Instrumentation was deployed for measuring PAR at 1.9m  from 08 May 2011 through to 30 Apr 2012, and the installation was located at/on Davies Reef Base Station Latitude:-18.83162 - Longitude:147.6345. Sensor deployed was a Licor LI-192SA Quantum Sensor (PAR Sensor) manufactured by LI-COR Inc., model LI-192SA.
+Instrumentation was deployed for measuring PAR at 1.9m  from 30 Apr 2012 through to 22 Sep 2017, and the installation was located at/on Davies Reef Base Station Latitude:-18.83162 - Longitude:147.6345. Sensor deployed was a Licor LI-192SA Quantum Sensor (PAR Sensor) manufactured by LI-COR Inc., model LI-192SA. The following comment was recorded regarding this deployment - 'added by auto deploy'.</description>
+
+      <coverage>
+        <spatial type="iso19139dcmiBox">northlimit=-18.83162; southlimit=-18.83162; westlimit=147.6345; eastLimit=147.6345; projection=GDA94</spatial>
+        <spatial type="text">northlimit=-18.83162; southlimit=-18.83162; westlimit=147.6345; eastLimit=147.6345; projection=GDA94</spatial>
+      </coverage>
+      <rights>
+        <licence type="CC-BY" rightsUri="http://creativecommons.org/licenses/by/2.5/au/"/>
+      </rights>
+    </activity>
+  </registryObject>
+
+    <registryObject group="Australian Institute of Marine Science">
+    <key>testTOP5Program4</key>
+    <originatingSource>http://data.aims.gov.au</originatingSource>
+    <activity type="program">
+      <name type="primary">
+        <namePart>Test top5 program 4</namePart>
+      </name>
+
+      <description type="brief">The 'Facility for Automated Intelligent Monitoring of Marine Systems' (FAIMMS) is a facility of the Australian 'Integrated Marine Observing System' (IMOS) project. This data set was collected by the FAIMMS Great Barrier Reef Sensor Network and contains data from the following sensor deployments: loyment - 'added by auto deploy'.
+There have been 2 deployments for the PAR data set.
+Instrumentation was deployed for measuring PAR at 1.9m  from 08 May 2011 through to 30 Apr 2012, and the installation was located at/on Davies Reef Base Station Latitude:-18.83162 - Longitude:147.6345. Sensor deployed was a Licor LI-192SA Quantum Sensor (PAR Sensor) manufactured by LI-COR Inc., model LI-192SA.
+Instrumentation was deployed for measuring PAR at 1.9m  from 30 Apr 2012 through to 22 Sep 2017, and the installation was located at/on Davies Reef Base Station Latitude:-18.83162 - Longitude:147.6345. Sensor deployed was a Licor LI-192SA Quantum Sensor (PAR Sensor) manufactured by LI-COR Inc., model LI-192SA. The following comment was recorded regarding this deployment - 'added by auto deploy'.</description>
+
+      <coverage>
+        <spatial type="iso19139dcmiBox">northlimit=-18.83162; southlimit=-18.83162; westlimit=147.6345; eastLimit=147.6345; projection=GDA94</spatial>
+        <spatial type="text">northlimit=-18.83162; southlimit=-18.83162; westlimit=147.6345; eastLimit=147.6345; projection=GDA94</spatial>
+      </coverage>
+      <rights>
+        <licence type="CC-BY" rightsUri="http://creativecommons.org/licenses/by/2.5/au/"/>
+      </rights>
+    </activity>
+  </registryObject>
+
+  <registryObject group="Australian Institute of Marine Science">
+    <key>testTOP5Program5</key>
+    <originatingSource>http://data.aims.gov.au</originatingSource>
+    <activity type="program">
+      <name type="primary">
+        <namePart>Test top5 program 5</namePart>
+      </name>
+
+      <description type="brief">The 'Facility for Automated Intelligent Monitoring of Marine Systems' (FAIMMS) is a facility of the Australian 'Integrated Marine Observing System' (IMOS) project. This data set was collected by the FAIMMS Great Barrier Reef Sensor Network and contains data from the following sensor deployments: loyment - 'added by auto deploy'.
+There have been 2 deployments for the PAR data set.
+Instrumentation was deployed for measuring PAR at 1.9m  from 08 May 2011 through to 30 Apr 2012, and the installation was located at/on Davies Reef Base Station Latitude:-18.83162 - Longitude:147.6345. Sensor deployed was a Licor LI-192SA Quantum Sensor (PAR Sensor) manufactured by LI-COR Inc., model LI-192SA.
+Instrumentation was deployed for measuring PAR at 1.9m  from 30 Apr 2012 through to 22 Sep 2017, and the installation was located at/on Davies Reef Base Station Latitude:-18.83162 - Longitude:147.6345. Sensor deployed was a Licor LI-192SA Quantum Sensor (PAR Sensor) manufactured by LI-COR Inc., model LI-192SA. The following comment was recorded regarding this deployment - 'added by auto deploy'.</description>
+
+      <coverage>
+        <spatial type="iso19139dcmiBox">northlimit=-18.83162; southlimit=-18.83162; westlimit=147.6345; eastLimit=147.6345; projection=GDA94</spatial>
+        <spatial type="text">northlimit=-18.83162; southlimit=-18.83162; westlimit=147.6345; eastLimit=147.6345; projection=GDA94</spatial>
+      </coverage>
+      <rights>
+        <licence type="CC-BY" rightsUri="http://creativecommons.org/licenses/by/2.5/au/"/>
+      </rights>
+    </activity>
+  </registryObject>
+
+    <registryObject group="Australian Institute of Marine Science">
+    <key>testTOP5Program6</key>
+    <originatingSource>http://data.aims.gov.au</originatingSource>
+    <activity type="program">
+      <name type="primary">
+        <namePart>Test top5 program 6</namePart>
+      </name>
+
+      <description type="brief">The 'Facility for Automated Intelligent Monitoring of Marine Systems' (FAIMMS) is a facility of the Australian 'Integrated Marine Observing System' (IMOS) project. This data set was collected by the FAIMMS Great Barrier Reef Sensor Network and contains data from the following sensor deployments: loyment - 'added by auto deploy'.
+There have been 2 deployments for the PAR data set.
+Instrumentation was deployed for measuring PAR at 1.9m  from 08 May 2011 through to 30 Apr 2012, and the installation was located at/on Davies Reef Base Station Latitude:-18.83162 - Longitude:147.6345. Sensor deployed was a Licor LI-192SA Quantum Sensor (PAR Sensor) manufactured by LI-COR Inc., model LI-192SA.
+Instrumentation was deployed for measuring PAR at 1.9m  from 30 Apr 2012 through to 22 Sep 2017, and the installation was located at/on Davies Reef Base Station Latitude:-18.83162 - Longitude:147.6345. Sensor deployed was a Licor LI-192SA Quantum Sensor (PAR Sensor) manufactured by LI-COR Inc., model LI-192SA. The following comment was recorded regarding this deployment - 'added by auto deploy'.</description>
+
+      <coverage>
+        <spatial type="iso19139dcmiBox">northlimit=-18.83162; southlimit=-18.83162; westlimit=147.6345; eastLimit=147.6345; projection=GDA94</spatial>
+        <spatial type="text">northlimit=-18.83162; southlimit=-18.83162; westlimit=147.6345; eastLimit=147.6345; projection=GDA94</spatial>
+      </coverage>
+      <rights>
+        <licence type="CC-BY" rightsUri="http://creativecommons.org/licenses/by/2.5/au/"/>
+      </rights>
+    </activity>
+  </registryObject>
+
+    <registryObject group="Australian Institute of Marine Science">
+    <key>testTOP5Program7</key>
+    <originatingSource>http://data.aims.gov.au</originatingSource>
+    <activity type="program">
+      <name type="primary">
+        <namePart>Test top5 program 7</namePart>
+      </name>
+
+      <description type="brief">The 'Facility for Automated Intelligent Monitoring of Marine Systems' (FAIMMS) is a facility of the Australian 'Integrated Marine Observing System' (IMOS) project. This data set was collected by the FAIMMS Great Barrier Reef Sensor Network and contains data from the following sensor deployments: loyment - 'added by auto deploy'.
+There have been 2 deployments for the PAR data set.
+Instrumentation was deployed for measuring PAR at 1.9m  from 08 May 2011 through to 30 Apr 2012, and the installation was located at/on Davies Reef Base Station Latitude:-18.83162 - Longitude:147.6345. Sensor deployed was a Licor LI-192SA Quantum Sensor (PAR Sensor) manufactured by LI-COR Inc., model LI-192SA.
+Instrumentation was deployed for measuring PAR at 1.9m  from 30 Apr 2012 through to 22 Sep 2017, and the installation was located at/on Davies Reef Base Station Latitude:-18.83162 - Longitude:147.6345. Sensor deployed was a Licor LI-192SA Quantum Sensor (PAR Sensor) manufactured by LI-COR Inc., model LI-192SA. The following comment was recorded regarding this deployment - 'added by auto deploy'.</description>
+
+      <coverage>
+        <spatial type="iso19139dcmiBox">northlimit=-18.83162; southlimit=-18.83162; westlimit=147.6345; eastLimit=147.6345; projection=GDA94</spatial>
+        <spatial type="text">northlimit=-18.83162; southlimit=-18.83162; westlimit=147.6345; eastLimit=147.6345; projection=GDA94</spatial>
+      </coverage>
+      <rights>
+        <licence type="CC-BY" rightsUri="http://creativecommons.org/licenses/by/2.5/au/"/>
+      </rights>
+    </activity>
+  </registryObject>
+
+
+  <registryObject group="Australian Ocean Data Network">
+    <key>testTOP5Grants1</key>
+    <originatingSource>http://eatlas.org.au</originatingSource>
+    <activity type="project">
+      <name type="primary">
+        <namePart>Test Top5 Grants 1</namePart>
+      </name>
+      <location>
+        <address>
+          <electronic type="url" target="landingPage">
+            <value>http://eatlas.org.au/data/uuid/2cf689a9-2f4e-4658-b838-9bdca45919ea</value>
+          </electronic>
+        </address>
+      </location>
+      <subject type="local">biota</subject>
+      <subject type="local">biota</subject>
+      <description type="brief">The rezoning of the Great Barrier Reef Marine Park (GBRMP) in 2004 increased the number and extent of ‘no-take’ areas within the Park. This project surveys pairs of reefs, one in a ‘no-take’ or green zone and the other a similar reef where fishing is allowed (blue zone), in five regions of the GBRMP. Green and blue zones will be surveyed for the abundance and size of fishery species, particularly coral trout, as well as wider effects on coral reef communities.  The results of reef surveys will be used to:
+1. Track dynamics of populations of target fish species and by-catch species, such as reef sharks.
+2. Track indirect effects of protection from fishing in terms of populations of non-target fish species. Since many exploited species are carnivorous, differences in their numbers may in turn affect the abundance of their prey (and potentially cause more extensive “trophic cascades”) as well as other community components that are related to resilience such as numbers of herbivorous fishes.
+3. Track potential ecosystem effects of protection from fishing, such as increased coral recruitment and coral cover due to increased herbivorous fish numbers, and reduced incidence of coral disease (due to lower numbers of coral-feeding butterflyfishes inside no-take areas)</description>
+      <coverage>
+        <spatial type="iso19139dcmiBox">northlimit=-16.05; southlimit=-23.908; westlimit=152.658; eastLimit=145.833</spatial>
+        <spatial type="text">northlimit=-16.05; southlimit=-23.908; westlimit=152.658; eastLimit=145.833</spatial>
+      </coverage>
+    </activity>
+  </registryObject>
+
+    <registryObject group="Australian Ocean Data Network">
+    <key>testTOP5Grants2</key>
+    <originatingSource>http://eatlas.org.au</originatingSource>
+    <activity type="project">
+      <name type="primary">
+        <namePart>Test Top5 Grants 2</namePart>
+      </name>
+      <location>
+        <address>
+          <electronic type="url" target="landingPage">
+            <value>http://eatlas.org.au/data/uuid/2cf689a9-2f4e-4658-b838-9bdca45919ea</value>
+          </electronic>
+        </address>
+      </location>
+      <subject type="local">biota</subject>
+      <subject type="local">biota</subject>
+      <description type="brief">The rezoning of the Great Barrier Reef Marine Park (GBRMP) in 2004 increased the number and extent of ‘no-take’ areas within the Park. This project surveys pairs of reefs, one in a ‘no-take’ or green zone and the other a similar reef where fishing is allowed (blue zone), in five regions of the GBRMP. Green and blue zones will be surveyed for the abundance and size of fishery species, particularly coral trout, as well as wider effects on coral reef communities.  The results of reef surveys will be used to:
+1. Track dynamics of populations of target fish species and by-catch species, such as reef sharks.
+2. Track indirect effects of protection from fishing in terms of populations of non-target fish species. Since many exploited species are carnivorous, differences in their numbers may in turn affect the abundance of their prey (and potentially cause more extensive “trophic cascades”) as well as other community components that are related to resilience such as numbers of herbivorous fishes.
+3. Track potential ecosystem effects of protection from fishing, such as increased coral recruitment and coral cover due to increased herbivorous fish numbers, and reduced incidence of coral disease (due to lower numbers of coral-feeding butterflyfishes inside no-take areas)</description>
+      <coverage>
+        <spatial type="iso19139dcmiBox">northlimit=-16.05; southlimit=-23.908; westlimit=152.658; eastLimit=145.833</spatial>
+        <spatial type="text">northlimit=-16.05; southlimit=-23.908; westlimit=152.658; eastLimit=145.833</spatial>
+      </coverage>
+    </activity>
+  </registryObject>
+
+    <registryObject group="Australian Ocean Data Network">
+    <key>testTOP5Grants3</key>
+    <originatingSource>http://eatlas.org.au</originatingSource>
+    <activity type="project">
+      <name type="primary">
+        <namePart>Test Top5 Grants 3</namePart>
+      </name>
+      <location>
+        <address>
+          <electronic type="url" target="landingPage">
+            <value>http://eatlas.org.au/data/uuid/2cf689a9-2f4e-4658-b838-9bdca45919ea</value>
+          </electronic>
+        </address>
+      </location>
+      <subject type="local">biota</subject>
+      <subject type="local">biota</subject>
+      <description type="brief">The rezoning of the Great Barrier Reef Marine Park (GBRMP) in 2004 increased the number and extent of ‘no-take’ areas within the Park. This project surveys pairs of reefs, one in a ‘no-take’ or green zone and the other a similar reef where fishing is allowed (blue zone), in five regions of the GBRMP. Green and blue zones will be surveyed for the abundance and size of fishery species, particularly coral trout, as well as wider effects on coral reef communities.  The results of reef surveys will be used to:
+1. Track dynamics of populations of target fish species and by-catch species, such as reef sharks.
+2. Track indirect effects of protection from fishing in terms of populations of non-target fish species. Since many exploited species are carnivorous, differences in their numbers may in turn affect the abundance of their prey (and potentially cause more extensive “trophic cascades”) as well as other community components that are related to resilience such as numbers of herbivorous fishes.
+3. Track potential ecosystem effects of protection from fishing, such as increased coral recruitment and coral cover due to increased herbivorous fish numbers, and reduced incidence of coral disease (due to lower numbers of coral-feeding butterflyfishes inside no-take areas)</description>
+      <coverage>
+        <spatial type="iso19139dcmiBox">northlimit=-16.05; southlimit=-23.908; westlimit=152.658; eastLimit=145.833</spatial>
+        <spatial type="text">northlimit=-16.05; southlimit=-23.908; westlimit=152.658; eastLimit=145.833</spatial>
+      </coverage>
+    </activity>
+  </registryObject>
+
+  <registryObject group="Australian Ocean Data Network">
+    <key>testTOP5Grants4</key>
+    <originatingSource>http://eatlas.org.au</originatingSource>
+    <activity type="project">
+      <name type="primary">
+        <namePart>Test Top5 Grants 4</namePart>
+      </name>
+      <location>
+        <address>
+          <electronic type="url" target="landingPage">
+            <value>http://eatlas.org.au/data/uuid/2cf689a9-2f4e-4658-b838-9bdca45919ea</value>
+          </electronic>
+        </address>
+      </location>
+      <subject type="local">biota</subject>
+      <subject type="local">biota</subject>
+      <description type="brief">The rezoning of the Great Barrier Reef Marine Park (GBRMP) in 2004 increased the number and extent of ‘no-take’ areas within the Park. This project surveys pairs of reefs, one in a ‘no-take’ or green zone and the other a similar reef where fishing is allowed (blue zone), in five regions of the GBRMP. Green and blue zones will be surveyed for the abundance and size of fishery species, particularly coral trout, as well as wider effects on coral reef communities.  The results of reef surveys will be used to:
+1. Track dynamics of populations of target fish species and by-catch species, such as reef sharks.
+2. Track indirect effects of protection from fishing in terms of populations of non-target fish species. Since many exploited species are carnivorous, differences in their numbers may in turn affect the abundance of their prey (and potentially cause more extensive “trophic cascades”) as well as other community components that are related to resilience such as numbers of herbivorous fishes.
+3. Track potential ecosystem effects of protection from fishing, such as increased coral recruitment and coral cover due to increased herbivorous fish numbers, and reduced incidence of coral disease (due to lower numbers of coral-feeding butterflyfishes inside no-take areas)</description>
+      <coverage>
+        <spatial type="iso19139dcmiBox">northlimit=-16.05; southlimit=-23.908; westlimit=152.658; eastLimit=145.833</spatial>
+        <spatial type="text">northlimit=-16.05; southlimit=-23.908; westlimit=152.658; eastLimit=145.833</spatial>
+      </coverage>
+    </activity>
+  </registryObject>
+
+    <registryObject group="Australian Ocean Data Network">
+    <key>testTOP5Grants5</key>
+    <originatingSource>http://eatlas.org.au</originatingSource>
+    <activity type="project">
+      <name type="primary">
+        <namePart>Test Top5 Grants 5</namePart>
+      </name>
+      <location>
+        <address>
+          <electronic type="url" target="landingPage">
+            <value>http://eatlas.org.au/data/uuid/2cf689a9-2f4e-4658-b838-9bdca45919ea</value>
+          </electronic>
+        </address>
+      </location>
+      <subject type="local">biota</subject>
+      <subject type="local">biota</subject>
+      <description type="brief">The rezoning of the Great Barrier Reef Marine Park (GBRMP) in 2004 increased the number and extent of ‘no-take’ areas within the Park. This project surveys pairs of reefs, one in a ‘no-take’ or green zone and the other a similar reef where fishing is allowed (blue zone), in five regions of the GBRMP. Green and blue zones will be surveyed for the abundance and size of fishery species, particularly coral trout, as well as wider effects on coral reef communities.  The results of reef surveys will be used to:
+1. Track dynamics of populations of target fish species and by-catch species, such as reef sharks.
+2. Track indirect effects of protection from fishing in terms of populations of non-target fish species. Since many exploited species are carnivorous, differences in their numbers may in turn affect the abundance of their prey (and potentially cause more extensive “trophic cascades”) as well as other community components that are related to resilience such as numbers of herbivorous fishes.
+3. Track potential ecosystem effects of protection from fishing, such as increased coral recruitment and coral cover due to increased herbivorous fish numbers, and reduced incidence of coral disease (due to lower numbers of coral-feeding butterflyfishes inside no-take areas)</description>
+      <coverage>
+        <spatial type="iso19139dcmiBox">northlimit=-16.05; southlimit=-23.908; westlimit=152.658; eastLimit=145.833</spatial>
+        <spatial type="text">northlimit=-16.05; southlimit=-23.908; westlimit=152.658; eastLimit=145.833</spatial>
+      </coverage>
+    </activity>
+  </registryObject>
+
+
+  <registryObject group="Australian Ocean Data Network">
+    <key>testTOP5Grants6</key>
+    <originatingSource>http://eatlas.org.au</originatingSource>
+    <activity type="project">
+      <name type="primary">
+        <namePart>Test Top5 Grants 6</namePart>
+      </name>
+      <location>
+        <address>
+          <electronic type="url" target="landingPage">
+            <value>http://eatlas.org.au/data/uuid/2cf689a9-2f4e-4658-b838-9bdca45919ea</value>
+          </electronic>
+        </address>
+      </location>
+      <subject type="local">biota</subject>
+      <subject type="local">biota</subject>
+      <description type="brief">The rezoning of the Great Barrier Reef Marine Park (GBRMP) in 2004 increased the number and extent of ‘no-take’ areas within the Park. This project surveys pairs of reefs, one in a ‘no-take’ or green zone and the other a similar reef where fishing is allowed (blue zone), in five regions of the GBRMP. Green and blue zones will be surveyed for the abundance and size of fishery species, particularly coral trout, as well as wider effects on coral reef communities.  The results of reef surveys will be used to:
+1. Track dynamics of populations of target fish species and by-catch species, such as reef sharks.
+2. Track indirect effects of protection from fishing in terms of populations of non-target fish species. Since many exploited species are carnivorous, differences in their numbers may in turn affect the abundance of their prey (and potentially cause more extensive “trophic cascades”) as well as other community components that are related to resilience such as numbers of herbivorous fishes.
+3. Track potential ecosystem effects of protection from fishing, such as increased coral recruitment and coral cover due to increased herbivorous fish numbers, and reduced incidence of coral disease (due to lower numbers of coral-feeding butterflyfishes inside no-take areas)</description>
+      <coverage>
+        <spatial type="iso19139dcmiBox">northlimit=-16.05; southlimit=-23.908; westlimit=152.658; eastLimit=145.833</spatial>
+        <spatial type="text">northlimit=-16.05; southlimit=-23.908; westlimit=152.658; eastLimit=145.833</spatial>
+      </coverage>
+    </activity>
+  </registryObject>
+
+
+</registryObjects>

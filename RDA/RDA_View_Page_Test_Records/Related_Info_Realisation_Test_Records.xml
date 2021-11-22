@@ -48,6 +48,11 @@
         <identifier type="doi">10.213.678/abc123</identifier>
         <relation type="hasAssociationWith"/>
       </relatedInfo>
+      <relatedInfo type="service">
+        <title>test Service</title>
+        <identifier type="local">local_Service</identifier>
+        <relation type="hasAssociationWith"/>
+      </relatedInfo>
       <citationInfo>
         <fullCitation>SRNSW: NRS 19808</fullCitation>
       </citationInfo>
@@ -142,5 +147,22 @@
     </activity>
   </registryObject>
 
+      <registryObject group="Australian Institute of Marine Science">
+    <key>testService123</key>
+    <originatingSource>http://data.aims.gov.au</originatingSource>
+    <service type="software">
+      <name type="primary">
+        <namePart>Relationship Info Realisation: Test Service </namePart>
+      </name>
+      <location>
+        <address>
+          <electronic type="url" target="landingPage">
+            <value>http://data.aims.gov.au/metadataviewer/faces/view.xhtml?uuid=3caf89c0-55b9-11dc-8d3c-00008a07204e</value>
+          </electronic>
+        </address>
+      </location>
+      <description type="brief">Coral ID is an illustrated, comprehensively researched interactive key to the identification of the world's reef-building corals. Coral ID can be used both as a learning tool for novices and as an advanced operational tool by experts. The CD-ROM can be used alone or in association with "Corals of the World" (Veron 2000).</description>
+    </service>
+  </registryObject>
 
 </registryObjects>
