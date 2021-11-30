@@ -2,14 +2,14 @@
 <registryObjects xmlns="http://ands.org.au/standards/rif-cs/registryObjects" xmlns:extRif="http://ands.org.au/standards/rif-cs/extendedRegistryObjects" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ands.org.au/standards/rif-cs/registryObjects http://services.ands.org.au/documentation/rifcs/schema/registryObjects.xsd">
     <registryObject group="AUTestingRecordsRelationships">
 <!-- KEY -->
-<key>C1_44</key>
+<key>C1_46</key>
 
         <originatingSource type="">http://demo.ands.org.au/registry/orca/register_my_data</originatingSource>
         <collection dateModified="2013-04-10T23:51:55Z" type="collection">
 
 <!-- TITLE -->
 <name type="primary">
-    <namePart>C1 - Relationship scenario 44</namePart>
+    <namePart>C1 - Relationship scenario 46</namePart>
 </name>
             <description type="local">&amp;lt;p&amp;gt;This is a local statement for the colleciton&amp;lt;/p&amp;gt;</description>
             <rights>
@@ -18,7 +18,7 @@
                 <accessRights rightsUri="http://www.rightsuri.com">Access Rights</accessRights>
             </rights>
 <!-- IDENTIFIERS -->
-<identifier type="AU-ANL:PEAU">nla.C1_44</identifier>
+<identifier type="AU-ANL:PEAU">nla.C1_46</identifier>
 
             <dates type="dc.available">
                 <date dateFormat="W3CDTF" type="dateFrom">2013-02-07T00:00:00Z</date>
@@ -64,7 +64,7 @@
 </relatedObject>-->
 <relatedInfo type="party">
     <title>Example party 3</title>
-    <identifier type="AU-ANL:PEAU">http://nla.gov.au/nla.party-AUT3</identifier>
+    <identifier type="AU-ANL:PEAU">http://nla.gov.au/nla.party-P1_46</identifier>
     <relation type="hasCollector"/>
 </relatedInfo>
 
@@ -91,7 +91,7 @@
 
     <registryObject group="AUTestingRecordsRelationships">
 <!-- KEY -->
-<key>P1_44</key>
+<key>P1_46</key>
 
         <originatingSource type="">nla.gov.au</originatingSource>
         <party type="group">
@@ -102,7 +102,7 @@
 
             <description type="brief">&amp;lt;p&amp;gt;A party for all&amp;lt;/p&amp;gt;</description>
 
-<identifier type="AU-ANL:PEAU">http://nla.gov.au/nla.party-AUT3</identifier>
+<identifier type="AU-ANL:PEAU">http://nla.gov.au/nla.party-P1_46</identifier>
 
 <!--<relatedObject>
     <key>AUTCollection1R2</key>
