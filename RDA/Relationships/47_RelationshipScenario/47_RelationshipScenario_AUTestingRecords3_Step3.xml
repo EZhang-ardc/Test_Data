@@ -1,0 +1,29 @@
+<!-- Data contains 1 funder (key = P1_47). Under the funder is 2 Programs. Under the Programs is 2 Hubs. Under one of the Hubs is a number of grants. -->
+<registryObjects>
+<registryObject group="AUTestingRecords3">
+    <key>A2_47</key>
+    <originatingSource>Project List supplied by Australian Water Recycling Centre of Excellence</originatingSource>
+    <activity type="program">
+      <name type="primary">
+        <namePart>(A2_47 AUTestingRecords3) Program13</namePart>
+      </name>
+      <location>
+        <address>
+          <electronic type="url">
+            <value>http://www.australianwaterrecycling.com.au/projects/national-validation-framework-priority-research</value>
+          </electronic>
+        </address>
+      </location>
+      <relatedObject>
+        <key>P1_47</key>
+        <relation type="isFundedBy"/>
+      </relatedObject>
+      <description type="brief">In developing the detailed scope of NatVal, a number of important knowledge gaps were identified. So that the validation framework can take advantage of more recently developed approaches to recycled water treatment and validation, six research projects are being undertaken: (1) Membrane Bioreactor validation; (2) Reverse osmosis membrane validation; (3) Biological system validation; (4) Enhanced validation of the whole process train in a multiple-barrier system; (5) Standardisation and augmentation of microbial testing methods for validation; (6) Ozone process validation.</description>
+      <description type="researchers">Dr Cedric Robillot</description>
+      <existenceDates>
+        <startDate dateFormat="W3CDTF">2013-05</startDate>
+        <endDate dateFormat="W3CDTF">2015-06</endDate>
+      </existenceDates>
+    </activity>
+  </registryObject>
+</registryObjects>
