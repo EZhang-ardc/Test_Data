@@ -1,28 +1,34 @@
 <!-- Data contains 1 funder (key = P1_47). Under the funder is 2 Programs. Under the Programs is 2 Hubs. Under one of the Hubs is a number of grants. -->
 <registryObjects>
 <registryObject group="AUTestingRecords3">
-    <key>A2_47</key>
-    <originatingSource>Project List supplied by Australian Water Recycling Centre of Excellence</originatingSource>
-    <activity type="program">
+    <key>A5_47</key>
+    <originatingSource>arc.gov.au/general/searchable_data.htm</originatingSource>
+    <activity type="grant">
       <name type="primary">
-        <namePart>(A2_47 AUTestingRecords3) Program13</namePart>
+        <namePart>(A5_47 AUTestingRecords3) GrantDP0987282</namePart>
       </name>
-      <location>
-        <address>
-          <electronic type="url">
-            <value>http://www.australianwaterrecycling.com.au/projects/national-validation-framework-priority-research</value>
-          </electronic>
-        </address>
-      </location>
       <relatedObject>
-        <key>P1_47</key>
-        <relation type="isFundedBy"/>
+        <key>P2_47</key>
+        <relation type="isManagedBy"/>
       </relatedObject>
-      <description type="brief">In developing the detailed scope of NatVal, a number of important knowledge gaps were identified. So that the validation framework can take advantage of more recently developed approaches to recycled water treatment and validation, six research projects are being undertaken: (1) Membrane Bioreactor validation; (2) Reverse osmosis membrane validation; (3) Biological system validation; (4) Enhanced validation of the whole process train in a multiple-barrier system; (5) Standardisation and augmentation of microbial testing methods for validation; (6) Ozone process validation.</description>
-      <description type="researchers">Dr Cedric Robillot</description>
+      <relatedObject>
+        <key>A3_47</key>
+        <relation type="isPartOf"/>
+      </relatedObject>
+      <subject type="anzsrc-for">2403</subject>
+      <subject type="local">brane</subject>
+      <subject type="local">domain wall</subject>
+      <subject type="local">extra dimension</subject>
+      <subject type="local">phenomenology</subject>
+      <subject type="local">standard model</subject>
+      <subject type="local">unification</subject>
+      <description type="brief">This project will explore theories which hypothesis that our universe is a 3-dimensional mem-(brane) residing in higher dimensional space. We will construct completely realistic theories and find ways to test them experimentally. This project is at the forefront of international developments in our understanding of the universe - an area that has grown in importance following the construction of the Large Hadron Collider at the European Giant accelerator laboraroty. The project will�expose postgraduate students to exciting developments in this fascinating field pf physics.</description>
+      <description type="fundingAmount">$285,000</description>
+      <description type="fundingScheme">Discovery Projects</description>
+      <description type="researchers">Prof RR Volkas</description>
       <existenceDates>
-        <startDate dateFormat="W3CDTF">2013-05</startDate>
-        <endDate dateFormat="W3CDTF">2015-06</endDate>
+        <startDate dateFormat="W3CDTF">2009</startDate>
+        <endDate dateFormat="W3CDTF">2011</endDate>
       </existenceDates>
     </activity>
   </registryObject>
