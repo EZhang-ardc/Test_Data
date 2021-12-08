@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<registryObjects xmlns="http://ands.org.au/standards/rif-cs/registryObjects" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ands.org.au/standards/rif-cs/registryObjects http://services.ands.org.au/documentation/rifcs/schema/registryObjects.xsd">
+    <registryObject group="The University of Queensland">
+        <key>AUTestingRecordsRelatedInfoResolution</key>
+        <originatingSource type="">https://researchdata.edu.au/registry//orca/register_my_data</originatingSource>
+        <service type="create">
+            <name type="primary">
+                <namePart>(AUTestingRecords) Service to test relatedInfo identifiers are resolvable to the correct address.</namePart>
+            </name>
+            <description type="brief">&lt;p&gt;Microdiffraction is a technique which allows diffraction measurements to be carried out selectively on small areas.  This method is essential for materials which are too small to be measured in a traditional X-ray diffraction beam or where mapping of the sample is required.&lt;/p&gt;</description>
+            <description type="full">&lt;p&gt;The Rigaku SmartLab is a highly versatile XRD instrument and which features a 9 kW Cu rotating anode source; a variety of collimation options including 2 and 4 bounce Ge-Monochromators for HRXRD and capillary optics for micro diffraction; a cryo-stream (capillary/transmission optics only) that allows XRPD measurements from ca. 90 K to 600 K; a 5 axis goniometer, a domed furnace (reflectance geometry) that allows XRPD measurements from ambient to 1100 °C;  and a two-dimensional hybrid pixel array detector.  It can be configured to carry out a wide range of experiments on a wide range of sample types including: XRR measurements, in-plane and out-of-plane GI diffraction, texture analysis, reciprocal space mapping, HRXRD, microdiffraction and 2D mapping of samples.&lt;/p&gt;
+                &lt;p&gt;&lt;em&gt;Hardware specifications:&lt;/em&gt;&lt;/p&gt;
+                &lt;p&gt;Installation of instrument: June 2015&lt;/p&gt;
+                &lt;p&gt;9kW Cu rotating anode source&lt;/p&gt;
+                &lt;p&gt;Collimation options: &lt;br /&gt;2- and 4-Bounce Ge monochromators for High-Resolution XRD&lt;br /&gt;Capillary optics for micro-diffraction&lt;/p&gt;
+                &lt;p&gt;Cryostream (Capillary/ Transmission optics only) that allows X-Ray Powder Diffraction measurements from ca. 90 degrees K to 600 degrees K&lt;/p&gt;
+                &lt;p&gt;5-Axis Goniometer&lt;/p&gt;
+                &lt;p&gt;Domed Furnace (Reflectance Geometry) that allows X-Ray Powder Diffraction measurements from ambient to 1100 degrees C&lt;/p&gt;
+                &lt;p&gt;2-Dimensional hybrid pixel array detector&lt;/p&gt;
+                &lt;p&gt;&lt;em&gt;Software specifications: &lt;/em&gt;&lt;/p&gt;
+                &lt;p&gt;Control Software: SmartLab Guidance; Data Processing Software: Standard Data Processing, PDXL; Data Display Software: Thin-Film Data Processing, Profile Viewer, 3D Explore; Analysis Software: GlobalFit.&lt;/p&gt;</description>
+            <rights>
+                <accessRights type="conditional">https://cmm.centre.uq.edu.au/instrument-cost-summary</accessRights>
+            </rights>
+            <identifier type="handle">10378.1/1682895/AUTestingRecords</identifier>
+            <location>
+                <address>
+                    <physical type="">
+                        <addressPart type="addressLine">The Centre for Microscopy and Microanalysis</addressPart>
+                        <addressPart type="addressLine">The University of Queensland</addressPart>
+                        <addressPart type="addressLine">St. Lucia Queensland 4072 Australia</addressPart>
+                    </physical>
+                    <electronic type="email">
+                        <value>cmm@uq.edu.au</value>
+                    </electronic>
+                    <electronic type="url">
+                        <value>https://cmm.centre.uq.edu.au/thin-film-and-micro-diffraction-xrd</value>
+                    </electronic>
+                </address>
+            </location>
+            <subject type="local">imaging</subject>
+            <subject type="anzsrc-for">340605</subject>
+            <relatedInfo type="website">
+                <title>Website 1</title>
+                <identifier type="NLA">http://nla.gov.au/nla.party-1504955a</identifier>
+                <relation type="hasAssociationWith"/>
+            </relatedInfo>
+            <relatedInfo type="website">
+                <title>Website 2</title>
+                <identifier type="NLA">nla.party-1504955a</identifier>
+                <relation type="hasAssociationWith"/>
+            </relatedInfo>
+            <relatedInfo type="website">
+                <title>Website 3</title>
+                <identifier type="ABN">abn12345a</identifier>
+                <relation type="hasAssociationWith"/>
+            </relatedInfo>
+            <relatedInfo type="website">
+                <title>Website 4</title>
+                <identifier type="ARC">arc.12345a</identifier>
+                <relation type="hasAssociationWith"/>
+            </relatedInfo>
+            <relatedInfo type="website">
+                <title>Website 5</title>
+                <identifier type="ARK">ands.org/ark:/432423a</identifier>
+                <relation type="hasAssociationWith"/>
+            </relatedInfo>
+            <relatedInfo type="website">
+                <title>Website 6</title>
+                <identifier type="ARK">ark:/432423a</identifier>
+                <relation type="hasAssociationWith"/>
+            </relatedInfo>
+            <relatedInfo type="website">
+                <title>Website 7</title>
+                <identifier type="DOI">10.12345a</identifier>
+                <relation type="hasAssociationWith"/>
+            </relatedInfo>
+            <relatedInfo type="website">
+                <title>Website 8</title>
+                <identifier type="DOI">http://dx.doi.org/10.12345a</identifier>
+                <relation type="hasAssociationWith"/>
+            </relatedInfo>
+            <relatedInfo type="website">
+                <title>Website 9</title>
+                <identifier type="Handle">hdl:102.100.100/15a</identifier>
+                <relation type="hasAssociationWith"/>
+            </relatedInfo>
+            <relatedInfo type="website">
+                <title>Website 10</title>
+                <identifier type="Handle">102.100.100/15a</identifier>
+                <relation type="hasAssociationWith"/>
+            </relatedInfo>
+            <relatedInfo type="website">
+                <title>Website 11</title>
+                <identifier type="Handle">http://hdl.handle.net/102.100.100/15a</identifier>
+                <relation type="hasAssociationWith"/>
+            </relatedInfo>
+            <relatedInfo type="website">
+                <title>Website 12</title>
+                <identifier type="infouri">infouri.12345a</identifier>
+                <relation type="hasAssociationWith"/>
+            </relatedInfo>
+            <relatedInfo type="website">
+                <title>Website 13</title>
+                <identifier type="ISIL">AU-ACT</identifier>
+                <relation type="hasAssociationWith"/>
+            </relatedInfo>
+            <relatedInfo type="website">
+                <title>Website 14</title>
+                <identifier type="Local">local.12345a</identifier>
+                <relation type="hasAssociationWith"/>
+            </relatedInfo>
+            <relatedInfo type="website">
+                <title>Website 15</title>
+                <identifier type="PURL">http://purl.org/12345a</identifier>
+                <relation type="hasAssociationWith"/>
+            </relatedInfo>
+            <relatedInfo type="website">
+                <title>Website 16</title>
+                <identifier type="PURL">12345a</identifier>
+                <relation type="hasAssociationWith"/>
+            </relatedInfo>
+            <relatedInfo type="website">
+                <title>Website 17</title>
+                <identifier type="URI">http://www.researchdataaustralia.ands.org.aua</identifier>
+                <relation type="hasAssociationWith"/>
+            </relatedInfo>
+            <relatedInfo type="website">
+                <title>Website 18</title>
+                <identifier type="ORCID">http://orcid.org/0000-0002-4259-9774a</identifier>
+                <relation type="hasAssociationWith"/>
+            </relatedInfo>
+            <relatedInfo type="website">
+                <title>Website 19</title>
+                <identifier type="ORCID">0000-0002-4259-9774a</identifier>
+                <relation type="hasAssociationWith"/>
+            </relatedInfo>
+            <relatedInfo type="website">
+                <title>Website 20</title>
+                <identifier type="nhmrc">8979762a</identifier>
+                <relation type="hasAssociationWith"/>
+            </relatedInfo>
+            <relatedInfo type="website">
+                <title>Website 21</title>
+                <identifier type="fundref">fundref-09343a</identifier>
+                <relation type="hasAssociationWith"/>
+            </relatedInfo>
+            <relatedInfo type="website">
+                <title>Website 22</title>
+                <identifier type="Handle">http://handle.westernsydney.edu.au:8081/1959.7/hiev_104a</identifier>
+                <relation type="hasAssociationWith"/>
+            </relatedInfo>
+            <relatedInfo type="website">
+                <title>Website 23</title>
+                <identifier type="ORCID">http://www.MyOrcidResolver.com.aua</identifier>
+                <relation type="hasAssociationWith"/>
+            </relatedInfo>
+            <relatedInfo type="website">
+                <title>Website 24</title>
+                <identifier type="NLA">http://MyNlaResolver.com.aua</identifier>
+                <relation type="hasAssociationWith"/>
+            </relatedInfo>
+            <relatedInfo type="website">
+                <title>Website 25</title>
+                <identifier type="PURL">http://www.MyPurlResolver.com.aua</identifier>
+                <relation type="hasAssociationWith"/>
+            </relatedInfo>
+            <relatedInfo type="website">
+                <title>Website 26</title>
+                <identifier type="IGSN">BGRB5054RX05201a</identifier>
+                <relation type="hasAssociationWith"/>
+            </relatedInfo>
+            <relatedInfo type="website">
+                <title>Website 27</title>
+                <identifier type="IGSN">http://igsn.org/BGRB5054RX05201a</identifier>
+                <relation type="hasAssociationWith"/>
+            </relatedInfo>
+            <relatedInfo type="website">
+                <title>Website 28</title>
+                <identifier type="ISNI">http://www.isni.org/0000000039818361a</identifier>
+                <relation type="hasAssociationWith"/>
+            </relatedInfo>
+            <relatedInfo type="website">
+                <title>Website 29</title>
+                <identifier type="ISNI">0000000039818361a</identifier>
+                <relation type="hasAssociationWith"/>
+            </relatedInfo>
+            <relatedInfo type="website">
+                <title>Website 30</title>
+                <identifier type="ISNI">0	3981	8361a0</identifier>
+                <relation type="hasAssociationWith"/>
+            </relatedInfo>
+            <relatedInfo type="website">
+                <title>Website 31</title>
+                <identifier type="GRID">https://www.grid.ac/institutes/grid.419696.5a</identifier>
+                <relation type="hasAssociationWith"/>
+            </relatedInfo>
+            <relatedInfo type="website">
+                <title>Website 32</title>
+                <identifier type="GRID">grid.419666.aa</identifier>
+                <relation type="hasAssociationWith"/>
+            </relatedInfo>
+            <relatedInfo type="website">
+                <title>Website 33</title>
+                <identifier type="Scopus">http://www.MyScopusID.com/54845a</identifier>
+                <relation type="hasAssociationWith"/>
+            </relatedInfo>
+            <relatedInfo type="website">
+                <title>Website 34</title>
+                <identifier type="Scopus">MyScopusID.com/54845a</identifier>
+                <relation type="hasAssociationWith"/>
+            </relatedInfo>
+            <relatedInfo type="website">
+                <title>Website 35</title>
+                <identifier type="RAID">hdl:106.160.100/15a</identifier>
+                <relation type="hasAssociationWith"/>
+            </relatedInfo>
+            <relatedInfo type="website">
+                <title>Website 36</title>
+                <identifier type="RAID">106.160.100/15a</identifier>
+                <relation type="hasAssociationWith"/>
+            </relatedInfo>
+            <relatedInfo type="website">
+                <title>Website 37</title>
+                <identifier type="RAID">http://hdl.handle.net/106.100.100/65a</identifier>
+                <relation type="hasAssociationWith"/>
+            </relatedInfo>
+            <relatedInfo type="website">
+                <title>Website 38</title>
+                <identifier type="DOI">http://MyDOIResolver.org/10.12345a</identifier>
+                <relation type="hasAssociationWith"/>
+            </relatedInfo>
+            <relatedInfo type="website">
+                <title>Website 39</title>
+                <identifier type="Handle">https://handle.westernsydney.edu.au:8081/1959.7/hiev_104a</identifier>
+                <relation type="hasAssociationWith"/>
+            </relatedInfo>
+            <relatedInfo type="website">
+                <title>Website 40</title>
+                <identifier type="ORCID">https://www.MyOrcidResolver.com.aua</identifier>
+                <relation type="hasAssociationWith"/>
+            </relatedInfo>
+            <relatedInfo type="website">
+                <title>Website 41</title>
+                <identifier type="NLA">https://MyNlaResolver.com.aua</identifier>
+                <relation type="hasAssociationWith"/>
+            </relatedInfo>
+            <relatedInfo type="website">
+                <title>Website 42</title>
+                <identifier type="PURL">https://www.MyPurlResolver.com.aua</identifier>
+                <relation type="hasAssociationWith"/>
+            </relatedInfo>
+            <relatedInfo type="website">
+                <title>Website 43</title>
+                <identifier type="DOI">https://MyDOIResolver.org/10.12345a</identifier>
+                <relation type="hasAssociationWith"/>
+            </relatedInfo>
+        </service>
+    </registryObject>
+    
+    <registryObject group="The University of Queensland">
+        <key>AUTestingRecordsRelatedInfoResolution2</key>
+        <originatingSource type="">https://researchdata.edu.au/registry//orca/register_my_data</originatingSource>
+        <collection type="dataset">
+            <name type="primary">
+                <namePart>(AUTestingRecords) Collection to test relatedInfo identifiers are resolvable to the correct address.</namePart>
+            </name>
+            <description type="brief">&lt;p&gt;Microdiffraction is a technique which allows diffraction measurements to be carried out selectively on small areas.  This method is essential for materials which are too small to be measured in a traditional X-ray diffraction beam or where mapping of the sample is required.&lt;/p&gt;</description>
+            <identifier type="handle">10378.1/1682895/AUTestingRecords2</identifier>
+            <location>
+                <address>
+                    <physical type="">
+                        <addressPart type="addressLine">The Centre for Microscopy and Microanalysis</addressPart>
+                        <addressPart type="addressLine">The University of Queensland</addressPart>
+                        <addressPart type="addressLine">St. Lucia Queensland 4072 Australia</addressPart>
+                    </physical>
+                    <electronic type="email">
+                        <value>cmm@uq.edu.au</value>
+                    </electronic>
+                    <electronic type="url">
+                        <value>https://cmm.centre.uq.edu.au/thin-film-and-micro-diffraction-xrd</value>
+                    </electronic>
+                </address>
+            </location>
+            <subject type="local">imaging</subject>
+            <subject type="anzsrc-for">340605</subject>
+            <relatedInfo type="website">
+                <title>Website 1</title>
+                <identifier type="NLA">http://nla.gov.au/nla.party-1504955ac2</identifier>
+                <relation type="hasAssociationWith"/>
+            </relatedInfo>
+            <relatedInfo type="website">
+                <title>Website 2</title>
+                <identifier type="NLA">nla.party-1504955ac2</identifier>
+                <relation type="hasAssociationWith"/>
+            </relatedInfo>
+            <relatedInfo type="website">
+                <title>Website 3</title>
+                <identifier type="ABN">abn12345ac2</identifier>
+                <relation type="hasAssociationWith"/>
+            </relatedInfo>
+            <relatedInfo type="website">
+                <title>Website 4</title>
+                <identifier type="ARC">arc.12345ac2</identifier>
+                <relation type="hasAssociationWith"/>
+            </relatedInfo>
+            <relatedInfo type="website">
+                <title>Website 5</title>
+                <identifier type="ARK">ands.org/ark:/432423ac2</identifier>
+                <relation type="hasAssociationWith"/>
+            </relatedInfo>
+            <relatedInfo type="website">
+                <title>Website 6</title>
+                <identifier type="ARK">ark:/432423ac2</identifier>
+                <relation type="hasAssociationWith"/>
+            </relatedInfo>
+            <relatedInfo type="website">
+                <title>Website 7</title>
+                <identifier type="DOI">10.12345ac2</identifier>
+                <relation type="hasAssociationWith"/>
+            </relatedInfo>
+            <relatedInfo type="website">
+                <title>Website 8</title>
+                <identifier type="DOI">http://dx.doi.org/10.12345ac2</identifier>
+                <relation type="hasAssociationWith"/>
+            </relatedInfo>
+            <relatedInfo type="publication">
+                <title>publication 9</title>
+                <identifier type="Handle">hdl:102.100.100/15ac2</identifier>
+                <relation type="hasAssociationWith"/>
+            </relatedInfo>
+            <relatedInfo type="publication">
+                <title>publication 10</title>
+                <identifier type="Handle">102.100.100/15ac2</identifier>
+                <relation type="hasAssociationWith"/>
+            </relatedInfo>
+            <relatedInfo type="publication">
+                <title>publication 11</title>
+                <identifier type="Handle">http://hdl.handle.net/102.100.100/15ac2</identifier>
+                <relation type="hasAssociationWith"/>
+            </relatedInfo>
+            <relatedInfo type="publication">
+                <title>publication 12</title>
+                <identifier type="infouri">infouri.12345ac2</identifier>
+                <relation type="hasAssociationWith"/>
+            </relatedInfo>
+            <relatedInfo type="reuseInformation">
+                <title>reuseInformation 13</title>
+                <identifier type="ISIL">AU-ACTc2</identifier>
+                <relation type="hasAssociationWith"/>
+            </relatedInfo>
+            <relatedInfo type="reuseInformation">
+                <title>reuseInformation 14</title>
+                <identifier type="Local">local.12345ac2</identifier>
+                <relation type="hasAssociationWith"/>
+            </relatedInfo>
+            <relatedInfo type="reuseInformation">
+                <title>reuseInformation 15</title>
+                <identifier type="PURL">http://purl.org/12345ac2</identifier>
+                <relation type="hasAssociationWith"/>
+            </relatedInfo>
+            <relatedInfo type="localType">
+                <title>localType 16</title>
+                <identifier type="PURL">12345ac2</identifier>
+                <relation type="hasAssociationWith"/>
+            </relatedInfo>
+            <relatedInfo type="localType">
+                <title>localType 17</title>
+                <identifier type="URI">http://www.researchdataaustralia.ands.org.auac2</identifier>
+                <relation type="hasAssociationWith"/>
+            </relatedInfo>
+            <relatedInfo type="provenance">
+                <title>provenance 18</title>
+                <identifier type="ORCID">http://orcid.org/0000-0002-4259-9774ac2</identifier>
+                <relation type="hasAssociationWith"/>
+            </relatedInfo>
+            <relatedInfo type="provenance">
+                <title>provenance 19</title>
+                <identifier type="ORCID">0000-0002-4259-9774ac2</identifier>
+                <relation type="hasAssociationWith"/>
+            </relatedInfo>
+            <relatedInfo type="dataQualityInformation">
+                <title>dataQualityInformation 20</title>
+                <identifier type="nhmrc">8979762ac2</identifier>
+                <relation type="hasAssociationWith"/>
+            </relatedInfo>
+            <relatedInfo type="dataQualityInformation">
+                <title>dataQualityInformation 21</title>
+                <identifier type="fundref">fundref-09343ac2</identifier>
+                <relation type="hasAssociationWith"/>
+            </relatedInfo>
+            <relatedInfo type="metadata">
+                <title>metadata 22</title>
+                <identifier type="Handle">http://handle.westernsydney.edu.au:8081/1959.7/hiev_104ac2</identifier>
+                <relation type="hasAssociationWith"/>
+            </relatedInfo>
+            <relatedInfo type="metadata">
+                <title>metadata 23</title>
+                <identifier type="ORCID">http://www.MyOrcidResolver.com.auac2</identifier>
+                <relation type="hasAssociationWith"/>
+            </relatedInfo>
+            <relatedInfo type="metadata">
+                <title>Website 24</title>
+                <identifier type="NLA">http://MyNlaResolver.com.auac2</identifier>
+                <relation type="hasAssociationWith"/>
+            </relatedInfo>
+            <relatedInfo type="website">
+                <title>Website 25</title>
+                <identifier type="PURL">http://www.MyPurlResolver.com.auac2</identifier>
+                <relation type="hasAssociationWith"/>
+            </relatedInfo>
+            <relatedInfo type="website">
+                <title>Website 26</title>
+                <identifier type="IGSN">BGRB5054RX05201ac2</identifier>
+                <relation type="hasAssociationWith"/>
+            </relatedInfo>
+            <relatedInfo type="website">
+                <title>Website 27</title>
+                <identifier type="IGSN">http://igsn.org/BGRB5054RX05201ac2</identifier>
+                <relation type="hasAssociationWith"/>
+            </relatedInfo>
+            <relatedInfo type="website">
+                <title>Website 28</title>
+                <identifier type="ISNI">http://www.isni.org/0000000039818361ac2</identifier>
+                <relation type="hasAssociationWith"/>
+            </relatedInfo>
+            <relatedInfo type="website">
+                <title>Website 29</title>
+                <identifier type="ISNI">0000000039818361ac2</identifier>
+                <relation type="hasAssociationWith"/>
+            </relatedInfo>
+            <relatedInfo type="website">
+                <title>Website 30</title>
+                <identifier type="ISNI">0	3981	8361a0c2</identifier>
+                <relation type="hasAssociationWith"/>
+            </relatedInfo>
+            <relatedInfo type="website">
+                <title>Website 31</title>
+                <identifier type="GRID">https://www.grid.ac/institutes/grid.419696.5ac2</identifier>
+                <relation type="hasAssociationWith"/>
+            </relatedInfo>
+            <relatedInfo type="website">
+                <title>Website 32</title>
+                <identifier type="GRID">grid.419666.aac2</identifier>
+                <relation type="hasAssociationWith"/>
+            </relatedInfo>
+            <relatedInfo type="website">
+                <title>Website 33</title>
+                <identifier type="Scopus">http://www.MyScopusID.com/54845ac2</identifier>
+                <relation type="hasAssociationWith"/>
+            </relatedInfo>
+            <relatedInfo type="website">
+                <title>Website 34</title>
+                <identifier type="Scopus">MyScopusID.com/54845ac2</identifier>
+                <relation type="hasAssociationWith"/>
+            </relatedInfo>
+            <relatedInfo type="website">
+                <title>Website 35</title>
+                <identifier type="RAID">hdl:106.160.100/15ac2</identifier>
+                <relation type="hasAssociationWith"/>
+            </relatedInfo>
+            <relatedInfo type="website">
+                <title>Website 36</title>
+                <identifier type="RAID">106.160.100/15ac2</identifier>
+                <relation type="hasAssociationWith"/>
+            </relatedInfo>
+            <relatedInfo type="website">
+                <title>Website 37</title>
+                <identifier type="RAID">http://hdl.handle.net/106.100.100/65ac2</identifier>
+                <relation type="hasAssociationWith"/>
+            </relatedInfo>
+            <relatedInfo type="website">
+                <title>Website 38</title>
+                <identifier type="DOI">http://MyDOIResolver.org/10.12345ac2</identifier>
+                <relation type="hasAssociationWith"/>
+            </relatedInfo>p
+            <relatedInfo type="website">
+                <title>Website 39</title>
+                <identifier type="Handle">https://handle.westernsydney.edu.au:8081/1959.7/hiev_104ac2</identifier>
+                <relation type="hasAssociationWith"/>
+            </relatedInfo>
+            <relatedInfo type="website">
+                <title>Website 40</title>
+                <identifier type="ORCID">https://www.MyOrcidResolver.com.auac2</identifier>
+                <relation type="hasAssociationWith"/>
+            </relatedInfo>
+            <relatedInfo type="website">
+                <title>Website 41</title>
+                <identifier type="NLA">https://MyNlaResolver.com.auac2</identifier>
+                <relation type="hasAssociationWith"/>
+            </relatedInfo>
+            <relatedInfo type="website">
+                <title>Website 42</title>
+                <identifier type="PURL">https://www.MyPurlResolver.com.auac2</identifier>
+                <relation type="hasAssociationWith"/>
+            </relatedInfo>
+            <relatedInfo type="website">
+                <title>Website 43</title>
+                <identifier type="DOI">https://MyDOIResolver.org/10.12345ac2</identifier>
+                <relation type="hasAssociationWith"/>
+            </relatedInfo>
+        </collection>
+    </registryObject>
+</registryObjects>
