@@ -371,12 +371,12 @@
             </relatedInfo>
             <relatedInfo type="provenance">
                 <title>provenance 18</title>
-                <identifier type="ORCID">http://orcid.org/0000-0002-4259-9774ac2</identifier>
+                <identifier type="ORCID">http://orcid.org/0000-0002-4259-0074a</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
             <relatedInfo type="provenance">
                 <title>provenance 19</title>
-                <identifier type="ORCID">0000-0002-4259-9774ac2</identifier>
+                <identifier type="ORCID">0000-0002-4259-0074a</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
             <relatedInfo type="dataQualityInformation">
@@ -473,7 +473,7 @@
                 <title>Website 38</title>
                 <identifier type="DOI">http://MyDOIResolver.org/10.12345ac2</identifier>
                 <relation type="hasAssociationWith"/>
-            </relatedInfo>p
+            </relatedInfo>
             <relatedInfo type="website">
                 <title>Website 39</title>
                 <identifier type="Handle">https://handle.westernsydney.edu.au:8081/1959.7/hiev_104ac2</identifier>
