@@ -53,6 +53,15 @@
         <identifier type="local">local_Service</identifier>
         <relation type="hasAssociationWith"/>
       </relatedInfo>
+      <relatedInfo type="service">
+        <title>test Service No.2</title>
+        <identifier type="local">local_Service1</identifier>
+        <relation type="hasAssociationWith"/>
+      </relatedInfo>
+      <relatedInfo type="collection">
+        <identifier type="local">test_collection2</identifier>
+        <relation type="isVersionOf"/>
+      </relatedInfo>
       <citationInfo>
         <fullCitation>SRNSW: NRS 19808</fullCitation>
       </citationInfo>
