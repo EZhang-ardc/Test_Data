@@ -22,7 +22,7 @@
             <rights>
                 <accessRights type="conditional">https://cmm.centre.uq.edu.au/instrument-cost-summary</accessRights>
             </rights>
-            <identifier type="handle">10378.1/1682895/AUTestingRecords</identifier>
+            <identifier type="handle">10378.1/1682895/AUTestingRecordsc1</identifier>
             <location>
                 <address>
                     <physical type="">
@@ -42,217 +42,217 @@
             <subject type="anzsrc-for">340605</subject>
             <relatedInfo type="website">
                 <title>Website 1</title>
-                <identifier type="NLA">http://nla.gov.au/nla.party-1504955a</identifier>
+                <identifier type="AU-ANL:PEAU">http://nla.gov.au/nla.party-1604955ac1</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
             <relatedInfo type="website">
                 <title>Website 2</title>
-                <identifier type="NLA">nla.party-1504955a</identifier>
+                <identifier type="AU-ANL:PEAU">nla.party-1904955ac1</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
             <relatedInfo type="website">
                 <title>Website 3</title>
-                <identifier type="ABN">abn12345a</identifier>
+                <identifier type="ABN">abn14545ac1</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
             <relatedInfo type="website">
                 <title>Website 4</title>
-                <identifier type="ARC">arc.12345a</identifier>
+                <identifier type="arc">arc.122695ac1</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
             <relatedInfo type="website">
                 <title>Website 5</title>
-                <identifier type="ARK">ands.org/ark:/432423a</identifier>
+                <identifier type="ark">ands.org/ark:/43788523ac1</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
             <relatedInfo type="website">
                 <title>Website 6</title>
-                <identifier type="ARK">ark:/432423a</identifier>
+                <identifier type="ark">ark:/4324787423ac1</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
             <relatedInfo type="website">
                 <title>Website 7</title>
-                <identifier type="DOI">10.12345a</identifier>
+                <identifier type="doi">10.1557875345ac1</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
             <relatedInfo type="website">
                 <title>Website 8</title>
-                <identifier type="DOI">http://dx.doi.org/10.12345a</identifier>
+                <identifier type="doi">http://dx.doi.org/10.168454525345ac1</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
             <relatedInfo type="website">
                 <title>Website 9</title>
-                <identifier type="Handle">hdl:102.100.100/15a</identifier>
+                <identifier type="handle">hdl:1055.100.100/15ac1</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
             <relatedInfo type="website">
                 <title>Website 10</title>
-                <identifier type="Handle">102.100.100/15a</identifier>
+                <identifier type="handle">110.100.100/15ac1</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
             <relatedInfo type="website">
                 <title>Website 11</title>
-                <identifier type="Handle">http://hdl.handle.net/102.100.100/15a</identifier>
+                <identifier type="handle">http://hdl.handle.net/111.100.100/15ac1</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
             <relatedInfo type="website">
                 <title>Website 12</title>
-                <identifier type="infouri">infouri.12345a</identifier>
+                <identifier type="infouri">infouri.1245885ac1</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
             <relatedInfo type="website">
                 <title>Website 13</title>
-                <identifier type="ISIL">AU-ACT</identifier>
+                <identifier type="isil">AU-ACTcuy1</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
             <relatedInfo type="website">
                 <title>Website 14</title>
-                <identifier type="Local">local.12345a</identifier>
+                <identifier type="Local">local.1255245ac1</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
             <relatedInfo type="website">
                 <title>Website 15</title>
-                <identifier type="PURL">http://purl.org/12345a</identifier>
+                <identifier type="purl">http://purl.org/166945ac1</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
             <relatedInfo type="website">
                 <title>Website 16</title>
-                <identifier type="PURL">12345a</identifier>
+                <identifier type="purl">1238655ac1</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
             <relatedInfo type="website">
                 <title>Website 17</title>
-                <identifier type="URI">http://www.researchdataaustralia.ands.org.aua</identifier>
+                <identifier type="uri">http://www.researchdataaustralia.ands.org.auftrc1</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
             <relatedInfo type="website">
                 <title>Website 18</title>
-                <identifier type="ORCID">http://orcid.org/0000-0002-4259-9774a</identifier>
+                <identifier type="orcid">http://orcid.org/0000-0002-4759-4445</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
             <relatedInfo type="website">
                 <title>Website 19</title>
-                <identifier type="ORCID">0000-0002-4259-9774a</identifier>
+                <identifier type="orcid">0000-0002-4259-7745</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
             <relatedInfo type="website">
                 <title>Website 20</title>
-                <identifier type="nhmrc">8979762a</identifier>
+                <identifier type="nhmrc">8979777ac1</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
             <relatedInfo type="website">
                 <title>Website 21</title>
-                <identifier type="fundref">fundref-09343a</identifier>
+                <identifier type="fundref">fundref-09377c1</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
             <relatedInfo type="website">
                 <title>Website 22</title>
-                <identifier type="Handle">http://handle.westernsydney.edu.au:8081/1959.7/hiev_104a</identifier>
+                <identifier type="handle">http://handle.westernsydney.edu.au:8771/2009.7/hiev_104ac1</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
             <relatedInfo type="website">
                 <title>Website 23</title>
-                <identifier type="ORCID">http://www.MyOrcidResolver.com.aua</identifier>
+                <identifier type="orcid">http://www.MyorcidResolver.com.au77ac1</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
             <relatedInfo type="website">
                 <title>Website 24</title>
-                <identifier type="NLA">http://MyNlaResolver.com.aua</identifier>
+                <identifier type="AU-ANL:PEAU">http://MyAU-ANL:PEAUResolver.com.au88ac1</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
             <relatedInfo type="website">
                 <title>Website 25</title>
-                <identifier type="PURL">http://www.MyPurlResolver.com.aua</identifier>
+                <identifier type="purl">http://www.MypurlResolver.com.aua7896c1</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
             <relatedInfo type="website">
                 <title>Website 26</title>
-                <identifier type="IGSN">BGRB5054RX05201a</identifier>
+                <identifier type="igsn">BGRB89054RX05201ac1</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
             <relatedInfo type="website">
                 <title>Website 27</title>
-                <identifier type="IGSN">http://igsn.org/BGRB5054RX05201a</identifier>
+                <identifier type="igsn">http://igsn.org/BGRB5054Rf65201ac1</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
             <relatedInfo type="website">
                 <title>Website 28</title>
-                <identifier type="ISNI">http://www.isni.org/0000000039818361a</identifier>
+                <identifier type="isni">http://www.isni.org/004567800039818361ac1</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
             <relatedInfo type="website">
                 <title>Website 29</title>
-                <identifier type="ISNI">0000000039818361a</identifier>
+                <identifier type="isni">0000089539818361ac1</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
             <relatedInfo type="website">
                 <title>Website 30</title>
-                <identifier type="ISNI">0	3981	8361a0</identifier>
+                <identifier type="isni">0   36681    8361a0c1</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
             <relatedInfo type="website">
                 <title>Website 31</title>
-                <identifier type="GRID">https://www.grid.ac/institutes/grid.419696.5a</identifier>
+                <identifier type="grid">https://www.grid.ac/institutes/grid.41966476.5ac1</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
             <relatedInfo type="website">
                 <title>Website 32</title>
-                <identifier type="GRID">grid.419666.aa</identifier>
+                <identifier type="grid">grid.41796.aac1</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
             <relatedInfo type="website">
                 <title>Website 33</title>
-                <identifier type="Scopus">http://www.MyScopusID.com/54845a</identifier>
+                <identifier type="scopus">http://www.MyscopusID.com/5568845ac1</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
             <relatedInfo type="website">
                 <title>Website 34</title>
-                <identifier type="Scopus">MyScopusID.com/54845a</identifier>
+                <identifier type="scopus">MyscopusID.com/54966845ac1</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
             <relatedInfo type="website">
                 <title>Website 35</title>
-                <identifier type="RAID">hdl:106.160.100/15a</identifier>
+                <identifier type="raid">hdl:106.1688.100/15ac1</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
             <relatedInfo type="website">
                 <title>Website 36</title>
-                <identifier type="RAID">106.160.100/15a</identifier>
+                <identifier type="raid">106.160.107/15ac1</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
             <relatedInfo type="website">
                 <title>Website 37</title>
-                <identifier type="RAID">http://hdl.handle.net/106.100.100/65a</identifier>
+                <identifier type="raid">http://hdl.handle.net/177.100.100/65ac1</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
             <relatedInfo type="website">
                 <title>Website 38</title>
-                <identifier type="DOI">http://MyDOIResolver.org/10.12345a</identifier>
+                <identifier type="doi">http://MydoiResolver.org/10.17345ayd1</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
             <relatedInfo type="website">
                 <title>Website 39</title>
-                <identifier type="Handle">https://handle.westernsydney.edu.au:8081/1959.7/hiev_104a</identifier>
+                <identifier type="handle">https://handle.westernsydney.edu.au:8081/15579.7/hiev_104ac1</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
             <relatedInfo type="website">
                 <title>Website 40</title>
-                <identifier type="ORCID">https://www.MyOrcidResolver.com.aua</identifier>
+                <identifier type="orcid">https://www.MyorcidResolver.com.atrtret1</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
             <relatedInfo type="website">
                 <title>Website 41</title>
-                <identifier type="NLA">https://MyNlaResolver.com.aua</identifier>
+                <identifier type="AU-ANL:PEAU">https://MyAU-ANL:PEAUResolver.com.aadsfdsfuac1</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
             <relatedInfo type="website">
                 <title>Website 42</title>
-                <identifier type="PURL">https://www.MyPurlResolver.com.aua</identifier>
+                <identifier type="purl">https://www.MypurlRver.com.auac1</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
             <relatedInfo type="website">
                 <title>Website 43</title>
-                <identifier type="DOI">https://MyDOIResolver.org/10.12345a</identifier>
+                <identifier type="doi">https://MydoiRe97ver.org/10.12345ac1</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
         </service>
@@ -283,220 +283,220 @@
                 </address>
             </location>
             <subject type="local">imaging</subject>
-            <subject type="anzsrc-for">340605</subject>
+            <subject type="anzsrc-for">3404605</subject>
             <relatedInfo type="website">
                 <title>Website 1</title>
-                <identifier type="NLA">http://nla.gov.au/nla.party-1504955ac2</identifier>
+                <identifier type="AU-ANL:PEAU">http://AU-ANL:PEAU.gov.au/AU-ANL:PEAU.party-15049455ac2</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
             <relatedInfo type="website">
                 <title>Website 2</title>
-                <identifier type="NLA">nla.party-1504955ac2</identifier>
+                <identifier type="AU-ANL:PEAU">AU-ANL:PEAU.party-150494355ac2</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
             <relatedInfo type="website">
                 <title>Website 3</title>
-                <identifier type="ABN">abn12345ac2</identifier>
+                <identifier type="ABN">abn12343455ac2</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
             <relatedInfo type="website">
                 <title>Website 4</title>
-                <identifier type="ARC">arc.12345ac2</identifier>
+                <identifier type="arc">arc.1237745ac2</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
             <relatedInfo type="website">
                 <title>Website 5</title>
-                <identifier type="ARK">ands.org/ark:/432423ac2</identifier>
+                <identifier type="ark">ands.org/ark:76523ac2</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
             <relatedInfo type="website">
                 <title>Website 6</title>
-                <identifier type="ARK">ark:/432423ac2</identifier>
+                <identifier type="ark">ark:/4324675823ac2</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
             <relatedInfo type="website">
                 <title>Website 7</title>
-                <identifier type="DOI">10.12345ac2</identifier>
+                <identifier type="doi">10.1276445ac2</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
             <relatedInfo type="website">
                 <title>Website 8</title>
-                <identifier type="DOI">http://dx.doi.org/10.12345ac2</identifier>
+                <identifier type="doi">http://dx.doi.org/10.14545ac2</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
             <relatedInfo type="publication">
                 <title>publication 9</title>
-                <identifier type="Handle">hdl:102.100.100/15ac2</identifier>
+                <identifier type="handle">hdl:144.100.100/15ac2</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
             <relatedInfo type="publication">
                 <title>publication 10</title>
-                <identifier type="Handle">102.100.100/15ac2</identifier>
+                <identifier type="handle">155.100.100/15ac2</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
             <relatedInfo type="publication">
                 <title>publication 11</title>
-                <identifier type="Handle">http://hdl.handle.net/102.100.100/15ac2</identifier>
+                <identifier type="handle">http://hdl.handle.net/102.1345.100/15ac2</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
             <relatedInfo type="publication">
                 <title>publication 12</title>
-                <identifier type="infouri">infouri.12345ac2</identifier>
+                <identifier type="infouri">infouri.1237742</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
             <relatedInfo type="reuseInformation">
                 <title>reuseInformation 13</title>
-                <identifier type="ISIL">AU-ACTc2</identifier>
+                <identifier type="isil">AU-AETc2</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
             <relatedInfo type="reuseInformation">
                 <title>reuseInformation 14</title>
-                <identifier type="Local">local.12345ac2</identifier>
+                <identifier type="Local">local.12e455ac2</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
             <relatedInfo type="reuseInformation">
                 <title>reuseInformation 15</title>
-                <identifier type="PURL">http://purl.org/12345ac2</identifier>
+                <identifier type="purl">http://purl.org/14334645ac2</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
             <relatedInfo type="localType">
                 <title>localType 16</title>
-                <identifier type="PURL">12345ac2</identifier>
+                <identifier type="purl">12345ac2</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
             <relatedInfo type="localType">
                 <title>localType 17</title>
-                <identifier type="URI">http://www.researchdataaustralia.ands.org.auac2</identifier>
+                <identifier type="uri">http://www.researchdataaustralia.ands.org.auyc2</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
             <relatedInfo type="provenance">
                 <title>provenance 18</title>
-                <identifier type="ORCID">http://orcid.org/0000-0002-4259-0074a</identifier>
+                <identifier type="orcid">http://orcid.org/0000-0002-4779-0074a</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
             <relatedInfo type="provenance">
                 <title>provenance 19</title>
-                <identifier type="ORCID">0000-0002-4259-0074a</identifier>
+                <identifier type="orcid">0000-0002-4339-0074a</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
             <relatedInfo type="dataQualityInformation">
                 <title>dataQualityInformation 20</title>
-                <identifier type="nhmrc">8979762ac2</identifier>
+                <identifier type="nhmrc">8973362ac2</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
             <relatedInfo type="dataQualityInformation">
                 <title>dataQualityInformation 21</title>
-                <identifier type="fundref">fundref-09343ac2</identifier>
+                <identifier type="fundref">fundref-093321ac2</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
             <relatedInfo type="metadata">
                 <title>metadata 22</title>
-                <identifier type="Handle">http://handle.westernsydney.edu.au:8081/1959.7/hiev_104ac2</identifier>
+                <identifier type="handle">http://handle.westernsydney.edu.au:321/1959.7/hiev_104ac2</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
             <relatedInfo type="metadata">
                 <title>metadata 23</title>
-                <identifier type="ORCID">http://www.MyOrcidResolver.com.auac2</identifier>
+                <identifier type="orcid">http://www.MyorcidR3esolver.com.auac2</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
             <relatedInfo type="metadata">
                 <title>Website 24</title>
-                <identifier type="NLA">http://MyNlaResolver.com.auac2</identifier>
+                <identifier type="AU-ANL:PEAU">http://MyAU-ANL:PEAUReso32lver.com.auac2</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
             <relatedInfo type="website">
                 <title>Website 25</title>
-                <identifier type="PURL">http://www.MyPurlResolver.com.auac2</identifier>
+                <identifier type="purl">http://www.MypurlResolver.com.auac32</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
             <relatedInfo type="website">
                 <title>Website 26</title>
-                <identifier type="IGSN">BGRB5054RX05201ac2</identifier>
+                <identifier type="igsn">BGRB6054RX05201ac2342</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
             <relatedInfo type="website">
                 <title>Website 27</title>
-                <identifier type="IGSN">http://igsn.org/BGRB5054RX05201ac2</identifier>
+                <identifier type="igsn">http://igsn.org/BGRB5234054RX05201ac2</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
             <relatedInfo type="website">
                 <title>Website 28</title>
-                <identifier type="ISNI">http://www.isni.org/0000000039818361ac2</identifier>
+                <identifier type="isni">http://www.isni.org/0000000039323818361ac2</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
             <relatedInfo type="website">
                 <title>Website 29</title>
-                <identifier type="ISNI">0000000039818361ac2</identifier>
+                <identifier type="isni">000000003981328362ac2</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
             <relatedInfo type="website">
                 <title>Website 30</title>
-                <identifier type="ISNI">0	3981	8361a0c2</identifier>
+                <identifier type="isni">0   3981    8362321a0c2</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
             <relatedInfo type="website">
                 <title>Website 31</title>
-                <identifier type="GRID">https://www.grid.ac/institutes/grid.419696.5ac2</identifier>
+                <identifier type="grid">https://www.grid.ac/institutes/grid.41h69696.5ac2</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
             <relatedInfo type="website">
                 <title>Website 32</title>
-                <identifier type="GRID">grid.419666.aac2</identifier>
+                <identifier type="grid">grid.419666.a453ac2</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
             <relatedInfo type="website">
                 <title>Website 33</title>
-                <identifier type="Scopus">http://www.MyScopusID.com/54845ac2</identifier>
+                <identifier type="scopus">http://www.MyscopusID.com/548434665ac2</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
             <relatedInfo type="website">
                 <title>Website 34</title>
-                <identifier type="Scopus">MyScopusID.com/54845ac2</identifier>
+                <identifier type="scopus">MyscopusID.com/6455845ac2</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
             <relatedInfo type="website">
                 <title>Website 35</title>
-                <identifier type="RAID">hdl:106.160.100/15ac2</identifier>
+                <identifier type="raid">hdl:105.160.100/14ac2</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
             <relatedInfo type="website">
                 <title>Website 36</title>
-                <identifier type="RAID">106.160.100/15ac2</identifier>
+                <identifier type="raid">106.160.100/1435ac2</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
             <relatedInfo type="website">
                 <title>Website 37</title>
-                <identifier type="RAID">http://hdl.handle.net/106.100.100/65ac2</identifier>
+                <identifier type="raid">http://hdl.handle.net/107.122.100/65ac2</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
             <relatedInfo type="website">
                 <title>Website 38</title>
-                <identifier type="DOI">http://MyDOIResolver.org/10.12345ac2</identifier>
+                <identifier type="doi">http://MydoiResolver.org/10.12355t</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
             <relatedInfo type="website">
                 <title>Website 39</title>
-                <identifier type="Handle">https://handle.westernsydney.edu.au:8081/1959.7/hiev_104ac2</identifier>
+                <identifier type="handle">https://handle.westernsydney.edu.au:806s1/1959.7/hiev_104ac2</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
             <relatedInfo type="website">
                 <title>Website 40</title>
-                <identifier type="ORCID">https://www.MyOrcidResolver.com.auac2</identifier>
+                <identifier type="orcid">https://www.MyorcidResolver.com.tec2</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
             <relatedInfo type="website">
                 <title>Website 41</title>
-                <identifier type="NLA">https://MyNlaResolver.com.auac2</identifier>
+                <identifier type="AU-ANL:PEAU">https://MyAU-ANL:PEAUsolver.com.auac2</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
             <relatedInfo type="website">
                 <title>Website 42</title>
-                <identifier type="PURL">https://www.MyPurlResolver.com.auac2</identifier>
+                <identifier type="purl">https://www.MypurlResoer.com.auasf2</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
             <relatedInfo type="website">
                 <title>Website 43</title>
-                <identifier type="DOI">https://MyDOIResolver.org/10.12345ac2</identifier>
+                <identifier type="doi">https://MydoiResolver.org/10.12/345g5ac2</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
         </collection>
