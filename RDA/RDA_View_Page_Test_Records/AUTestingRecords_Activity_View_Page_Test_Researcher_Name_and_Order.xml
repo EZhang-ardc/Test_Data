@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<registryObjects xmlns="http://ands.org.au/standards/rif-cs/registryObjects" xmlns:extRif="http://ands.org.au/standards/rif-cs/extendedRegistryObjects" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ands.org.au/standards/rif-cs/registryObjects http://services.ands.org.au/documentation/rifcs/schema/registryObjects.xsd">
+<registryObject group="AUTestActivity">
+    <key>AUtestActivity1</key>
+    <originatingSource>www.nhmrc.gov.au/grants/research-funding-statistics-and-data</originatingSource>
+    <activity type="grant">
+      <identifier type="purl">http://purl.org/au-research/grants/nhmrc/179811</identifier>
+      <identifier type="nhmrc">179811</identifier>
+      <name type="primary">
+        <namePart>A functional proteomics approach to the study of inducible gene transcription in a chromatin context.</namePart>
+      </name>
+      <name type="alternative">
+        <namePart>How genes are expressed in an immune response.</namePart>
+      </name>
+       <relatedObject>
+        <key>researcherAB</key>
+        <relation type="hasPrincipalInvestigator"/>
+      </relatedObject>
+      <relatedObject>
+        <key>funder20211227</key>
+        <relation type="isFundedBy"/>
+      </relatedObject>
+      <relatedObject>
+        <key>institution20211227</key>
+        <relation type="isManagedBy"/>
+      </relatedObject>
+      <subject type="anzsrc-for">270199</subject>
+      <subject type="local">GM-CSF</subject>
+
+      <description type="brief">Cells of the immune system detect assaults on the body such as infection, inflammatory or allergy-causing agents. Using a complex set of signaling pathways, the cells translate this information into a change in the pattern of expressed genes in those cells. These changes in gene expression occur rapidly and are generally transient. The changes that occur in gene expression pattern leads to functional changes in the cell that in turn are critical for the downstream events of the immune response. One set of genes that is rapidly and transiently switched on in response to immune stimuli in T cells (one important immune cell type) are those that encode proteins known as cytokines. These cytokines function to send messages between cells thus activating downstream events of the immune response. Thus understanding the mechanism of how these genes are switched on and off is critical in understanding an immune response and in developing potential novel therapeutics based on gene transcription. Genes exist in the nucleus of the cell in the context of a complex structure known as chromatin. The process of RNA transcription from these genes, therefore, takes place in the context of this complex structure. While there have been many studies defining the molecular mechanisms that control the expression of cytokine genes, little attention has been paid to the role of chromatin in the inducible and transient nature of this gene transcription. This proposal addresses the molecular mechanisms by which inducible cytokine gene transcription occurs in a chromatin context. We will use both in vitro and in vivo approaches to probe the structure of chromatin that overlies these genes and the mechanism by which this structure is altered to allow the genes to be expressed.</description>
+      <description type="fundingAmount">$AUD 452,310.00</description>
+      <description type="fundingScheme">NHMRC Project Grants</description>
+      <description type="notes">Standard Project Grant</description>
+      <existenceDates>
+        <startDate dateFormat="W3CDTF">2002</startDate>
+        <endDate dateFormat="W3CDTF">2004</endDate>
+      </existenceDates>
+    </activity>
+  </registryObject>
+
+    <registryObject group="National Health and Medical Research Council">
+    <key>funder20211227</key>
+    <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+    <party type="group">
+      <name type="primary">
+        <namePart>Test Funder</namePart>
+      </name>
+
+      <description type="brief">&lt;p&gt;NHMRC funding supports research across the full spectrum of health and medical research, from basic science through to clinical, public health and health services research.&lt;/p&gt;
+&lt;p&gt;The NHMRC provides &lt;a title=&quot;Download page for NHMRC grant data&quot; href=&quot;https://www.nhmrc.gov.au/funding/data-research/outcomes&quot;&gt;publicly downloadable spreadsheets&lt;/a&gt; with descriptions of all the grants for projects, programs, equipment and fellowships it has awarded since since 1990. This same data is provided to Research Data Australia for easy searching and to link grants to research outputs like datasets and publications.&lt;/p&gt;
+&lt;p&gt;See &lt;a title=&quot;NHMRC Grant Information Terms of Use&quot; href=&quot;https://documentation.ardc.edu.au/display/DOC/NHMRC+Grants+Information+Terms+of+Use&quot;&gt;NHMRC Grant Information Terms of Use&lt;/a&gt; for details about the grant information provided by the NHMRC. &lt;/p&gt;
+&lt;p&gt;NHMRC Grant information in Research Data Australia was last updated in October 2021. &lt;/p&gt;</description>
+    </party>
+  </registryObject>
+
+
+    <registryObject group="National Health and Medical Research Council">
+    <key>institution20211227</key>
+    <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+    <party type="group">
+      <name type="primary">
+        <namePart>Test Institution</namePart>
+      </name>
+
+      <description type="brief">&lt;p&gt;NHMRC funding supports research across the full spectrum of health and medical research, from basic science through to clinical, public health and health services research.&lt;/p&gt;
+&lt;p&gt;The NHMRC provides &lt;a title=&quot;Download page for NHMRC grant data&quot; href=&quot;https://www.nhmrc.gov.au/funding/data-research/outcomes&quot;&gt;publicly downloadable spreadsheets&lt;/a&gt; with descriptions of all the grants for projects, programs, equipment and fellowships it has awarded since since 1990. This same data is provided to Research Data Australia for easy searching and to link grants to research outputs like datasets and publications.&lt;/p&gt;
+&lt;p&gt;See &lt;a title=&quot;NHMRC Grant Information Terms of Use&quot; href=&quot;https://documentation.ardc.edu.au/display/DOC/NHMRC+Grants+Information+Terms+of+Use&quot;&gt;NHMRC Grant Information Terms of Use&lt;/a&gt; for details about the grant information provided by the NHMRC. &lt;/p&gt;
+&lt;p&gt;NHMRC Grant information in Research Data Australia was last updated in October 2021. &lt;/p&gt;</description>
+    </party>
+  </registryObject>
+
+
+
+<registryObject group="AUTestActivity">
+    <key>researcherSF</key>
+    <originatingSource>nhmrc.gov.au</originatingSource>
+    <party type="person">
+      <name type="primary">
+        <namePart type="title">Prof</namePart>
+        <namePart type="family">Shannon</namePart>
+        <namePart type="given">Frances</namePart>
+      </name>
+      <relatedObject>
+        <key>AUtestActivity1</key>
+        <relation type="isPrincipalInvestigator"/>
+      </relatedObject>
+    </party>
+  </registryObject>
+
+  <registryObject group="AUTestActivity">
+    <key>researcherAB</key>
+    <originatingSource>nhmrc.gov.au</originatingSource>
+    <party type="person">
+      <name type="primary">
+        <namePart type="title">Dr</namePart>
+        <namePart type="family">Alex</namePart>
+        <namePart type="given">B</namePart>
+      </name>
+    </party>
+  </registryObject>
+
+    <registryObject group="AUTestActivity">
+    <key>researcherZH</key>
+    <originatingSource>nhmrc.gov.au</originatingSource>
+    <party type="person">
+      <name type="primary">
+        <namePart type="title">Associate Prof</namePart>
+        <namePart type="family">Suzuki</namePart>
+        <namePart type="given">Emiko</namePart>
+      </name>
+      <relatedObject>
+        <key>AUtestActivity1</key>
+        <relation type="hasAssociationWith"/>
+      </relatedObject>
+    </party>
+  </registryObject>
+
+      <registryObject group="AUTestActivity">
+    <key>researcherWA</key>
+    <originatingSource>nhmrc.gov.au</originatingSource>
+    <party type="person">
+      <name type="primary">
+        <namePart type="family">Wong</namePart>
+        <namePart type="given">Amy</namePart>
+      </name>
+      <relatedObject>
+        <key>AUtestActivity1</key>
+        <relation type="isCollectorOf"/>
+      </relatedObject>
+     <relatedObject>
+        <key>AUtestActivity1</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+    </party>
+    </registryObject>
+
+    <registryObject group="AUTestActivity">
+    <key>researcherTP</key>
+    <originatingSource>nhmrc.gov.au</originatingSource>
+    <party type="person">
+      <name type="primary">
+        <namePart type="family">Lee</namePart>
+        <namePart type="given">Tim</namePart>
+      </name>
+      <relatedObject>
+        <key>AUtestActivity1</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>AUtestActivity1</key>
+        <relation type="isParticipantIn"/>
+      </relatedObject>
+    </party>
+  </registryObject>
+
+</registryObjects>
+
