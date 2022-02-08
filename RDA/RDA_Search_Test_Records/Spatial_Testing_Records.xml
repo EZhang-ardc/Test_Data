@@ -1,0 +1,702 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<registryObjects xmlns="http://ands.org.au/standards/rif-cs/registryObjects" xmlns:extRif="http://ands.org.au/standards/rif-cs/extendedRegistryObjects" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ands.org.au/standards/rif-cs/registryObjects http://services.ands.org.au/documentation/rifcs/schema/registryObjects.xsd">
+
+    <registryObject group="SpatialTestingRecords">
+        <key>AUTCollection1_SpatialTesting</key>
+        <originatingSource type="">http://demo.ands.org.au/registry/orca/register_my_data</originatingSource>
+        <collection type="collection" dateModified="2013-04-10T23:51:55Z">
+            <name type="primary">
+                <namePart>Test Collection with invalid kmlPolyCoords</namePart>
+            </name>
+            <description type="significanceStatement">the kmlPolyCoord ends with a cooma</description>
+            <description type="researchSupport">&amp;lt;p&amp;gt;researchSupport researchSupport researchSupport researchSupport researchSupport researchSupport researchSupport researchSupport researchSupport researchSupport researchSupport researchSupport researchSupport researchSupport researchSupport researchSupport researchSupport researchSupport researchSupport researchSupport researchSupport researchSupport&amp;lt;/p&amp;gt;</description>
+            <description type="researchDataProflie">&amp;lt;p&amp;gt;researchDataProflieresea rchDataProflie researchDataP roflieresearchDataProflie researchDataProflie researchDataProflie researchDataProflie researchDataProflie&amp;lt;/p&amp;gt;</description>
+            <description type="researchAreas">&amp;lt;p&amp;gt;researchAreas researchAreas researchAreas researchAreas researchAreas researchAreas researchAreas researchAreas researchAreas researchAreas researchAreas researchAreas researchAreas researchAreas researchAreas researchAreas researchAreas researchAreas researchAreas researchAreas researchAreas researchAreas&amp;lt;/p&amp;gt;</description>
+            <description type="note">&amp;lt;p&amp;gt;note note note note note note note note note note note note note note note note note note note note note note&amp;lt;/p&amp;gt;</description>
+            <description type="logo">&amp;lt;p&amp;gt;https://dl.dropbox.com/u/49073372/LOGO.jpg&amp;lt;/p&amp;gt;</description>
+            <description type="full">&amp;lt;p&amp;gt;full full full full full full full full full full full full full full full full full full&amp;lt;/p&amp;gt;</description>
+            <description type="deliverymethod">&amp;lt;p&amp;gt;deliverymethod deliverymethod deliverymethod deliverymethod deliverymethod deliverymethod deliverymethod deliverymethod deliverymethod deliverymethod deliverymethod deliverymethod deliverymethod deliverymethod&amp;lt;/p&amp;gt;</description>
+            <description type="brief">&amp;lt;p&amp;gt;brief brief brieff brief brief brief brief brief brief brief brief brief brief brief brief brief&amp;lt;/p&amp;gt;</description>
+            <description type="lineage">&amp;lt;p&amp;gt;This is the lineage statement for the collection&amp;lt;/p&amp;gt;</description>
+            <description type="local">&amp;lt;p&amp;gt;This is a local statement for the colleciton&amp;lt;/p&amp;gt;</description>
+            <rights>
+                <rightsStatement rightsUri="http://www.rightsuri.com">Rights Statement Rights Statement</rightsStatement>
+                <licence type="AusGOALRestrictive" rightsUri="http://www.rightsuri.com">LicenceLicenceLicence</licence>
+                <accessRights rightsUri="http://www.rightsuri.com">Access Rights</accessRights>
+            </rights>
+            <rights>
+                <licence type="CC-BY">CC-BY</licence>
+                <accessRights type="open">My Access Rights details are listed here and my data is open</accessRights>
+            </rights>
+            <identifier type="AU-ANL:PEAU">nla.AUTCollection1_N</identifier>
+            <identifier type="AU-ANL:PEAU">nla.part.12345 _N</identifier>
+            <dates type="dc.available">
+                <date type="dateFrom" dateFormat="W3CDTF">2013-02-07T00:00:00Z</date>
+            </dates>
+            <dates type="dc.issued">
+                <date type="dateFrom" dateFormat="W3CDTF">2022-03-03T00:00:00Z</date>
+            </dates>
+            <location dateFrom="2013-02-14T00:00:00Z" dateTo="2013-03-02T00:00:00Z">
+                <address>
+                    <electronic type="url" target="landingPage">
+                        <value>https://demo.ands.org.au</value>
+                        <title>My Landing Page for the data</title>
+                    </electronic>
+                    <physical type="postalAddress">
+                        <addressPart type="addressLine">&amp;lt;p&amp;gt; 123 Example St&amp;lt;/p&amp;gt; &amp;lt;p&amp;gt; Canberra ACT 2131&amp;lt;/p&amp;gt;</addressPart>
+                    </physical>
+                    <electronic type="url" target="directDownload">
+                        <value>https://dl.dropboxusercontent.com/u/49073372/RIF16WithError.xml</value>
+                        <title>My Direct Download link</title>
+                        <mediaType>XML</mediaType>
+                        <byteSize>3KB</byteSize>
+                    </electronic>
+                </address>
+                <spatial type="kmlPolyCoords">119.707031,-20.468189 152.753906,-32.101190 119.707031,-20.468189</spatial>
+            </location>
+            <coverage>
+                <temporal>
+                    <date type="dateFrom" dateFormat="W3CDTF">2013-01-30T00:00:00Z</date>
+                    <date type="dateTo" dateFormat="W3CDTF">2017-03-03T00:00:00Z</date>
+                </temporal>
+                <spatial type="kmlPolyCoords">121.640625,-35.173808 150.644531,-20.961440 117.246094,-14.093957 110.390625,-26.273714 127.441406,-20.961440 128.847656,-27.527758 121.640625,</spatial>
+            </coverage>
+        </collection>
+    </registryObject>
+
+     <registryObject group="SpatialTestingRecords">
+    <key>kmlpolTestCollection2wer</key>
+    <originatingSource type="">Australian Ocean Data Network</originatingSource>
+    <collection type="dataset" dateAccessioned="2007-06-14T17:00:00">
+      <name type="primary">
+        <namePart>kmlPolyCoords: intersecting polygon</namePart>
+      </name>
+      <description type="lineage">&lt;p&gt;Images taken with a 6.0 megapixel digital camera&lt;/p&gt;</description>
+      <description type="lineage">&lt;p&gt;Note: The coast is a very dynamic environment and the positon and strength of the rip is likely to change. Parameters: No parameters are associated with this resource, which constitutes photographic material.&lt;/p&gt;</description>
+      <description type="notes">&lt;p&gt;&lt;strong&gt;Purpose&lt;/strong&gt;&lt;br /&gt;To illustate an easily identifiable rip on one of Sydneys most hazardous beaches&lt;/p&gt;</description>
+      <description type="brief">&lt;p&gt;This photograph illustates the typical topographic rip located at the north end of Tamarama beach. The rip is identifiable in the region of non-breaking waves and deeper water. NOTE: The coastal environment is very dynamic and as a result the strength and position of the rip are subject to change.&lt;/p&gt;</description>
+      <rights>
+        <licence>Creative Commons Attribution-Noncommercial-Share Alike 2.5 Australia License</licence>
+      </rights>
+      <rights>
+        <licence rightsUri="http://creativecommons.org/licenses/by-nc-sa/2.5/au/"/>
+      </rights>
+      <rights>
+        <accessRights type="other"/>
+      </rights>
+      <dates type="issued">
+        <date type="dateFrom" dateFormat="W3CDTF">2007-06-14T16:00:00</date>
+      </dates>
+      <coverage>
+        <temporal>
+          <date type="dateFrom" dateFormat="W3CDTF">2007-06-13</date>
+          <date type="dateTo" dateFormat="W3CDTF">2007-06-13</date>
+        </temporal>
+      </coverage>
+      <coverage>
+        <spatial type="kmlPolyCoords">116.625357,-31.767240 115.754393,-31.774751 115.757967,-32.462250 115.513179,-32.393528</spatial>
+      </coverage>
+      <subject type="local">environment</subject>
+      <subject type="local">Oceans | Tides | Tidal Currents</subject>
+      <subject type="local">Rip</subject>
+    </collection>
+  </registryObject>
+
+
+    <registryObject group="SpatialTestingRecords">
+        <key>AUTCollection2_SpatialTesting</key>
+        <originatingSource type="">http://demo.ands.org.au/registry/orca/register_my_data</originatingSource>
+        <collection type="collection" dateModified="2013-04-10T23:51:55Z">
+            <name type="primary">
+                <namePart>Test Collection with valid kmlPolyCoords: a line and a polygon covered VIC</namePart>
+            </name>
+            <description type="researchSupport">&amp;lt;p&amp;gt;researchSupport researchSupport researchSupport researchSupport researchSupport researchSupport researchSupport researchSupport researchSupport researchSupport researchSupport researchSupport researchSupport researchSupport researchSupport researchSupport researchSupport researchSupport researchSupport researchSupport researchSupport researchSupport&amp;lt;/p&amp;gt;</description>
+            <description type="researchDataProflie">&amp;lt;p&amp;gt;researchDataProflieresea rchDataProflie researchDataP roflieresearchDataProflie researchDataProflie researchDataProflie researchDataProflie researchDataProflie&amp;lt;/p&amp;gt;</description>
+            <description type="researchAreas">&amp;lt;p&amp;gt;researchAreas researchAreas researchAreas researchAreas researchAreas researchAreas researchAreas researchAreas researchAreas researchAreas researchAreas researchAreas researchAreas researchAreas researchAreas researchAreas researchAreas researchAreas researchAreas researchAreas researchAreas researchAreas&amp;lt;/p&amp;gt;</description>
+            <description type="note">&amp;lt;p&amp;gt;note note note note note note note note note note note note note note note note note note note note note note&amp;lt;/p&amp;gt;</description>
+            <description type="logo">&amp;lt;p&amp;gt;https://dl.dropbox.com/u/49073372/LOGO.jpg&amp;lt;/p&amp;gt;</description>
+            <description type="full">&amp;lt;p&amp;gt;full full full full full full full full full full full full full full full full full full&amp;lt;/p&amp;gt;</description>
+            <description type="deliverymethod">&amp;lt;p&amp;gt;deliverymethod deliverymethod deliverymethod deliverymethod deliverymethod deliverymethod deliverymethod deliverymethod deliverymethod deliverymethod deliverymethod deliverymethod deliverymethod deliverymethod&amp;lt;/p&amp;gt;</description>
+            <description type="brief">&amp;lt;p&amp;gt;brief brief brieff brief brief brief brief brief brief brief brief brief brief brief brief brief&amp;lt;/p&amp;gt;</description>
+            <description type="lineage">&amp;lt;p&amp;gt;This is the lineage statement for the collection&amp;lt;/p&amp;gt;</description>
+            <description type="local">&amp;lt;p&amp;gt;This is a local statement for the colleciton&amp;lt;/p&amp;gt;</description>
+            <rights>
+                <rightsStatement rightsUri="http://www.rightsuri.com">Rights Statement Rights Statement</rightsStatement>
+                <licence type="AusGOALRestrictive" rightsUri="http://www.rightsuri.com">LicenceLicenceLicence</licence>
+                <accessRights rightsUri="http://www.rightsuri.com">Access Rights</accessRights>
+            </rights>
+            <rights>
+                <licence type="CC-BY">CC-BY</licence>
+                <accessRights type="open">My Access Rights details are listed here and my data is open</accessRights>
+            </rights>
+            <identifier type="AU-ANL:PEAU">nla.AUTCollection1_N</identifier>
+            <identifier type="AU-ANL:PEAU">nla.part.12345 _N</identifier>
+            <dates type="dc.available">
+                <date type="dateFrom" dateFormat="W3CDTF">2013-02-07T00:00:00Z</date>
+            </dates>
+            <dates type="dc.issued">
+                <date type="dateFrom" dateFormat="W3CDTF">2022-03-03T00:00:00Z</date>
+            </dates>
+            <location dateFrom="2013-02-14T00:00:00Z" dateTo="2013-03-02T00:00:00Z">
+                <address>
+                    <electronic type="url" target="landingPage">
+                        <value>https://demo.ands.org.au</value>
+                        <title>My Landing Page for the data</title>
+                    </electronic>
+                    <physical type="postalAddress">
+                        <addressPart type="addressLine">&amp;lt;p&amp;gt; 123 Example St&amp;lt;/p&amp;gt; &amp;lt;p&amp;gt; Canberra ACT 2131&amp;lt;/p&amp;gt;</addressPart>
+                    </physical>
+                    <electronic type="url" target="directDownload">
+                        <value>https://dl.dropboxusercontent.com/u/49073372/RIF16WithError.xml</value>
+                        <title>My Direct Download link</title>
+                        <mediaType>XML</mediaType>
+                        <byteSize>3KB</byteSize>
+                    </electronic>
+                </address>
+                <spatial type="kmlPolyCoords">119.707031,-20.468189 152.753906,-32.101190 119.707031,-20.468189</spatial>
+            </location>
+            <coverage>
+                <temporal>
+                    <date type="dateFrom" dateFormat="W3CDTF">2013-01-30T00:00:00Z</date>
+                    <date type="dateTo" dateFormat="W3CDTF">2017-03-03T00:00:00Z</date>
+                </temporal>
+                            <spatial type="kmlPolyCoords">
+141.000000,-34.000000 142.919336,-34.145604 144.582129,-35.659230 147.742627,-35.873175 150.024219,-37.529041 150.200000,-39.200000 141.000000,-39.200000 141.000000,-34.000000 141.000000,-34.000000
+</spatial>
+                <spatial type="kmlPolyCoords">143.085938,-22.917923</spatial>
+
+            </coverage>
+        </collection>
+    </registryObject>
+
+  <registryObject group="SpatialTestingRecords">
+    <key>dcmiboxTestCollection1</key>
+    <originatingSource>Australian Ocean Data Network</originatingSource>
+    <collection type="dataset" dateAccessioned="2007-06-14T17:00:00">
+
+      <description type="lineage">Images taken with a 6.0 megapixel digital camera</description>
+      <description type="lineage">Note: The coast is a very dynamic environment and the positon and strength of the rip is likely to change.
+Parameters: No parameters are associated with this resource, which constitutes photographic material.</description>
+      <description type="notes">&lt;b&gt;Purpose&lt;/b&gt;&lt;br/&gt;To illustate an easily identifiable rip on one of Sydneys most hazardous beaches</description>
+      <name type="primary">
+        <namePart>iso19139dcmiBox: Rectangle covered WA</namePart>
+      </name>
+      <relatedObject>
+        <key>AODN/BlueNet</key>
+        <relation type="hasAssociationWith"/>
+      </relatedObject>
+      <relatedObject>
+        <key>AODN/Myers,Andrew</key>
+        <relation type="owner"/>
+      </relatedObject>
+      <relatedObject>
+        <key>AODN/Myers,Andrew</key>
+        <relation type="owner"/>
+      </relatedObject>
+      <relatedObject>
+        <key>AODN/Myers,Andrew</key>
+        <relation type="owner"/>
+      </relatedObject>
+      <subject type="local">environment</subject>
+      <subject type="local">Oceans | Tides | Tidal Currents</subject>
+      <subject type="local">Rip</subject>
+      <description type="brief">This photograph illustates the typical topographic rip located at the north end of Tamarama beach. The rip is identifiable in the region of non-breaking waves and deeper water. NOTE: The coastal environment is very dynamic and as a result the strength and position of the rip are subject to change.</description>
+      <coverage>
+        <spatial type="iso19139dcmiBox">northlimit=-13.5; southlimit=-35.5;westlimit=112.5; eastlimit=129; projection=WGS84</spatial>
+        <spatial type="text">northlimit=-33.5; southlimit=-34.5; westlimit=151; eastLimit=151.5</spatial>
+      </coverage>
+      <coverage>
+        <temporal>
+          <date type="dateFrom" dateFormat="W3CDTF">2007-06-13</date>
+          <date type="dateTo" dateFormat="W3CDTF">2007-06-13</date>
+        </temporal>
+      </coverage>
+      <rights>
+        <licence>Creative Commons Attribution-Noncommercial-Share Alike 2.5 Australia License</licence>
+      </rights>
+      <rights>
+        <licence rightsUri="http://creativecommons.org/licenses/by-nc-sa/2.5/au/"/>
+      </rights>
+      <rights>
+        <accessRights type="other"/>
+      </rights>
+      <dates type="issued">
+        <date type="dateFrom" dateFormat="W3CDTF">2007-06-14T16:00:00</date>
+      </dates>
+      <citationInfo>
+        <citationMetadata>
+          <identifier type="uri">http://catalogue-aodn.prod.aodn.org.au/geonetwork/srv/eng/search?uuid=06ca22f0-1a3d-11dc-aaf8-00188b4c0af8</identifier>
+          <title>Photograph of a topographic rip on Tamarama Beach, NSW</title>
+          <date type="publicationDate">2007</date>
+          <contributor seq="1">
+            <namePart>Myers, Andrew</namePart>
+          </contributor>
+          <publisher/>
+        </citationMetadata>
+      </citationInfo>
+    </collection>
+  </registryObject>
+
+
+  <registryObject group="SpatialTestingRecords">
+    <key>dcmiboxTestCollection2</key>
+    <originatingSource>Australian Ocean Data Network</originatingSource>
+    <collection type="dataset" dateAccessioned="2007-06-14T17:00:00">
+
+      <description type="lineage">Images taken with a 6.0 megapixel digital camera</description>
+      <description type="lineage">Note: The coast is a very dynamic environment and the positon and strength of the rip is likely to change.
+Parameters: No parameters are associated with this resource, which constitutes photographic material.</description>
+      <description type="notes">&lt;b&gt;Purpose&lt;/b&gt;&lt;br/&gt;To illustate an easily identifiable rip on one of Sydneys most hazardous beaches</description>
+      <name type="primary">
+        <namePart>iso19139dcmiBox: Rectangle located in Brunei</namePart>
+      </name>
+      <relatedObject>
+        <key>AODN/BlueNet</key>
+        <relation type="hasAssociationWith"/>
+      </relatedObject>
+      <relatedObject>
+        <key>AODN/Myers,Andrew</key>
+        <relation type="owner"/>
+      </relatedObject>
+      <relatedObject>
+        <key>AODN/Myers,Andrew</key>
+        <relation type="owner"/>
+      </relatedObject>
+      <relatedObject>
+        <key>AODN/Myers,Andrew</key>
+        <relation type="owner"/>
+      </relatedObject>
+      <subject type="local">environment</subject>
+      <subject type="local">Oceans | Tides | Tidal Currents</subject>
+      <subject type="local">Rip</subject>
+      <description type="brief">This photograph illustates the typical topographic rip located at the north end of Tamarama beach. The rip is identifiable in the region of non-breaking waves and deeper water. NOTE: The coastal environment is very dynamic and as a result the strength and position of the rip are subject to change.</description>
+      <coverage>
+        <spatial type="iso19139dcmiBox">northlimit=1.623; southlimit=0.088; westlimit=112.088; eastlimit=113.308</spatial>
+      </coverage>
+      <coverage>
+        <temporal>
+          <date type="dateFrom" dateFormat="W3CDTF">2007-06-13</date>
+          <date type="dateTo" dateFormat="W3CDTF">2007-06-13</date>
+        </temporal>
+      </coverage>
+      <rights>
+        <licence>Creative Commons Attribution-Noncommercial-Share Alike 2.5 Australia License</licence>
+      </rights>
+      <rights>
+        <licence rightsUri="http://creativecommons.org/licenses/by-nc-sa/2.5/au/"/>
+      </rights>
+      <rights>
+        <accessRights type="other"/>
+      </rights>
+      <dates type="issued">
+        <date type="dateFrom" dateFormat="W3CDTF">2007-06-14T16:00:00</date>
+      </dates>
+      <citationInfo>
+        <citationMetadata>
+          <identifier type="uri">http://catalogue-aodn.prod.aodn.org.au/geonetwork/srv/eng/search?uuid=06ca22f0-1a3d-11dc-aaf8-00188b4c0af8</identifier>
+          <title>Photograph of a topographic rip on Tamarama Beach, NSW</title>
+          <date type="publicationDate">2007</date>
+          <contributor seq="1">
+            <namePart>Myers, Andrew</namePart>
+          </contributor>
+          <publisher/>
+        </citationMetadata>
+      </citationInfo>
+    </collection>
+  </registryObject>
+
+
+  <registryObject group="SpatialTestingRecords">
+    <key>dcmiboxTestCollection21</key>
+    <originatingSource>Australian Ocean Data Network</originatingSource>
+    <collection type="dataset" dateAccessioned="2007-06-14T17:00:00">
+
+      <description type="lineage">Images taken with a 6.0 megapixel digital camera</description>
+      <description type="lineage">Note: The coast is a very dynamic environment and the positon and strength of the rip is likely to change.
+Parameters: No parameters are associated with this resource, which constitutes photographic material.</description>
+      <description type="notes">&lt;b&gt;Purpose&lt;/b&gt;&lt;br/&gt;To illustate an easily identifiable rip on one of Sydneys most hazardous beaches</description>
+      <name type="primary">
+        <namePart>iso19139dcmiBox: Invalid input</namePart>
+      </name>
+      <subject type="local">environment</subject>
+      <subject type="local">Oceans | Tides | Tidal Currents</subject>
+      <subject type="local">Rip</subject>
+      <description type="brief">This photograph illustates the typical topographic rip located at the north end of Tamarama beach. The rip is identifiable in the region of non-breaking waves and deeper water. NOTE: The coastal environment is very dynamic and as a result the strength and position of the rip are subject to change.</description>
+      <coverage>
+        <spatial type="iso19139dcmiBox">southlimit=0.088; westlimit=112.088; eastlimit=113.308</spatial>
+      </coverage>
+      <coverage>
+        <temporal>
+          <date type="dateFrom" dateFormat="W3CDTF">2007-06-13</date>
+          <date type="dateTo" dateFormat="W3CDTF">2007-06-13</date>
+        </temporal>
+      </coverage>
+      <rights>
+        <licence>Creative Commons Attribution-Noncommercial-Share Alike 2.5 Australia License</licence>
+      </rights>
+      <rights>
+        <licence rightsUri="http://creativecommons.org/licenses/by-nc-sa/2.5/au/"/>
+      </rights>
+      <rights>
+        <accessRights type="other"/>
+      </rights>
+      <dates type="issued">
+        <date type="dateFrom" dateFormat="W3CDTF">2007-06-14T16:00:00</date>
+      </dates>
+      <citationInfo>
+        <citationMetadata>
+          <identifier type="uri">http://catalogue-aodn.prod.aodn.org.au/geonetwork/srv/eng/search?uuid=06ca22f0-1a3d-11dc-aaf8-00188b4c0af8</identifier>
+          <title>Photograph of a topographic rip on Tamarama Beach, NSW</title>
+          <date type="publicationDate">2007</date>
+          <contributor seq="1">
+            <namePart>Myers, Andrew</namePart>
+          </contributor>
+          <publisher/>
+        </citationMetadata>
+      </citationInfo>
+    </collection>
+  </registryObject>
+
+    <registryObject group="SpatialTestingRecords">
+    <key>dcmiboxTestCollection3</key>
+    <originatingSource>Australian Ocean Data Network</originatingSource>
+    <collection type="dataset" dateAccessioned="2007-06-14T17:00:00">
+
+      <description type="lineage">Images taken with a 6.0 megapixel digital camera</description>
+      <description type="lineage">Note: The coast is a very dynamic environment and the positon and strength of the rip is likely to change.
+Parameters: No parameters are associated with this resource, which constitutes photographic material.</description>
+      <description type="notes">&lt;b&gt;Purpose&lt;/b&gt;&lt;br/&gt;To illustate an easily identifiable rip on one of Sydneys most hazardous beaches</description>
+      <name type="primary">
+        <namePart>iso19139dcmiBox: Missing a dimension</namePart>
+      </name>
+      <relatedObject>
+        <key>AODN/BlueNet</key>
+        <relation type="hasAssociationWith"/>
+      </relatedObject>
+      <relatedObject>
+        <key>AODN/Myers,Andrew</key>
+        <relation type="owner"/>
+      </relatedObject>
+      <relatedObject>
+        <key>AODN/Myers,Andrew</key>
+        <relation type="owner"/>
+      </relatedObject>
+      <relatedObject>
+        <key>AODN/Myers,Andrew</key>
+        <relation type="owner"/>
+      </relatedObject>
+      <subject type="local">environment</subject>
+      <subject type="local">Oceans | Tides | Tidal Currents</subject>
+      <subject type="local">Rip</subject>
+      <description type="brief">This photograph illustates the typical topographic rip located at the north end of Tamarama beach. The rip is identifiable in the region of non-breaking waves and deeper water. NOTE: The coastal environment is very dynamic and as a result the strength and position of the rip are subject to change.</description>
+      <coverage>
+        <spatial type="iso19139dcmiBox">southlimit=0.088; westlimit=112.088; eastlimit=113.308</spatial>
+      </coverage>
+      <coverage>
+        <temporal>
+          <date type="dateFrom" dateFormat="W3CDTF">2007-06-13</date>
+          <date type="dateTo" dateFormat="W3CDTF">2007-06-13</date>
+        </temporal>
+      </coverage>
+      <rights>
+        <licence>Creative Commons Attribution-Noncommercial-Share Alike 2.5 Australia License</licence>
+      </rights>
+      <rights>
+        <licence rightsUri="http://creativecommons.org/licenses/by-nc-sa/2.5/au/"/>
+      </rights>
+      <rights>
+        <accessRights type="other"/>
+      </rights>
+      <dates type="issued">
+        <date type="dateFrom" dateFormat="W3CDTF">2007-06-14T16:00:00</date>
+      </dates>
+      <citationInfo>
+        <citationMetadata>
+          <identifier type="uri">http://catalogue-aodn.prod.aodn.org.au/geonetwork/srv/eng/search?uuid=06ca22f0-1a3d-11dc-aaf8-00188b4c0af8</identifier>
+          <title>Photograph of a topographic rip on Tamarama Beach, NSW</title>
+          <date type="publicationDate">2007</date>
+          <contributor seq="1">
+            <namePart>Myers, Andrew</namePart>
+          </contributor>
+          <publisher/>
+        </citationMetadata>
+      </citationInfo>
+    </collection>
+  </registryObject>
+
+      <registryObject group="SpatialTestingRecords">
+    <key>dcmiPointTestCollection44</key>
+    <originatingSource>Australian Ocean Data Network</originatingSource>
+    <collection type="dataset" dateAccessioned="2007-06-14T17:00:00">
+
+      <description type="lineage">Images taken with a 6.0 megapixel digital camera</description>
+      <description type="lineage">Note: The coast is a very dynamic environment and the positon and strength of the rip is likely to change.
+Parameters: No parameters are associated with this resource, which constitutes photographic material.</description>
+      <description type="notes">&lt;b&gt;Purpose&lt;/b&gt;&lt;br/&gt;To illustate an easily identifiable rip on one of Sydneys most hazardous beaches</description>
+      <name type="primary">
+        <namePart>dcmiPoint: 3-D coordinates for Mt Kosciusko</namePart>
+      </name>
+      <subject type="local">environment</subject>
+      <subject type="local">Oceans | Tides | Tidal Currents</subject>
+      <subject type="local">Rip</subject>
+      <description type="brief">This photograph illustates the typical topographic rip located at the north end of Tamarama beach. The rip is identifiable in the region of non-breaking waves and deeper water. NOTE: The coastal environment is very dynamic and as a result the strength and position of the rip are subject to change.</description>
+      <coverage>
+        <spatial type="dcmiPoint">east=148.26218; north=-36.45746; elevation=2228; name=Mt. Kosciusko</spatial>
+      </coverage>
+      <coverage>
+        <temporal>
+          <date type="dateFrom" dateFormat="W3CDTF">2007-06-13</date>
+          <date type="dateTo" dateFormat="W3CDTF">2007-06-13</date>
+        </temporal>
+      </coverage>
+      <rights>
+        <licence>Creative Commons Attribution-Noncommercial-Share Alike 2.5 Australia License</licence>
+      </rights>
+      <rights>
+        <licence rightsUri="http://creativecommons.org/licenses/by-nc-sa/2.5/au/"/>
+      </rights>
+      <rights>
+        <accessRights type="other"/>
+      </rights>
+      <dates type="issued">
+        <date type="dateFrom" dateFormat="W3CDTF">2007-06-14T16:00:00</date>
+      </dates>
+    </collection>
+  </registryObject>
+
+        <registryObject group="SpatialTestingRecords">
+    <key>dcmiPointandBoxTestCollection44</key>
+    <originatingSource>Australian Ocean Data Network</originatingSource>
+    <collection type="dataset" dateAccessioned="2007-06-14T17:00:00">
+
+      <description type="lineage">Images taken with a 6.0 megapixel digital camera</description>
+      <description type="lineage">Note: The coast is a very dynamic environment and the positon and strength of the rip is likely to change.
+Parameters: No parameters are associated with this resource, which constitutes photographic material.</description>
+      <description type="notes">&lt;b&gt;Purpose&lt;/b&gt;&lt;br/&gt;To illustate an easily identifiable rip on one of Sydneys most hazardous beaches</description>
+      <name type="primary">
+        <namePart>dcmiPoint: Correct dcmi point value with a wrong type</namePart>
+      </name>
+      <subject type="local">environment</subject>
+      <subject type="local">Oceans | Tides | Tidal Currents</subject>
+      <subject type="local">Rip</subject>
+      <description type="brief">This photograph illustates the typical topographic rip located at the north end of Tamarama beach. The rip is identifiable in the region of non-breaking waves and deeper water. NOTE: The coastal environment is very dynamic and as a result the strength and position of the rip are subject to change.</description>
+      <coverage>
+        <spatial type="iso19139dcmiBox">east=148.26218; north=-36.45746;</spatial>
+      </coverage>
+      <coverage>
+        <temporal>
+          <date type="dateFrom" dateFormat="W3CDTF">2007-06-13</date>
+          <date type="dateTo" dateFormat="W3CDTF">2007-06-13</date>
+        </temporal>
+      </coverage>
+      <rights>
+        <licence>Creative Commons Attribution-Noncommercial-Share Alike 2.5 Australia License</licence>
+      </rights>
+      <rights>
+        <licence rightsUri="http://creativecommons.org/licenses/by-nc-sa/2.5/au/"/>
+      </rights>
+      <rights>
+        <accessRights type="other"/>
+      </rights>
+      <dates type="issued">
+        <date type="dateFrom" dateFormat="W3CDTF">2007-06-14T16:00:00</date>
+      </dates>
+    </collection>
+  </registryObject>
+
+      <registryObject group="SpatialTestingRecords">
+        <key>AUTCollection2_SpatialTesting</key>
+        <originatingSource type="">http://demo.ands.org.au/registry/orca/register_my_data</originatingSource>
+        <collection type="collection" dateModified="2013-04-10T23:51:55Z">
+            <name type="primary">
+                <namePart>Test Collection with valid kmlPolyCoords: a line and a polygon covered Vic</namePart>
+            </name>
+            <description type="researchSupport">&amp;lt;p&amp;gt;researchSupport researchSupport researchSupport researchSupport researchSupport researchSupport researchSupport researchSupport researchSupport researchSupport researchSupport researchSupport researchSupport researchSupport researchSupport researchSupport researchSupport researchSupport researchSupport researchSupport researchSupport researchSupport&amp;lt;/p&amp;gt;</description>
+            <description type="researchDataProflie">&amp;lt;p&amp;gt;researchDataProflieresea rchDataProflie researchDataP roflieresearchDataProflie researchDataProflie researchDataProflie researchDataProflie researchDataProflie&amp;lt;/p&amp;gt;</description>
+            <description type="researchAreas">&amp;lt;p&amp;gt;researchAreas researchAreas researchAreas researchAreas researchAreas researchAreas researchAreas researchAreas researchAreas researchAreas researchAreas researchAreas researchAreas researchAreas researchAreas researchAreas researchAreas researchAreas researchAreas researchAreas researchAreas researchAreas&amp;lt;/p&amp;gt;</description>
+            <description type="note">&amp;lt;p&amp;gt;note note note note note note note note note note note note note note note note note note note note note note&amp;lt;/p&amp;gt;</description>
+            <description type="logo">&amp;lt;p&amp;gt;https://dl.dropbox.com/u/49073372/LOGO.jpg&amp;lt;/p&amp;gt;</description>
+            <description type="full">&amp;lt;p&amp;gt;full full full full full full full full full full full full full full full full full full&amp;lt;/p&amp;gt;</description>
+            <description type="deliverymethod">&amp;lt;p&amp;gt;deliverymethod deliverymethod deliverymethod deliverymethod deliverymethod deliverymethod deliverymethod deliverymethod deliverymethod deliverymethod deliverymethod deliverymethod deliverymethod deliverymethod&amp;lt;/p&amp;gt;</description>
+            <description type="brief">&amp;lt;p&amp;gt;brief brief brieff brief brief brief brief brief brief brief brief brief brief brief brief brief&amp;lt;/p&amp;gt;</description>
+            <description type="lineage">&amp;lt;p&amp;gt;This is the lineage statement for the collection&amp;lt;/p&amp;gt;</description>
+            <description type="local">&amp;lt;p&amp;gt;This is a local statement for the colleciton&amp;lt;/p&amp;gt;</description>
+            <rights>
+                <rightsStatement rightsUri="http://www.rightsuri.com">Rights Statement Rights Statement</rightsStatement>
+                <licence type="AusGOALRestrictive" rightsUri="http://www.rightsuri.com">LicenceLicenceLicence</licence>
+                <accessRights rightsUri="http://www.rightsuri.com">Access Rights</accessRights>
+            </rights>
+            <rights>
+                <licence type="CC-BY">CC-BY</licence>
+                <accessRights type="open">My Access Rights details are listed here and my data is open</accessRights>
+            </rights>
+            <identifier type="AU-ANL:PEAU">nla.AUTCollection1_N</identifier>
+            <identifier type="AU-ANL:PEAU">nla.part.12345 _N</identifier>
+            <dates type="dc.available">
+                <date type="dateFrom" dateFormat="W3CDTF">2013-02-07T00:00:00Z</date>
+            </dates>
+            <dates type="dc.issued">
+                <date type="dateFrom" dateFormat="W3CDTF">2022-03-03T00:00:00Z</date>
+            </dates>
+            <location dateFrom="2013-02-14T00:00:00Z" dateTo="2013-03-02T00:00:00Z">
+                <address>
+                    <electronic type="url" target="landingPage">
+                        <value>https://demo.ands.org.au</value>
+                        <title>My Landing Page for the data</title>
+                    </electronic>
+                    <physical type="postalAddress">
+                        <addressPart type="addressLine">&amp;lt;p&amp;gt; 123 Example St&amp;lt;/p&amp;gt; &amp;lt;p&amp;gt; Canberra ACT 2131&amp;lt;/p&amp;gt;</addressPart>
+                    </physical>
+                    <electronic type="url" target="directDownload">
+                        <value>https://dl.dropboxusercontent.com/u/49073372/RIF16WithError.xml</value>
+                        <title>My Direct Download link</title>
+                        <mediaType>XML</mediaType>
+                        <byteSize>3KB</byteSize>
+                    </electronic>
+                </address>
+                <spatial type="kmlPolyCoords">119.707031,-20.468189 152.753906,-32.101190 119.707031,-20.468189</spatial>
+            </location>
+            <coverage>
+                <temporal>
+                    <date type="dateFrom" dateFormat="W3CDTF">2013-01-30T00:00:00Z</date>
+                    <date type="dateTo" dateFormat="W3CDTF">2017-03-03T00:00:00Z</date>
+                </temporal>
+                            <spatial type="kmlPolyCoords">
+141.000000,-34.000000 142.919336,-34.145604 144.582129,-35.659230 147.742627,-35.873175 150.024219,-37.529041 150.200000,-39.200000 141.000000,-39.200000 141.000000,-34.000000 141.000000,-34.000000
+</spatial>
+                <spatial type="kmlPolyCoords">143.085938,-22.917923</spatial>
+
+            </coverage>
+        </collection>
+    </registryObject>
+
+     <registryObject group="SpatialTestingRecords">
+    <key>dcmipointTestCollection1</key>
+    <originatingSource type="">Australian Ocean Data Network</originatingSource>
+    <collection type="dataset" dateAccessioned="2007-06-14T17:00:00">
+      <name type="primary">
+        <namePart>dcmi point: Perth's location</namePart>
+      </name>
+      <description type="lineage">&lt;p&gt;Images taken with a 6.0 megapixel digital camera&lt;/p&gt;</description>
+      <description type="lineage">&lt;p&gt;Note: The coast is a very dynamic environment and the positon and strength of the rip is likely to change. Parameters: No parameters are associated with this resource, which constitutes photographic material.&lt;/p&gt;</description>
+      <description type="notes">&lt;p&gt;&lt;strong&gt;Purpose&lt;/strong&gt;&lt;br /&gt;To illustate an easily identifiable rip on one of Sydneys most hazardous beaches&lt;/p&gt;</description>
+      <description type="brief">&lt;p&gt;This photograph illustates the typical topographic rip located at the north end of Tamarama beach. The rip is identifiable in the region of non-breaking waves and deeper water. NOTE: The coastal environment is very dynamic and as a result the strength and position of the rip are subject to change.&lt;/p&gt;</description>
+      <rights>
+        <licence>Creative Commons Attribution-Noncommercial-Share Alike 2.5 Australia License</licence>
+      </rights>
+      <rights>
+        <licence rightsUri="http://creativecommons.org/licenses/by-nc-sa/2.5/au/"/>
+      </rights>
+      <rights>
+        <accessRights type="other"/>
+      </rights>
+      <dates type="issued">
+        <date type="dateFrom" dateFormat="W3CDTF">2007-06-14T16:00:00</date>
+      </dates>
+      <coverage>
+        <spatial type="dcmiPoint">east=115.85717; north=-31.95301</spatial>
+      </coverage>
+      <coverage>
+        <temporal>
+          <date type="dateFrom" dateFormat="W3CDTF">2007-06-13</date>
+          <date type="dateTo" dateFormat="W3CDTF">2007-06-13</date>
+        </temporal>
+      </coverage>
+      <subject type="local">environment</subject>
+      <subject type="local">Oceans | Tides | Tidal Currents</subject>
+      <subject type="local">Rip</subject>
+    </collection>
+  </registryObject>
+
+    <registryObject group="SpatialTestingRecords">
+    <key>iso31661TestCollection1</key>
+    <originatingSource type="">Australian Ocean Data Network</originatingSource>
+    <collection type="dataset" dateAccessioned="2007-06-14T17:00:00">
+      <name type="primary">
+        <namePart>iso31661: Collection with Country codes</namePart>
+      </name>
+      <description type="lineage">spatial attributes contain 3-digit/2-letter/3-letter iso 31661 codes</description>
+      <description type="lineage">&lt;p&gt;Note: The coast is a very dynamic environment and the positon and strength of the rip is likely to change. Parameters: No parameters are associated with this resource, which constitutes photographic material.&lt;/p&gt;</description>
+      <description type="notes">&lt;p&gt;&lt;strong&gt;Purpose&lt;/strong&gt;&lt;br /&gt;To illustate an easily identifiable rip on one of Sydneys most hazardous beaches&lt;/p&gt;</description>
+      <description type="brief">&lt;p&gt;This photograph illustates the typical topographic rip located at the north end of Tamarama beach. The rip is identifiable in the region of non-breaking waves and deeper water. NOTE: The coastal environment is very dynamic and as a result the strength and position of the rip are subject to change.&lt;/p&gt;</description>
+      <coverage>
+        <spatial type="iso31661">036</spatial>
+      </coverage>
+      <coverage>
+        <temporal>
+          <date type="dateFrom" dateFormat="W3CDTF">2007-06-13</date>
+          <date type="dateTo" dateFormat="W3CDTF">2007-06-13</date>
+        </temporal>
+      </coverage>
+      <coverage>
+        <spatial type="iso31661">AT</spatial>
+        <spatial type="iso31661">CHN</spatial>
+      </coverage>
+      <subject type="local">environment</subject>
+      <subject type="local">Oceans | Tides | Tidal Currents</subject>
+      <subject type="local">Rip</subject>
+    </collection>
+  </registryObject>
+
+      <registryObject group="SpatialTestingRecords">
+    <key>iso31662TestCollection1</key>
+    <originatingSource type="">Australian Ocean Data Network</originatingSource>
+    <collection type="dataset" dateAccessioned="2007-06-14T17:00:00">
+      <name type="primary">
+        <namePart>iso31662: Collection with iso 31662 regional codes</namePart>
+      </name>
+      <description type="lineage">spatial attributes contain 3-digit/2-letter/3-letter iso 31661 codes</description>
+      <description type="lineage">&lt;p&gt;Note: The coast is a very dynamic environment and the positon and strength of the rip is likely to change. Parameters: No parameters are associated with this resource, which constitutes photographic material.&lt;/p&gt;</description>
+      <description type="notes">&lt;p&gt;&lt;strong&gt;Purpose&lt;/strong&gt;&lt;br /&gt;To illustate an easily identifiable rip on one of Sydneys most hazardous beaches&lt;/p&gt;</description>
+      <description type="brief">&lt;p&gt;This photograph illustates the typical topographic rip located at the north end of Tamarama beach. The rip is identifiable in the region of non-breaking waves and deeper water. NOTE: The coastal environment is very dynamic and as a result the strength and position of the rip are subject to change.&lt;/p&gt;</description>
+      <coverage>
+        <spatial type="iso31662">AU-NSW</spatial>
+      </coverage>
+      <coverage>
+        <temporal>
+          <date type="dateFrom" dateFormat="W3CDTF">2007-06-13</date>
+          <date type="dateTo" dateFormat="W3CDTF">2007-06-13</date>
+        </temporal>
+      </coverage>
+      <coverage>
+        <spatial type="iso31661">AU-ACT</spatial>
+        <spatial type="iso31661">AU-NT</spatial>
+      </coverage>
+      <subject type="local">environment</subject>
+      <subject type="local">Oceans | Tides | Tidal Currents</subject>
+      <subject type="local">Rip</subject>
+    </collection>
+  </registryObject>
+
+
+        <registryObject group="SpatialTestingRecords">
+    <key>textTestCollection1</key>
+    <originatingSource type="">Australian Ocean Data Network</originatingSource>
+    <collection type="dataset" dateAccessioned="2007-06-14T17:00:00">
+      <name type="primary">
+        <namePart>free text spatial coverage Collection record</namePart>
+      </name>
+      <description type="lineage">spatial attributes contain 3-digit/2-letter/3-letter iso 31661 codes</description>
+      <description type="lineage">&lt;p&gt;Note: The coast is a very dynamic environment and the positon and strength of the rip is likely to change. Parameters: No parameters are associated with this resource, which constitutes photographic material.&lt;/p&gt;</description>
+      <description type="notes">&lt;p&gt;&lt;strong&gt;Purpose&lt;/strong&gt;&lt;br /&gt;To illustate an easily identifiable rip on one of Sydneys most hazardous beaches&lt;/p&gt;</description>
+      <description type="brief">&lt;p&gt;This photograph illustates the typical topographic rip located at the north end of Tamarama beach. The rip is identifiable in the region of non-breaking waves and deeper water. NOTE: The coastal environment is very dynamic and as a result the strength and position of the rip are subject to change.&lt;/p&gt;</description>
+      <coverage>
+        <spatial type="text">141.000000,-34.000000 142.919336,-34.145604 144.582129,-35.659230 147.742627,-35.873175 150.024219,-37.529041 150.200000,-39.200000 141.000000,-39.200000 141.000000,-34.000000 141.000000,-34.000000</spatial>
+      </coverage>
+      <coverage>
+        <temporal>
+          <date type="dateFrom" dateFormat="W3CDTF">2007-06-13</date>
+          <date type="dateTo" dateFormat="W3CDTF">2007-06-13</date>
+        </temporal>
+      </coverage>
+      <coverage>
+        <spatial type="text">I am an location</spatial>
+        <spatial type="text">Canberra, Australia</spatial>
+      </coverage>
+      <subject type="local">environment</subject>
+      <subject type="local">Oceans | Tides | Tidal Currents</subject>
+      <subject type="local">Rip</subject>
+    </collection>
+  </registryObject>
+
+</registryObjects>
