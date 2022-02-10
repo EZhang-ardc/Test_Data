@@ -4,7 +4,7 @@
         <originatingSource>http://www.proteomebrowser.org</originatingSource>
         <party type="person">
             <name type="primary">
-                <namePart type="">(AUTestingRecords)IsPrincipalInvestigatorOf - Party Type Person Yahoo</namePart>
+                <namePart type="">(AUTestingRecords)IsPrincipalInvestigatorOf - Party Type Person</namePart>
             </name>
             <identifier type="local">IsPrincipalInvestigatorOf-yer123454_1</identifier>
             <location>
@@ -44,7 +44,7 @@
         <originatingSource>http://www.proteomebrowser.org</originatingSource>
         <party type="person">
             <name type="primary">
-                <namePart type="">(AUTestingRecords)IsPrincipalInvestigatorOf - Party Type Person Bing</namePart>
+                <namePart type="">(AUTestingRecords)IsPrincipalInvestigatorOf - Party Type Person</namePart>
             </name>
             <identifier type="local">IsPrincipalInvestigatorOf-yer123454_1</identifier>
             <location>
@@ -84,7 +84,7 @@
         <originatingSource>http://www.proteomebrowser.org</originatingSource>
         <party type="person">
             <name type="primary">
-                <namePart type="">(AUTestingRecords)IsPrincipalInvestigatorOf - Party Type Person Google</namePart>
+                <namePart type="">(AUTestingRecords)IsPrincipalInvestigatorOf - Party Type Person</namePart>
             </name>
             <identifier type="local">IsPrincipalInvestigatorOf-yer123454_1</identifier>
             <location>
@@ -124,7 +124,7 @@
         <originatingSource>http://www.proteomebrowser.org</originatingSource>
         <party type="person">
             <name type="primary">
-                <namePart type="">(AUTestingRecords)IsPrincipalInvestigatorOf - Party Type Person Yandex</namePart>
+                <namePart type="">(AUTestingRecords)IsPrincipalInvestigatorOf - Party Type Person</namePart>
             </name>
             <identifier type="local">IsPrincipalInvestigatorOf-yer123454_1</identifier>
             <location>
