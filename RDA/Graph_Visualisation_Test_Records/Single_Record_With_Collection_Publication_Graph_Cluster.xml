@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<registryObjects xmlns="http://ands.org.au/standards/rif-cs/registryObjects" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ands.org.au/standards/rif-cs/registryObjects http://services.ands.org.au/documentation/rifcs/schema/registryObjects.xsd">
+  <registryObject group="AUTestingRecords">
+    <key>AUTestingRecordsSubjectsResolutionCollection4479</key>
+    <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+    <collection type="registry">
+      <name type="primary">
+        <namePart>(AUTestingRecords) Collection To Test ANZSRC Subject Resolution Where Value Label only                </namePart>
+      </name>
+      <description type="brief">&lt;p&gt;Expected subject values: ceramics = ceramics 111714 = mental health 1117 = PUBLIC HEALTH AND HEALTH SERVICES 11 = MEDICAL AND HEALTH SCIENCES 9610 = NATURAL HAZARDS 96 = ENVIRONMENT&lt;/p&gt;</description>
+      <subject type="anzsrc-for">mental health</subject>
+      <relatedInfo type="publication">
+        <title>Publication 1</title>
+        <identifier type="local">1Pub1</identifier>
+      </relatedInfo>
+
+            <relatedInfo type="publication">
+        <title>Publication 1</title>
+        <identifier type="local">1Pub15</identifier>
+      </relatedInfo>
+
+            <relatedInfo type="publication">
+        <title>Publication 1</title>
+        <identifier type="local">1Pub14</identifier>
+      </relatedInfo>
+
+            <relatedInfo type="publication">
+        <title>Publication 1</title>
+        <identifier type="local">1Pub13</identifier>
+      </relatedInfo>
+
+            <relatedInfo type="publication">
+        <title>Publication 1</title>
+        <identifier type="local">1Pub12</identifier>
+      </relatedInfo>
+
+            <relatedInfo type="publication">
+        <title>Publication 1</title>
+        <identifier type="local">1Pub11</identifier>
+      </relatedInfo>
+
+            <relatedInfo type="publication">
+        <title>Publication 1</title>
+        <identifier type="local">1Pub1m</identifier>
+      </relatedInfo>
+
+            <relatedInfo type="publication">
+        <title>Publication 1</title>
+        <identifier type="local">1Pub1n</identifier>
+      </relatedInfo>
+
+            <relatedInfo type="publication">
+        <title>Publication 1</title>
+        <identifier type="local">1Pub1b</identifier>
+      </relatedInfo>
+
+            <relatedInfo type="publication">
+        <title>Publication 1</title>
+        <identifier type="local">1Pub1v</identifier>
+      </relatedInfo>
+
+            <relatedInfo type="publication">
+        <title>Publication 1</title>
+        <identifier type="local">1Pub1c</identifier>
+      </relatedInfo>
+
+            <relatedInfo type="publication">
+        <title>Publication 1</title>
+        <identifier type="local">1Pub1x</identifier>
+      </relatedInfo>
+
+            <relatedInfo type="publication">
+        <title>Publication 1</title>
+        <identifier type="local">1Pub1z</identifier>
+      </relatedInfo>
+
+            <relatedInfo type="publication">
+        <title>Publication 1</title>
+        <identifier type="local">1Pub1p</identifier>
+      </relatedInfo>
+
+            <relatedInfo type="publication">
+        <title>Publication 1</title>
+        <identifier type="local">1Pub1o</identifier>
+      </relatedInfo>
+
+            <relatedInfo type="publication">
+        <title>Publication 1</title>
+        <identifier type="local">1Pub1i</identifier>
+      </relatedInfo>
+
+            <relatedInfo type="publication">
+        <title>Publication 1</title>
+        <identifier type="local">1Pub1u</identifier>
+      </relatedInfo>
+
+            <relatedInfo type="publication">
+        <title>Publication 1</title>
+        <identifier type="local">1Pub1y</identifier>
+      </relatedInfo>
+
+            <relatedInfo type="publication">
+        <title>Publication 1</title>
+        <identifier type="local">1Pub1t</identifier>
+      </relatedInfo>
+
+            <relatedInfo type="publication">
+        <title>Publication 1</title>
+        <identifier type="local">1Pub1r</identifier>
+      </relatedInfo>
+      
+
+            <relatedInfo type="publication">
+        <title>Publication 1</title>
+        <identifier type="local">1Pub1e</identifier>
+      </relatedInfo>
+
+            <relatedInfo type="publication">
+        <title>Publication 1</title>
+        <identifier type="local">1Pub1s</identifier>
+      </relatedInfo>
+
+            <relatedInfo type="publication">
+        <title>Publication 1</title>
+        <identifier type="local">1Pub1a</identifier>
+      </relatedInfo>
+
+  <relatedInfo type="collection">
+        <title>collection 1</title>
+        <identifier type="local">1Col15</identifier>
+      </relatedInfo>
+
+            <relatedInfo type="collection">
+        <title>collection 1</title>
+        <identifier type="local">1Col14</identifier>
+      </relatedInfo>
+
+            <relatedInfo type="collection">
+        <title>collection 1</title>
+        <identifier type="local">1Col13</identifier>
+      </relatedInfo>
+
+            <relatedInfo type="collection">
+        <title>collection 1</title>
+        <identifier type="local">1Col12</identifier>
+      </relatedInfo>
+
+            <relatedInfo type="collection">
+        <title>collection 1</title>
+        <identifier type="local">1Col11</identifier>
+      </relatedInfo>
+
+            <relatedInfo type="collection">
+        <title>collection 1</title>
+        <identifier type="local">1Col1m</identifier>
+      </relatedInfo>
+
+            <relatedInfo type="collection">
+        <title>collection 1</title>
+        <identifier type="local">1Col1n</identifier>
+      </relatedInfo>
+
+            <relatedInfo type="collection">
+        <title>collection 1</title>
+        <identifier type="local">1Col1b</identifier>
+      </relatedInfo>
+
+            <relatedInfo type="collection">
+        <title>collection 1</title>
+        <identifier type="local">1Col1v</identifier>
+      </relatedInfo>
+
+            <relatedInfo type="collection">
+        <title>collection 1</title>
+        <identifier type="local">1Col1c</identifier>
+      </relatedInfo>
+
+            <relatedInfo type="collection">
+        <title>collection 1</title>
+        <identifier type="local">1Col1x</identifier>
+      </relatedInfo>
+
+            <relatedInfo type="collection">
+        <title>collection 1</title>
+        <identifier type="local">1Col1z</identifier>
+      </relatedInfo>
+
+            <relatedInfo type="collection">
+        <title>collection 1</title>
+        <identifier type="local">1Col1p</identifier>
+      </relatedInfo>
+
+            <relatedInfo type="collection">
+        <title>collection 1</title>
+        <identifier type="local">1Col1o</identifier>
+      </relatedInfo>
+
+            <relatedInfo type="collection">
+        <title>collection 1</title>
+        <identifier type="local">1Col1i</identifier>
+      </relatedInfo>
+
+            <relatedInfo type="collection">
+        <title>collection 1</title>
+        <identifier type="local">1Col1u</identifier>
+      </relatedInfo>
+
+            <relatedInfo type="collection">
+        <title>collection 1</title>
+        <identifier type="local">1Col1y</identifier>
+      </relatedInfo>
+
+            <relatedInfo type="collection">
+        <title>collection 1</title>
+        <identifier type="local">1Col1t</identifier>
+      </relatedInfo>
+
+            <relatedInfo type="collection">
+        <title>collection 1</title>
+        <identifier type="local">1Col1r</identifier>
+      </relatedInfo>
+      
+
+            <relatedInfo type="collection">
+        <title>collection 1</title>
+        <identifier type="local">1Col1e</identifier>
+      </relatedInfo>
+
+            <relatedInfo type="collection">
+        <title>collection 1</title>
+        <identifier type="local">1Col1s</identifier>
+      </relatedInfo>
+
+            <relatedInfo type="collection">
+        <title>collection 1</title>
+        <identifier type="local">1Col1a</identifier>
+      </relatedInfo>
+
+    </collection>
+  </registryObject>
+</registryObjects>
