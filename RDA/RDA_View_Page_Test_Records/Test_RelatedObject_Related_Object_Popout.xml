@@ -3,13 +3,13 @@
                  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                  xsi:schemaLocation="http://ands.org.au/standards/rif-cs/registryObjects http://services.ands.org.au/documentation/rifcs/schema/registryObjects.xsd">
     <registryObject group="AUTestingRecords2">
-        <key>202108101111234254randomKey345123.456.654/001</key>
+        <key>202108101111234254randomKey345123.456.654/001RO</key>
         <originatingSource>nla.gov.au</originatingSource>
         <collection dateAccessioned="2016-04-29T01:05:09+10:00" type="dataset">
             <name type="primary">
-                <namePart>Test record with related records in the related info section</namePart>
+                <namePart>Test record with relatedObject relationships direct and reverse</namePart>
             </name>
-            <identifier type="local">collection_id1_relInfo</identifier>
+            <identifier type="local">collection_id1_relObjRO</identifier>
             <description type="brief">The provided data (the Data) represent a raster map of agricultural profit at full
                 equity (PFE) for Australia for the year 2005/06. Values of PFE are provided in ($/ha). PFE is a measure
                 of profit which is calculated as the revenue from the sale of agricultural commodities minus all fixed
@@ -28,38 +28,22 @@
                 33-45.
             </description>
             <relatedObject>
-                <key>202108101234252344randomKey345123.456.654/003</key>
+                <key>202108101234252344randomKey345123.456.654/003RO</key>
                 <relation type="hasAssociationWith"/>
             </relatedObject>
-            <relatedInfo type="collection">
-                <title>Resolvable party type collection - This title should not show</title>
-                <identifier type="doi">110.4225/08/5106F68553A4Aa</identifier>
-                <relation type="isCitedBy"/>
-            </relatedInfo>
-            <relatedInfo type="party">
-                <title>unresolved related info party</title>
-                <identifier type="local">local identifier that doesn't make sense</identifier>
-                <relation type="hasOwner"/>
-            </relatedInfo>
-            <relatedInfo type="party">
-                <title>Resolvable party type person - This title should not show</title>
-                <identifier type="local">relatedInfo_1_-ID2</identifier>
-                <relation type="hasOwner"/>
-            </relatedInfo>
-            <relatedInfo type="service">
-                <title>resolvable service. This title should not show</title>
-                <identifier type="local">abctb.org.au 2d</identifier>
-                <relation type="hasAssociationWith"/>
-            </relatedInfo>
+            <relatedObject>
+                <key>AUTestingRecordsParty_relatedInfo2RO</key>
+                <relation type="isManagedBy"/>
+            </relatedObject>
         </collection>
     </registryObject>
 
     <registryObject group="AUTestingRecords2">
-        <key>2021081011234234254randomKey345123.456.654/004</key>
+        <key>2021081011234234254randomKey345123.456.654/004RO</key>
         <originatingSource>nla.gov.au</originatingSource>
         <collection dateAccessioned="2016-04-29T01:05:09+10:00" type="dataset">
             <name type="primary">
-                <namePart>Collection via related info</namePart>
+                <namePart>Collection reverse via relatedObject</namePart>
             </name>
             <description type="brief">The provided data (the Data) represent a raster map of agricultural profit at full
                 equity (PFE) for Australia for the year 2005/06. Values of PFE are provided in ($/ha). PFE is a measure
@@ -78,18 +62,22 @@
                 of agricultural profit on a continental scale: An example for Australia. Agricultural Systems. 105, 1,
                 33-45.
             </description>
-            <identifier type="doi">110.4225/08/5106F68553A4Aa</identifier>
-            <identifier type="local">2nd_id</identifier>
+            <relatedObject>
+                <key>202108101111234254randomKey345123.456.654/001RO</key>
+                <relation type="isDerivedFrom"/>
+            </relatedObject>
+            <identifier type="doi">110.4225/08/5106F68553A4AaRO</identifier>
+            <identifier type="local">2nd_idRO</identifier>
         </collection>
     </registryObject>
 
 
     <registryObject group="AUTestingRecords2">
-        <key>202108101234252344randomKey345123.456.654/003</key>
+        <key>202108101234252344randomKey345123.456.654/003RO</key>
         <originatingSource>nla.gov.au</originatingSource>
         <collection dateAccessioned="2016-04-29T01:05:09+10:00" type="dataset">
             <name type="primary">
-                <namePart>Collection via related object</namePart>
+                <namePart>Collection direct via relatedObject</namePart>
             </name>
             <description type="brief">The provided data (the Data) represent a raster map of agricultural profit at full
                 equity (PFE) for Australia for the year 2005/06. Values of PFE are provided in ($/ha). PFE is a measure
@@ -108,33 +96,19 @@
                 of agricultural profit on a continental scale: An example for Australia. Agricultural Systems. 105, 1,
                 33-45.
             </description>
-            <identifier type="doi">110.4225/08/5106F68553A4Aa</identifier>
+            <identifier type="doi">110.4225/08/5106F68553A4AaRO</identifier>
         </collection>
     </registryObject>
 
     <registryObject group="AUTestingRecords2">
-        <key>f499aed0-fb7a-bf66-39a1-a3c7242941581112333</key>
-        <originatingSource type="">https://test.researchdata.ardc.edu.au/registry//orca/register_my_data
-        </originatingSource>
-        <party type="administrativePosition">
-            <name type="primary">
-                <namePart type="given">related info</namePart>
-                <namePart type="family">party</namePart>
-            </name>
-            <description type="">&lt;p&gt;I am a description.</description>
-            <identifier type="doi">http://www.Iamapotatoo.edu.au</identifier>
-        </party>
-    </registryObject>
-
-    <registryObject group="AUTestingRecords2">
-        <key>AUTestingRecordsParty_relatedInfo1</key>
+        <key>AUTestingRecordsParty_relatedInfo1RO</key>
         <originatingSource>http://www.proteomebrowser.org</originatingSource>
         <party type="person">
             <name type="primary">
-                <namePart type="">(AUTestingRecords)author_3_ - Party Type Person</namePart>
+                <namePart type="">Party Person - reverse relatedObject</namePart>
             </name>
-            <identifier type="local">relatedInfo_1_-ID1</identifier>
-            <identifier type="local">relatedInfo_1_-ID2</identifier>
+            <identifier type="local">relatedInfo_1_-ID1RO</identifier>
+            <identifier type="local">relatedInfo_1_-ID2RO</identifier>
             <location>
                 <address>
                     <electronic type="url">
@@ -145,6 +119,10 @@
                     </electronic>
                 </address>
             </location>
+            <relatedObject>
+                <key>202108101111234254randomKey345123.456.654/001RO</key>
+                <relation type="isOwnerOf"/>
+            </relatedObject>
             <description type="full">
                 &amp;lt;p&amp;gt;The Swedish Human Protein Atlas project, funded by the Knut and Alice Wallenberg
                 Foundation, has been set up to allow for a systematic exploration of the human proteome using
@@ -168,14 +146,14 @@
     </registryObject>
 
     <registryObject group="AUTestingRecords2">
-        <key>AUTestingRecordsParty_relatedInfo2</key>
+        <key>AUTestingRecordsParty_relatedInfo2RO</key>
         <originatingSource>http://www.proteomebrowser.org</originatingSource>
         <party type="group">
             <name type="primary">
-                <namePart type="">(AUTestingRecords) Party Type Organisation reverse relatedInfo</namePart>
+                <namePart type="">Party Type Organisation direct relatedObject</namePart>
             </name>
-            <identifier type="local">relatedInfo_2_-ID1</identifier>
-            <identifier type="local">relatedInfo_2_-ID2</identifier>
+            <identifier type="local">relatedInfo_2_-ID1RO</identifier>
+            <identifier type="local">relatedInfo_2_-ID2RO</identifier>
             <location>
                 <address>
                     <electronic type="url">
@@ -190,11 +168,6 @@
                     </physical>
                 </address>
             </location>
-            <relatedInfo type="collection">
-                <title>Resolvable collection. This title should not show</title>
-                <identifier type="local">collection_id1_relInfo</identifier>
-                <relation type="isMangerOf"/>
-            </relatedInfo>
             <description type="full">
                 &amp;lt;p&amp;gt;The Swedish Human Protein Atlas project, funded by the Knut and Alice Wallenberg
                 Foundation, has been set up to allow for a systematic exploration of the human proteome using
@@ -218,13 +191,13 @@
     </registryObject>
 
     <registryObject group="Australian Research Council">
-        <key>AUTestingRecordsActivity_relatedInfo2</key>
+        <key>AUTestingRecordsActivity_relatedInfo2RO</key>
         <originatingSource>https://dataportal.arc.gov.au/NCGP/API/grants/</originatingSource>
         <activity type="grant">
-            <identifier type="arc">DE190100003dd</identifier>
-            <identifier type="purl">http://purl.org/au-research/grants/arc/DE1dd90100003</identifier>
+            <identifier type="arc">DE190100003ddRO</identifier>
+            <identifier type="purl">http://purl.org/au-research/grants/arc/DE1dd90100003RO</identifier>
             <name type="primary">
-                <namePart>AUTestingRecords2 - Activity reverse relatedInfo</namePart>
+                <namePart>Activity reverse relatedObject</namePart>
             </name>
             <location>
                 <address>
@@ -237,6 +210,10 @@
                 <startDate dateFormat="W3CDTF">2019-02-01</startDate>
                 <endDate dateFormat="W3CDTF">2022-01-31</endDate>
             </existenceDates>
+            <relatedObject>
+                <key>202108101111234254randomKey345123.456.654/001RO</key>
+                <relation type="hasAssociationWith"/>
+            </relatedObject>
             <description type="brief">Aliens in the alps: predicting invasions and protecting native species. This
                 project aims to investigate how warming and alien species invasions impact on Australia&#8217;s alpine
                 ecosystems. Using a combination of methods from across the natural and physical sciences, this project
@@ -254,26 +231,16 @@
             <subject type="anzsrc-seo">960307</subject>
             <subject type="anzsrc-seo">960409</subject>
             <subject type="anzsrc-seo">960509</subject>
-            <relatedInfo type="party">
-                <title>Dr Grant Duffy</title>
-                <identifier type="orcid">0000-0002-9031-8164</identifier>
-                <relation type="Discovery early Career Researcher Award"/>
-            </relatedInfo>
-            <relatedInfo type="collection">
-                <title>Resolvable collection. This title should not show</title>
-                <identifier type="local">collection_id1_relInfo</identifier>
-                <relation type="hasOutput"/>
-            </relatedInfo>
         </activity>
     </registryObject>
 
     <registryObject group="AUTestingRecords2">
-        <key>AUTestingRecordsService_relatedInfo2</key>
+        <key>AUTestingRecordsService_relatedInfo2RO</key>
         <originatingSource>http://abctb.org.au/</originatingSource>
         <service type="search-http">
-            <identifier type="local">abctb.org.au 2d</identifier>
+            <identifier type="local">abctb.org.au 2dRO</identifier>
             <name type="primary">
-                <namePart type="full">Breast Cancer Tissue Bank Search Tool</namePart>
+                <namePart type="full">Service reverse relatedObject</namePart>
             </name>
             <location>
                 <address>
@@ -287,6 +254,10 @@
                 page allows researchers to search the contents of the Breast Cancer Tissue Bank for samples and images
                 that meet criteria selected from pull-down menus.
             </description>
+            <relatedObject>
+                <key>202108101111234254randomKey345123.456.654/001RO</key>
+                <relation type="produces"/>
+            </relatedObject>
             <description type="rights">Limited information about items in the BCTB collections, and small images, are
                 available publicly through the search tool on the Research Query web page. Researchers who would like to
                 seek direct access to samples and full-size images can find details of the procedure to follow at
