@@ -85,6 +85,25 @@
         </party>
     </registryObject>
 
+      <registryObject group="Australian Ocean Data Network">
+    <key>(AUTestingRecords3)RelatedPartyGroup23423/s/s2</key>
+    <originatingSource>http://data.aims.gov.au</originatingSource>
+    <party type="group">
+      <identifier type="global">AIMS</identifier>
+      <name type="primary">
+        <namePart>AIMS</namePart>
+      </name>
+      <location>
+        <address>
+          <physical type="streetAddress">
+            <addressPart type="addressLine">AIMS</addressPart>
+            <addressPart type="stateOrTerritory">Queensland</addressPart>
+          </physical>
+        </address>
+      </location>
+    </party>
+  </registryObject>
+
     <registryObject group="AUTestingRecords3">
         <key>AUTdT3estingRecordsVC/0008</key>
         <originatingSource>http://services.ands.org.au/home/orca/register_my_data</originatingSource>
@@ -195,7 +214,7 @@
                 <relation type="isOwnedBy"/>
             </relatedObject>
             <relatedObject>
-                <key>GA/Davidson,R.J.</key>
+                <key>GA/Davidson,R.J.AUT</key>
                 <relation type="hasCollector"/>
             </relatedObject>
             <subject type="local">LocalKeyword</subject>
