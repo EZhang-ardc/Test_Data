@@ -135,7 +135,7 @@
             </relatedInfo>
                         <relatedInfo type="activity">
                 <title>A Related Info Activity</title>
-                <identifier type="purl">http://purl.org/au-research/grants/dsfdsa33aa</identifier>
+                <identifier type="purl">http://purl.org/au-research/grants/dsfdsa33aa1</identifier>
                 <relation type="supports"/>
             </relatedInfo>
                         <relatedInfo type="service">
