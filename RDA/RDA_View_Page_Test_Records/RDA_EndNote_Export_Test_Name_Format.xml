@@ -73,5 +73,98 @@
       </citationInfo>
     </collection>
   </registryObject>
+
+  <registryObject group="Curtin University">
+    <key>curtin.edu.au/parties/people/254</key>
+    <originatingSource>https://redbox.library.curtin.edu.au/mint/Parties_People</originatingSource>
+    <party type="person">
+      <identifier type="AU-ANL:PEAU">https://nla.gov.au/nla.party-1626319</identifier>
+      <identifier type="orcid">http://orcid.org/0000-0003-3367-8961</identifier>
+      <name type="primary">
+        <namePart type="given">Christopher L.</namePart>
+        <namePart type="family">Kirkland</namePart>
+      </name>
+      <location>
+        <address>
+          <electronic type="email">
+            <value>C.Kirkland@curtin.edu.au</value>
+          </electronic>
+        </address>
+      </location>
+      <description type="full"/>
+    </party>
+  </registryObject>
+
+  <registryObject group="National Library of Australia">
+    <key>curtin.edu.au/parties/people/255</key>
+    <originatingSource type="authoritative">http://trove.nla.gov.au/people</originatingSource>
+    <party dateModified="2018-09-26T19:04:57Z" type="person">
+      <identifier type="AU-ANL:PEAU">http://nla.gov.au/nla.party-1476385</identifier>
+      <identifier type="AU-VU:EOAS">http://www.eoas.info/biogs/P004552b.htm</identifier>
+      <name type="primary">
+        <namePart type="family">Swan</namePart>
+        <namePart type="given">Ailsa</namePart>
+        <namePart type="given">Macvey</namePart>
+      </name>
+      <name type="alternative">
+        <namePart>Lowen, Ailsa Macvey</namePart>
+      </name>
+      <location>
+        <address>
+          <electronic type="url">
+            <value>http://nla.gov.au/nla.party-1476385</value>
+          </electronic>
+        </address>
+      </location>
+      <description type="brief">Ailsa Swan began her scientific career in the area of chemistry. She was later and active member of the Field Naturalists Club of Victoria, the Bird Observers Club of Australia and was founding member of the Phillip Island Conservation Society. Her passion for nature conservation led to Swan becoming an expert in planning laws. She made submissions, prepared material and appeared at hearings of the Administrative Appeals Tribunal, representing the Bird Observers Club of Australia, the Phillip Island Conservation Society and Environment Victoria (formerly the Conservation Council of Victoria).</description>
+    </party>
+  </registryObject>
+
+
+    <registryObject group="National Library of Australia">
+    <key>curtin.edu.au/parties/people/256</key>
+    <originatingSource type="authoritative">http://trove.nla.gov.au/people</originatingSource>
+    <party dateModified="2021-10-11T05:00:30Z" type="person">
+      <identifier type="AU-ANL:PEAU">http://nla.gov.au/nla.party-1528156</identifier>
+      <identifier type="AU-VDU">https://research-data.deakin.edu.au/mint/published/persist/f283ec080f0c760fd902d9f48a09b2ca</identifier>
+      <name type="alternative">
+        <namePart type="family">Kaplan</namePart>
+        <namePart type="given">David</namePart>
+        <namePart type="title">Prof</namePart>
+      </name>
+      <location>
+        <address>
+          <electronic type="url">
+            <value>http://nla.gov.au/nla.party-1528156</value>
+          </electronic>
+        </address>
+      </location>
+      <description type="full">Prof David Kaplan is affiliated with Deakin University.</description>
+    </party>
+  </registryObject>
+
+   <registryObject group="The University of Queensland">
+    <key>curtin.edu.au/parties/people/257</key>
+    <originatingSource>http://services.ands.org.au/home/orca/register_my_data</originatingSource>
+    <party dateModified="2012-07-12T06:10:48Z" type="person">
+      <identifier type="local">www.cai.uq.edu.au/party-8</identifier>
+      <identifier type="AU-ANL:PEAU">http://nla.gov.au/nla.party-579813</identifier>
+      <name type="primary">
+        <namePart type="title">Professor</namePart>
+        <namePart type="given">Charles</namePart>
+        <namePart type="family">Watson</namePart>
+        <namePart type="suffix">BSc(Med) (Hons) MBBS MD FAFPHM</namePart>
+      </name>
+      <location>
+        <address>
+          <electronic type="email">
+            <value>C.Watson@curtin.edu.au</value>
+          </electronic>
+        </address>
+      </location>
+
+    </party>
+  </registryObject>
+
 </registryObjects>
  
