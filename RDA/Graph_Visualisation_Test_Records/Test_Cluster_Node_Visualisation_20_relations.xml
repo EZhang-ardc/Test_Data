@@ -1597,12 +1597,11 @@
       <existenceDates>
         <startDate dateFormat="W3CDTF">1970-01-19T00:00:00+1000</startDate>
         <endDate dateFormat="W3CDTF">1992-08-24T00:00:00+1000</endDate>
+      </existenceDates>
           <relatedObject>
         <key>http://nla.gov.au/nla.party-AUT2clu</key>
         <relation type="hasParticipant"/>
       </relatedObject>
-      </existenceDates>
-
     </activity>
   </registryObject>
 
