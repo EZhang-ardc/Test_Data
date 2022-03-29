@@ -1,0 +1,798 @@
+
+<registryObjects>
+
+  <registryObject group="AUTestingRecords3">
+    <key>P1_More_Data</key>
+    <originatingSource>http://www.ga.gov.au</originatingSource>
+    <party type="person">
+      <name type="primary">
+        <namePart>(AUTestingRecords3)Party with relatedInfo that both eixst and dont.</namePart>
+      </name>
+      <identifier type="orcid">0125-9875-6523-3365</identifier>
+      <location>
+        <address>
+          <physical type="streetAddress">
+            <addressPart type="addressLine">Biomolecular Frontiers Research Centre Department of Chemistry and Biomolecular Science Faculty of Science Macquarie University NSW 2109 Australia</addressPart>
+          </physical>
+        </address>
+      </location>
+      <relatedObject>
+        <key>S1_MoreData</key>
+        <relation type="isOwnedBy"/>
+      </relatedObject>
+
+      <relatedInfo type="service">
+        <title>A Related Info Servie That Exists and is related to 6 collections</title>
+        <identifier type="arc">arc_Grant_More_Data_1</identifier>
+        <relation type="hasAssociationWith"/>
+      </relatedInfo>
+
+      <relatedInfo type="activity">
+        <title>A Related Info Activity That Does Not Exist but is related to by 3 collections</title>
+        <identifier type="arc">arc_Grant_More_Data_1</identifier>
+        <relation type="hasAssociationWith"/>
+      </relatedInfo>
+    </party>
+  </registryObject>
+
+
+
+  <registryObject group="AUTestingRecords3">
+    <key>P2_More_Data</key>
+    <originatingSource>http://www.ga.gov.au</originatingSource>
+    <party type="person">
+      <name type="primary">
+        <namePart>(AUTestingRecords3)Party that is related to by 20 collectons using relatedObject</namePart>
+      </name>
+      <identifier type="local">P2_More_Data_ID1</identifier>
+      <location>
+        <address>
+          <physical type="streetAddress">
+            <addressPart type="addressLine">Biomolecular Frontiers Research Centre Department of Chemistry and Biomolecular Science Faculty of Science Macquarie University NSW 2109 Australia</addressPart>
+          </physical>
+        </address>
+      </location>
+      <relatedObject>
+        <key>P2_More_Data</key>
+        <relation type="isManagedBy"/>
+      </relatedObject>
+    </party>
+  </registryObject>
+
+  <registryObject group="AUTestingRecords3">
+    <key>P3_More_Data</key>
+    <originatingSource>http://www.ga.gov.au</originatingSource>
+    <party type="person">
+      <name type="primary">
+        <namePart>(AUTestingRecords3)Party that is related to by 10 collectons using relatedInfo</namePart>
+      </name>
+      <identifier type="local">P3_More_Data_ID1</identifier>
+      <location>
+        <address>
+          <physical type="streetAddress">
+            <addressPart type="addressLine">Biomolecular Frontiers Research Centre Department of Chemistry and Biomolecular Science Faculty of Science Macquarie University NSW 2109 Australia</addressPart>
+          </physical>
+        </address>
+      </location>
+      <relatedObject>
+        <key>P2_More_Data</key>
+        <relation type="isManagedBy"/>
+      </relatedObject>
+    </party>
+  </registryObject>
+
+  <registryObject group="AUTestingRecords">
+    <key>S1_MoreData</key>
+    <originatingSource>http://abctb.org.au/</originatingSource>
+    <service type="search-http">
+      <identifier type="local">S1_MoreData_ID1</identifier>
+      <name type="primary">
+        <namePart type="full">Service that relates to 6 collections (3 relatedObject 3 relatedInfo)</namePart>
+      </name>
+      <location>
+        <address>
+          <electronic type="url">
+            <value>http://abctb.org.au/abctbNew2/researchspecimenquery.aspx</value>
+          </electronic>
+        </address>
+      </location>
+      <relatedObject>
+        <key>P8tL4cOV5hNbQXWBCws8wPZmfdsaRqtslw66reKtVxfm0BEYY_moreData</key>
+        <relation type="hasAssociationWith"/>
+      </relatedObject>
+      <relatedObject>
+        <key>P8tL4cOV5hNbQXWBCws8wPZm8pwbdfgfdgreasdfsdaf0BEYY_moreData</key>
+        <relation type="isDerivedFrom"/>
+      </relatedObject>
+      <relatedObject>
+        <key>P8tL4cOV5hNbQXWBCws8wPZmfdsaRqtslw66reKtVxfm0BEYY_moreData</key>
+        <relation type="hasPart"/>
+      </relatedObject>
+      <relatedObject>
+        <key>P2_More_Data</key>
+        <relation type="isOwnedBy"/>
+      </relatedObject>
+      <relatedInfo type="collection">
+        <title>Title should resolve 1</title>
+        <identifier type="handle">101./moredata1</identifier>
+        <relation type="hasAssociationWith"/>
+      </relatedInfo>
+      <relatedInfo type="collection">
+        <title>Title should resolve 2</title>
+        <identifier type="arc">arc_Grant_More_Data_1</identifier>
+        <relation type="hasAssociationWith"/>
+      </relatedInfo>
+      <relatedInfo type="collection">
+        <title>Title should resolve 3</title>
+        <identifier type="arc">arc_Grant_More_Data_1</identifier>
+        <relation type="hasAssociationWith"/>
+      </relatedInfo>
+      <relatedInfo type="activity">
+        <title>A Related Info Activity That Does Not Exist but is related to by 3 collections</title>
+        <identifier type="arc">arc_Grant_More_Data_1</identifier>
+        <relation type="hasAssociationWith"/>
+      </relatedInfo>
+      <description type="brief">The Research Query page is a component of the Breast Cancer Tissue Bank website. It shows the numbers of consented patients, and the numbers of available samples. The Research Query page allows researchers to search the contents of the Breast Cancer Tissue Bank for samples and images that meet criteria selected from pull-down menus.</description>
+      <description type="rights">Limited information about items in the BCTB collections, and small images, are available publicly through the search tool on the Research Query web page.  Researchers who would like to seek direct access to samples and full-size images can find details of the procedure to follow at https://abctb.org.au/abctbNew2/researchers.aspx .</description>
+    </service>
+  </registryObject>
+
+  <registryObject group="(AUTestingRecords3)">
+    <key>C1_MoreData</key>
+    <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+    <collection type="repository">
+      <name type="primary">
+        <namePart>((AUTestingRecords3) Collection which relates to 10 collections (5 relatedObject 5 relatedInfo</namePart>
+      </name>
+      <description type="note">&lt;p&gt;asdfasdf asdfasd fasdfasdf&lt;/p&gt;</description>
+      <rights>
+        <rightsStatement>Some Rights</rightsStatement>
+      </rights>
+      <identifier type="ean13">C1_MoreData_ID1</identifier>
+      <location>
+        <address>
+          <electronic type="url" target="directDownload">
+            <value>http://somelocation.com</value>
+          </electronic>
+        </address>
+      </location>
+      <coverage>
+        <spatial type="text">Australia</spatial>
+      </coverage>
+      <relatedInfo type="collection">
+        <title>Related Info collection that exists</title>
+        <identifier type="ean13">ean13_92345991_moreData</identifier>
+        <relation type="hasAssociationWith"/>
+      </relatedInfo>
+      <relatedInfo type="collection">
+        <title>Related Info collection that exists</title>
+        <identifier type="ean13">ean13_92345992_moreData</identifier>
+        <relation type="hasAssociationWith"/>
+      </relatedInfo>
+      <relatedInfo type="collection">
+        <title>Related Info collection that exists</title>
+        <identifier type="ean13">ean13_92345993_moreData</identifier>
+        <relation type="hasAssociationWith"/>
+      </relatedInfo>
+      <relatedInfo type="collection">
+        <title>Related Info collection that exists</title>
+        <identifier type="ean13">ean13_92345994_moreData</identifier>
+        <relation type="hasAssociationWith"/>
+      </relatedInfo>
+      <relatedInfo type="collection">
+        <title>Related Info collection that exists</title>
+        <identifier type="ean13">ean13_92345995_moreData</identifier>
+        <relation type="hasAssociationWith"/>
+      </relatedInfo>
+    </collection>
+  </registryObject>
+
+
+  <registryObject group="(AUTestingRecords3)">
+    <key>P8tL4cOV5hNbQXWBCws8wPZmfdsaRqtslw66reKtVxfm0BEYY_moreData</key>
+    <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+    <collection type="repository">
+      <name type="primary">
+        <namePart>((AUTestingRecords3) Collection which meets all Metadata Report checks. RelInfo Service and Activity. RelOb Party</namePart>
+      </name>
+      <description type="note">&lt;p&gt;asdfasdf asdfasd fasdfasdf&lt;/p&gt;</description>
+      <rights>
+        <rightsStatement>Some Rights</rightsStatement>
+      </rights>
+      <identifier type="ean13">ean13_92345992_moreData</identifier>
+      <location>
+        <address>
+          <electronic type="url" target="directDownload">
+            <value>http://somelocation.com</value>
+          </electronic>
+        </address>
+      </location>
+      <coverage>
+        <spatial type="text">Australia</spatial>
+      </coverage>
+      <relatedInfo type="activity">
+        <title>Related Info activity which does not exist sbut is referenced in record with key P1_More_Data</title>
+        <identifier type="arc">arc_Grant_More_Data_1</identifier>
+        <relation type="isOutputOf"/>
+      </relatedInfo>
+    </collection>
+  </registryObject>
+
+  <registryObject group="(AUTestingRecords3)">
+    <key>P8tL4cOV5hNbQXWBCws8wPZm8pwbdfgfdgreasdfsdaf0BEYY_moreData</key>
+    <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+    <collection type="repository">
+      <name type="primary">
+        <namePart>((AUTestingRecords3) Collection which meets only location. Physical Address</namePart>
+      </name>
+      <identifier type="ean13">ean13_92345993_moreData</identifier>
+      <description type="note">&lt;p&gt;asdfasdf asdfasd fasdfasdf&lt;/p&gt;</description>
+      <location>
+        <address>
+          <physical>
+            <addressPart type="text">
+&amp;lt;p&amp;gt;&amp;lt;a title=&amp;quot;Public Record Office Victoria&amp;quot; href=&amp;quot;http://prov.vic.gov.au&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;Victorian Archives Centre&amp;lt;/a&amp;gt;&amp;lt;br /&amp;gt;99 Shiel St North Melbourne VIC 3051, Australia&amp;lt;br /&amp;gt;Ph: +61 3 9348 5600&amp;lt;/p&amp;gt;
+</addressPart>
+          </physical>
+        </address>
+      </location>
+      <relatedInfo type="activity">
+        <title>Related Info activity which does not exist sbut is referenced in record with key P1_More_Data</title>
+        <identifier type="arc">arc_Grant_More_Data_1</identifier>
+        <relation type="isOutputOf"/>
+      </relatedInfo>
+    </collection>
+  </registryObject>
+
+  <registryObject group="(AUTestingRecords3)">
+    <key>P8tL4cOdfgPZm8sdfwbbsaRqtsasdf342daf0BEYY_moreData</key>
+    <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+    <collection type="repository">
+      <name type="primary">
+        <namePart>((AUTestingRecords3) Collection which meets only location. Electronic Address</namePart>
+      </name>
+      <identifier type="ean13">ean13_92345994_moreData</identifier>
+      <description type="note">&lt;p&gt;asdfasdf asdfasd fasdfasdf&lt;/p&gt;</description>
+      <location>
+        <address>
+          <electronic type="url" target="directDownload">
+            <value>http://somelocation.com</value>
+          </electronic>
+        </address>
+      </location>
+
+      <relatedInfo type="activity">
+        <title>Related Info activity which does not exist sbut is referenced in record with key P1_More_Data</title>
+        <identifier type="arc">arc_Grant_More_Data_1</identifier>
+        <relation type="isOutputOf"/>
+      </relatedInfo>
+    </collection>
+  </registryObject>
+
+  <registryObject group="(AUTestingRecords3)">
+    <key>P8tL4cOV5hadsfws8wPZm8pwbbsaRqtslw66reKtVxfm0BEYY_moreData</key>
+    <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+    <collection type="repository">
+      <name type="primary">
+        <namePart>((AUTestingRecords3) Collection which only meets Identifier (ean13) Metadata Report checks.</namePart>
+      </name>
+      <identifier type="ean13">ean13_92345995_moreData</identifier>
+      <description type="note">&lt;p&gt;asdfasdf asdfasd fasdfasdf&lt;/p&gt;</description>
+      <identifier type="ean13">ean13_923dfgdfgfdg45992_moreData</identifier>
+    </collection>
+  </registryObject>
+
+  <registryObject group="(AUTestingRecords3)">
+    <key>P8tL4casdfdsadfse3bsaRqtslw66reKtVxfm0BEYY_moreData</key>
+    <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+    <collection type="repository">
+      <name type="primary">
+        <namePart>((AUTestingRecords3) Collection which only meets Identifier (x2 local and handle) Metadata Report checks.</namePart>
+      </name>
+      <description type="note">&lt;p&gt;asdfasdf asdfasd fasdfasdf&lt;/p&gt;</description>
+      <identifier type="local">ean13_9asdfdsf23dfgdfgfdg45992_moreData</identifier>
+      <identifier type="hanle">101.25/545646.45_moreData</identifier>
+      <identifier type="ean13">ean13_92345991_moreData</identifier>
+    </collection>
+  </registryObject>
+
+  <registryObject group="(AUTestingRecords3)">
+    <key>P8tL4asdfdsdsfd53533_bbsaRqtslw66reKtVxfm0BEYY_moreData</key>
+    <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+    <collection type="repository">
+      <name type="primary">
+        <namePart>((AUTestingRecords3) Collection which meets only CitationInfo Metadata Report checks. FullCitation</namePart>
+      </name>
+      <description type="note">&lt;p&gt;asdfasdf asdfasd fasdfasdf&lt;/p&gt;</description>
+      <citationInfo>
+        <fullCitation style="APA">APA Full Citation Goes here</fullCitation>
+      </citationInfo>
+    </collection>
+  </registryObject>
+
+  <registryObject group="(AUTestingRecords3)">
+    <key>P8tL4as2345sfdsf_bbsaRqsdf3lw66reKtVxfm0BEYY_moreData</key>
+    <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+    <collection type="repository">
+      <name type="primary">
+        <namePart>((AUTestingRecords3) Collection which meets only CitationInfo Metadata Report checks. Citation Metadata</namePart>
+      </name>
+      <description type="note">&lt;p&gt;asdfasdf asdfasd fasdfasdf&lt;/p&gt;</description>
+      <citationInfo>
+        <citationMetadata>
+          <title>
+Office of Environment and Heritage, New South Wales - NP_HEATH Vegetation Survey (null)
+</title>
+          <contributor>
+            <namePart>Example contributor 3 (entered as single string no seq)</namePart>
+          </contributor>
+          <contributor>
+            <namePart>Example contributor 1 (entered as single string no seq)</namePart>
+          </contributor>
+          <contributor>
+            <namePart>Example contributor 2 (entered as single string no seq)</namePart>
+          </contributor>
+          <identifier type="doi">103dsf30345545_moreData</identifier>
+          <date type="publicationDate">2001</date>
+          <date type="issued">2000</date>
+          <date type="created">1999</date>
+          <publisher>
+ÆKOS Data Portal, rights owned by State of New South Wales (Office of Environment and Heritage http://www.environment.nsw.gov.au/)
+</publisher>
+          <url> http://aekos.org.au/collection/nsw.gov.au/nsw_atlas/vis_flora_module/NP_HEATH </url>
+          <version>11/2013</version>
+          <context>citation Context goes here.</context>
+        </citationMetadata>
+      </citationInfo>
+    </collection>
+  </registryObject>
+
+  <registryObject group="(AUTestingRecords3)">
+    <key>P8tL4cOdsf258dssdf_EYY_moreData</key>
+    <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+    <collection type="repository">
+      <name type="primary">
+        <namePart>((AUTestingRecords3) Collection which meets only Rights Metadata Report checks. RighsStatement</namePart>
+      </name>
+      <description type="note">&lt;p&gt;asdfasdf asdfasd fasdfasdf&lt;/p&gt;</description>
+      <rights>
+        <rightsStatement>Some Rights</rightsStatement>
+      </rights>
+      <relatedObject>
+        <key>P2_More_Data</key>
+        <relation type="isManagedBy"/>
+      </relatedObject>
+    </collection>
+  </registryObject>
+
+  <registryObject group="(AUTestingRecords3)">
+    <key>P8tL4cOV258dsdsdf_EYY_moreData</key>
+    <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+    <collection type="repository">
+      <name type="primary">
+        <namePart>((AUTestingRecords3) Collection which meets only Rights Metadata Report checks. RighsStatement URL only</namePart>
+      </name>
+      <description type="note">&lt;p&gt;asdfasdf asdfasd fasdfasdf&lt;/p&gt;</description>
+      <rights>
+        <rightsStatement rightsUri="http://rightsStatement.org"/>
+      </rights>
+      <relatedObject>
+        <key>P2_More_Data</key>
+        <relation type="isManagedBy"/>
+      </relatedObject>
+    </collection>
+  </registryObject>
+
+  <registryObject group="(AUTestingRecords3)">
+    <key>P8tL4cOsdejf34__dssdf_EYY_moreData</key>
+    <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+    <collection type="repository">
+      <name type="primary">
+        <namePart>((AUTestingRecords3) Collection which meets only Rights Metadata Report checks. RighsStatement value only</namePart>
+      </name>
+      <description type="note">&lt;p&gt;asdfasdf asdfasd fasdfasdf&lt;/p&gt;</description>
+      <rights>
+        <rightsStatement>Rights statement value</rightsStatement>
+      </rights>
+      <relatedObject>
+        <key>P2_More_Data</key>
+        <relation type="isManagedBy"/>
+      </relatedObject>
+    </collection>
+  </registryObject>
+
+  <registryObject group="(AUTestingRecords3)">
+    <key>P8tL4jfgdsf34__dssdf_EYY_moreData</key>
+    <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+    <collection type="repository">
+      <name type="primary">
+        <namePart>((AUTestingRecords3) Collection which meets only Rights Metadata Report checks. RighsStatement value and URL</namePart>
+      </name>
+      <description type="note">&lt;p&gt;asdfasdf asdfasd fasdfasdf&lt;/p&gt;</description>
+      <rights>
+        <rightsStatement rightsUri="http://rightsStatement.org">Rights statement value</rightsStatement>
+      </rights>
+      <relatedObject>
+        <key>P2_More_Data</key>
+        <relation type="isManagedBy"/>
+      </relatedObject>
+    </collection>
+  </registryObject>
+
+  <registryObject group="(AUTestingRecords3)">
+    <key>P8tL4cOV..2nyjjdssdf_EYY_moreData</key>
+    <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+    <collection type="repository">
+      <name type="primary">
+        <namePart>((AUTestingRecords3) Collection which meets only Rights Metadata Report checks. Licence rightsUri only</namePart>
+      </name>
+      <description type="note">&lt;p&gt;asdfasdf asdfasd fasdfasdf&lt;/p&gt;</description>
+      <rights>
+        <licence rightsUri="http://rightsLicence.org"/>
+      </rights>
+      <relatedObject>
+        <key>P2_More_Data</key>
+        <relation type="isManagedBy"/>
+      </relatedObject>
+    </collection>
+  </registryObject>
+
+  <registryObject group="(AUTestingRecords3)">
+    <key>P8tL4cOddsf34__dssdfdffwf_EYY_moreData</key>
+    <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+    <collection type="repository">
+      <name type="primary">
+        <namePart>((AUTestingRecords3) Collection which meets only Rights Metadata Report checks. Licence value only</namePart>
+      </name>
+      <description type="note">&lt;p&gt;asdfasdf asdfasd fasdfasdf&lt;/p&gt;</description>
+      <rights>
+        <licence>Licence statement value</licence>
+      </rights>
+      <relatedObject>
+        <key>P2_More_Data</key>
+        <relation type="isManagedBy"/>
+      </relatedObject>
+    </collection>
+  </registryObject>
+
+  <registryObject group="(AUTestingRecords3)">
+    <key>P8tLdfsa5sdfsf34__dssdfdffwf_EYY_moreData</key>
+    <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+    <collection type="repository">
+      <name type="primary">
+        <namePart>((AUTestingRecords3) Collection which meets only Rights Metadata Report checks. Licence value and rights uri</namePart>
+      </name>
+      <description type="note">&lt;p&gt;asdfasdf asdfasd fasdfasdf&lt;/p&gt;</description>
+      <rights>
+        <licence rightsUri="http://rightsLicence.org">Licence statement value</licence>
+      </rights>
+      <relatedObject>
+        <key>P2_More_Data</key>
+        <relation type="isManagedBy"/>
+      </relatedObject>
+    </collection>
+  </registryObject>
+
+  <registryObject group="(AUTestingRecords3)">
+    <key>P3sdodslsdfsf34__dssdfdffwf_EYY_moreData</key>
+    <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+    <collection type="repository">
+      <name type="primary">
+        <namePart>((AUTestingRecords3) Collection which meets only Rights Metadata Report checks. Licence value, type and rights uri</namePart>
+      </name>
+      <description type="note">&lt;p&gt;asdfasdf asdfasd fasdfasdf&lt;/p&gt;</description>
+      <rights>
+        <licence type="cc-by" rightsUri="http://rightsLicence.org">Licence statement value</licence>
+      </rights>
+      <relatedObject>
+        <key>P2_More_Data</key>
+        <relation type="isManagedBy"/>
+      </relatedObject>
+    </collection>
+  </registryObject>
+
+  <registryObject group="(AUTestingRecords3)">
+    <key>P8tj5rty7dssdf_EYY_moreData</key>
+    <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+    <collection type="repository">
+      <name type="primary">
+        <namePart>((AUTestingRecords3) Collection which meets only Rights Metadata Report checks. AccessRights rightsUri only</namePart>
+      </name>
+      <description type="note">&lt;p&gt;asdfasdf asdfasd fasdfasdf&lt;/p&gt;</description>
+      <rights>
+        <accessRights rightsUri="http://rightsAccess.org"/>
+      </rights>
+      <relatedObject>
+        <key>P2_More_Data</key>
+        <relation type="isManagedBy"/>
+      </relatedObject>
+    </collection>
+  </registryObject>
+
+  <registryObject group="(AUTestingRecords3)">
+    <key>P8tL4cOdsf34__d2148fdfgfwf_EYY_moreData</key>
+    <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+    <collection type="repository">
+      <name type="primary">
+        <namePart>((AUTestingRecords3) Collection which meets only Rights Metadata Report checks. Access Rights value only</namePart>
+      </name>
+      <description type="note">&lt;p&gt;asdfasdf asdfasd fasdfasdf&lt;/p&gt;</description>
+      <rights>
+        <accessRights>Access rights statement value</accessRights>
+      </rights>
+      <relatedObject>
+        <key>P2_More_Data</key>
+        <relation type="isManagedBy"/>
+      </relatedObject>
+    </collection>
+  </registryObject>
+
+  <registryObject group="(AUTestingRecords3)">
+    <key>P3sdodsfdssdf_4dfdffwf_EYY_moreData</key>
+    <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+    <collection type="repository">
+      <name type="primary">
+        <namePart>((AUTestingRecords3) Collection which meets only Rights Metadata Report checks. Access rights value, type and rights uri</namePart>
+      </name>
+      <description type="note">&lt;p&gt;asdfasdf asdfasd fasdfasdf&lt;/p&gt;</description>
+      <rights>
+        <accessRights type="local" rightsUri="http://rightsAccess.org">Access statement value</accessRights>
+      </rights>
+      <relatedObject>
+        <key>P2_More_Data</key>
+        <relation type="isManagedBy"/>
+      </relatedObject>
+      <relatedInfo type="party">
+        <title>A Related Info Activity Party that exists</title>
+        <identifier type="local">P3_More_Data_ID1</identifier>
+        <relation type="hasAssociationWith"/>
+      </relatedInfo>
+    </collection>
+  </registryObject>
+
+  <registryObject group="(AUTestingRecords3)">
+    <key>P3sdodsdfssdf_4dfdffwf_EYY_moreData</key>
+    <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+    <collection type="repository">
+      <name type="primary">
+        <namePart>((AUTestingRecords3) Collection which meets only Rights Metadata Report checks. All Rights types and values</namePart>
+      </name>
+      <description type="note">&lt;p&gt;asdfasdf asdfasd fasdfasdf&lt;/p&gt;</description>
+      <rights>
+        <accessRights type="local" rightsUri="http://rightsAccess.org">Access statement value</accessRights>
+        <licence type="cc-by" rightsUri="http://rightsLicence.org">Licence statement value</licence>
+        <rightsStatement rightsUri="http://rightsStatement.org">Rights statement value</rightsStatement>
+      </rights>
+      <relatedObject>
+        <key>P2_More_Data</key>
+        <relation type="isManagedBy"/>
+      </relatedObject>
+      <relatedInfo type="party">
+        <title>A Related Info Activity Party that exists</title>
+        <identifier type="local">P3_More_Data_ID1</identifier>
+        <relation type="hasAssociationWith"/>
+      </relatedInfo>
+    </collection>
+  </registryObject>
+
+
+  <registryObject group="(AUTestingRecords3)">
+    <key>P8V5hNbQXWdfg.bsaRqtslw66reKtVxfm0BEYY_moreData</key>
+    <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+    <collection type="repository">
+      <name type="primary">
+        <namePart>((AUTestingRecords3) Collection which meets only Related Outputs. RelInfo dataQualityInformation</namePart>
+      </name>
+      <description type="note">&lt;p&gt;asdfasdf asdfasd fasdfasdf&lt;/p&gt;</description>
+      <relatedInfo type="dataQualityInformation">
+        <title>A Related Info dataQualityInformation</title>
+        <identifier type="arc">activityid2sdfddfs343_moreData</identifier>
+      </relatedInfo>
+      <relatedObject>
+        <key>P2_More_Data</key>
+        <relation type="isManagedBy"/>
+      </relatedObject>
+      <relatedInfo type="party">
+        <title>A Related Info Activity Party that exists</title>
+        <identifier type="local">P3_More_Data_ID1</identifier>
+        <relation type="hasAssociationWith"/>
+      </relatedInfo>
+    </collection>
+  </registryObject>
+
+  <registryObject group="(AUTestingRecords3)">
+    <key>P8V5hNbQXWdfg.bssdfVxfm0BEYY_moreData</key>
+    <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+    <collection type="repository">
+      <name type="primary">
+        <namePart>((AUTestingRecords3) Collection which meets only Related Outputs. RelInfo metadata</namePart>
+      </name>
+      <identifier type="handle">101./moredata1</identifier>
+      <description type="note">&lt;p&gt;asdfasdf asdfasd fasdfasdf&lt;/p&gt;</description>
+      <relatedInfo type="metadata">
+        <title>A Related Info metadata</title>
+        <identifier type="local">asdfds334_moreData</identifier>
+      </relatedInfo>
+      <relatedObject>
+        <key>P2_More_Data</key>
+        <relation type="isManagedBy"/>
+      </relatedObject>
+      <relatedInfo type="party">
+        <title>A Related Info Activity Party that exists</title>
+        <identifier type="local">P3_More_Data_ID1</identifier>
+        <relation type="hasAssociationWith"/>
+      </relatedInfo>
+    </collection>
+  </registryObject>
+
+  <registryObject group="(AUTestingRecords3)">
+    <key>P8V5hNbQXWdfg.b_d0ddYY_moreData</key>
+    <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+    <collection type="repository">
+      <name type="primary">
+        <namePart>((AUTestingRecords3) Collection which meets only Related Outputs. RelInfo publication</namePart>
+      </name>
+      <identifier type="handle">101./moredata2</identifier>
+      <description type="note">&lt;p&gt;asdfasdf asdfasd fasdfasdf&lt;/p&gt;</description>
+      <relatedInfo type="publication">
+        <title>A Related Info publication</title>
+        <identifier type="doi">10.13658dsf/sdf_moreData</identifier>
+        <relation type="isCitedBy"/>
+      </relatedInfo>
+      <relatedObject>
+        <key>P2_More_Data</key>
+        <relation type="isManagedBy"/>
+      </relatedObject>
+      <relatedInfo type="party">
+        <title>A Related Info Activity Party that exists</title>
+        <identifier type="local">P3_More_Data_ID1</identifier>
+        <relation type="hasAssociationWith"/>
+      </relatedInfo>
+    </collection>
+  </registryObject>
+
+  <registryObject group="(AUTestingRecords3)">
+    <key>P8V5hNbQ4XWdfg.bssfsdfdsdfEYY_moreData</key>
+    <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+    <collection type="repository">
+      <name type="primary">
+        <namePart>((AUTestingRecords3) Collection which meets only Related Outputs. RelInfo provenance</namePart>
+      </name>
+      <identifier type="handle">101./moredata3</identifier>
+      <description type="note">&lt;p&gt;asdfasdf asdfasd fasdfasdf&lt;/p&gt;</description>
+      <relatedInfo type="provenance">
+        <title>A Related Info provenance</title>
+        <identifier type="uri">http://someprov.url_moreData</identifier>
+        <notes>A few prov notes</notes>
+      </relatedInfo>
+      <relatedObject>
+        <key>P2_More_Data</key>
+        <relation type="isManagedBy"/>
+      </relatedObject>
+      <relatedInfo type="party">
+        <title>A Related Info Activity Party that exists</title>
+        <identifier type="local">P3_More_Data_ID1</identifier>
+        <relation type="hasAssociationWith"/>
+      </relatedInfo>
+    </collection>
+  </registryObject>
+
+  <registryObject group="(AUTestingRecords3)">
+    <key>P8V5hNbQXWdfg.bs355d5_fm0BEYY_moreData</key>
+    <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+    <collection type="repository">
+      <name type="primary">
+        <namePart>((AUTestingRecords3) Collection which meets only Related Outputs. RelInfo reuseInformation</namePart>
+      </name>
+      <description type="note">&lt;p&gt;asdfasdf asdfasd fasdfasdf&lt;/p&gt;</description>
+      <relatedInfo type="reuseInformation">
+        <title>A Related Info reuseInformation</title>
+        <identifier type="local">asdfdfs4_moreData</identifier>
+      </relatedInfo>
+      <relatedObject>
+        <key>P2_More_Data</key>
+        <relation type="isManagedBy"/>
+      </relatedObject>
+      <relatedInfo type="website">
+        <title>A Related Info website that is related to by 4 collections</title>
+        <identifier type="url">https://somewebsiteexample.com.id</identifier>
+        <relation type="hasAssociationWith"/>
+      </relatedInfo>
+      <relatedInfo type="party">
+        <title>A Related Info Activity Party that exists</title>
+        <identifier type="local">P3_More_Data_ID1</identifier>
+        <relation type="hasAssociationWith"/>
+      </relatedInfo>
+    </collection>
+  </registryObject>
+
+  <registryObject group="(AUTestingRecords3)">
+    <key>P8V5hNdsfdf_0BEYY_moreData</key>
+    <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+    <collection type="repository">
+      <name type="primary">
+        <namePart>((AUTestingRecords3) Collection which meets only Related Outputs. RelInfo website</namePart>
+      </name>
+      <description type="note">&lt;p&gt;asdfasdf asdfasd fasdfasdf&lt;/p&gt;</description>
+      <relatedInfo type="website">
+        <title>A Related Info website</title>
+        <identifier type="uri">http://www.google.com_moreData</identifier>
+      </relatedInfo>
+      <relatedObject>
+        <key>P2_More_Data</key>
+        <relation type="isManagedBy"/>
+      </relatedObject>
+      <relatedInfo type="website">
+        <title>A Related Info website that is related to by 4 collections</title>
+        <identifier type="url">https://somewebsiteexample.com.id</identifier>
+        <relation type="hasAssociationWith"/>
+      </relatedInfo>
+      <relatedInfo type="party">
+        <title>A Related Info Activity Party that exists</title>
+        <identifier type="local">P3_More_Data_ID1</identifier>
+        <relation type="hasAssociationWith"/>
+      </relatedInfo>
+    </collection>
+  </registryObject>
+
+  <registryObject group="(AUTestingRecords3)">
+    <key>P8dftL_.YY_moreData</key>
+    <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+    <collection type="repository">
+      <name type="primary">
+        <namePart>((AUTestingRecords3) Collection which meets related People/Org Metadata Report checks.RelOb Party Person</namePart>
+      </name>
+      <description type="note">&lt;p&gt;asdfasdf asdfasd fasdfasdf&lt;/p&gt;</description>
+      <relatedObject>
+        <key>P2_More_Data</key>
+        <relation type="isManagedBy"/>
+      </relatedObject>
+      <relatedInfo type="website">
+        <title>A Related Info website that is related to by 4 collections</title>
+        <identifier type="url">https://somewebsiteexample.com.id</identifier>
+        <relation type="hasAssociationWith"/>
+      </relatedInfo>
+      <relatedInfo type="party">
+        <title>A Related Info Activity Party that exists</title>
+        <identifier type="local">P3_More_Data_ID1</identifier>
+        <relation type="hasAssociationWith"/>
+      </relatedInfo>
+    </collection>
+  </registryObject>
+
+  <registryObject group="(AUTestingRecords3)">
+    <key>P834_.Ysdfg245Y_moreData</key>
+    <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+    <collection type="repository">
+      <name type="primary">
+        <namePart>((AUTestingRecords3) Collection which meets related People/Org Metadata Report checks.RelOb Party Org</namePart>
+      </name>
+      <description type="note">&lt;p&gt;asdfasdf asdfasd fasdfasdf&lt;/p&gt;</description>
+      <relatedObject>
+        <key>P2_More_Data</key>
+        <relation type="isManagedBy"/>
+      </relatedObject>
+      <relatedObject>
+        <key>P3_More_Data</key>
+        <relation type="hasPrincipalInvestigator"/>
+      </relatedObject>
+      <relatedInfo type="collection">
+        <title>A collection that exists</title>
+        <identifier type="ean13">C1_MoreData_ID1</identifier>
+        <relation type="hasAssociationWith"/>
+      </relatedInfo>
+
+      <relatedInfo type="website">
+        <title>A Related Info website that is related to by 4 collections</title>
+        <identifier type="url">https://somewebsiteexample.com.id</identifier>
+        <relation type="hasAssociationWith"/>
+      </relatedInfo>
+      <relatedInfo type="party">
+        <title>A Related Info Activity Party that exists</title>
+        <identifier type="local">P3_More_Data_ID1</identifier>
+        <relation type="hasAssociationWith"/>
+      </relatedInfo>
+
+    </collection>
+  </registryObject>
+</registryObjects>
