@@ -98,6 +98,22 @@
         <key>123.123.123/0020</key>
         <relation type="hasAssociationWith"/>
       </relatedObject>
+            <relatedObject>
+        <key>123.123.123/0021</key>
+        <relation type="hasAssociationWith"/>
+      </relatedObject>
+            <relatedObject>
+        <key>123.123.123/0022</key>
+        <relation type="hasAssociationWith"/>
+      </relatedObject>
+            <relatedObject>
+        <key>123.123.123/0023</key>
+        <relation type="hasAssociationWith"/>
+      </relatedObject>
+            <relatedObject>
+        <key>123.123.123/0024</key>
+        <relation type="hasAssociationWith"/>
+      </relatedObject>
 
             <relatedObject>
         <key>124.123.123/0001</key>
@@ -484,6 +500,51 @@
 
 
     <registryObject group="AUTestingRecords2">
+    <key>123.123.123/0021</key>
+    <originatingSource>nla.gov.au</originatingSource>
+    <collection dateAccessioned="2016-04-29T01:05:09+10:00" type="dataset">
+      <name type="primary">
+        <namePart>testDataForVisualisation1</namePart></name>
+      <description type="brief">The provided data (the Data) represent a raster map of agricultural profit at full equity (PFE) for Australia for the year 2005/06. Values of PFE are provided in ($/ha). PFE is a measure of profit which is calculated as the revenue from the sale of agricultural commodities minus all fixed and variable costs. This concept is based on the assumption that the land is fully owned (100% equity). The unit of PFE is $/ha. The Data are provided as a raster dataset that is compatible with ArcGIS. The spatial resolution is ~ 1km. Values provided are not for individual commodities (e.g. wheat, barley etc.) but for a set of commodity classes known as SPREAD classes (e.g. winter cereals, winter oilseeds) and broad land use categories (grazing, natural pastures etc.). The Data do not provide information with regards to the associated land use. To link values of PFE to the associated land use (SPREAD class) the Data need to be linked to the land use map of the year 2005/06 (Source: ABARE–BRS 2010. Land Use of Australia, Version 4, 2005-06 dataset).</description>
+      <description type="lineage">Overview of the process how data was produced is provided in Marinoni O, Navarro Garcia J, Marvanek S, Prestwidge D, Clifford D, Laredo L. 2012. Development of a system to produce maps of agricultural profit on a continental scale: An example for Australia. Agricultural Systems. 105, 1, 33-45.</description>
+    </collection>
+  </registryObject>
+
+        <registryObject group="AUTestingRecords2">
+    <key>123.123.123/0022</key>
+    <originatingSource>nla.gov.au</originatingSource>
+    <collection dateAccessioned="2016-04-29T01:05:09+10:00" type="dataset">
+      <name type="primary">
+        <namePart>testDataForVisualisation2</namePart></name>
+      <description type="brief">The provided data (the Data) represent a raster map of agricultural profit at full equity (PFE) for Australia for the year 2005/06. Values of PFE are provided in ($/ha). PFE is a measure of profit which is calculated as the revenue from the sale of agricultural commodities minus all fixed and variable costs. This concept is based on the assumption that the land is fully owned (100% equity). The unit of PFE is $/ha. The Data are provided as a raster dataset that is compatible with ArcGIS. The spatial resolution is ~ 1km. Values provided are not for individual commodities (e.g. wheat, barley etc.) but for a set of commodity classes known as SPREAD classes (e.g. winter cereals, winter oilseeds) and broad land use categories (grazing, natural pastures etc.). The Data do not provide information with regards to the associated land use. To link values of PFE to the associated land use (SPREAD class) the Data need to be linked to the land use map of the year 2005/06 (Source: ABARE–BRS 2010. Land Use of Australia, Version 4, 2005-06 dataset).</description>
+      <description type="lineage">Overview of the process how data was produced is provided in Marinoni O, Navarro Garcia J, Marvanek S, Prestwidge D, Clifford D, Laredo L. 2012. Development of a system to produce maps of agricultural profit on a continental scale: An example for Australia. Agricultural Systems. 105, 1, 33-45.</description>
+    </collection>
+  </registryObject>
+
+        <registryObject group="AUTestingRecords2">
+    <key>123.123.123/0023</key>
+    <originatingSource>nla.gov.au</originatingSource>
+    <collection dateAccessioned="2016-04-29T01:05:09+10:00" type="dataset">
+      <name type="primary">
+        <namePart>testDataForVisualisation3</namePart></name>
+      <description type="brief">The provided data (the Data) represent a raster map of agricultural profit at full equity (PFE) for Australia for the year 2005/06. Values of PFE are provided in ($/ha). PFE is a measure of profit which is calculated as the revenue from the sale of agricultural commodities minus all fixed and variable costs. This concept is based on the assumption that the land is fully owned (100% equity). The unit of PFE is $/ha. The Data are provided as a raster dataset that is compatible with ArcGIS. The spatial resolution is ~ 1km. Values provided are not for individual commodities (e.g. wheat, barley etc.) but for a set of commodity classes known as SPREAD classes (e.g. winter cereals, winter oilseeds) and broad land use categories (grazing, natural pastures etc.). The Data do not provide information with regards to the associated land use. To link values of PFE to the associated land use (SPREAD class) the Data need to be linked to the land use map of the year 2005/06 (Source: ABARE–BRS 2010. Land Use of Australia, Version 4, 2005-06 dataset).</description>
+      <description type="lineage">Overview of the process how data was produced is provided in Marinoni O, Navarro Garcia J, Marvanek S, Prestwidge D, Clifford D, Laredo L. 2012. Development of a system to produce maps of agricultural profit on a continental scale: An example for Australia. Agricultural Systems. 105, 1, 33-45.</description>
+    </collection>
+  </registryObject>
+
+        <registryObject group="AUTestingRecords2">
+    <key>123.123.123/0024</key>
+    <originatingSource>nla.gov.au</originatingSource>
+    <collection dateAccessioned="2016-04-29T01:05:09+10:00" type="dataset">
+      <name type="primary">
+        <namePart>testDataForVisualisation4</namePart></name>
+      <description type="brief">The provided data (the Data) represent a raster map of agricultural profit at full equity (PFE) for Australia for the year 2005/06. Values of PFE are provided in ($/ha). PFE is a measure of profit which is calculated as the revenue from the sale of agricultural commodities minus all fixed and variable costs. This concept is based on the assumption that the land is fully owned (100% equity). The unit of PFE is $/ha. The Data are provided as a raster dataset that is compatible with ArcGIS. The spatial resolution is ~ 1km. Values provided are not for individual commodities (e.g. wheat, barley etc.) but for a set of commodity classes known as SPREAD classes (e.g. winter cereals, winter oilseeds) and broad land use categories (grazing, natural pastures etc.). The Data do not provide information with regards to the associated land use. To link values of PFE to the associated land use (SPREAD class) the Data need to be linked to the land use map of the year 2005/06 (Source: ABARE–BRS 2010. Land Use of Australia, Version 4, 2005-06 dataset).</description>
+      <description type="lineage">Overview of the process how data was produced is provided in Marinoni O, Navarro Garcia J, Marvanek S, Prestwidge D, Clifford D, Laredo L. 2012. Development of a system to produce maps of agricultural profit on a continental scale: An example for Australia. Agricultural Systems. 105, 1, 33-45.</description>
+    </collection>
+  </registryObject>
+
+
+    <registryObject group="AUTestingRecords2">
     <key>123.123.123/0005</key>
     <originatingSource>nla.gov.au</originatingSource>
     <collection dateAccessioned="2016-04-29T01:05:09+10:00" type="dataset">
@@ -766,7 +827,7 @@
     <originatingSource>nla.gov.au</originatingSource>
     <collection dateAccessioned="2016-04-29T01:05:09+10:00" type="dataset">
       <name type="primary">
-        <namePart>Collection - isCollectorOf relation 9</namePart></name>
+        <namePart>Collection - hasCollector reverse relation 9</namePart></name>
       <description type="brief">The provided data (the Data) represent a raster map of agricultural profit at full equity (PFE) for Australia for the year 2005/06. Values of PFE are provided in ($/ha). PFE is a measure of profit which is calculated as the revenue from the sale of agricultural commodities minus all fixed and variable costs. This concept is based on the assumption that the land is fully owned (100% equity). The unit of PFE is $/ha. The Data are provided as a raster dataset that is compatible with ArcGIS. The spatial resolution is ~ 1km. Values provided are not for individual commodities (e.g. wheat, barley etc.) but for a set of commodity classes known as SPREAD classes (e.g. winter cereals, winter oilseeds) and broad land use categories (grazing, natural pastures etc.). The Data do not provide information with regards to the associated land use. To link values of PFE to the associated land use (SPREAD class) the Data need to be linked to the land use map of the year 2005/06 (Source: ABARE–BRS 2010. Land Use of Australia, Version 4, 2005-06 dataset).</description>
       <description type="lineage">Overview of the process how data was produced is provided in Marinoni O, Navarro Garcia J, Marvanek S, Prestwidge D, Clifford D, Laredo L. 2012. Development of a system to produce maps of agricultural profit on a continental scale: An example for Australia. Agricultural Systems. 105, 1, 33-45.</description>
         <relatedObject>
@@ -1022,7 +1083,7 @@
     <originatingSource>http://www.records.nsw.gov.au</originatingSource>
     <party dateModified="" type="group">
       <name type="primary">
-        <namePart type="full">Party - hasMember Relation 6</namePart>
+        <namePart type="full">Party - isMemeberOf reverse Relation 6</namePart>
       </name>
       <subject type="anzsrc-for">2103 HISTORICAL STUDIES</subject>
       <description type="full">The Aboriginal Relics Advisory Committee was established by the National Parks and Wildlife (Amendment) Act, 1969 (Act No 78, 1969) The Committee replaced a non-statutory committee - the Advisory Committee on Aboriginal Relics that had identified the need for a legislative basis for the committee, and drafted the sections of the Act that dealt with its constitution.</description>
@@ -1590,7 +1651,48 @@
     <originatingSource>http://www.records.nsw.gov.au</originatingSource>
     <activity type="program">
       <name type="primary">
-        <namePart type="full">Activity - isParticipantIn Relation 21</namePart>
+        <namePart type="full">Activity - hasParticipant reverse Relation 21</namePart>
+      </name>
+      <subject type="anzsrc-for">2103 HISTORICAL STUDIES</subject>
+      <description type="full">The Aboriginal Relics Advisory Committee was established by the National Parks and Wildlife (Amendment) Act, 1969 (Act No 78, 1969) The Committee replaced a non-statutory committee - the Advisory Committee on Aboriginal Relics that had identified the need for a legislative basis for the committee, and drafted the sections of the Act that dealt with its constitution.</description>
+      <existenceDates>
+        <startDate dateFormat="W3CDTF">1970-01-19T00:00:00+1000</startDate>
+        <endDate dateFormat="W3CDTF">1992-08-24T00:00:00+1000</endDate>
+      </existenceDates>
+          <relatedObject>
+        <key>http://nla.gov.au/nla.party-AUT2clu</key>
+        <relation type="hasParticipant"/>
+      </relatedObject>
+    </activity>
+  </registryObject>
+
+  <registryObject group="AUTestingRecords3">
+    <key>126.123.123/0022</key>
+    <originatingSource>http://www.records.nsw.gov.au</originatingSource>
+    <activity type="program">
+      <name type="primary">
+        <namePart type="full">Activity - hasParticipant reverse Relation 22</namePart>
+      </name>
+      <subject type="anzsrc-for">2103 HISTORICAL STUDIES</subject>
+      <description type="full">The Aboriginal Relics Advisory Committee was established by the National Parks and Wildlife (Amendment) Act, 1969 (Act No 78, 1969) The Committee replaced a non-statutory committee - the Advisory Committee on Aboriginal Relics that had identified the need for a legislative basis for the committee, and drafted the sections of the Act that dealt with its constitution.</description>
+      <existenceDates>
+        <startDate dateFormat="W3CDTF">1970-01-19T00:00:00+1000</startDate>
+        <endDate dateFormat="W3CDTF">1992-08-24T00:00:00+1000</endDate>
+      </existenceDates>
+          <relatedObject>
+        <key>http://nla.gov.au/nla.party-AUT2clu</key>
+        <relation type="hasParticipant"/>
+      </relatedObject>
+    </activity>
+  </registryObject>
+
+
+  <registryObject group="AUTestingRecords3">
+    <key>126.123.123/0023</key>
+    <originatingSource>http://www.records.nsw.gov.au</originatingSource>
+    <activity type="program">
+      <name type="primary">
+        <namePart type="full">Activity - hasParticipant reverse Relation 23</namePart>
       </name>
       <subject type="anzsrc-for">2103 HISTORICAL STUDIES</subject>
       <description type="full">The Aboriginal Relics Advisory Committee was established by the National Parks and Wildlife (Amendment) Act, 1969 (Act No 78, 1969) The Committee replaced a non-statutory committee - the Advisory Committee on Aboriginal Relics that had identified the need for a legislative basis for the committee, and drafted the sections of the Act that dealt with its constitution.</description>
@@ -1932,7 +2034,7 @@
     <originatingSource>http://www.records.nsw.gov.au</originatingSource>
     <service type="assemble">
       <name type="primary">
-        <namePart type="full">Service - isOwnerOf Relation 21</namePart>
+        <namePart type="full">Service - isOwnedBy reverse Relation 21</namePart>
       </name>
       <subject type="anzsrc-for">2103 HISTORICAL STUDIES</subject>
       <description type="full">The Aboriginal Relics Advisory Committee was established by the National Parks and Wildlife (Amendment) Act, 1969 (Act No 78, 1969) The Committee replaced a non-statutory committee - the Advisory Committee on Aboriginal Relics that had identified the need for a legislative basis for the committee, and drafted the sections of the Act that dealt with its constitution.</description>
