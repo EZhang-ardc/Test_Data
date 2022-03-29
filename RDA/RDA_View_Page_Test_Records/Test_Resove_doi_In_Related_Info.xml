@@ -13,9 +13,9 @@
                 <identifier type="doi">10.23943/PRINCETON/9780691143972.003.0001</identifier>
                 <relation type="isCitedBy"/>
             </relatedInfo>
-        <relatedInfo type="dataset">
+        <relatedInfo type="publication">
             <title>Example resolved DataCite doi</title>
-            <identifier type="doi">https://doi.org/10.22004/ag.econ.295231</identifier>
+            <identifier type="doi">https://doi.org/10.18130/v3rg5v</identifier>
             <relation type="isCitedBy"/>
         </relatedInfo>
         <relatedInfo type="publication">
