@@ -42,7 +42,7 @@
     <originatingSource>http://www.ga.gov.au</originatingSource>
     <party type="person">
       <name type="primary">
-        <namePart>(AUTestingRecords3)Party that is related to by 20 collectons using relatedObject</namePart>
+        <namePart>(AUTestingRecords3)Party that is related to by 20 collections using relatedObject</namePart>
       </name>
       <identifier type="local">P2_More_Data_ID1</identifier>
       <location>
@@ -53,7 +53,7 @@
         </address>
       </location>
       <relatedObject>
-        <key>P2_More_Data</key>
+        <key>P3_More_Data</key>
         <relation type="isManagedBy"/>
       </relatedObject>
     </party>
@@ -64,7 +64,7 @@
     <originatingSource>http://www.ga.gov.au</originatingSource>
     <party type="person">
       <name type="primary">
-        <namePart>(AUTestingRecords3)Party that is related to by 10 collectons using relatedInfo</namePart>
+        <namePart>(AUTestingRecords3)Party that is related to by 10 collections using relatedInfo</namePart>
       </name>
       <identifier type="local">P3_More_Data_ID1</identifier>
       <location>
@@ -105,7 +105,7 @@
         <relation type="isDerivedFrom"/>
       </relatedObject>
       <relatedObject>
-        <key>P8tL4cOV5hNbQXWBCws8wPZmfdsaRqtslw66reKtVxfm0BEYY_moreData</key>
+        <key>P3sdodsfdssdf_4dfdffwf_EYY_moreData</key>
         <relation type="hasPart"/>
       </relatedObject>
       <relatedObject>
@@ -119,12 +119,12 @@
       </relatedInfo>
       <relatedInfo type="collection">
         <title>Title should resolve 2</title>
-        <identifier type="arc">arc_Grant_More_Data_1</identifier>
+        <identifier type="handle">101./moredata2</identifier>
         <relation type="hasAssociationWith"/>
       </relatedInfo>
       <relatedInfo type="collection">
         <title>Title should resolve 3</title>
-        <identifier type="arc">arc_Grant_More_Data_1</identifier>
+        <identifier type="handle">101./moredata3</identifier>
         <relation type="hasAssociationWith"/>
       </relatedInfo>
       <relatedInfo type="activity">
@@ -159,11 +159,28 @@
       <coverage>
         <spatial type="text">Australia</spatial>
       </coverage>
-      <relatedInfo type="collection">
-        <title>Related Info collection that exists</title>
-        <identifier type="ean13">ean13_92345991_moreData</identifier>
+
+      <relatedObject>
+        <key>P8V5hNbQXWdfg.bsaRqtslw66reKtVxfm0BEYY_moreData</key>
         <relation type="hasAssociationWith"/>
-      </relatedInfo>
+      </relatedObject>
+            <relatedObject>
+        <key>P8V5hNbQXWdfg.bssdfVxfm0BEYY_moreData</key>
+        <relation type="hasAssociationWith"/>
+      </relatedObject>
+            <relatedObject>
+        <key>P8V5hNbQXWdfg.bs355d5_fm0BEYY_moreData</key>
+        <relation type="hasAssociationWith"/>
+      </relatedObject>
+            <relatedObject>
+        <key>P8V5hNdsfdf_0BEYY_moreData</key>
+        <relation type="hasAssociationWith"/>
+      </relatedObject>
+            <relatedObject>
+        <key>P8V5hNbQXWdfg.b_d0ddYY_moreData</key>
+        <relation type="hasAssociationWith"/>
+      </relatedObject>
+
       <relatedInfo type="collection">
         <title>Related Info collection that exists</title>
         <identifier type="ean13">ean13_92345992_moreData</identifier>

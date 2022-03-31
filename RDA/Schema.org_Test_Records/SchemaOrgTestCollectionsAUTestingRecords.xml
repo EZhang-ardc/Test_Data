@@ -235,6 +235,7 @@
             <name type="primary">
                 <namePart>Related Party 1</namePart>
             </name>
+            <identifier type="local">RelatedParty1_ID1</identifier>
             <relatedObject>
                 <key>AUTSchemaOrgCollection4</key>
                 <relation type="isOwnerOf">
@@ -250,6 +251,7 @@
             <name type="primary">
                 <namePart>Related Party 2</namePart>
             </name>
+            <identifier type="orcid">0000-2356-5645-2121</identifier>
             <relatedObject>
                 <key>AUTSchemaOrgCollection4</key>
                 <relation type="isPrincipalInvestigatorOf">
@@ -265,6 +267,7 @@
             <name type="primary">
                 <namePart>Related Party 3</namePart>
             </name>
+            <identifier type="local">RelatedParty3_ID3</identifier>
             <relatedInfo type="collection">
                 <title>Collection 4</title>
                 <identifier type="purl">http://www.MyPurlResolrverr23.com.au</identifier>
