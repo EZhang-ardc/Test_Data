@@ -23,7 +23,7 @@
 
       <relatedInfo type="service">
         <title>A Related Info Servie That Exists and is related to 6 collections</title>
-        <identifier type="arc">arc_Grant_More_Data_1</identifier>
+        <identifier type="local">S1_MoreData_ID1</identifier>
         <relation type="hasAssociationWith"/>
       </relatedInfo>
 
@@ -228,7 +228,7 @@
         <spatial type="text">Australia</spatial>
       </coverage>
       <relatedInfo type="activity">
-        <title>Related Info activity which does not exist sbut is referenced in record with key P1_More_Data</title>
+        <title>A Related Info Activity That Does Not Exist but is related to by 3 collections</title>
         <identifier type="arc">arc_Grant_More_Data_1</identifier>
         <relation type="isOutputOf"/>
       </relatedInfo>
@@ -254,7 +254,7 @@
         </address>
       </location>
       <relatedInfo type="activity">
-        <title>Related Info activity which does not exist sbut is referenced in record with key P1_More_Data</title>
+        <title>A Related Info Activity That Does Not Exist but is related to by 3 collections</title>
         <identifier type="arc">arc_Grant_More_Data_1</identifier>
         <relation type="isOutputOf"/>
       </relatedInfo>
@@ -279,7 +279,7 @@
       </location>
 
       <relatedInfo type="activity">
-        <title>Related Info activity which does not exist sbut is referenced in record with key P1_More_Data</title>
+        <title>A Related Info Activity That Does Not Exist but is related to by 3 collections</title>
         <identifier type="arc">arc_Grant_More_Data_1</identifier>
         <relation type="isOutputOf"/>
       </relatedInfo>
