@@ -39,12 +39,12 @@
             <relatedInfo type="party">
                 <title>unresolved related info party</title>
                 <identifier type="local">local identifier that doesn't make sense</identifier>
-                <relation type="hasOwner"/>
+                <relation type="isOwnedBy"/>
             </relatedInfo>
             <relatedInfo type="party">
                 <title>Resolvable party type person - This title should not show</title>
                 <identifier type="local">relatedInfo_1_-ID2</identifier>
-                <relation type="hasOwner"/>
+                <relation type="isOwnedBy"/>
             </relatedInfo>
             <relatedInfo type="service">
                 <title>resolvable service. This title should not show</title>
@@ -193,7 +193,7 @@
             <relatedInfo type="collection">
                 <title>Resolvable collection. This title should not show</title>
                 <identifier type="local">collection_id1_relInfo</identifier>
-                <relation type="isMangerOf"/>
+                <relation type="isManagerOf"/>
             </relatedInfo>
             <description type="full">
                 &amp;lt;p&amp;gt;The Swedish Human Protein Atlas project, funded by the Knut and Alice Wallenberg
