@@ -1386,79 +1386,79 @@
             </description>
             <relatedInfo type="publication">
                 <title>Related Info Title</title>
-                <identifier type="uri">http://www.someExamplePublication.org/Scholix1</identifier>
+                <identifier type="uri">http://www.anotherExamplePublication.org/Scholix1</identifier>
                 <identifier type="handle">10.3555/23434/Scholix1</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
             <relatedInfo type="publication">
                 <title>Related Info Title 2</title>
-                <identifier type="uri">http://www.someExamplePublication.org/Scholix2</identifier>
+                <identifier type="uri">http://www.anotherExamplePublication.org/Scholix2</identifier>
                 <relation type="isCitedBy"/>
             </relatedInfo>
             <relatedInfo type="publication">
                 <title>Related Info Title 3</title>
-                <identifier type="uri">http://www.someExamplePublication.org/Scholix3</identifier>
+                <identifier type="uri">http://www.anotherExamplePublication.org/Scholix3</identifier>
                 <relation type="isReferencedBy"/>
             </relatedInfo>
             <relatedInfo type="publication">
                 <title>Related Info Title 4</title>
-                <identifier type="uri">http://www.someExamplePublication.org/Scholix4</identifier>
+                <identifier type="uri">http://www.anotherExamplePublication.org/Scholix4</identifier>
                 <relation type="localRelation"/>
             </relatedInfo>
             <relatedInfo type="publication">
                 <title>Related Info Title 5</title>
-                <identifier type="uri">http://www.someExamplePublication.org/Scholix5</identifier>
+                <identifier type="uri">http://www.anotherExamplePublication.org/Scholix5</identifier>
                 <identifier type="handle">10.3555/23434/Scholix5</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
             <relatedInfo type="publication">
                 <title>Related Info Title 6</title>
-                <identifier type="uri">http://www.someExamplePublication.org/Scholix6</identifier>
+                <identifier type="uri">http://www.anotherExamplePublication.org/Scholix6</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
             <relatedInfo type="publication">
                 <title>Related Info Title 7</title>
-                <identifier type="uri">http://www.someExamplePublication.org/Scholix7</identifier>
+                <identifier type="uri">http://www.anotherExamplePublication.org/Scholix7</identifier>
                 <relation type="isReviewedBy"/>
             </relatedInfo>
             <relatedInfo type="publication">
                 <title>Related Info Title 8</title>
-                <identifier type="uri">http://www.someExamplePublication.org/Scholix8</identifier>
+                <identifier type="uri">http://www.anotherExamplePublication.org/Scholix8</identifier>
                 <relation type="isDocumentedBy"/>
             </relatedInfo>
             <relatedInfo type="publication">
                 <title>Related Info Title 9</title>
-                <identifier type="uri">http://www.someExamplePublication.org/Scholix9</identifier>
+                <identifier type="uri">http://www.anotherExamplePublication.org/Scholix9</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
             <relatedInfo type="publication">
                 <title>Related Info Title 10</title>
-                <identifier type="uri">http://www.someExamplePublication.org/Scholix10</identifier>
+                <identifier type="uri">http://www.anotherExamplePublication.org/Scholix10</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
             <relatedInfo type="publication">
                 <title>Related Info Title 11</title>
-                <identifier type="uri">http://www.someExamplePublication.org/Scholix11</identifier>
+                <identifier type="uri">http://www.anotherExamplePublication.org/Scholix11</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
             <relatedInfo type="publication">
                 <title>Related Info Title 12</title>
-                <identifier type="uri">http://www.someExamplePublication.org/Scholix12</identifier>
+                <identifier type="uri">http://www.anotherExamplePublication.org/Scholix12</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
             <relatedInfo type="publication">
                 <title>Related Info Title 13</title>
-                <identifier type="uri">http://www.someExamplePublication.org/Scholix13</identifier>
+                <identifier type="uri">http://www.anotherExamplePublication.org/Scholix13</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
             <relatedInfo type="publication">
                 <title>Related Info Title 14</title>
-                <identifier type="uri">http://www.someExamplePublication.org/Scholix14</identifier>
+                <identifier type="uri">http://www.anotherExamplePublication.org/Scholix14</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
             <relatedInfo type="publication">
                 <title>Related Info Title 15</title>
-                <identifier type="uri">http://www.someExamplePublication.org/Scholix15</identifier>
+                <identifier type="uri">http://www.anotherExamplePublication.org/Scholix15</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
             <relatedInfo type="party">
