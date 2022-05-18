@@ -1819,7 +1819,7 @@
             </relatedInfo>
             <relatedInfo type="publication">
                 <title>Related Info Title</title>
-                <identifier type="purl">http://www.purl.org/someExamplePublication.org/Scholix3</identifier>
+                <identifier type="purl">https://www.purl.org/someExamplePublication.org/Scholix3</identifier>
             </relatedInfo>
             <citationInfo>
                 <citationMetadata>
