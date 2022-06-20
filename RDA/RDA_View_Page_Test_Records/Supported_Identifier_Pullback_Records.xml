@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<registryObjects xmlns="http://ands.org.au/standards/rif-cs/registryObjects" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ands.org.au/standards/rif-cs/registryObjects http://services.ands.org.au/documentation/rifcs/schema/registryObjects.xsd">
+    <registryObject group="AUTestingRecords">
+        <key>supportedIdPullback1</key>
+        <originatingSource>http://services.ands.org.au/sandbox/orca/register_my_data</originatingSource>
+        <collection type="collection">
+            <name type="primary">
+                <namePart>Collection with relatedInfo ORCID and ROR</namePart>
+            </name>
+            <description type="full">This data collection contains all currently published nucleotide (DNA/RNA) and protein sequences from  the Australian research institution,Queensland University of Technology.The nucleotide (DNA/RNA) and protein sequences have been sourced through the European Nucleotide Archive (ENA) and Universal Protein Resource (UniProt), databases that contains comprehensive sets of nucleotide (DNA/RNA) and protein sequences from all organisms that have been published by the International Research Community.
+            </description>
+            <description type="accessRights">This data is freely available to any individual for any purpose. For more information see http:www.ebi.ac.uk/Information/termsofuse.html</description>
+            <relatedInfo type="party">
+                <title>Related ROR (GA)</title>
+                <identifier type="ror">https://ror.org/04ge02x20</identifier>
+                <relation type="isManagedBy"/>
+            </relatedInfo>
+            <relatedInfo type="party">
+                <title>Related ORCiD (Peter)</title>
+                <identifier type="orcid">0000-0002-7640-6555</identifier>
+                <relation type="hasCollector"/>
+            </relatedInfo>
+            <relatedObject>
+                <key>supportedIdPullback5</key>
+                <relation type="hasCollector"/>
+            </relatedObject>
+            <relatedObject>
+                <key>supportedIdPullback6</key>
+                <relation type="hasAssociationWith"/>
+            </relatedObject>
+        </collection>
+    </registryObject>
+
+    <registryObject group="AUTestingRecords">
+        <key>supportedIdPullback2</key>
+        <originatingSource>http://services.ands.org.au/sandbox/orca/register_my_data</originatingSource>
+        <collection type="collection">
+            <name type="primary">
+                <namePart>Collection with relatedInfo ORCID x6</namePart>
+            </name>
+            <description type="full">This data collection contains all currently published nucleotide (DNA/RNA) and protein sequences from  the Australian research institution,Queensland University of Technology.The nucleotide (DNA/RNA) and protein sequences have been sourced through the European Nucleotide Archive (ENA) and Universal Protein Resource (UniProt), databases that contains comprehensive sets of nucleotide (DNA/RNA) and protein sequences from all organisms that have been published by the International Research Community.
+            </description>
+            <description type="accessRights">This data is freely available to any individual for any purpose. For more information see http:www.ebi.ac.uk/Information/termsofuse.html</description>
+            <relatedObject>
+                <key>supportedIdPullback6</key>
+                <relation type="hasAssociationWith"/>
+            </relatedObject>
+            <relatedInfo type="party">
+                <title>Related ORCiD (Peter)</title>
+                <identifier type="orcid">0000-0002-8020-2870</identifier>
+                <relation type="hasCollector"/>
+            </relatedInfo>
+            <relatedInfo type="party">
+                <title>Related ORCiD (David)</title>
+                <identifier type="orcid">0000-0001-8356-0887</identifier>
+                <relation type="hasCollector"/>
+            </relatedInfo>
+            <relatedInfo type="party">
+                <title>Related ORCiD (Mark)</title>
+                <identifier type="orcid">0000-0003-4732-5745</identifier>
+                <relation type="hasCollector"/>
+            </relatedInfo>
+            <relatedInfo type="party">
+                <title>Related ORCiD (Sam)</title>
+                <identifier type="orcid">https://orcid.org/0000-0001-7484-7261</identifier>
+                <relation type="hasCollector"/>
+            </relatedInfo>
+            <relatedInfo type="party">
+                <title>Related ORCiD (Kevin)</title>
+                <identifier type="orcid">https://orcid.org/0000-0001-6236-8060</identifier>
+                <relation type="hasCollector"/>
+            </relatedInfo>
+            <relatedInfo type="party">
+                <title>Related ORCiD (Nathan) no relationship</title>
+                <identifier type="orcid">0000-0001-9107-9989</identifier>
+            </relatedInfo>
+            <relatedObject>
+                <key>supportedIdPullback5</key>
+                <relation type="hasCollector"/>
+            </relatedObject>
+        </collection>
+    </registryObject>
+
+    <registryObject group="AUTestingRecords">
+        <key>supportedIdPullback3</key>
+        <originatingSource>http://services.ands.org.au/sandbox/orca/register_my_data</originatingSource>
+        <collection type="collection">
+            <name type="primary">
+                <namePart>Collection with relatedInfo ORCID, dataCite dataset, dataCite publication and crossref publication</namePart>
+            </name>
+            <description type="full">This data collection contains all currently published nucleotide (DNA/RNA) and protein sequences from  the Australian research institution,Queensland University of Technology.The nucleotide (DNA/RNA) and protein sequences have been sourced through the European Nucleotide Archive (ENA) and Universal Protein Resource (UniProt), databases that contains comprehensive sets of nucleotide (DNA/RNA) and protein sequences from all organisms that have been published by the International Research Community.
+            </description>
+            <description type="accessRights">This data is freely available to any individual for any purpose. For more information see http:www.ebi.ac.uk/Information/termsofuse.html</description>
+            <relatedObject>
+                <key>supportedIdPullback6</key>
+                <relation type="hasAssociationWith"/>
+            </relatedObject>
+            <relatedInfo type="publication">
+                <title>Related DataCite Pub (Here we go again)</title>
+                <identifier type="doi">10.5555/airhewi3</identifier>
+                <relation type="hasAssociationWith"/>
+            </relatedInfo>
+            <relatedInfo type="collection">
+                <title>Related DataCite Dataset (Data from: Evolutionary..)</title>
+                <identifier type="doi">10.5061/dryad.8596 </identifier>
+                <relation type="hasAssociationWith"/>
+            </relatedInfo>
+            <relatedInfo type="publication">
+                <title>Related Crossref Pub (Here we go again)</title>
+                <identifier type="doi">https://doi.org/10.1057/9781137012753.0009</identifier>
+                <relation type="hasAssociationWith"/>
+            </relatedInfo>
+            <relatedInfo type="party">
+                <title>Related ORCiD (Cheryl)</title>
+                <identifier type="orcid">0000-0003-0243-5422</identifier>
+                <relation type="hasCollector"/>
+            </relatedInfo>
+        </collection>
+    </registryObject>
+
+    <registryObject group="AUTestingRecords">
+        <key>supportedIdPullback4</key>
+        <originatingSource type="">https://researchdata.edu.au/registry//orca/register_my_data</originatingSource>
+        <party type="person">
+            <name type="primary">
+                <namePart type="given">Party with </namePart>
+                <namePart type="family">2 x relatedInfo RORs</namePart>
+            </name>
+            <description type="brief">&lt;p&gt;Sch of Mathematics &amp; Statistic, Faculty of Science, University of New South Wales,&lt;/p&gt;</description>
+            <identifier type="local">resdatap:413568sss</identifier>
+            <relatedObject>
+                <key>supportedIdPullback5</key>
+                <relation type="hasCollector"/>
+            </relatedObject>
+            <relatedInfo type="party">
+                <title>Related ROR (CSIRO)</title>
+                <identifier type="ror">https://ror.org/03qn8fb07</identifier>
+                <relation type="isManagedBy"/>
+            </relatedInfo>
+            <relatedInfo type="party">
+                <title>Related ROR (Synchrotron)</title>
+                <identifier type="ror">https://ror.org/03vk18a84</identifier>
+                <relation type="hasAssociationWith"/>
+            </relatedInfo>
+        </party>
+    </registryObject>
+
+    <registryObject group="AUTestingRecords">
+        <key>supportedIdPullback5</key>
+        <originatingSource type="">https://researchdata.edu.au/registry//orca/register_my_data</originatingSource>
+        <party type="person">
+            <name type="primary">
+                <namePart type="given">Junde</namePart>
+                <namePart type="family">Li</namePart>
+            </name>
+            <description type="brief">&lt;p&gt;Sch of Mathematics &amp; Statistic, Faculty of Science, University of New South Wales,&lt;/p&gt;</description>
+        </party>
+    </registryObject>
+
+    <registryObject group="AUTestingRecords">
+        <key>supportedIdPullback6</key>
+        <originatingSource>http://services.ands.org.au/sandbox/orca/register_my_data</originatingSource>
+        <collection type="collection">
+            <name type="primary">
+                <namePart>Example Collection to related to</namePart>
+            </name>
+            <description type="full">This data collection contains all currently published nucleotide (DNA/RNA) and protein sequences from  the Australian research institution,Queensland University of Technology.The nucleotide (DNA/RNA) and protein sequences have been sourced through the European Nucleotide Archive (ENA) and Universal Protein Resource (UniProt), databases that contains comprehensive sets of nucleotide (DNA/RNA) and protein sequences from all organisms that have been published by the International Research Community.
+        </description>
+            <description type="accessRights">This data is freely available to any individual for any purpose. For more information see http:www.ebi.ac.uk/Information/termsofuse.html</description>
+            <relatedObject>
+                <key>supportedIdPullback4</key>
+                <relation type="isCollectorOf"/>
+            </relatedObject>
+        </collection>
+    </registryObject>
+</registryObjects>
