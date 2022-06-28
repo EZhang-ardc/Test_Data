@@ -28,6 +28,16 @@
                 <key>supportedIdPullback6</key>
                 <relation type="hasAssociationWith"/>
             </relatedObject>
+            <relatedInfo type="party">
+                <title>Related ROR (CSIRO)</title>
+                <identifier type="ror">https://ror.org/03qn8fb07</identifier>
+                <relation type="isManagedBy"/>
+            </relatedInfo>
+            <relatedInfo type="party">
+                <title>Related ROR (Nursing)</title>
+                <identifier type="ror">https://ror.org/03jsnw290</identifier>
+                <relation type="hasAssociationWith"/>
+            </relatedInfo>
         </collection>
     </registryObject>
 
@@ -138,8 +148,8 @@
                 <relation type="isManagedBy"/>
             </relatedInfo>
             <relatedInfo type="party">
-                <title>Related ROR (Synchrotron)</title>
-                <identifier type="ror">https://ror.org/03vk18a84</identifier>
+                <title>Related ROR (Nursing)</title>
+                <identifier type="ror">https://ror.org/03jsnw290</identifier>
                 <relation type="hasAssociationWith"/>
             </relatedInfo>
         </party>

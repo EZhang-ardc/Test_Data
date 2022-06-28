@@ -49,7 +49,7 @@
             </relatedObject>
             <relatedInfo type="collection">
                 <identifier type="local">AODN:a439fbc6-9150-470b-a8db-1a8fd4DCIadsfdasdf336d2AUT</identifier>
-                <relation type="ownerOf"/>
+                <relation type="isOwnerOf"/>
             </relatedInfo>
             <relatedObject>
                 <key>AUTestingRecords2DCIRecords10</key>
