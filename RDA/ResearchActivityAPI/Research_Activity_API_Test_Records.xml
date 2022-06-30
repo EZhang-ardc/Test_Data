@@ -1,0 +1,1483 @@
+
+<!-- Data contains 1 funder (key = AUTestingRecords3:Funder). Under the funder is 2 Programs. Under the Programs is 2 Hubs. Under one of the Hubs is a number of grants. -->
+<registryObjects>
+    <registryObject group="ActivityApiTest">
+        <key>AUTestingRecords3:Funder/Program12/Hub2_AA</key>
+        <originatingSource>Scraped from the Web</originatingSource>
+        <activity type="program">
+            <name type="primary">
+                <namePart>(AUTestingRecords3) AUTestingRecords3:Funder/Program12/Hub2</namePart>
+            </name>
+            <identifier type="purl">http://purl.org/au-research/grants/AUT/Hub2_AA</identifier>
+            <relatedObject>
+                <key>AUTestingRecords3:Funder/Program12_AA</key>
+                <relation type="isPartOf"/>
+            </relatedObject>
+            <description type="brief">The Hub 2 is a collaborative partnership supported with funding from the Australian Government administered by the Department of the Environmen's National Environmental Research Programme.
+The Marine Biodiversity Hub will research Australian oceans and marine environments, including temperate coastal water quality and marine species.It is administered by the University of Tasmania, and led by Professor Nic Bax.
+</description>
+            <relatedInfo type="party">
+                <identifier type="AU-ANL:PEAU">http://nla.gov.au/nla.party-571034_AA</identifier>
+                <relation type="hasPrincipalInvestigator"/>
+            </relatedInfo>
+            <relatedInfo type="website">
+                <identifier type="uri">http://www.nespmarine.edu.au/_AA</identifier>
+            </relatedInfo>
+        </activity>
+    </registryObject>
+
+    <registryObject group="ActivityApiTest">
+        <key>AUTestingRecords3:Funder/Program12/Hub1_AA</key>
+        <originatingSource>Scraped from the Web</originatingSource>
+        <activity type="program">
+            <name type="primary">
+                <namePart>(AUTestingRecords3) AUTestingRecords3:Funder/Program12/Hub1</namePart>
+            </name>
+            <identifier type="purl">http://purl.org/au-research/grants/AUT/Hub1_AA</identifier>
+            <relatedObject>
+                <key>AUTestingRecords3:Funder/Program12_AA</key>
+                <relation type="isPartOf"/>
+            </relatedObject>
+            <description type="brief">The Marine Biodiversity Hub is a collaborative partnership supported with funding from the Australian Government administered by the Department of the Environmen's National Environmental Research Programme.
+The Marine Biodiversity Hub will research Australian oceans and marine environments, including temperate coastal water quality and marine species.It is administered by the University of Tasmania, and led by Professor Nic Bax.
+</description>
+            <relatedInfo type="party">
+                <identifier type="AU-ANL:PEAU">http://nla.gov.au/nla.party-571034_AA</identifier>
+                <relation type="hasPrincipalInvestigator"/>
+            </relatedInfo>
+            <relatedInfo type="website">
+                <identifier type="uri">http://www.nespmarine.edu.au/_AA</identifier>
+            </relatedInfo>
+        </activity>
+    </registryObject>
+
+    <registryObject group="ActivityApiTest">
+        <key>AUTestingRecords3:Funder/Program12_AA</key>
+        <originatingSource type="">https://demo.ands.org.au/registry//orca/register_my_data</originatingSource>
+        <activity type="program">
+            <name type="primary">
+                <namePart>(AUTestingRecords3) AUTestingRecords3:Funder/Program12</namePart>
+            </name>
+            <name type="abbreviated">
+                <namePart>AAPG</namePart>
+            </name>
+            <identifier type="purl">http://purl.org/au-research/AUT/Program12_AA</identifier>
+            <relatedObject>
+                <key>AUTestingRecords3:Funder_AA</key>
+                <relation type="isFundedBy"/>
+            </relatedObject>
+            <description type="full">&amp;lt;p&amp;gt;The National Environmental Research Program (&amp;lt;abbr title=&amp;quot;National Environmental Research Program&amp;quot;&amp;gt;NERP&amp;lt;/abbr&amp;gt;) provided around $20 million each year for environmental research to improve our capacity to understand, manage and conserve Australia's unique biodiversity and ecosystems through the generation of world-class research, and its delivery to Australian environmental decision-makers and other stakeholders.&amp;lt;/p&amp;gt;
+                &amp;lt;p&amp;gt;On 6 December 2010 the Minister announced that five research hubs would be funded by the then Department of Sustainability, Environment, Water, Population and Communities under the &amp;lt;abbr title=&amp;quot;National Environmental Research Program&amp;quot;&amp;gt;NERP&amp;lt;/abbr&amp;gt;. Up to $68.5 million in funding over 4 years will be made available to provide first-class science that is essential for sustainably managing Australia's environment.&amp;lt;/p&amp;gt;
+                &amp;lt;ul&amp;gt;
+                &amp;lt;li&amp;gt;&amp;lt;abbr title=&amp;quot;National Environmental Research Program&amp;quot;&amp;gt;NERP&amp;lt;/abbr&amp;gt; Tropical Ecosystems Hub — Science Leader: Dr Peter Doherty, Australian Institute of Marine Science&amp;lt;/li&amp;gt;
+                &amp;lt;li&amp;gt;&amp;lt;abbr title=&amp;quot;National Environmental Research Program&amp;quot;&amp;gt;NERP&amp;lt;/abbr&amp;gt; Environmental Decisions Hub — Director: Prof Hugh Possingham, University of Queensland&amp;lt;/li&amp;gt;
+                &amp;lt;li&amp;gt;&amp;lt;abbr title=&amp;quot;National Environmental Research Program&amp;quot;&amp;gt;NERP&amp;lt;/abbr&amp;gt; Northern Australia Hub — Director: Prof Michael Douglas, Charles Darwin University&amp;lt;/li&amp;gt;
+                &amp;lt;li&amp;gt;&amp;lt;abbr title=&amp;quot;National Environmental Research Program&amp;quot;&amp;gt;NERP&amp;lt;/abbr&amp;gt; Landscapes and Policy Hub — Director: Prof Ted Lefroy, University of Tasmania&amp;lt;/li&amp;gt;
+                &amp;lt;li&amp;gt;&amp;lt;abbr title=&amp;quot;National Environmental Research Program&amp;quot;&amp;gt;NERP&amp;lt;/abbr&amp;gt; Marine Biodiversity Hub — Director: Prof Nic Bax, University of Tasmania&amp;lt;/li&amp;gt;
+                &amp;lt;/ul&amp;gt;
+                &amp;lt;p&amp;gt;The National Environmental Research Program provides for applied public good research that addresses the programs overall objective to:&amp;lt;/p&amp;gt;
+                &amp;lt;blockquote&amp;gt;
+                &amp;lt;p&amp;gt;improve our capacity to understand, manage and conserve Australia's unique biodiversity and ecosystems through the generation of world-class research and its delivery to Australian environmental decision makers and other stakeholders.&amp;lt;/p&amp;gt;
+                &amp;lt;/blockquote&amp;gt;
+                &amp;lt;p&amp;gt;It builds on the lessons learned from the Commonwealth Environment Research Facilities (&amp;lt;abbr title=&amp;quot;Commonwealth Environment Research Facilities&amp;quot;&amp;gt;CERF&amp;lt;/abbr&amp;gt;) program, replacing that program and focusing more specifically on biodiversity and improving research delivery to the Australian Government, other end-users and stakeholders.&amp;lt;/p&amp;gt;
+                &amp;lt;p&amp;gt;&amp;lt;abbr title=&amp;quot;National Environmental Research Program&amp;quot;&amp;gt;NERP&amp;lt;/abbr&amp;gt; funding will be allocated for biodiversity research and will deliver information that the Australian Government needs to better inform environmental management, policy and decision making, both in the short-term and into the future. This includes understanding how ecosystems function, monitoring their health, maintaining and building their resilience, using them sustainably and exploring how to better use markets to protect biodiversity.&amp;lt;/p&amp;gt;
+                &amp;lt;p&amp;gt;The &amp;lt;abbr title=&amp;quot;National Environmental Research Program&amp;quot;&amp;gt;NERP&amp;lt;/abbr&amp;gt; seeks to achieve its objectives by providing around $20 million each year to support applied research that:&amp;lt;/p&amp;gt;
+                &amp;lt;ul&amp;gt;
+                &amp;lt;li&amp;gt;has a strong public-good focus and public-good outcome&amp;lt;/li&amp;gt;
+                &amp;lt;li&amp;gt;is end-user focused and addresses the needs of the Australian Government and other stakeholders in developing evidence-based policy and improving management of the Australian environment&amp;lt;/li&amp;gt;
+                &amp;lt;li&amp;gt;is highly innovative and aims to achieve world-class research and an international standing in the chosen field of research&amp;lt;/li&amp;gt;
+                &amp;lt;li&amp;gt;enhances Australia's environmental research capacity&amp;lt;/li&amp;gt;
+                &amp;lt;li&amp;gt;is collaborative and builds critical mass by drawing on multiple disciplines from multiple research institutions to address challenging research questions&amp;lt;/li&amp;gt;
+                &amp;lt;li&amp;gt;provides results accessible to government, industry and the community, and&amp;lt;/li&amp;gt;
+                &amp;lt;li&amp;gt;includes focussing on synthesis and analysis of existing knowledge.&amp;lt;/li&amp;gt;
+                &amp;lt;/ul&amp;gt;</description>
+            <subject type="anzsrc-for">05</subject>
+            <relatedInfo type="website">
+                <title>About the ANDS</title>
+                <identifier type="uri">http://www.ands.org.au_AA</identifier>
+                <notes>Link is to a web archive as this program is no longer current</notes>
+            </relatedInfo>
+            <existenceDates>
+                <startDate dateFormat="W3CDTF">2011</startDate>
+                <endDate dateFormat="W3CDTF">2014</endDate>
+            </existenceDates>
+        </activity>
+    </registryObject>
+
+    <registryObject group="ActivityApiTest">
+        <key>AUTestingRecords3:Funder_AA</key>
+        <originatingSource type="">http://api.crossref.org/funders?filter=location:Australia</originatingSource>
+        <party type="group">
+            <name type="primary">
+                <namePart>(AUTestingRecords3) AUTestingRecords3:Funder</namePart>
+            </name>
+            <description type="brief">&amp;lt;p&amp;gt;The Department of the AUTestingRecords3 designs and implements the Australian Government’s policies and programmes to protect and conserve the environment, water and heritage and promote climate action. The environmental framework is being delivered under four pillars:&amp;lt;/p&amp;gt;
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;Clean Water&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Clean Air&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Clean Land&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;National heritage&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+&amp;lt;p&amp;gt;Throughout Australia, environment and heritage issues are also managed by other levels of government.&amp;lt;/p&amp;gt;
+&amp;lt;ul&amp;gt;
+&amp;lt;li class=&amp;quot;arrow&amp;quot;&amp;gt;&amp;lt;a href=&amp;quot;http://www.australia.gov.au&amp;quot;&amp;gt;Government in Australia&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;li class=&amp;quot;arrow&amp;quot;&amp;gt;&amp;lt;a class=&amp;quot;ext&amp;quot; href=&amp;quot;http://australia.gov.au/directories/state-territory-and-local-government-directories/states-territories-and-local-government&amp;quot;&amp;gt;States, territories and local government&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+&amp;lt;div class=&amp;quot;boxtwocols&amp;quot;&amp;gt; &amp;lt;/div&amp;gt;</description>
+            <identifier type="doi">AUTestingRecords3:Funder_AA</identifier>
+            <identifier type="fundref">50110000AUT3.x_AA</identifier>
+            <identifier type="AU-ANL:PEAU">http://nla.gov.au/nla.party-AUT55.433_AA</identifier>
+            <location>
+                <address>
+                    <electronic type="url">
+                        <value>http://www.environment.gov.au/webform/website-feedback</value>
+                    </electronic>
+                </address>
+                <spatial type="iso31661">AU</spatial>
+            </location>
+            <relatedInfo type="website">
+                <title>Web Site</title>
+                <identifier type="uri">http://www.environment.gov.au_AA</identifier>
+            </relatedInfo>
+            <existenceDates>
+                <startDate dateFormat="W3CDTF">2013-09-18</startDate>
+            </existenceDates>
+        </party>
+    </registryObject>
+
+    <registryObject group="ActivityApiTest">
+        <key>AUTestingRecords3:Funder/Program12/Hub2/GrantDP0987282_AA</key>
+        <originatingSource>arc.gov.au/general/searchable_data.htm</originatingSource>
+        <activity type="grant">
+            <name type="primary">
+                <namePart>(AUTestingRecords3)AUTestingRecords3:Funder/Program12/Hub2/GrantDP0987282</namePart>
+            </name>
+            <identifier type="purl">AUTestingRecords3:Funder/Program12/Hub2/GrantDP0987282AUTx.Grant_AA</identifier>
+            <identifier type="arc">DP0987282AUTx.Grant_AA</identifier>
+            <relatedObject>
+                <key>http://nla.gov.au/nla.party-AUT2_AA</key>
+                <relation type="isManagedBy"/>
+            </relatedObject>
+            <relatedObject>
+                <key>AUTestingRecords3:Funder/Program12/Hub2_AA</key>
+                <relation type="isPartOf"/>
+            </relatedObject>
+            <relatedObject>
+                <key>http://nla.gov.au/nla.party-1525825_AA</key>
+                <relation type="hasPrincipalInvestigator"/>
+            </relatedObject>
+            <subject type="anzsrc-for">2403</subject>
+            <subject type="local">brane</subject>
+            <subject type="local">domain wall</subject>
+            <subject type="local">extra dimension</subject>
+            <subject type="local">phenomenology</subject>
+            <subject type="local">standard model</subject>
+            <subject type="local">unification</subject>
+            <description type="brief">This project will explore theories which hypothesis that our universe is a 3-dimensional mem-(brane) residing in higher dimensional space. We will construct completely realistic theories and find ways to test them experimentally. This project is at the forefront of international developments in our understanding of the universe - an area that has grown in importance following the construction of the Large Hadron Collider at the European Giant accelerator laboraroty. The project will�expose postgraduate students to exciting developments in this fascinating field pf physics.</description>
+            <description type="fundingAmount">$285,000</description>
+            <description type="fundingScheme">Discovery Projects</description>
+            <description type="researchers">Prof RR Volkas</description>
+            <existenceDates>
+                <startDate dateFormat="W3CDTF">2009</startDate>
+                <endDate dateFormat="W3CDTF">2011</endDate>
+            </existenceDates>
+        </activity>
+    </registryObject>
+
+    <registryObject group="ActivityApiTest">
+        <key>AUTestingRecords3:Funder/Program12/Hub1/GrantDP0558457_AA</key>
+        <originatingSource>arc.gov.au/general/searchable_data.htm</originatingSource>
+        <activity type="grant">
+            <name type="primary">
+                <namePart>(AUTestingRecords3)AUTestingRecords3:Funder/Program12/Hub1/GrantDP0558457   An investigation swarkie xoop of two non-punitive crime chorizo control strategies for the illicit traffic in S.E. Asian antiquities(Q KEYWORD TITLE)</namePart>
+            </name>
+            <identifier type="purl">AUTestingRecords3:Funder/Program12/Hub1/GrantDP0558457AUTx.Grant_AA</identifier>
+            <identifier type="arc">DP0558457AUTx.Grant_AA</identifier>
+            <relatedObject>
+                <key>http://nla.gov.au/nla.party-AUT3_AA</key>
+                <relation type="isManagedBy"/>
+            </relatedObject>
+            <relatedObject>
+                <key>AUTestingRecords3:Funder/Program12/Hub1_AA</key>
+                <relation type="isPartOf"/>
+            </relatedObject>
+            <subject type="anzsrc-for">1602</subject>
+            <subject type="local">crime control</subject>
+            <subject type="local">illegal markets</subject>
+            <subject type="local">international crime</subject>
+            <subject type="local">white collar crime</subject>
+            <description type="brief">The preservation of cultural heritage is significant for the maintenance of national identity and security. The illegal plunder and international trafficking of cultural heritage, not infrequently linked with other international crime, is of national and regional concern. The response to the destruction of the Iraq Museum evidences the level of community concern. However, the nature of the illicit antiquities market means that traditional punitive crime control strategies are ineffective. The Australian government has participated in international efforts to develop new control strategies for this form of international crime. Focusing on the illicit market in SE Asian antiquities, this research investigates two non- punitive strategies.</description>
+            <description type="fundingAmount">$137,000</description>
+            <description type="fundingScheme">Discovery Projects</description>
+            <description type="researchers">A/Prof CM Alder; Prof K Polk</description>
+            <existenceDates>
+                <startDate dateFormat="W3CDTF">2005</startDate>
+                <endDate dateFormat="W3CDTF">2007</endDate>
+            </existenceDates>
+        </activity>
+    </registryObject>
+
+    <registryObject group="ActivityApiTest">
+        <key>AUTestingRecords3:Funder/Program12/Hub2/GrantDP0987282/Collection1_AA</key>
+        <originatingSource type="">http://researchdata.ands.org.au/registry/orca/register_my_data</originatingSource>
+        <collection type="collection" dateModified="2015-04-02T00:16:24Z">
+            <name type="primary">
+                <namePart>(AUTestingRecords3) AUTestingRecords3:Funder/Program12/Hub2/GrantDP0987282/Collection1 Collection related to grant hierarchy with relatedInfo</namePart>
+            </name>
+            <description type="full">&lt;p&gt;The Geoffrey Blainey Research Centre (GBRC) is located on the top floor of the E.J. Barker Library (Mt Helen Campus) and includes a supervised reading room where collections can be accessed and read.&lt;/p&gt;
+    &lt;p&gt;The GBRC includes the Geoffrey Blainey Mining Collection and the Federation University Australia Special Collection, both of which can be searched online via the FedUni &lt;a href=&quot;http://innopac.ballarat.edu.au/&quot;&gt;Library catalogue&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;The Federation University Australia Historical Collection is also located at the GBRC. This extensive collection of historical material dates from 1851. The collection covers material from the Federation University Australia predecessors including the Ballarat School of Mines, Ballarat Teachers' College, State College of Victoria, Ballarat; the Ballarat Institute of Advanced Education, Ballarat College of Advanced Education, Ballarat University College, University of Ballarat and Wimmera Institute of TAFE.&lt;/p&gt;
+    &lt;p&gt;GBRC contributes records to the &lt;a href=&quot;http://victoriancollections.net.au/organisations/search?q=University+of+Ballarat&quot;&gt;Victorian Collections website.&lt;/a&gt; The centre also has created digital information including the &lt;a href=&quot;http://guerin.ballarat.edu.au/aasp/is/library/collections/art_history/honour-roll/&quot;&gt;UB Honour Roll&lt;/a&gt;, &lt;a href=&quot;http://bih.ballarat.edu.au/index.php/Ballarat_and_District_Industrial_Heritage_Project&quot;&gt; Ballarat&amp;District Industrial Heritage Project&lt;/a&gt; and the &lt;a href=&quot;http://guerin.ballarat.edu.au/aasp/is/library/collections/art_history/smb_entrance_book/&quot;&gt;Ballarat School of Mines (SMB) Entrance book&lt;/a&gt;.&lt;/p&gt;</description>
+            <rights>
+                <accessRights>Access available during centre opening hours or by appointment</accessRights>
+            </rights>
+            <identifier type="handle"> http://researchonline.federation.edu.au:8080/vital/access/HandleResolver/1959.17/33420AUTbdsdsd3_AA</identifier>
+            <location>
+                <address>
+                    <electronic type="email" target="landingPage">
+                        <value>c.gervasoni@federation.edu.au</value>
+                    </electronic>
+                    <physical type="streetAddress">
+                        <addressPart type="addressLine">&lt;p&gt; Geoffrey Blainey Research Centre&lt;/p&gt;&lt;p&gt; Federation University Australia Mt Helen Campus&lt;/p&gt;&lt;p&gt; E. J. Barker Library&lt;p&gt;&lt;p&gt; Mt Helen Vic 3350&lt;/p&gt; PO Box 663 Ballarat 3353 Vic</addressPart>
+                    </physical>
+                </address>
+            </location>
+            <coverage>
+                <temporal>
+                    <date type="dateFrom" dateFormat="W3CDTF">1870</date>
+                </temporal>
+            </coverage>
+            <coverage>
+                <spatial type="text">Ballarat, Victoria, Australia</spatial>
+            </coverage>
+            <subject type="anzsrc-for">2103</subject>
+            <relatedInfo type="activity">
+                <identifier type="purl">AUTestingRecords3:Funder/Program12/Hub2/GrantDP0987282AUTx.Grant_AA</identifier>
+                <title>(AUTestingRecords3)</title>
+                <relation type="isOutputOf"/>
+            </relatedInfo>
+        </collection>
+    </registryObject>
+
+    <registryObject group="ActivityApiTest">
+        <key>AUTestingRecords3:Funder/Program13_AA</key>
+        <originatingSource>Project List supplied by Australian Water Recycling Centre of Excellence</originatingSource>
+        <activity type="program">
+            <name type="primary">
+                <namePart>(AUTestingRecords3) AUTestingRecords3:Funder/Program13</namePart>
+            </name>
+            <identifier type="purl">http://purl.org/au-research/AUT/Program13_AA</identifier>
+            <location>
+                <address>
+                    <electronic type="url">
+                        <value>http://www.australianwaterrecycling.com.au/projects/national-validation-framework-priority-research</value>
+                    </electronic>
+                </address>
+            </location>
+            <relatedObject>
+                <key>AUTestingRecords3:Funder_AA</key>
+                <relation type="isFundedBy"/>
+            </relatedObject>
+            <relatedInfo type="party">
+                <identifier type="uri">http://www.waterra.com.au/about-waterra/_AA</identifier>
+                <title>Water Research Australia</title>
+                <relation type="isManagedBy"/>
+            </relatedInfo>
+            <description type="brief">In developing the detailed scope of NatVal, a number of important knowledge gaps were identified. So that the validation framework can take advantage of more recently developed approaches to recycled water treatment and validation, six research projects are being undertaken: (1) Membrane Bioreactor validation; (2) Reverse osmosis membrane validation; (3) Biological system validation; (4) Enhanced validation of the whole process train in a multiple-barrier system; (5) Standardisation and augmentation of microbial testing methods for validation; (6) Ozone process validation.</description>
+            <description type="researchers">Dr Cedric Robillot</description>
+            <existenceDates>
+                <startDate dateFormat="W3CDTF">2013-05</startDate>
+                <endDate dateFormat="W3CDTF">2015-06</endDate>
+            </existenceDates>
+        </activity>
+    </registryObject>
+
+    <registryObject group="ActivityApiTest">
+        <key>AUTestingRecords3:Funder/Program12/Hub1/ProjectLP0347149_AA</key>
+        <originatingSource>arc.gov.au/general/searchable_data.htm</originatingSource>
+        <activity type="project">
+            <name type="primary">
+                <namePart>(AUTestingRecords3) AUTestingRecords3:Funder/Program12/Hub1/ProjectLP0347149 A combinatorial approach to creation of new swarkie epitopes with biological activity</namePart>
+            </name>
+            <identifier type="purl">AUTestingRecords3:Funder/Program12/Hub1/ProjectLP0347149AUTx.Grant_AA</identifier>
+            <identifier type="arc">LP0347149AUTx.Grant_AA</identifier>
+            <relatedObject>
+                <key>http://nla.gov.au/nla.party-AUT3_AA</key>
+                <relation type="isManagedBy"/>
+            </relatedObject>
+            <relatedObject>
+                <key>AUTestingRecords3:Funder/Program12/Hub1_AA</key>
+                <relation type="isPartOf"/>
+            </relatedObject>
+            <subject type="anzsrc-for">0304</subject>
+            <subject type="local">amphiphilic compounds</subject>
+            <subject type="local">combinatorial biology</subject>
+            <subject type="local">drug delivery</subject>
+            <subject type="local">dynamic combinatorial chemistry</subject>
+            <subject type="local">lipoamino acids</subject>
+            <subject type="local">mosaic technology</subject>
+            <description type="brief">We aim to develop and extend the Mosaic technology patented by Proxima Concepts Ltd. as a new methodolgy for dynamic combinatorial chemistry and drug delivery. The technology relies on bringing chemical structures of interest in close proximity by presenting them on the surface of a micelle type structure. These structures will also be developed at a targeted drug delivery vehicle. The technology will impact on the areas of drug discovery and drug delivery.</description>
+            <description type="fundingAmount">$285,000</description>
+            <description type="fundingScheme">Linkage Projects</description>
+            <description type="researchers">Prof I Toth; Dr RR NEW; Dr JT Blanchfield</description>
+            <existenceDates>
+                <startDate dateFormat="W3CDTF">2003</startDate>
+                <endDate dateFormat="W3CDTF">2005</endDate>
+            </existenceDates>
+        </activity>
+    </registryObject>
+
+    <registryObject group="ActivityApiTest">
+        <key>AUTestingRecords3:Funder/Program12/Hub1/GrantLP0211170_AA</key>
+        <originatingSource>arc.gov.au/general/searchable_data.htm</originatingSource>
+        <activity type="grant">
+            <name type="primary">
+                <namePart>(AUTestingRecords3) AUTestingRecords3:Funder/Program12/Hub1/GrantLP0211170</namePart>
+            </name>
+            <identifier type="purl">AUTestingRecords3:Funder/Program12/Hub1/GrantLP0211170AUTx.Grant_AA</identifier>
+            <identifier type="arc">LP0211170AUTx.Grant_AA</identifier>
+            <relatedObject>
+                <key>AUTestingRecords3:Funder_AA</key>
+                <relation type="isFundedBy"/>
+            </relatedObject>
+            <relatedObject>
+                <key>AUTestingRecords3:Funder/Program12/Hub1_AA</key>
+                <relation type="isPartOf"/>
+            </relatedObject>
+            <relatedObject>
+                <key>http://nla.gov.au/nla.party-AUT3_AA</key>
+                <relation type="isManagedBy"/>
+            </relatedObject>
+            <subject type="anzsrc-for">1701</subject>
+            <subject type="local">alternative harvesting systems</subject>
+            <subject type="local">environmental attitudes</subject>
+            <subject type="local">environmental perception</subject>
+            <subject type="local">forestry</subject>
+            <subject type="local">social acceptability</subject>
+            <subject type="local">virtual environments</subject>
+            <description type="brief">Fierce public debate over forest management has prompted forest agencies to develop and test alternative harvesting systems. This project will examine community response to these harvesting and regeneration options. It will avoid the biases of existing research by developing an interactive simulation of the forest environment that will allow participants to view visual, ecological and economic outcomes of harvest options, as well as changes over time as forest regenerates. Public judgements of the acceptability of harvesting options will be integrated with the outcomes of related biophysical studies to identify socially and ecologically sustainable management options for Australian native forests.</description>
+            <description type="fundingAmount">$110,000</description>
+            <description type="fundingScheme">Linkage Projects</description>
+            <description type="researchers">Dr KJ Williams A/Prof ID Bishop A/Prof JW Cary Dr TJ Webb Dr MJ Brown Mr JE Hickey</description>
+            <existenceDates>
+                <startDate dateFormat="W3CDTF">2002</startDate>
+                <endDate dateFormat="W3CDTF">2004</endDate>
+            </existenceDates>
+        </activity>
+    </registryObject>
+
+    <registryObject group="ActivityApiTest">
+        <key>AUTestingRecords3:Funder/Program12/Hub1/GrantDP0987152_AA</key>
+        <originatingSource>arc.gov.au/general/searchable_data.htm</originatingSource>
+        <activity type="grant">
+            <name type="primary">
+                <namePart>(AUTestingRecords3)AUTestingRecords3:Funder/Program12/Hub1/GrantDP0987152 DP0987152 Assessing gene function in the developing brain using zebrafish as a model system(Q KEYWORD SUBJECT)</namePart>
+            </name>
+            <identifier type="purl">AUTestingRecords3:Funder/Program12/Hub1/GrantDP0987152AUTx.Grant_AA</identifier>
+            <identifier type="arc">DP0987152AUTx.Grant_AA</identifier>
+            <relatedObject>
+                <key>AUTestingRecords3:Funder_AA</key>
+                <relation type="isFundedBy"/>
+            </relatedObject>
+            <relatedObject>
+                <key>http://nla.gov.au/nla.party-AUT3_AA</key>
+                <relation type="isManagedBy"/>
+            </relatedObject>
+            <relatedObject>
+                <key>AUTestingRecords3:Funder/Program12/Hub1_AA</key>
+                <relation type="isPartOf"/>
+            </relatedObject>
+            <subject type="anzsrc-for">2705</subject>
+            <subject type="local">axon guidance</subject>
+            <subject type="local">chorizo risotto</subject>
+            <subject type="local">developmental biology</subject>
+            <subject type="local">embryo</subject>
+            <subject type="local">neurobiology</subject>
+            <subject type="local">zebrafish</subject>
+            <description type="brief">As the average life expectancy in western countries rises there is an increasing incidence of mental health problems. Therapeutic approaches to both Alzhemier's and Parkinson's disease, as well as to brain injury following stroke, rely on a thorough understanding of how the brain develops. This is consistent with the everyday principle that if you want to fix something that is broken, then you need to understand how it is put together in the first place. This project seeks to understand how the normal brain is wired together in the embryo and, in doing so it will expose novel targets for therapy in the aged.</description>
+            <description type="fundingAmount">$310,000</description>
+            <description type="fundingScheme">Discovery Projects</description>
+            <description type="researchers">Prof B Key</description>
+            <existenceDates>
+                <startDate dateFormat="W3CDTF">2009</startDate>
+                <endDate dateFormat="W3CDTF">2011</endDate>
+            </existenceDates>
+        </activity>
+    </registryObject>
+
+    <registryObject group="ActivityApiTest">
+        <key>AUTestingRecords3:Funder/Program12/Hub1/GrantLP0669606_AA</key>
+        <originatingSource>arc.gov.au/general/searchable_data.htm</originatingSource>
+        <activity type="grant">
+            <name type="primary">
+                <namePart>(AUTestingRecords3) AUTestingRecords3:Funder/Program12/Hub1/GrantLP0669606 A unique driver assessment tool to improve four wheel drive and sedan driving competencies (Q KEYWORD BRIEF DESC)</namePart>
+            </name>
+            <identifier type="purl">AUTestingRecords3:Funder/Program12/Hub1/GrantLP0669606AUTx.Grant_AA</identifier>
+            <identifier type="arc">LP0669606AUTx.Grant_AA</identifier>
+            <relatedObject>
+                <key>http://nla.gov.au/nla.party-AUT3_AA</key>
+                <relation type="isManagedBy"/>
+            </relatedObject>
+            <relatedObject>
+                <key>AUTestingRecords3:Funder/Program12/Hub1_AA</key>
+                <relation type="isPartOf"/>
+            </relatedObject>
+            <relatedObject>
+                <key>AUTestingRecords3:Funder/Program12/Hub1/GrantLP0669606/Collection2_AA</key>
+                <relation type="hasOutput"/>
+            </relatedObject>
+            <subject type="anzsrc-for">1507</subject>
+            <subject type="local">driver training</subject>
+            <subject type="local">intelligent transport systems</subject>
+            <subject type="local">road safety</subject>
+            <description type="brief">Four wheel drive (4WD) sales are booming in Australia. 4WD occupant fatalities occurring in rollovers are over represented in Australian's road crashes. This is a unique project using advanced technology to assess behavioural risks associated with the use of chorizo risotto 4WDs and inexperienced drivers. It builds a novel, integrated computer-based screening tool to provide objective and reliable driver training assessments with the aim of (i) reducing crashes relating to inexperience and specific 4WD crashes and (ii) recommending public policy with regard to 4WD behavioural risks and driver training.</description>
+            <description type="fundingAmount">$173,076</description>
+            <description type="fundingScheme">Linkage Projects</description>
+            <description type="researchers">Dr A Rakotonirainy; Dr F Maire; Mr D Wishart</description>
+            <existenceDates>
+                <startDate dateFormat="W3CDTF">2006</startDate>
+                <endDate dateFormat="W3CDTF">2009</endDate>
+            </existenceDates>
+        </activity>
+    </registryObject>
+
+    <registryObject group="ActivityApiTest">
+        <key>AUTestingRecords3:Funder/Program12/Hub1/GrantLP0669606/Collection2_AA</key>
+        <originatingSource type="">https://demo.ands.org.au/registry//orca/register_my_data</originatingSource>
+        <collection type="dataset">
+            <name type="primary">
+                <namePart>(AUTestingRecords3) AUTestingRecords3:Funder/Program12/Hub1/GrantLP0669606/Collection2 (LVL 4)Digital Soil Mapping</namePart>
+            </name>
+            <name type="abbreviated">
+                <namePart>(AUTestingRecords3)(LVL 4)OzDSM</namePart>
+            </name>
+            <description type="full">&amp;lt;p&amp;gt;DSM is a collaborative workspace for researchers working on digital soil mapping in Australia. This workspace is the initiative of the Advisory Group on Digital Soil Assessment, a working group of the &amp;lt;a href=&amp;quot;http://www.clw.csiro.au/aclep/contacts.htm&amp;quot;&amp;gt;National Committee on Soil &amp; Terrain&amp;lt;/a&amp;gt;. The website is part of an interoperable web-GIS maintained by the &amp;lt;a href=&amp;quot;http://cerdi.edu.au/&amp;quot;&amp;gt;Centre for eResearch and Digital Innovation&amp;lt;/a&amp;gt; (CeRDI) at &amp;lt;a href=&amp;quot;http://federation.edu.au/&amp;quot;&amp;gt;Federation University Australia&amp;lt;/a&amp;gt; (FedUni).&amp;lt;/p&amp;gt;
+    &amp;lt;p&amp;gt;The &amp;lt;a href=&amp;quot;http://www.digitalsoilmapping.org/&amp;quot;&amp;gt;International Union of Soil Sciences Digital Soil Mapping Working Group&amp;lt;/a&amp;gt; defines DSM as &amp;quot;creation and the population of a geographically referenced soil database, generated at a given resolution by using field and laboratory observation methods coupled with environmental data through quantitative relationships.&amp;quot;  &amp;lt;/p&amp;gt;
+    &amp;lt;p&amp;gt;Digital Soil Mapping (DSM) utilises numerical methods and information technologies to produce predictive maps of soil types and their properties. DSM relies on traditional field mapping, observations and laboratory analyses for soil data but also utilises spatial models of landscape terrain and remotely-sensed properties.  Typically numerical methods such as interpolation algorithms and data mining are used to create the maps.&amp;lt;/p&amp;gt;
+    &amp;lt;p&amp;gt;OzDSM in collaboration with CeRDI is developing a digital soil mapping tool, and a demonstrator version is displayed on the site. A range of data is included, such as nutrient budgets and soil pH, and with extra data available for the Corangamite Catchment Management Authority region including landslides, erosion and salinity.&amp;lt;/p&amp;gt;</description>
+            <rights>
+                <rightsStatement>You are provided with access to this application only for your personal use and you may not without our written permission on-sell or rebadge information obtained from this web site, or in any way represent that the information is from any source other than the Federation University Australia Interoperable GIS.</rightsStatement>
+                <licence type="CC-BY-NC" rightsUri="CC"/>
+                <accessRights type="restricted"/>
+            </rights>
+            <identifier type="uri">http://researchonline.federation.edu.au:8080/vital/access/HandleResolver/1959.17/76780AUTbsd3_AA</identifier>
+            <location>
+                <address>
+                    <electronic type="url" target="landingPage">
+                        <value>http://www.ozdsm.com.au/</value>
+                    </electronic>
+                </address>
+            </location>
+            <coverage>
+                <temporal>
+                    <date type="dateFrom" dateFormat="W3CDTF">2007</date>
+                    <date type="dateTo" dateFormat="W3CDTF">2012</date>
+                </temporal>
+                <spatial type="text">Victoria</spatial>
+            </coverage>
+            <relatedObject>
+                <key>AUTestingRecords3Nestedx2www.ballarat.edu.au/serv/1_AA</key>
+                <relation type="isAvailableThrough">
+                    <url>http://researchdata.ands.org.au/feduni-spatial/2536</url>
+                </relation>
+            </relatedObject>
+            <relatedObject>
+                <key>AUTestingRecords3Nestedx2www.ballarat.edu.au/coll/11_AA</key>
+                <relation type="isPartOf"/>
+            </relatedObject>
+            <relatedObject>
+                <key>AUTestingRecords3Nestedx2www.ballarat.edu.au/act/6_AA</key>
+                <relation type="isOutputOf"/>
+            </relatedObject>
+            <relatedObject>
+                <key>AUTestingRecords3Nestedx2www.cecc.com_AA</key>
+                <relation type="isManagedBy"/>
+            </relatedObject>
+            <relatedObject>
+                <key>AUTestingRecords3Nestedx2federation.edu.au/party/001_AA</key>
+                <relation type="isOutputOf"/>
+            </relatedObject>
+            <relatedObject>
+                <key>AUTestingRecords3Nestedx2www.ballarat.edu.au/party/0000015158_AA</key>
+                <relation type="hasAssociationWith"/>
+            </relatedObject>
+            <relatedObject>
+                <key>AUTestingRecords3Nestedx2federation.edu.au/party/003_AA</key>
+                <relation type="hasAssociationWith"/>
+            </relatedObject>
+            <relatedObject>
+                <key>AUTestingRecords3Nestedx2federation.edu.au/party/015_AA</key>
+                <relation type="hasAssociationWith"/>
+            </relatedObject>
+            <subject type="anzsrc-for">0701</subject>
+            <subject type="local">Soil</subject>
+            <subject type="local">Digital soil mapping</subject>
+            <subject type="anzsrc-for">0503</subject>
+            <relatedInfo type="website">
+                <title>National Committee on Soil &amp; Terrain</title>
+                <identifier type="uri">http://www.clw.csiro.au/aclep/contacts.htmAUTbsd3_AA</identifier>
+                <relation type="hasAssociationWith"/>
+            </relatedInfo>
+            <relatedInfo type="website">
+                <title>FedUni Spatial: an interoperable web-GIS and databases</title>
+                <identifier type="uri">http://ubspatial.com.au/AUTbsd3_AA</identifier>
+                <relation type="hasAssociationWith"/>
+            </relatedInfo>
+        </collection>
+    </registryObject>
+
+    <registryObject group="ActivityApiTest">
+        <key>AUTestingRecords3:Funder/Program13/Collection4_AA</key>
+        <originatingSource>
+http://researchdata.ands.org.au/registry/orca/register_my_data
+</originatingSource>
+        <collection dateAccessioned="2013-02-19T00:00:00Z" dateModified="2013-02-19T00:00:00Z" type="collection">
+            <name type="primary">
+                <namePart type="">(AUTestingRecords) AUTestingRecords3:Funder/Program13/Collection4 Collection to test party of type group ordering in title bar.</namePart>
+            </name>
+            <description type="full">
+&amp;lt;p&amp;gt; A Visual Representation of Music &amp; Aural Representation of Image:&amp;lt;/p&amp;gt; &amp;lt;p&amp;gt; The&amp;nbsp;&amp;lt;em&amp;gt;Intermedia Frottage&amp;nbsp;&amp;lt;/em&amp;gt;collection documents the development of compositional method for using graphic synthesis techniques to create sounds from images, and images from sounds. The products of these processes are then layered and arranged in cohesive, meaningful combinations. Moving back-and-forth between the two mediums in this dynamic interaction, a narrative interplay develops, connecting the materials created. Together with the sound compositions, the canvases and artists&amp;rsquo; scorebooks tell this story.&amp;nbsp;&amp;lt;/p&amp;gt; &amp;lt;p&amp;gt; The collection consists of:&amp;lt;/p&amp;gt; &amp;lt;ol&amp;gt; &amp;lt;li&amp;gt; 200pp. exegesis, text with 48 coloured figures,&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt; 14-track CD sound recording,&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt; Exhibition collection of 6 artists books and 10 giclee (digital print) canvases,&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt; DVD of images exhibition canvases and artists books,&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt; Exhibition copies of 14-track audio CD.&amp;lt;/li&amp;gt; &amp;lt;/ol&amp;gt; &amp;lt;p&amp;gt; The collection represents the complete body of work submitted by Melissa Cary to complete her PhD. The collection was exhibited at the Southern Cross University, NEXT Gallery as an installation of visual artworks accompanied by headphone listening stations with copies of the audio CD.&amp;lt;/p&amp;gt;
+</description>
+            <rights>
+                <rightsStatement>
+Data associated with this collection remain the property of Melissa Carey. This data is only available for analysis and/or publication with the permission of the owner.
+</rightsStatement>
+                <accessRights>
+For permission to access this collection please contact Melissa Carey.
+</accessRights>
+            </rights>
+            <identifier type="local">scu.edu.au/art-001AUTdl56d_AA</identifier>
+            <location>
+                <address>
+                    <electronic type="email">
+                        <value>mcarey@scu.edu.au</value>
+                    </electronic>
+                    <physical type="postalAddress">
+                        <addressPart type="text">
+R Block, Division of Research, Southern Cross University Military Road East Lismore New South Wales Australia 2480
+</addressPart>
+                    </physical>
+                </address>
+            </location>
+            <relatedObject>
+                <key>partyOrderingGroup1g_AA</key>
+                <relation type="hasCollector"/>
+            </relatedObject>
+            <relatedObject>
+                <key>partyOrderingGroup2g_AA</key>
+                <relation type="isManagedBy"/>
+            </relatedObject>
+            <relatedObject>
+                <key>partyOrderingGroup3g_AA</key>
+                <relation type="hasAssociationWith"/>
+            </relatedObject>
+            <relatedObject>
+                <key>AUTestingRecords3:Funder/Program13_AA</key>
+                <relation type="isOutputOf"/>
+            </relatedObject>
+            <subject type="anzsrc-for">1904</subject>
+            <subject type="anzsrc-for">1905</subject>
+            <coverage>
+                <temporal>
+                    <date type="dateFrom" dateFormat="W3CDTF">2003-01-21T00:00:00Z</date>
+                    <date type="dateTo" dateFormat="W3CDTF">2007-02-21T00:00:00Z</date>
+                </temporal>
+                <temporal>
+                    <date type="dateFrom" dateFormat="W3CDTF">2008-01-11T00:00:00Z</date>
+                    <date type="dateTo" dateFormat="W3CDTF">2009-02-11T00:00:00Z</date>
+                </temporal>
+            </coverage>
+            <citationInfo>
+                <fullCitation style="Harvard">
+Carey, M. 2007 "Intermedia Frottage - An Arual representation of images".
+</fullCitation>
+            </citationInfo>
+            <relatedInfo type="publication">
+                <title>Related Info Title</title>
+                <identifier type="doi">10.123123123_AA</identifier>
+                <relation type="hasPart"/>
+            </relatedInfo>
+            <relatedInfo type="website">
+                <title>Stuff</title>
+                <identifier type="uri">http://www.smithy.com_AA</identifier>
+                <relation type="hasAssociationWith">
+                    <description>A website relationship</description>
+                </relation>
+            </relatedInfo>
+            <relatedInfo type="party">
+                <title>Insert party name here...</title>
+                <identifier type="uri">http://partyoftypegroup.com_AA</identifier>
+                <relation type="hasAssociationWith">
+                    <description>A website relationship</description>
+                </relation>
+            </relatedInfo>
+            <dates type="dc.available">
+                <date type="dateFrom" dateFormat="W3CDTF">2003-04-17T00:00:00Z</date>
+            </dates>
+            <dates type="dc.dateSubmitted">
+                <date type="dateFrom" dateFormat="W3CDTF">2003-05-21T00:00:00Z</date>
+                <date type="dateTo" dateFormat="W3CDTF">2007-02-21T00:00:00Z</date>
+            </dates>
+        </collection>
+    </registryObject>
+
+
+    <registryObject group="ActivityApiTest">
+        <key>AUTestingRecords3:Funder/Program12/Hub1/GrantDP0558457/Collection5_AA</key>
+        <originatingSource>
+http://researchdata.ands.org.au/registry/orca/register_my_data
+</originatingSource>
+        <collection dateAccessioned="2013-02-19T00:00:00Z" dateModified="2013-02-19T00:00:00Z" type="collection">
+            <name type="primary">
+                <namePart type="">(AUTestingRecords) AUTestingRecords3:Funder/Program12/Hub1/GrantDP0558457/Collection5 Collection to test party ordering in title bar.</namePart>
+            </name>
+            <description type="full">
+&amp;lt;p&amp;gt; A Visual Representation of Music &amp; Aural Representation of Image:&amp;lt;/p&amp;gt; &amp;lt;p&amp;gt; The&amp;nbsp;&amp;lt;em&amp;gt;Intermedia Frottage&amp;nbsp;&amp;lt;/em&amp;gt;collection documents the development of compositional method for using graphic synthesis techniques to create sounds from images, and images from sounds. The products of these processes are then layered and arranged in cohesive, meaningful combinations. Moving back-and-forth between the two mediums in this dynamic interaction, a narrative interplay develops, connecting the materials created. Together with the sound compositions, the canvases and artists&amp;rsquo; scorebooks tell this story.&amp;nbsp;&amp;lt;/p&amp;gt; &amp;lt;p&amp;gt; The collection consists of:&amp;lt;/p&amp;gt; &amp;lt;ol&amp;gt; &amp;lt;li&amp;gt; 200pp. exegesis, text with 48 coloured figures,&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt; 14-track CD sound recording,&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt; Exhibition collection of 6 artists books and 10 giclee (digital print) canvases,&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt; DVD of images exhibition canvases and artists books,&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt; Exhibition copies of 14-track audio CD.&amp;lt;/li&amp;gt; &amp;lt;/ol&amp;gt; &amp;lt;p&amp;gt; The collection represents the complete body of work submitted by Melissa Cary to complete her PhD. The collection was exhibited at the Southern Cross University, NEXT Gallery as an installation of visual artworks accompanied by headphone listening stations with copies of the audio CD.&amp;lt;/p&amp;gt;
+</description>
+            <rights>
+                <rightsStatement>
+Data associated with this collection remain the property of Melissa Carey. This data is only available for analysis and/or publication with the permission of the owner.
+</rightsStatement>
+                <accessRights>
+For permission to access this collection please contact Melissa Carey.
+</accessRights>
+            </rights>
+            <identifier type="local">scu.edu.au/art-001AUTdl34aada_AA</identifier>
+            <location>
+                <address>
+                    <electronic type="email">
+                        <value>mcarey@scu.edu.au</value>
+                    </electronic>
+                    <physical type="postalAddress">
+                        <addressPart type="text">
+R Block, Division of Research, Southern Cross University Military Road East Lismore New South Wales Australia 2480
+</addressPart>
+                    </physical>
+                </address>
+            </location>
+            <relatedObject>
+                <key>partyOrderingPerson1_AA</key>
+                <relation type="hasCollector"/>
+            </relatedObject>
+            <relatedObject>
+                <key>partyOrderingPerson2_AA</key>
+                <relation type="hasPrincipalInvestigator"/>
+            </relatedObject>
+            <relatedObject>
+                <key>partyOrderingPerson3_AA</key>
+                <relation type="hasPrincipalInvestigator"/>
+            </relatedObject>
+            <subject type="anzsrc-for">1904</subject>
+            <subject type="anzsrc-for">1905</subject>
+            <coverage>
+                <temporal>
+                    <date type="dateFrom" dateFormat="W3CDTF">2003-01-21T00:00:00Z</date>
+                    <date type="dateTo" dateFormat="W3CDTF">2007-02-21T00:00:00Z</date>
+                </temporal>
+                <temporal>
+                    <date type="dateFrom" dateFormat="W3CDTF">2008-01-11T00:00:00Z</date>
+                    <date type="dateTo" dateFormat="W3CDTF">2009-02-11T00:00:00Z</date>
+                </temporal>
+            </coverage>
+            <citationInfo>
+                <fullCitation style="Harvard">
+Carey, M. 2007 "Intermedia Frottage - An Arual representation of images".
+</fullCitation>
+            </citationInfo>
+            <relatedInfo type="publication">
+                <title>Related Info Title</title>
+                <identifier type="doi">10.123123123_AA</identifier>
+                <relation type="hasPart"/>
+            </relatedInfo>
+            <relatedInfo type="website">
+                <title>Stuff</title>
+                <identifier type="uri">http://www.smithy.com_AA</identifier>
+                <relation type="hasAssociationWith">
+                    <description>A website relationship</description>
+                </relation>
+            </relatedInfo>
+            <relatedInfo type="party">
+                <title>Insert party name here...</title>
+                <identifier type="orcid">123-654-789_AA</identifier>
+                <relation type="hasAssociationWith">
+                    <description>A website relationship</description>
+                </relation>
+            </relatedInfo>
+            <relatedInfo type="activity">
+                <title>Insert activity name here...</title>
+                <identifier type="purl">AUTestingRecords3:Funder/Program12/Hub1/GrantDP0558457AUTx.Grant_AA</identifier>
+                <relation type="isOutputOf">
+                    <description>A website relationship</description>
+                </relation>
+            </relatedInfo>
+            <dates type="dc.available">
+                <date type="dateFrom" dateFormat="W3CDTF">2003-04-17T00:00:00Z</date>
+            </dates>
+            <dates type="dc.dateSubmitted">
+                <date type="dateFrom" dateFormat="W3CDTF">2003-05-21T00:00:00Z</date>
+                <date type="dateTo" dateFormat="W3CDTF">2007-02-21T00:00:00Z</date>
+            </dates>
+        </collection>
+    </registryObject>
+
+    <registryObject group="ActivityApiTest">
+        <key>AUTestingRecords874804-8f6d-64b3/558/7.1f_AA</key>
+        <originatingSource>Integrated Marine Observing System (IMOS)</originatingSource>
+        <collection type="dataset">
+            <identifier type="local">scu.edu.au/art-001AUTdl56d_AA</identifier>
+            <name type="primary">
+                <namePart>(AUTestingRecords) Collection with citationMetadata with DOI in full resolvable URL format  and single contributor as string(not all elements). Duplicate of AUTestingRecords3:Funder/Program13/Collection4 and should inherit grants network relationships.
+</namePart>
+            </name>
+            <dates type="created">
+                <date type="dateFrom" dateFormat="W3CDTF">2010-04-12T17:41:00</date>
+            </dates>
+            <relatedObject>
+                <key>IMOS/af2a50b8-4d0f-44c9-8209-88c691db8d9da_AA</key>
+                <relation type="isPartOf"/>
+            </relatedObject>
+            <location>
+                <address>
+                    <electronic type="url">
+                        <value>
+http://imosmest.aodn.org.au:80/geonetwork/srv/en/metadata.show?uuid=78748469-2dcf-4104-8f6d-64b3155e5b35
+</value>
+                    </electronic>
+                </address>
+            </location>
+            <relatedObject>
+                <key>IMOS/eMIIDataOfficer_AA</key>
+                <relation type="pointOfContact"/>
+            </relatedObject>
+            <relatedObject>
+                <key>IMOS/Williams,Stefan_AA</key>
+                <relation type="principalInvestigator"/>
+            </relatedObject>
+            <relatedObject>
+                <key>IMOS/IntegratedMarineObservingSystem(IMOS)_AA</key>
+                <relation type="resourceProvider"/>
+            </relatedObject>
+            <relatedObject>
+                <key>IMOS/eMarineInformationInfrastructure(eMII)_AA</key>
+                <relation type="pointOfContact"/>
+            </relatedObject>
+            <relatedObject>
+                <key>
+IMOS/AustralianCentreforFieldRobotics(ACFR),TheUniversityofSydney(USYD)
+_AA</key>
+                <relation type="principalInvestigator"/>
+            </relatedObject>
+            <subject type="local">oceans</subject>
+            <subject type="local">Oceans | Salinity/density | Conductivity</subject>
+            <subject type="local">Oceans | Ocean Temperature | Water Temperature</subject>
+            <subject type="local">Oceans | Bathymetry | Water Depth</subject>
+            <subject type="local">Oceans | Ocean Optics | Fluorescence</subject>
+            <subject type="local">Oceans | Ocean Chemistry | Oxygen</subject>
+            <subject type="local">Oceans | Ocean Optics | Turbidity</subject>
+            <subject type="local">Oceans | Ocean Chemistry | Nutrients</subject>
+            <subject type="local">Oceans | Ocean Chemistry | Carbon Dioxide</subject>
+            <subject type="local">Oceans | Ocean Chemistry | Chlorophyll</subject>
+            <subject type="local">Oceans | Bathymetry | Seafloor Topography</subject>
+            <subject type="local">Oceans | Ocean Chemistry | Organic Matter</subject>
+            <subject type="local">CTD (Conductivity-Temperature-Depth Profilers)</subject>
+            <subject type="local">Data Loggers</subject>
+            <subject type="local">Seabed Vehicles</subject>
+            <subject type="local">Cameras | Still Cameras - underwater</subject>
+            <subject type="local">
+Current Meters/Profilers | Acoustic Doppler Current Profiler (ADCP)
+</subject>
+            <subject type="local">Digital Imaging (acquisition and/or analysis)</subject>
+            <subject type="local">Field Surveys | Underwater Surveys</subject>
+            <subject type="local">Fluorometers</subject>
+            <subject type="local">SONAR</subject>
+            <subject type="local">Turbulence Sensors</subject>
+            <subject type="local">
+IMOS Facility | AUV | Autonomous Underwater Vehicle
+</subject>
+            <description type="full">
+AUV SIRIUS (IMOS Platform code: SIRIUS) effectued a series of dives during the Tasmania201106 campaign. Dive Abstract: Surveying at Flinders Island and St Helens. The AUV group launched an AUV robot at latitude:-40.52004, longitude: 148.4089 from 2011-06-16T03:58:03+10:00 to 2011-06-16T06:53:35+10:00. The robot,capable of undertaking high resolution survey work, took 10532, stereo pairs images (only the right ones are available for download) over 3523.07459 meters. Engineering data (roll, pitch, heading) as well as scientific data such as sea water temperature, sea water salinity, chlorophyll concentration, backscattering ratio, colored dissolved organic matter ; have been recorded in both CSV and netCDF files. The dive name r20110616_035459_flinders_south_cape_barren_island_16 follows the following convention name rYYYYMMDD_HHMMSS_SITE_NumberDive_... A Dive report in PDF is available for download : http://data.aodn.org.au/IMOS/public/AUV/Tasmania201106/all_reports/r20110616_035459_flinders_south_cape_barren_island_16_report.pdf The different data, as explained underneath, are stored by eMII and are accessible and downloadable at https://df.arcs.org.au/ARCS/projects/IMOS/public/AUV/Tasmania201106/r20110616_035459_flinders_south_cape_barren_island_16 More informations about the AUV facility can be available on the IMOS website: http://imos.org.au/auv.html -------------------------------------------------------------------- The files in this folder form part of the data 'product' from the IMOS AUV Facility Sirius AUV operated by the University of Sydney's Australian Centre for Field Robotics. The directory contains a number of different file types. These are listed below. The 'product' from each dive is contained in it's own named folder. *../all_reports folder:- This folder contains the PDF short dive report files, one for each of the dives. These contain some summary graphs and sample images. *per_dive folder:- -&gt; i*_gtif (contains geotif versions of all images). -&gt; i*_subsampN (subsampled geotif images (one in N, and a csv of locations). -&gt; hydro_netcdf (*.nc files, netcdf files containing CT and ecopuck data). -&gt; track_files (dive track in csv, kml and arcgis shape file format). -&gt; mesh (3D reconstuction of the dive, needs OSG viewer software). -&gt; multibeam (a number of different versions of the multibeam product). *.gsf: Navigated and automatically cleaned swath bathymetry with raw intensity data.Format specification 121 (SAIC Generic Sensor Format) in mbsystem. *.grd: Gridded bathymetry. NetCDF format as used with GMT. Use grdinfo to determine resolution and projection. *.grd.pdf: Plotted gridded bathymetry (local northings and eastings) acrobat PDF format.
+</description>
+            <coverage>
+                <spatial type="iso19139dcmiBox">
+northlimit=-40.51547; southlimit=-40.52004; westlimit=148.4089; eastLimit=148.4145
+</spatial>
+                <spatial type="text">
+northlimit=-40.51547; southlimit=-40.52004; westlimit=148.4089; eastLimit=148.4145
+</spatial>
+            </coverage>
+            <coverage>
+                <temporal>
+                    <date type="dateFrom" dateFormat="W3CDTF">2011-06-15T17:58:03Z</date>
+                    <date type="dateTo" dateFormat="W3CDTF">2011-06-15T20:53:35Z</date>
+                </temporal>
+            </coverage>
+            <relatedInfo>
+                <title>.PDF dive report</title>
+            </relatedInfo>
+            <relatedInfo>
+                <title>.KML GoogleEarth file</title>
+            </relatedInfo>
+            <relatedInfo type="website">
+                <identifier type="uri">
+http://thredds.aodn.org.au/thredds/dodsC/IMOS/AUV/Tasmania201106/r20110616_035459_flinders_south_cape_barren_island_16/catalog.html
+_AA</identifier>
+                <relation type="hasAssociationWith"/>
+                <title>Link to data through OPeNDAP</title>
+            </relatedInfo>
+            <relatedInfo type="website">
+                <identifier type="uri">
+http://data.aodn.org.au/IMOS/public/AUV/Tasmania201106/r20110616_035459_flinders_south_cape_barren_island_16
+_AA</identifier>
+                <relation type="hasAssociationWith"/>
+                <title>Link to full dataset in IMOS data storage</title>
+            </relatedInfo>
+            <relatedInfo type="website">
+                <identifier type="uri">
+http://data.aodn.org.au/IMOS/public/AUV/AUV_articles/Williams2003-FSR.pdf
+_AA</identifier>
+                <relation type="hasAssociationWith"/>
+                <title>
+A Terrain-aided Tracking Algorithm for Marine Systems, Stefan Williams,2003
+</title>
+            </relatedInfo>
+            <relatedInfo type="website">
+                <identifier type="uri">
+http://data.aodn.org.au/IMOS/public/AUV/AUV_articles/Williams2004-IFAC-ReefSurveying.pdf
+_AA</identifier>
+                <relation type="hasAssociationWith"/>
+                <title>
+DESIGN OF AN UNMANNED UNDERWATER VEHICLE FOR REEF SURVEYING, Stefan B. Williams - Ian Mahon,2004
+</title>
+            </relatedInfo>
+            <relatedInfo type="website">
+                <identifier type="uri">
+http://data.aodn.org.au/IMOS/public/AUV/AUV_articles/IEEE_Sirius_paper.pdf
+_AA</identifier>
+                <relation type="hasAssociationWith"/>
+                <title>
+Heterogeneous Imaging Towards Three-Dimensional Sensor Correspondence and Registration for Visualization, Matthew Johnson-Roberson, Oscar Pizarro, Stefan Williams
+</title>
+            </relatedInfo>
+            <rights>
+                <licence type="CC-BY" rightsUri="http://creativecommons.org/licenses/by/2.5/au/">Creative Commons Attribution</licence>
+            </rights>
+            <rights>
+                <rightsStatement>
+The citation in a list of references is: "IMOS [year-of-data-download], [Title], [data-access-URL], accessed [date-of-access]."
+</rightsStatement>
+            </rights>
+            <rights>
+                <rightsStatement>
+Any users of IMOS data are required to clearly acknowledge the source of the material in the format: "Data was sourced from the Integrated Marine Observing System (IMOS) - IMOS is supported by the Australian Government through the National Collaborative Research Infrastructure Strategy and the Super Science Initiative." If relevant, also credit other organisations involved in collection of this particular datastream (as listed in 'credit' in the metadata record).
+</rightsStatement>
+            </rights>
+            <rights>
+                <rightsStatement>
+Data, products and services from IMOS are provided "as is" without any warranty as to fitness for a particular purpose.
+</rightsStatement>
+            </rights>
+            <citationInfo>
+                <citationMetadata>
+                    <identifier type="doi">
+http://dx.doi.org/10.1234d_AA</identifier>
+                    <title>
+IMOS AUV Campaign Tasmania201106, Dive number 16, flinders south cape barren island, 15 Jun 2011
+</title>
+                    <date type="publicationDate">2001</date>
+                    <contributor>
+                        <namePart>Example contributor single string</namePart>
+                    </contributor>
+                    <publisher>Integrated Marine Observing System (IMOS)</publisher>
+                </citationMetadata>
+            </citationInfo>
+        </collection>
+    </registryObject>
+
+    <registryObject group="ActivityApiTest">
+        <key>AUTestingRecords3:Funder/Program12/Hub2_AA</key>
+        <originatingSource>Scraped from the Web</originatingSource>
+        <activity type="program">
+            <name type="primary">
+                <namePart>(AUTestingRecords3) AUTestingRecords3:Funder/Program12/Hub2</namePart>
+            </name>
+            <identifier type="purl">http://purl.org/au-research/grants/AUT/Hub2_AA</identifier>
+            <relatedObject>
+                <key>AUTestingRecords3:Funder/Program12_AA</key>
+                <relation type="isPartOf"/>
+            </relatedObject>
+            <description type="brief">The Hub 2 is a collaborative partnership supported with funding from the Australian Government administered by the Department of the Environmen's National Environmental Research Programme.
+The Marine Biodiversity Hub will research Australian oceans and marine environments, including temperate coastal water quality and marine species.It is administered by the University of Tasmania, and led by Professor Nic Bax.
+</description>
+            <relatedInfo type="party">
+                <identifier type="AU-ANL:PEAU">http://nla.gov.au/nla.party-571034_AA</identifier>
+                <relation type="hasPrincipalInvestigator"/>
+            </relatedInfo>
+            <relatedInfo type="website">
+                <identifier type="uri">http://www.nespmarine.edu.au/_AA</identifier>
+            </relatedInfo>
+        </activity>
+    </registryObject>
+
+    <registryObject group="ActivityApiTest">
+        <key>AUTestingRecords3:Funder/Program12/Hub1_AA</key>
+        <originatingSource>Scraped from the Web</originatingSource>
+        <activity type="program">
+            <name type="primary">
+                <namePart>(AUTestingRecords3) AUTestingRecords3:Funder/Program12/Hub1</namePart>
+            </name>
+            <identifier type="purl">http://purl.org/au-research/grants/AUT/Hub1_AA</identifier>
+            <relatedObject>
+                <key>AUTestingRecords3:Funder/Program12_AA</key>
+                <relation type="isPartOf"/>
+            </relatedObject>
+            <description type="brief">The Marine Biodiversity Hub is a collaborative partnership supported with funding from the Australian Government administered by the Department of the Environmen's National Environmental Research Programme.
+The Marine Biodiversity Hub will research Australian oceans and marine environments, including temperate coastal water quality and marine species.It is administered by the University of Tasmania, and led by Professor Nic Bax.
+</description>
+            <relatedInfo type="party">
+                <identifier type="AU-ANL:PEAU">http://nla.gov.au/nla.party-571034_AA</identifier>
+                <relation type="hasPrincipalInvestigator"/>
+            </relatedInfo>
+            <relatedInfo type="website">
+                <identifier type="uri">http://www.nespmarine.edu.au/_AA</identifier>
+            </relatedInfo>
+        </activity>
+    </registryObject>
+
+    <registryObject group="ActivityApiTest">
+        <key>AUTestingRecords3:Funder/Program12_AA</key>
+        <originatingSource type="">https://demo.ands.org.au/registry//orca/register_my_data</originatingSource>
+        <activity type="program">
+            <name type="primary">
+                <namePart>(AUTestingRecords3) AUTestingRecords3:Funder/Program12</namePart>
+            </name>
+            <name type="abbreviated">
+                <namePart>AAPG</namePart>
+            </name>
+            <identifier type="purl">http://purl.org/au-research/AUT/Program12_AA</identifier>
+            <relatedObject>
+                <key>AUTestingRecords3:Funder_AA</key>
+                <relation type="isFundedBy"/>
+            </relatedObject>
+            <description type="full">&amp;lt;p&amp;gt;The National Environmental Research Program (&amp;lt;abbr title=&amp;quot;National Environmental Research Program&amp;quot;&amp;gt;NERP&amp;lt;/abbr&amp;gt;) provided around $20 million each year for environmental research to improve our capacity to understand, manage and conserve Australia's unique biodiversity and ecosystems through the generation of world-class research, and its delivery to Australian environmental decision-makers and other stakeholders.&amp;lt;/p&amp;gt;
+                &amp;lt;p&amp;gt;On 6 December 2010 the Minister announced that five research hubs would be funded by the then Department of Sustainability, Environment, Water, Population and Communities under the &amp;lt;abbr title=&amp;quot;National Environmental Research Program&amp;quot;&amp;gt;NERP&amp;lt;/abbr&amp;gt;. Up to $68.5 million in funding over 4 years will be made available to provide first-class science that is essential for sustainably managing Australia's environment.&amp;lt;/p&amp;gt;
+                &amp;lt;ul&amp;gt;
+                &amp;lt;li&amp;gt;&amp;lt;abbr title=&amp;quot;National Environmental Research Program&amp;quot;&amp;gt;NERP&amp;lt;/abbr&amp;gt; Tropical Ecosystems Hub — Science Leader: Dr Peter Doherty, Australian Institute of Marine Science&amp;lt;/li&amp;gt;
+                &amp;lt;li&amp;gt;&amp;lt;abbr title=&amp;quot;National Environmental Research Program&amp;quot;&amp;gt;NERP&amp;lt;/abbr&amp;gt; Environmental Decisions Hub — Director: Prof Hugh Possingham, University of Queensland&amp;lt;/li&amp;gt;
+                &amp;lt;li&amp;gt;&amp;lt;abbr title=&amp;quot;National Environmental Research Program&amp;quot;&amp;gt;NERP&amp;lt;/abbr&amp;gt; Northern Australia Hub — Director: Prof Michael Douglas, Charles Darwin University&amp;lt;/li&amp;gt;
+                &amp;lt;li&amp;gt;&amp;lt;abbr title=&amp;quot;National Environmental Research Program&amp;quot;&amp;gt;NERP&amp;lt;/abbr&amp;gt; Landscapes and Policy Hub — Director: Prof Ted Lefroy, University of Tasmania&amp;lt;/li&amp;gt;
+                &amp;lt;li&amp;gt;&amp;lt;abbr title=&amp;quot;National Environmental Research Program&amp;quot;&amp;gt;NERP&amp;lt;/abbr&amp;gt; Marine Biodiversity Hub — Director: Prof Nic Bax, University of Tasmania&amp;lt;/li&amp;gt;
+                &amp;lt;/ul&amp;gt;
+                &amp;lt;p&amp;gt;The National Environmental Research Program provides for applied public good research that addresses the programs overall objective to:&amp;lt;/p&amp;gt;
+                &amp;lt;blockquote&amp;gt;
+                &amp;lt;p&amp;gt;improve our capacity to understand, manage and conserve Australia's unique biodiversity and ecosystems through the generation of world-class research and its delivery to Australian environmental decision makers and other stakeholders.&amp;lt;/p&amp;gt;
+                &amp;lt;/blockquote&amp;gt;
+                &amp;lt;p&amp;gt;It builds on the lessons learned from the Commonwealth Environment Research Facilities (&amp;lt;abbr title=&amp;quot;Commonwealth Environment Research Facilities&amp;quot;&amp;gt;CERF&amp;lt;/abbr&amp;gt;) program, replacing that program and focusing more specifically on biodiversity and improving research delivery to the Australian Government, other end-users and stakeholders.&amp;lt;/p&amp;gt;
+                &amp;lt;p&amp;gt;&amp;lt;abbr title=&amp;quot;National Environmental Research Program&amp;quot;&amp;gt;NERP&amp;lt;/abbr&amp;gt; funding will be allocated for biodiversity research and will deliver information that the Australian Government needs to better inform environmental management, policy and decision making, both in the short-term and into the future. This includes understanding how ecosystems function, monitoring their health, maintaining and building their resilience, using them sustainably and exploring how to better use markets to protect biodiversity.&amp;lt;/p&amp;gt;
+                &amp;lt;p&amp;gt;The &amp;lt;abbr title=&amp;quot;National Environmental Research Program&amp;quot;&amp;gt;NERP&amp;lt;/abbr&amp;gt; seeks to achieve its objectives by providing around $20 million each year to support applied research that:&amp;lt;/p&amp;gt;
+                &amp;lt;ul&amp;gt;
+                &amp;lt;li&amp;gt;has a strong public-good focus and public-good outcome&amp;lt;/li&amp;gt;
+                &amp;lt;li&amp;gt;is end-user focused and addresses the needs of the Australian Government and other stakeholders in developing evidence-based policy and improving management of the Australian environment&amp;lt;/li&amp;gt;
+                &amp;lt;li&amp;gt;is highly innovative and aims to achieve world-class research and an international standing in the chosen field of research&amp;lt;/li&amp;gt;
+                &amp;lt;li&amp;gt;enhances Australia's environmental research capacity&amp;lt;/li&amp;gt;
+                &amp;lt;li&amp;gt;is collaborative and builds critical mass by drawing on multiple disciplines from multiple research institutions to address challenging research questions&amp;lt;/li&amp;gt;
+                &amp;lt;li&amp;gt;provides results accessible to government, industry and the community, and&amp;lt;/li&amp;gt;
+                &amp;lt;li&amp;gt;includes focussing on synthesis and analysis of existing knowledge.&amp;lt;/li&amp;gt;
+                &amp;lt;/ul&amp;gt;</description>
+            <subject type="anzsrc-for">05</subject>
+            <relatedInfo type="website">
+                <title>About the ANDS</title>
+                <identifier type="uri">http://www.ands.org.au_AA</identifier>
+                <notes>Link is to a web archive as this program is no longer current</notes>
+            </relatedInfo>
+            <existenceDates>
+                <startDate dateFormat="W3CDTF">2011</startDate>
+                <endDate dateFormat="W3CDTF">2014</endDate>
+            </existenceDates>
+        </activity>
+    </registryObject>
+
+    <registryObject group="ActivityApiTest">
+        <key>AUTestingRecords3:Funder_AA</key>
+        <originatingSource type="">http://api.crossref.org/funders?filter=location:Australia</originatingSource>
+        <party type="group">
+            <name type="primary">
+                <namePart>(AUTestingRecords3) AUTestingRecords3:Funder</namePart>
+            </name>
+            <description type="brief">&amp;lt;p&amp;gt;The Department of the AUTestingRecords3 designs and implements the Australian Government’s policies and programmes to protect and conserve the environment, water and heritage and promote climate action. The environmental framework is being delivered under four pillars:&amp;lt;/p&amp;gt;
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;Clean Water&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Clean Air&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;Clean Land&amp;lt;/li&amp;gt;
+&amp;lt;li&amp;gt;National heritage&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+&amp;lt;p&amp;gt;Throughout Australia, environment and heritage issues are also managed by other levels of government.&amp;lt;/p&amp;gt;
+&amp;lt;ul&amp;gt;
+&amp;lt;li class=&amp;quot;arrow&amp;quot;&amp;gt;&amp;lt;a href=&amp;quot;http://www.australia.gov.au&amp;quot;&amp;gt;Government in Australia&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;li class=&amp;quot;arrow&amp;quot;&amp;gt;&amp;lt;a class=&amp;quot;ext&amp;quot; href=&amp;quot;http://australia.gov.au/directories/state-territory-and-local-government-directories/states-territories-and-local-government&amp;quot;&amp;gt;States, territories and local government&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+&amp;lt;div class=&amp;quot;boxtwocols&amp;quot;&amp;gt; &amp;lt;/div&amp;gt;</description>
+            <identifier type="doi">AUTestingRecords3:Funder_AA</identifier>
+            <identifier type="fundref">50110000AUT3.x_AA</identifier>
+            <identifier type="AU-ANL:PEAU">http://nla.gov.au/nla.party-AUT55.433_AA</identifier>
+            <location>
+                <address>
+                    <electronic type="url">
+                        <value>http://www.environment.gov.au/webform/website-feedback</value>
+                    </electronic>
+                </address>
+                <spatial type="iso31661">AU</spatial>
+            </location>
+            <relatedInfo type="website">
+                <title>Web Site</title>
+                <identifier type="uri">http://www.environment.gov.au_AA</identifier>
+            </relatedInfo>
+            <existenceDates>
+                <startDate dateFormat="W3CDTF">2013-09-18</startDate>
+            </existenceDates>
+        </party>
+    </registryObject>
+
+    <registryObject group="ActivityApiTest">
+        <key>AUTestingRecords3:Funder/Program12/Hub2/GrantDP0987282_AA</key>
+        <originatingSource>arc.gov.au/general/searchable_data.htm</originatingSource>
+        <activity type="grant">
+            <name type="primary">
+                <namePart>(AUTestingRecords3)AUTestingRecords3:Funder/Program12/Hub2/GrantDP0987282</namePart>
+            </name>
+            <identifier type="purl">AUTestingRecords3:Funder/Program12/Hub2/GrantDP0987282AUTx.Grant_AA</identifier>
+            <identifier type="arc">DP0987282AUTx.Grant_AA</identifier>
+            <relatedObject>
+                <key>http://nla.gov.au/nla.party-AUT2_AA</key>
+                <relation type="isManagedBy"/>
+            </relatedObject>
+            <relatedObject>
+                <key>AUTestingRecords3:Funder/Program12/Hub2_AA</key>
+                <relation type="isPartOf"/>
+            </relatedObject>
+            <subject type="anzsrc-for">2403</subject>
+            <subject type="local">brane</subject>
+            <subject type="local">domain wall</subject>
+            <subject type="local">extra dimension</subject>
+            <subject type="local">phenomenology</subject>
+            <subject type="local">standard model</subject>
+            <subject type="local">unification</subject>
+            <description type="brief">This project will explore theories which hypothesis that our universe is a 3-dimensional mem-(brane) residing in higher dimensional space. We will construct completely realistic theories and find ways to test them experimentally. This project is at the forefront of international developments in our understanding of the universe - an area that has grown in importance following the construction of the Large Hadron Collider at the European Giant accelerator laboraroty. The project will�expose postgraduate students to exciting developments in this fascinating field pf physics.</description>
+            <description type="fundingAmount">$285,000</description>
+            <description type="fundingScheme">Discovery Projects</description>
+            <description type="researchers">Prof RR Volkas</description>
+            <existenceDates>
+                <startDate dateFormat="W3CDTF">2009</startDate>
+                <endDate dateFormat="W3CDTF">2011</endDate>
+            </existenceDates>
+        </activity>
+    </registryObject>
+
+    <registryObject group="ActivityApiTest">
+        <key>AUTestingRecords3:Funder/Program12/Hub1/GrantDP0558457_AA</key>
+        <originatingSource>arc.gov.au/general/searchable_data.htm</originatingSource>
+        <activity type="grant">
+            <name type="primary">
+                <namePart>(AUTestingRecords3)AUTestingRecords3:Funder/Program12/Hub1/GrantDP0558457   An investigation swarkie xoop of two non-punitive crime chorizo control strategies for the illicit traffic in S.E. Asian antiquities(Q KEYWORD TITLE)</namePart>
+            </name>
+            <identifier type="purl">AUTestingRecords3:Funder/Program12/Hub1/GrantDP0558457AUTx.Grant_AA</identifier>
+            <identifier type="arc">DP0558457AUTx.Grant_AA</identifier>
+            <relatedObject>
+                <key>http://nla.gov.au/nla.party-AUT3_AA</key>
+                <relation type="isManagedBy"/>
+            </relatedObject>
+            <relatedObject>
+                <key>AUTestingRecords3:Funder/Program12/Hub1_AA</key>
+                <relation type="isPartOf"/>
+            </relatedObject>
+            <subject type="anzsrc-for">1602</subject>
+            <subject type="local">crime control</subject>
+            <subject type="local">illegal markets</subject>
+            <subject type="local">international crime</subject>
+            <subject type="local">white collar crime</subject>
+            <description type="brief">The preservation of cultural heritage is significant for the maintenance of national identity and security. The illegal plunder and international trafficking of cultural heritage, not infrequently linked with other international crime, is of national and regional concern. The response to the destruction of the Iraq Museum evidences the level of community concern. However, the nature of the illicit antiquities market means that traditional punitive crime control strategies are ineffective. The Australian government has participated in international efforts to develop new control strategies for this form of international crime. Focusing on the illicit market in SE Asian antiquities, this research investigates two non- punitive strategies.</description>
+            <description type="fundingAmount">$137,000</description>
+            <description type="fundingScheme">Discovery Projects</description>
+            <description type="researchers">A/Prof CM Alder; Prof K Polk</description>
+            <existenceDates>
+                <startDate dateFormat="W3CDTF">2005</startDate>
+                <endDate dateFormat="W3CDTF">2007</endDate>
+            </existenceDates>
+        </activity>
+    </registryObject>
+
+    <registryObject group="ActivityApiTest">
+        <key>AUTestingRecords3:Funder/Program12/Hub2/GrantDP0987282/Collection1_AA</key>
+        <originatingSource type="">http://researchdata.ands.org.au/registry/orca/register_my_data</originatingSource>
+        <collection type="collection" dateModified="2015-04-02T00:16:24Z">
+            <name type="primary">
+                <namePart>(AUTestingRecords3) AUTestingRecords3:Funder/Program12/Hub2/GrantDP0987282/Collection1 Collection related to grant hierarchy with relatedInfo</namePart>
+            </name>
+            <description type="full">&lt;p&gt;The Geoffrey Blainey Research Centre (GBRC) is located on the top floor of the E.J. Barker Library (Mt Helen Campus) and includes a supervised reading room where collections can be accessed and read.&lt;/p&gt;
+    &lt;p&gt;The GBRC includes the Geoffrey Blainey Mining Collection and the Federation University Australia Special Collection, both of which can be searched online via the FedUni &lt;a href=&quot;http://innopac.ballarat.edu.au/&quot;&gt;Library catalogue&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;The Federation University Australia Historical Collection is also located at the GBRC. This extensive collection of historical material dates from 1851. The collection covers material from the Federation University Australia predecessors including the Ballarat School of Mines, Ballarat Teachers' College, State College of Victoria, Ballarat; the Ballarat Institute of Advanced Education, Ballarat College of Advanced Education, Ballarat University College, University of Ballarat and Wimmera Institute of TAFE.&lt;/p&gt;
+    &lt;p&gt;GBRC contributes records to the &lt;a href=&quot;http://victoriancollections.net.au/organisations/search?q=University+of+Ballarat&quot;&gt;Victorian Collections website.&lt;/a&gt; The centre also has created digital information including the &lt;a href=&quot;http://guerin.ballarat.edu.au/aasp/is/library/collections/art_history/honour-roll/&quot;&gt;UB Honour Roll&lt;/a&gt;, &lt;a href=&quot;http://bih.ballarat.edu.au/index.php/Ballarat_and_District_Industrial_Heritage_Project&quot;&gt; Ballarat&amp;District Industrial Heritage Project&lt;/a&gt; and the &lt;a href=&quot;http://guerin.ballarat.edu.au/aasp/is/library/collections/art_history/smb_entrance_book/&quot;&gt;Ballarat School of Mines (SMB) Entrance book&lt;/a&gt;.&lt;/p&gt;</description>
+            <rights>
+                <accessRights>Access available during centre opening hours or by appointment</accessRights>
+            </rights>
+            <identifier type="handle"> http://researchonline.federation.edu.au:8080/vital/access/HandleResolver/1959.17/33420AUTbdsdsd3_AA</identifier>
+            <location>
+                <address>
+                    <electronic type="email" target="landingPage">
+                        <value>c.gervasoni@federation.edu.au</value>
+                    </electronic>
+                    <physical type="streetAddress">
+                        <addressPart type="addressLine">&lt;p&gt; Geoffrey Blainey Research Centre&lt;/p&gt;&lt;p&gt; Federation University Australia Mt Helen Campus&lt;/p&gt;&lt;p&gt; E. J. Barker Library&lt;p&gt;&lt;p&gt; Mt Helen Vic 3350&lt;/p&gt; PO Box 663 Ballarat 3353 Vic</addressPart>
+                    </physical>
+                </address>
+            </location>
+            <coverage>
+                <temporal>
+                    <date type="dateFrom" dateFormat="W3CDTF">1870</date>
+                </temporal>
+            </coverage>
+            <coverage>
+                <spatial type="text">Ballarat, Victoria, Australia</spatial>
+            </coverage>
+            <subject type="anzsrc-for">2103</subject>
+            <relatedInfo type="activity">
+                <identifier type="purl">AUTestingRecords3:Funder/Program12/Hub2/GrantDP0987282AUTx.Grant_AA</identifier>
+                <title>(AUTestingRecords3)</title>
+                <relation type="isOutputOf"/>
+            </relatedInfo>
+        </collection>
+    </registryObject>
+
+    <registryObject group="ActivityApiTest">
+        <key>AUTestingRecords3:Funder/Program13_AA</key>
+        <originatingSource>Project List supplied by Australian Water Recycling Centre of Excellence</originatingSource>
+        <activity type="program">
+            <name type="primary">
+                <namePart>(AUTestingRecords3) AUTestingRecords3:Funder/Program13</namePart>
+            </name>
+            <identifier type="purl">http://purl.org/au-research/AUT/Program13_AA</identifier>
+            <location>
+                <address>
+                    <electronic type="url">
+                        <value>http://www.australianwaterrecycling.com.au/projects/national-validation-framework-priority-research</value>
+                    </electronic>
+                </address>
+            </location>
+            <relatedObject>
+                <key>AUTestingRecords3:Funder_AA</key>
+                <relation type="isFundedBy"/>
+            </relatedObject>
+            <relatedInfo type="party">
+                <identifier type="uri">http://www.waterra.com.au/about-waterra/_AA</identifier>
+                <title>Water Research Australia</title>
+                <relation type="isManagedBy"/>
+            </relatedInfo>
+            <description type="brief">In developing the detailed scope of NatVal, a number of important knowledge gaps were identified. So that the validation framework can take advantage of more recently developed approaches to recycled water treatment and validation, six research projects are being undertaken: (1) Membrane Bioreactor validation; (2) Reverse osmosis membrane validation; (3) Biological system validation; (4) Enhanced validation of the whole process train in a multiple-barrier system; (5) Standardisation and augmentation of microbial testing methods for validation; (6) Ozone process validation.</description>
+            <description type="researchers">Dr Cedric Robillot</description>
+            <existenceDates>
+                <startDate dateFormat="W3CDTF">2013-05</startDate>
+                <endDate dateFormat="W3CDTF">2015-06</endDate>
+            </existenceDates>
+        </activity>
+    </registryObject>
+
+    <registryObject group="ActivityApiTest">
+        <key>AUTestingRecords3:Funder/Program12/Hub1/ProjectLP0347149_AA</key>
+        <originatingSource>arc.gov.au/general/searchable_data.htm</originatingSource>
+        <activity type="project">
+            <name type="primary">
+                <namePart>(AUTestingRecords3) AUTestingRecords3:Funder/Program12/Hub1/ProjectLP0347149 A combinatorial approach to creation of new swarkie epitopes with biological activity</namePart>
+            </name>
+            <identifier type="purl">AUTestingRecords3:Funder/Program12/Hub1/ProjectLP0347149AUTx.Grant_AA</identifier>
+            <identifier type="arc">LP0347149AUTx.Grant_AA</identifier>
+            <relatedObject>
+                <key>http://nla.gov.au/nla.party-AUT3_AA</key>
+                <relation type="isManagedBy"/>
+            </relatedObject>
+            <relatedObject>
+                <key>AUTestingRecords3:Funder/Program12/Hub1_AA</key>
+                <relation type="isPartOf"/>
+            </relatedObject>
+            <subject type="anzsrc-for">0304</subject>
+            <subject type="local">amphiphilic compounds</subject>
+            <subject type="local">combinatorial biology</subject>
+            <subject type="local">drug delivery</subject>
+            <subject type="local">dynamic combinatorial chemistry</subject>
+            <subject type="local">lipoamino acids</subject>
+            <subject type="local">mosaic technology</subject>
+            <description type="brief">We aim to develop and extend the Mosaic technology patented by Proxima Concepts Ltd. as a new methodolgy for dynamic combinatorial chemistry and drug delivery. The technology relies on bringing chemical structures of interest in close proximity by presenting them on the surface of a micelle type structure. These structures will also be developed at a targeted drug delivery vehicle. The technology will impact on the areas of drug discovery and drug delivery.</description>
+            <description type="fundingAmount">$285,000</description>
+            <description type="fundingScheme">Linkage Projects</description>
+            <description type="researchers">Prof I Toth; Dr RR NEW; Dr JT Blanchfield</description>
+            <existenceDates>
+                <startDate dateFormat="W3CDTF">2003</startDate>
+                <endDate dateFormat="W3CDTF">2005</endDate>
+            </existenceDates>
+        </activity>
+    </registryObject>
+
+    <registryObject group="ActivityApiTest">
+        <key>AUTestingRecords3:Funder/Program12/Hub1/GrantLP0211170_AA</key>
+        <originatingSource>arc.gov.au/general/searchable_data.htm</originatingSource>
+        <activity type="grant">
+            <name type="primary">
+                <namePart>(AUTestingRecords3) AUTestingRecords3:Funder/Program12/Hub1/GrantLP0211170</namePart>
+            </name>
+            <identifier type="purl">AUTestingRecords3:Funder/Program12/Hub1/GrantLP0211170AUTx.Grant_AA</identifier>
+            <identifier type="arc">LP0211170AUTx.Grant_AA</identifier>
+            <relatedObject>
+                <key>AUTestingRecords3:Funder_AA</key>
+                <relation type="isFundedBy"/>
+            </relatedObject>
+            <relatedObject>
+                <key>AUTestingRecords3:Funder/Program12/Hub1_AA</key>
+                <relation type="isPartOf"/>
+            </relatedObject>
+            <relatedObject>
+                <key>http://nla.gov.au/nla.party-AUT3_AA</key>
+                <relation type="isManagedBy"/>
+            </relatedObject>
+            <relatedObject>
+                <key>hdl:1959.4/resource/party/resdatap_4671/1_AA</key>
+                <relation type="hasAssociationWith"/>
+            </relatedObject>
+            <subject type="anzsrc-for">1701</subject>
+            <subject type="local">alternative harvesting systems</subject>
+            <subject type="local">environmental attitudes</subject>
+            <subject type="local">environmental perception</subject>
+            <subject type="local">forestry</subject>
+            <subject type="local">social acceptability</subject>
+            <subject type="local">virtual environments</subject>
+            <description type="brief">Fierce public debate over forest management has prompted forest agencies to develop and test alternative harvesting systems. This project will examine community response to these harvesting and regeneration options. It will avoid the biases of existing research by developing an interactive simulation of the forest environment that will allow participants to view visual, ecological and economic outcomes of harvest options, as well as changes over time as forest regenerates. Public judgements of the acceptability of harvesting options will be integrated with the outcomes of related biophysical studies to identify socially and ecologically sustainable management options for Australian native forests.</description>
+            <description type="fundingAmount">$110,000</description>
+            <description type="fundingScheme">Linkage Projects</description>
+            <description type="researchers">Dr KJ Williams A/Prof ID Bishop A/Prof JW Cary Dr TJ Webb Dr MJ Brown Mr JE Hickey</description>
+            <existenceDates>
+                <startDate dateFormat="W3CDTF">2002</startDate>
+                <endDate dateFormat="W3CDTF">2004</endDate>
+            </existenceDates>
+        </activity>
+    </registryObject>
+
+    <registryObject group="ActivityApiTest">
+        <key>AUTestingRecords3:Funder/Program12/Hub1/GrantDP0987152_AA</key>
+        <originatingSource>arc.gov.au/general/searchable_data.htm</originatingSource>
+        <activity type="grant">
+            <name type="primary">
+                <namePart>(AUTestingRecords3)AUTestingRecords3:Funder/Program12/Hub1/GrantDP0987152 DP0987152 Assessing gene function in the developing brain using zebrafish as a model system(Q KEYWORD SUBJECT)</namePart>
+            </name>
+            <identifier type="purl">AUTestingRecords3:Funder/Program12/Hub1/GrantDP0987152AUTx.Grant_AA</identifier>
+            <identifier type="arc">DP0987152AUTx.Grant_AA</identifier>
+            <relatedObject>
+                <key>AUTestingRecords3:Funder_AA</key>
+                <relation type="isFundedBy"/>
+            </relatedObject>
+            <relatedObject>
+                <key>http://nla.gov.au/nla.party-AUT3_AA</key>
+                <relation type="isManagedBy"/>
+            </relatedObject>
+            <relatedObject>
+                <key>AUTestingRecords3:Funder/Program12/Hub1_AA</key>
+                <relation type="isPartOf"/>
+            </relatedObject>
+            <subject type="anzsrc-for">2705</subject>
+            <subject type="local">axon guidance</subject>
+            <subject type="local">chorizo risotto</subject>
+            <subject type="local">developmental biology</subject>
+            <subject type="local">embryo</subject>
+            <subject type="local">neurobiology</subject>
+            <subject type="local">zebrafish</subject>
+            <description type="brief">As the average life expectancy in western countries rises there is an increasing incidence of mental health problems. Therapeutic approaches to both Alzhemier's and Parkinson's disease, as well as to brain injury following stroke, rely on a thorough understanding of how the brain develops. This is consistent with the everyday principle that if you want to fix something that is broken, then you need to understand how it is put together in the first place. This project seeks to understand how the normal brain is wired together in the embryo and, in doing so it will expose novel targets for therapy in the aged.</description>
+            <description type="fundingAmount">$310,000</description>
+            <description type="fundingScheme">Discovery Projects</description>
+            <description type="researchers">Prof B Key</description>
+            <existenceDates>
+                <startDate dateFormat="W3CDTF">2009</startDate>
+                <endDate dateFormat="W3CDTF">2011</endDate>
+            </existenceDates>
+        </activity>
+    </registryObject>
+
+    <registryObject group="ActivityApiTest">
+        <key>AUTestingRecords3:Funder/Program12/Hub1/GrantLP0669606_AA</key>
+        <originatingSource>arc.gov.au/general/searchable_data.htm</originatingSource>
+        <activity type="grant">
+            <name type="primary">
+                <namePart>(AUTestingRecords3) AUTestingRecords3:Funder/Program12/Hub1/GrantLP0669606 A unique driver assessment tool to improve four wheel drive and sedan driving competencies (Q KEYWORD BRIEF DESC)</namePart>
+            </name>
+            <identifier type="purl">AUTestingRecords3:Funder/Program12/Hub1/GrantLP0669606AUTx.Grant_AA</identifier>
+            <identifier type="arc">LP0669606AUTx.Grant_AA</identifier>
+            <relatedObject>
+                <key>http://nla.gov.au/nla.party-AUT3_AA</key>
+                <relation type="isManagedBy"/>
+            </relatedObject>
+            <relatedObject>
+                <key>AUTestingRecords3:Funder/Program12/Hub1_AA</key>
+                <relation type="isPartOf"/>
+            </relatedObject>
+            <relatedObject>
+                <key>AUTestingRecords3:Funder/Program12/Hub1/GrantLP0669606/Collection2_AA</key>
+                <relation type="hasOutput"/>
+            </relatedObject>
+            <subject type="anzsrc-for">1507</subject>
+            <subject type="local">driver training</subject>
+            <subject type="local">intelligent transport systems</subject>
+            <subject type="local">road safety</subject>
+            <description type="brief">Four wheel drive (4WD) sales are booming in Australia. 4WD occupant fatalities occurring in rollovers are over represented in Australian's road crashes. This is a unique project using advanced technology to assess behavioural risks associated with the use of chorizo risotto 4WDs and inexperienced drivers. It builds a novel, integrated computer-based screening tool to provide objective and reliable driver training assessments with the aim of (i) reducing crashes relating to inexperience and specific 4WD crashes and (ii) recommending public policy with regard to 4WD behavioural risks and driver training.</description>
+            <description type="fundingAmount">$173,076</description>
+            <description type="fundingScheme">Linkage Projects</description>
+            <description type="researchers">Dr A Rakotonirainy; Dr F Maire; Mr D Wishart</description>
+            <existenceDates>
+                <startDate dateFormat="W3CDTF">2006</startDate>
+                <endDate dateFormat="W3CDTF">2009</endDate>
+            </existenceDates>
+        </activity>
+    </registryObject>
+
+    <registryObject group="ActivityApiTest">
+        <key>AUTestingRecords3:Funder/Program12/Hub1/GrantLP0669606/Collection2_AA</key>
+        <originatingSource type="">https://demo.ands.org.au/registry//orca/register_my_data</originatingSource>
+        <collection type="dataset">
+            <name type="primary">
+                <namePart>(AUTestingRecords3) AUTestingRecords3:Funder/Program12/Hub1/GrantLP0669606/Collection2 (LVL 4)Digital Soil Mapping</namePart>
+            </name>
+            <name type="abbreviated">
+                <namePart>(AUTestingRecords3)(LVL 4)OzDSM</namePart>
+            </name>
+            <description type="full">&amp;lt;p&amp;gt;DSM is a collaborative workspace for researchers working on digital soil mapping in Australia. This workspace is the initiative of the Advisory Group on Digital Soil Assessment, a working group of the &amp;lt;a href=&amp;quot;http://www.clw.csiro.au/aclep/contacts.htm&amp;quot;&amp;gt;National Committee on Soil &amp; Terrain&amp;lt;/a&amp;gt;. The website is part of an interoperable web-GIS maintained by the &amp;lt;a href=&amp;quot;http://cerdi.edu.au/&amp;quot;&amp;gt;Centre for eResearch and Digital Innovation&amp;lt;/a&amp;gt; (CeRDI) at &amp;lt;a href=&amp;quot;http://federation.edu.au/&amp;quot;&amp;gt;Federation University Australia&amp;lt;/a&amp;gt; (FedUni).&amp;lt;/p&amp;gt;
+    &amp;lt;p&amp;gt;The &amp;lt;a href=&amp;quot;http://www.digitalsoilmapping.org/&amp;quot;&amp;gt;International Union of Soil Sciences Digital Soil Mapping Working Group&amp;lt;/a&amp;gt; defines DSM as &amp;quot;creation and the population of a geographically referenced soil database, generated at a given resolution by using field and laboratory observation methods coupled with environmental data through quantitative relationships.&amp;quot;  &amp;lt;/p&amp;gt;
+    &amp;lt;p&amp;gt;Digital Soil Mapping (DSM) utilises numerical methods and information technologies to produce predictive maps of soil types and their properties. DSM relies on traditional field mapping, observations and laboratory analyses for soil data but also utilises spatial models of landscape terrain and remotely-sensed properties.  Typically numerical methods such as interpolation algorithms and data mining are used to create the maps.&amp;lt;/p&amp;gt;
+    &amp;lt;p&amp;gt;OzDSM in collaboration with CeRDI is developing a digital soil mapping tool, and a demonstrator version is displayed on the site. A range of data is included, such as nutrient budgets and soil pH, and with extra data available for the Corangamite Catchment Management Authority region including landslides, erosion and salinity.&amp;lt;/p&amp;gt;</description>
+            <rights>
+                <rightsStatement>You are provided with access to this application only for your personal use and you may not without our written permission on-sell or rebadge information obtained from this web site, or in any way represent that the information is from any source other than the Federation University Australia Interoperable GIS.</rightsStatement>
+                <licence type="CC-BY-NC" rightsUri="CC"/>
+                <accessRights type="restricted"/>
+            </rights>
+            <identifier type="uri">http://researchonline.federation.edu.au:8080/vital/access/HandleResolver/1959.17/76780AUTbsd3_AA</identifier>
+            <location>
+                <address>
+                    <electronic type="url" target="landingPage">
+                        <value>http://www.ozdsm.com.au/</value>
+                    </electronic>
+                </address>
+            </location>
+            <coverage>
+                <temporal>
+                    <date type="dateFrom" dateFormat="W3CDTF">2007</date>
+                    <date type="dateTo" dateFormat="W3CDTF">2012</date>
+                </temporal>
+                <spatial type="text">Victoria</spatial>
+            </coverage>
+            <relatedObject>
+                <key>AUTestingRecords3Nestedx2www.ballarat.edu.au/serv/1_AA</key>
+                <relation type="isAvailableThrough">
+                    <url>http://researchdata.ands.org.au/feduni-spatial/2536</url>
+                </relation>
+            </relatedObject>
+            <relatedObject>
+                <key>AUTestingRecords3Nestedx2www.ballarat.edu.au/coll/11_AA</key>
+                <relation type="isPartOf"/>
+            </relatedObject>
+            <relatedObject>
+                <key>AUTestingRecords3Nestedx2www.ballarat.edu.au/act/6_AA</key>
+                <relation type="isOutputOf"/>
+            </relatedObject>
+            <relatedObject>
+                <key>AUTestingRecords3Nestedx2www.cecc.com_AA</key>
+                <relation type="isManagedBy"/>
+            </relatedObject>
+            <relatedObject>
+                <key>AUTestingRecords3Nestedx2federation.edu.au/party/001_AA</key>
+                <relation type="isOutputOf"/>
+            </relatedObject>
+            <relatedObject>
+                <key>AUTestingRecords3Nestedx2www.ballarat.edu.au/party/0000015158_AA</key>
+                <relation type="hasAssociationWith"/>
+            </relatedObject>
+            <relatedObject>
+                <key>AUTestingRecords3Nestedx2federation.edu.au/party/003_AA</key>
+                <relation type="hasAssociationWith"/>
+            </relatedObject>
+            <relatedObject>
+                <key>AUTestingRecords3Nestedx2federation.edu.au/party/015_AA</key>
+                <relation type="hasAssociationWith"/>
+            </relatedObject>
+            <subject type="anzsrc-for">0701</subject>
+            <subject type="local">Soil</subject>
+            <subject type="local">Digital soil mapping</subject>
+            <subject type="anzsrc-for">0503</subject>
+            <relatedInfo type="website">
+                <title>National Committee on Soil &amp; Terrain</title>
+                <identifier type="uri">http://www.clw.csiro.au/aclep/contacts.htmAUTbsd3_AA</identifier>
+                <relation type="hasAssociationWith"/>
+            </relatedInfo>
+            <relatedInfo type="website">
+                <title>FedUni Spatial: an interoperable web-GIS and databases</title>
+                <identifier type="uri">http://ubspatial.com.au/AUTbsd3_AA</identifier>
+                <relation type="hasAssociationWith"/>
+            </relatedInfo>
+        </collection>
+    </registryObject>
+
+    <registryObject group="ActivityApiTest">
+    <key>http://nla.gov.au/nla.party-571034_AA</key>
+    <originatingSource type="authoritative">http://trove.nla.gov.au/people</originatingSource>
+    <party dateModified="2011-05-19T18:43:17Z" type="person">
+      <identifier type="AU-ANL:PEAU">http://nla.gov.au/nla.party-571034_AA</identifier>
+      <identifier type="AU-AuCNLKIN">http://nla.gov.au/anbd.aut-an35816531_AA</identifier>
+      <identifier type="AU-AuCNLKIN">abv05396466_AA</identifier>
+      <name type="primary">
+        <namePart type="family">Sax</namePart>
+        <namePart type="given">James</namePart>
+        <namePart type="given">J</namePart>
+      </name>
+      <location>
+        <address>
+          <electronic type="url">
+            <value>http://nla.gov.au/nla.party-571034</value>
+          </electronic>
+        </address>
+      </location>
+      <description type="full">Bax, Nicholas John. Born 1955.</description>
+    </party>
+  </registryObject>
+
+    <registryObject group="ActivityApiTest">
+    <key>hdl:1959.4/resource/party/resdatap_4671/1_AA</key>
+    <originatingSource type="">https://researchdata.edu.au/registry//orca/register_my_data</originatingSource>
+    <party type="person">
+      <name type="primary">
+        <namePart type="given">Dan</namePart>
+        <namePart type="family">Sudden</namePart>
+      </name>
+      <description type="brief">&lt;p&gt;Rural Clinical School, Faculty of Medicine, University of New South Wales,&lt;/p&gt;</description>
+      <identifier type="local">resdatap:4671_AA</identifier>
+    </party>
+  </registryObject>
+
+    <registryObject group="ActivityApiTest">
+    <key>http://nla.gov.au/nla.party-1525825_AA</key>
+    <originatingSource type="authoritative">http://trove.nla.gov.au/people</originatingSource>
+    <party dateModified="2015-12-11T07:00:18Z" type="person">
+      <identifier type="AU-ANL:PEAU">http://nla.gov.au/nla.party-1525825_AA</identifier>
+      <identifier type="AU-NU">www.sydney.edu.au/id/party/e906f2d5cca034f6d3f774ee8374b660_AA</identifier>
+      <name type="alternative">
+        <namePart type="family">Leon</namePart>
+        <namePart type="given">Esson</namePart>
+      </name>
+      <location>
+        <address>
+          <electronic type="url">
+            <value>http://nla.gov.au/nla.party-1525825</value>
+          </electronic>
+        </address>
+      </location>
+                  <relatedObject>
+                <key>AUTestingRecords3:Funder/Program12/Hub1/GrantDP0558457_AA</key>
+                <relation type="isPrincipalInvestigatorOf"/>
+            </relatedObject>
+            
+      <description type="brief">&lt;p&gt; From 2008 to 2012 I was a Research Associate on the AHRC-funded Complete Works of James Shirley (forthcoming with Oxford University Press) at Anglia Ruskin University, Cambridge. In 2006 I was a Leverhulme Visiting Fellow at the Centre for Dissenting Studies at Queen Mary, University of London; I am now a Visiting Research Fellow at the Centre. I am currently preparing an edition of &lt;em&gt;The Sisters&lt;/em&gt; (1642) by James Shirley for Oxford University Press. I am also co-general editor (with Johanna Harris) of a nine-volume edition of the correspondence of Richard Baxter (contracted with Oxford University Press, forthcoming 2018-2022).&lt;/p&gt;</description>
+      <description type="full">View the full record at The University of Sydney</description>
+    </party>
+  </registryObject>
+</registryObjects>
