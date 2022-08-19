@@ -1,0 +1,1061 @@
+<registryObjects xmlns="http://ands.org.au/standards/rif-cs/registryObjects" xmlns:extRif="http://ands.org.au/standards/rif-cs/extendedRegistryObjects" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ands.org.au/standards/rif-cs/registryObjects http://services.ands.org.au/documentation/rifcs/schema/registryObjects.xsd">
+
+  <registryObject group="The University of Adelaide">
+<key>abctb.org.au 21</key>
+<originatingSource>http://researchdata.ands.org.au/registry/orca/register_my_data</originatingSource>
+<party dateModified="2011-09-06T07:53:30Z" type="person">
+<name type="primary">
+<namePart type="title">Duplicate</namePart>
+<namePart type="family">Parsonage</namePart>
+<namePart type="given">P21</namePart>
+</name>
+<identifier type="uri">http://www.maths.adelaide.edu.au/people/eric.parsonage</identifier>
+<identifier type="AU-ANL:PEAU">http://nla.gov.au/nla.party-1541844</identifier>
+<identifier type="AU-YORCID">http://orcid.org/0000-0002-5563-5789</identifier>
+<location>
+<address>
+<electronic type="url">
+<value>http://www.maths.adelaide.edu.au/people/eric.parsonage</value>
+</electronic>
+<physical type="postalAddress">
+<addressPart type="addressLine">The University of Adelaide</addressPart>
+<addressPart type="country">Australia</addressPart>
+<addressPart type="postCode">5005</addressPart>
+<addressPart type="stateOrTerritory">SA</addressPart>
+</physical>
+</address>
+</location>
+<relatedObject>
+<key>abctb.org.au 11</key>
+<relation type="hasAssociationWith"/>
+</relatedObject>
+</party>
+</registryObject>
+
+<registryObject group="The University of Adelaide">
+<key>abctb.org.au 22</key>
+<originatingSource>http://researchdata.ands.org.au/registry/orca/register_my_data</originatingSource>
+<party dateModified="2011-09-06T07:53:30Z" type="person">
+<name type="primary">
+<namePart type="given">Duplicate</namePart>
+<namePart type="family">Maude</namePart>
+<namePart type="given">P22</namePart>
+</name>
+<description type="brief">Researcher and string figure expert.</description>
+<identifier type="AU-ANL:PEAU">http://nla.gov.au/nla.party-1541844</identifier>
+<identifier type="AU-YORCID">http://orcid.org/0000-0002-5563-5789</identifier>
+<relatedObject>
+<key>abctb.org.au 20</key>
+<relation type="isCollectorOf"/>
+</relatedObject>
+<subject type="anzsrc-for">200210</subject>
+<subject type="anzsrc-for">1601</subject>
+</party>
+</registryObject>
+
+<registryObject group="The University of Adelaide">
+    <key>abctb.org.au 23</key>
+    <originatingSource>http://researchdata.ands.org.au/registry/orca/register_my_data</originatingSource>
+    <collection dateAccessioned="2011-10-14T00:00:00Z" dateModified="2011-11-20T23:11:14Z" type="dataset">
+      <name type="primary">
+        <namePart type="">Results from spectrometric analysis of EGCG with alpha synuclein (C23)</namePart>
+      </name>
+      <description type="brief">This dataset comprises files resulting from the analysis of the interaction between epigallocatechin gallate (EGCG) and alpha synuclein as measured by travelling wave ion mobility-mass spectrometric (IM-MS). In addition to the mass spectra, which provide data on the intensity versus mass-to-charge ratio of the protein interactions, the dataset also includes measurements of the time taken for an ion to travel a defined distance, which can be related to collisional cross-sections of the protein interactions, allowing structural information to be inferred. The data were generated on a Waters HDMS Synapt instrument.</description>
+      <description type="rights">Reuse of this dataset is subject to copyright. Please contact Dr Tara Pukala for further information.</description>
+      <description type="accessRights">The dataset includes approximately 100 files in Xcalibur and MassLynx formats, converted to text files. Access is by negotiation; please contact Dr Tara Pukala with specific enquiries.</description>
+      <identifier type="uri">adelaide.edu.au/collection/spectrometric_EGCG/20111014</identifier>
+      <location>
+        <address>
+          <physical type="postalAddress">
+            <addressPart type="addressLine">The University of Adelaide</addressPart>
+            <addressPart type="stateOrTerritory">SA</addressPart>
+            <addressPart type="postcode">5005</addressPart>
+            <addressPart type="country">Australia</addressPart>
+          </physical>
+        </address>
+      </location>
+      <relatedObject>
+        <key>abctb.org.au 24</key>
+        <relation type="isManagedBy"/>
+      </relatedObject>
+      <relatedObject>
+        <key>abctb.org.au 25</key>
+        <relation type="isOutputOf"/>
+      </relatedObject>
+      <subject type="anzsrc-for">0306</subject>
+      <subject type="anzsrc-for">0601</subject>
+      <subject type="anzsrc-for">0303</subject>
+      <coverage>
+        <temporal>
+          <date type="dateFrom" dateFormat="W3CDTF">2010</date>
+          <date type="dateTo" dateFormat="W3CDTF">2010</date>
+        </temporal>
+      </coverage>
+      <relatedInfo type="publication">
+        <identifier type="uri">http://hdl.handle.net/2440/66738</identifier>
+        <title>Mass spectrometry for structural biology: determining the composition and architecture of protein complexes</title>
+      </relatedInfo>
+      <relatedInfo type="publication">
+        <identifier type="uri">http://hdl.handle.net/2440/66415</identifier>
+        <title>Ion mobility mass spectrometry studies of the inhibition of alpha synuclein amyloid fibril formation by (-)-epigallocatechin-3-gallate</title>
+      </relatedInfo>
+    </collection>
+  </registryObject>
+
+  <registryObject group="The University of Adelaide">
+<key>abctb.org.au 24</key>
+<originatingSource>http://researchdata.ands.org.au/registry/orca/register_my_data</originatingSource>
+<party dateModified="2011-11-20T23:11:13Z" type="person">
+<name type="primary">
+<namePart type="title">Dr</namePart>
+<namePart type="given">P24</namePart>
+<namePart type="family">Pukala</namePart>
+</name>
+<description type="brief">Dr Tara Pukala is a Lecturer in Chemistry in the School of Chemistry and Physics at the University of Adelaide.</description>
+<identifier type="uri">http://www.adelaide.edu.au/directory/tara.pukala</identifier>
+<location>
+<address>
+<electronic type="email">
+<value>tara.pukala@adelaide.edu.au</value>
+</electronic>
+<electronic type="url">
+<value>http://www.adelaide.edu.au/directory/tara.pukala</value>
+</electronic>
+<physical type="streetAddress">
+<addressPart type="addressLine">The University of Adelaide</addressPart>
+<addressPart type="stateOrTerritory">SA</addressPart>
+<addressPart type="postcode">5005</addressPart>
+<addressPart type="country">Australia</addressPart>
+</physical>
+</address>
+</location>
+<relatedObject>
+<key>abctb.org.au 25</key>
+<relation type="isManagerOf"/>
+</relatedObject>
+<relatedObject>
+<key>abctb.org.au 1</key>
+<relation type="isMemberOf"/>
+</relatedObject>
+<subject type="anzsrc-for">0303</subject>
+<subject type="anzsrc-for">0601</subject>
+<subject type="anzsrc-for">0306</subject>
+<relatedInfo type="website">
+<identifier type="uri">http://digital.library.adelaide.edu.au/cgi-bin/author?author=Pukala,+Tara</identifier>
+<title>Works in Adelaide Research p</title>
+</relatedInfo>
+</party>
+</registryObject>
+
+
+<registryObject group="The University of Adelaide">
+<key>abctb.org.au 25</key>
+<originatingSource>http://researchdata.ands.org.au/registry/orca/register_my_data</originatingSource>
+<activity dateModified="2011-11-20T23:11:14Z" type="project">
+<name type="primary">
+<namePart type="">Novel Mass Spectrometric Approaches to the Study of Protein-Protein Interactions (A25)</namePart>
+</name>
+<description type="brief">The proposed research will develop novel mass spectrometric approaches for the study of biologically important protein assemblies, to derive structural and functional information for systems otherwise not amenable to traditional analytical methods. This will be achieved by integrating and extending the capabilities of negative ion mass spectrometry, ion mobility and chemical cross-linking strategies. The significance of the novel methodologies will be demonstrated by application to selected challenging biological systems relevant to human health, including 1) the study of protein misfolding and aggregation pathways, and 2) structural analysis of peptide-protein complex formation.</description>
+<identifier type="purl">http://purl.org/au-research/grants/arc/DP1093143</identifier>
+<identifier type="local">0001023257</identifier>
+<location>
+<address>
+<physical type="postalAddress">
+<addressPart type="addressLine">The University of Adelaide</addressPart>
+<addressPart type="stateOrTerritory">South Australia</addressPart>
+<addressPart type="postcode">5005</addressPart>
+<addressPart type="country">Australia</addressPart>
+</physical>
+</address>
+</location>
+<relatedObject>
+<key>abctb.org.au 24</key>
+<relation type="isManagedBy"/>
+</relatedObject>
+<subject type="anzsrc-for">0306</subject>
+<subject type="anzsrc-for">0601</subject>
+<subject type="anzsrc-for">0303</subject>
+</activity>
+</registryObject>
+
+
+<registryObject group="Breast Cancer Tissue Bank">
+<key>abctb.org.au 11</key>
+<originatingSource>http://abctb.org.au/</originatingSource>
+<collection type="collection">
+<identifier type="local">abctb.org.au 11</identifier>
+<name type="primary">
+<namePart>BCTB Blood Serum Samples C(11)</namePart>
+</name>
+<location>
+<address>
+<electronic type="url">
+<value>https://abctb.org.au/abctbNew2/researchspecimenquery.aspx</value>
+</electronic>
+</address>
+</location>
+<relatedObject>
+<key>abctb.org.au 7</key>
+<relation type="isPartOf"/>
+</relatedObject>
+<relatedObject>
+<key>abctb.org.au 2</key>
+<relation type="supports"/>
+</relatedObject>
+<relatedObject>
+<key>abctb.org.au 1</key>
+<relation type="isManagedBy"/>
+</relatedObject>
+<subject type="anzsrc-for">9201</subject>
+<subject type="anzsrc-for">9201102 Cancer and Related Disorders</subject>
+<subject type="anzsrc-for">9201507 Women's Health</subject>
+<description type="brief">This BCTB blood sample subcollection consists of serum samples. Serum is the fluid constituent of blood.</description>
+<description type="rights">Limited information about items in the BCTB collections, and small images, are available publicly through the search tool on the Research Query web page. Researchers who would like to seek direct access to samples and full-size images can find details of the procedure to follow at https://abctb.org.au/abctbNew2/researchers.aspx .</description>
+</collection>
+</registryObject>
+
+<registryObject group="Breast Cancer Tissue Bank">
+<key>abctb.org.au 2</key>
+<originatingSource>http://abctb.org.au/</originatingSource>
+<service type="search-http">
+<identifier type="local">abctb.org.au 2</identifier>
+<name type="primary">
+<namePart type="full">Breast Cancer Tissue Bank Search Tool (S02)</namePart>
+</name>
+<location>
+<address>
+<electronic type="url">
+<value>http://abctb.org.au/abctbNew2/researchspecimenquery.aspx</value>
+</electronic>
+</address>
+</location>
+<relatedObject>
+<key>abctb.org.au 3</key>
+<relation type="isSupportedBy"/>
+</relatedObject>
+<relatedObject>
+<key>abctb.org.au 4</key>
+<relation type="isSupportedBy"/>
+</relatedObject>
+<relatedObject>
+<key>abctb.org.au 5</key>
+<relation type="isSupportedBy"/>
+</relatedObject>
+<relatedObject>
+<key>abctb.org.au 6</key>
+<relation type="isSupportedBy"/>
+</relatedObject>
+<relatedObject>
+<key>abctb.org.au 7</key>
+<relation type="isSupportedBy"/>
+</relatedObject>
+<relatedObject>
+<key>abctb.org.au 8</key>
+<relation type="isSupportedBy"/>
+</relatedObject>
+<relatedObject>
+<key>abctb.org.au 9</key>
+<relation type="isSupportedBy"/>
+</relatedObject>
+<relatedObject>
+<key>abctb.org.au 10</key>
+<relation type="isSupportedBy"/>
+</relatedObject>
+<relatedObject>
+<key>abctb.org.au 11</key>
+<relation type="isSupportedBy"/>
+</relatedObject>
+<relatedObject>
+<key>abctb.org.au 12</key>
+<relation type="isSupportedBy"/>
+</relatedObject>
+<relatedObject>
+<key>abctb.org.au 13</key>
+<relation type="isSupportedBy"/>
+</relatedObject>
+<relatedObject>
+<key>abctb.org.au 14</key>
+<relation type="isSupportedBy"/>
+</relatedObject>
+<relatedObject>
+<key>abctb.org.au 15</key>
+<relation type="isSupportedBy"/>
+</relatedObject>
+<relatedObject>
+<key>abctb.org.au 16</key>
+<relation type="isSupportedBy"/>
+</relatedObject>
+<relatedObject>
+<key>abctb.org.au 17</key>
+<relation type="isSupportedBy"/>
+</relatedObject>
+<relatedObject>
+<key>abctb.org.au 18</key>
+<relation type="isSupportedBy"/>
+</relatedObject>
+<relatedObject>
+<key>abctb.org.au 19</key>
+<relation type="isSupportedBy"/>
+</relatedObject>
+<relatedObject>
+<key>abctb.org.au 20</key>
+<relation type="isSupportedBy"/>
+</relatedObject>
+<description type="brief">The Research Query page is a component of the Breast Cancer Tissue Bank website. It shows the numbers of consented patients, and the numbers of available samples. The Research Query page allows researchers to search the contents of the Breast Cancer Tissue Bank for samples and images that meet criteria selected from pull-down menus.</description>
+<description type="rights">Limited information about items in the BCTB collections, and small images, are available publicly through the search tool on the Research Query web page. Researchers who would like to seek direct access to samples and full-size images can find details of the procedure to follow at https://abctb.org.au/abctbNew2/researchers.aspx .</description>
+</service>
+</registryObject>
+
+<registryObject group="Breast Cancer Tissue Bank">
+<key>abctb.org.au 8</key>
+<originatingSource>http://abctb.org.au/</originatingSource>
+<collection type="collection">
+<identifier type="local">abctb.org.au 8</identifier>
+<name type="primary">
+<namePart>BCTB Tissue Samples and Associated Images (C08)</namePart>
+</name>
+<location>
+<address>
+<electronic type="url">
+<value>https://abctb.org.au/abctbNew2/researchspecimenquery.aspx</value>
+</electronic>
+</address>
+</location>
+<relatedObject>
+<key>abctb.org.au 3</key>
+<relation type="isPartOf"/>
+</relatedObject>
+<relatedObject>
+<key>abctb.org.au 9</key>
+<relation type="hasPart"/>
+</relatedObject>
+<relatedObject>
+<key>abctb.org.au 10</key>
+<relation type="hasPart"/>
+</relatedObject>
+<relatedObject>
+<key>abctb.org.au 2</key>
+<relation type="supports"/>
+</relatedObject>
+<relatedObject>
+<key>abctb.org.au 1</key>
+<relation type="isManagedBy"/>
+</relatedObject>
+<subject type="anzsrc-for">9201</subject>
+<subject type="anzsrc-for">9201102 Cancer and Related Disorders</subject>
+<subject type="anzsrc-for">9201507 Women's Health</subject>
+<description type="brief">This BCTB subcollection consists of tissue samples taken from breast cancer patients and others. It is further broken down into a number of types of tissue, some of which have associated microscope images. The tissue samples and other information are made available to approved breast cancer research projects.</description>
+<description type="rights">Limited information about items in the BCTB collections, and small images, are available publicly through the search tool on the Research Query web page. Researchers who would like to seek direct access to samples and full-size images can find details of the procedure to follow at https://abctb.org.au/abctbNew2/researchers.aspx .</description>
+</collection>
+</registryObject>
+
+<registryObject group="Breast Cancer Tissue Bank">
+<key>abctb.org.au 18</key>
+<originatingSource>http://abctb.org.au/</originatingSource>
+<collection type="collection">
+<identifier type="local">abctb.org.au 18</identifier>
+<name type="primary">
+<namePart>BCTB Tissue Samples as H&amp;E Slides (C18)</namePart>
+</name>
+<location>
+<address>
+<electronic type="url">
+<value>https://abctb.org.au/abctbNew2/researchspecimenquery.aspx</value>
+</electronic>
+</address>
+</location>
+<relatedObject>
+<key>abctb.org.au 9</key>
+<relation type="isPartOf"/>
+</relatedObject>
+<relatedObject>
+<key>abctb.org.au 10</key>
+<relation type="isPartOf"/>
+</relatedObject>
+<relatedObject>
+<key>abctb.org.au 2</key>
+<relation type="supports"/>
+</relatedObject>
+<relatedObject>
+<key>abctb.org.au 1</key>
+<relation type="isManagedBy"/>
+</relatedObject>
+<subject type="anzsrc-for">9201</subject>
+<subject type="anzsrc-for">9201102 Cancer and Related Disorders</subject>
+<subject type="anzsrc-for">9201507 Women's Health</subject>
+<description type="brief">This BCTB subcollection consists of tissue samples on H&amp;E (hematoxylin and eosin) slides: a standard method of microscope slide preparation.</description>
+<description type="rights">Limited information about items in the BCTB collections, and small images, are available publicly through the search tool on the Research Query web page. Researchers who would like to seek direct access to samples and full-size images can find details of the procedure to follow at https://abctb.org.au/abctbNew2/researchers.aspx .</description>
+</collection>
+</registryObject>
+<registryObject group="Breast Cancer Tissue Bank">
+<key>abctb.org.au 13</key>
+<originatingSource>http://abctb.org.au/</originatingSource>
+<collection type="collection">
+<identifier type="local">abctb.org.au 13</identifier>
+<name type="primary">
+<namePart>BCTB Blood Buffy Coat Samples (C13)</namePart>
+</name>
+<location>
+<address>
+<electronic type="url">
+<value>https://abctb.org.au/abctbNew2/researchspecimenquery.aspx</value>
+</electronic>
+</address>
+</location>
+<relatedObject>
+<key>abctb.org.au 7</key>
+<relation type="isPartOf"/>
+</relatedObject>
+<relatedObject>
+<key>abctb.org.au 2</key>
+<relation type="supports"/>
+</relatedObject>
+<relatedObject>
+<key>abctb.org.au 1</key>
+<relation type="isManagedBy"/>
+</relatedObject>
+<subject type="anzsrc-for">9201</subject>
+<subject type="anzsrc-for">9201102 Cancer and Related Disorders</subject>
+<subject type="anzsrc-for">9201507 Women's Health</subject>
+<description type="brief">This BCTB blood sample subcollection consists of buffy-coat samples. A buffy coat contains white blood cells and platelets.</description>
+<description type="rights">Limited information about items in the BCTB collections, and small images, are available publicly through the search tool on the Research Query web page. Researchers who would like to seek direct access to samples and full-size images can find details of the procedure to follow at https://abctb.org.au/abctbNew2/researchers.aspx .</description>
+</collection>
+</registryObject>
+<registryObject group="Breast Cancer Tissue Bank">
+<key>abctb.org.au 14</key>
+<originatingSource>http://abctb.org.au/</originatingSource>
+<collection type="collection">
+<identifier type="local">abctb.org.au 14</identifier>
+<name type="primary">
+<namePart>BCTB Blood Samples on Blood Spot Cards (C14)</namePart>
+</name>
+<location>
+<address>
+<electronic type="url">
+<value>https://abctb.org.au/abctbNew2/researchspecimenquery.aspx</value>
+</electronic>
+</address>
+</location>
+<relatedObject>
+<key>abctb.org.au 7</key>
+<relation type="isPartOf"/>
+</relatedObject>
+<relatedObject>
+<key>abctb.org.au 2</key>
+<relation type="supports"/>
+</relatedObject>
+<relatedObject>
+<key>abctb.org.au 1</key>
+<relation type="isManagedBy"/>
+</relatedObject>
+<subject type="anzsrc-for">9201</subject>
+<subject type="anzsrc-for">9201102 Cancer and Related Disorders</subject>
+<subject type="anzsrc-for">9201507 Women's Health</subject>
+<description type="brief">This BCTB blood sample subcollection consists of whole blood samples on Blood Spot cards. A small drop of blood is placed on a pre-marked circle on absorbent paper and allowed to dry, then the paper is stored. This preserves DNA and protein found in blood.</description>
+<description type="rights">Limited information about items in the BCTB collections, and small images, are available publicly through the search tool on the Research Query web page. Researchers who would like to seek direct access to samples and full-size images can find details of the procedure to follow at https://abctb.org.au/abctbNew2/researchers.aspx .</description>
+</collection>
+</registryObject>
+
+<registryObject group="Breast Cancer Tissue Bank">
+<key>abctb.org.au 6</key>
+<originatingSource>http://abctb.org.au/</originatingSource>
+<collection type="collection">
+<identifier type="local">abctb.org.au 6</identifier>
+<name type="primary">
+<namePart>BCTB Non-Cancerous Breast Samples and Images (C06)</namePart>
+</name>
+<location>
+<address>
+<electronic type="url">
+<value>https://abctb.org.au/abctbNew2/researchspecimenquery.aspx</value>
+</electronic>
+</address>
+</location>
+<relatedObject>
+<key>abctb.org.au 3</key>
+<relation type="isPartOf"/>
+</relatedObject>
+<relatedObject>
+<key>abctb.org.au 2</key>
+<relation type="supports"/>
+</relatedObject>
+<relatedObject>
+<key>abctb.org.au 1</key>
+<relation type="isManagedBy"/>
+</relatedObject>
+<subject type="anzsrc-for">9201</subject>
+<subject type="anzsrc-for">9201102 Cancer and Related Disorders</subject>
+<subject type="anzsrc-for">9201507 Women's Health</subject>
+<description type="brief">This BCTB subcollection contains normal breast tissue and blood samples, and associated images, where a diagnosis of no cancer has been determined.</description>
+<description type="rights">Limited information about items in the BCTB collections, and small images, are available publicly through the search tool on the Research Query web page. Researchers who would like to seek direct access to samples and full-size images can find details of the procedure to follow at https://abctb.org.au/abctbNew2/researchers.aspx .</description>
+</collection>
+</registryObject>
+<registryObject group="Breast Cancer Tissue Bank">
+<key>abctb.org.au 12</key>
+<originatingSource>http://abctb.org.au/</originatingSource>
+<collection type="collection">
+<identifier type="local">abctb.org.au 12</identifier>
+<name type="primary">
+<namePart>BCTB Blood Plasma Samples (C12)</namePart>
+</name>
+<location>
+<address>
+<electronic type="url">
+<value>https://abctb.org.au/abctbNew2/researchspecimenquery.aspx</value>
+</electronic>
+</address>
+</location>
+<relatedObject>
+<key>abctb.org.au 7</key>
+<relation type="isPartOf"/>
+</relatedObject>
+<relatedObject>
+<key>abctb.org.au 2</key>
+<relation type="supports"/>
+</relatedObject>
+<relatedObject>
+<key>abctb.org.au 1</key>
+<relation type="isManagedBy"/>
+</relatedObject>
+<subject type="anzsrc-for">9201</subject>
+<subject type="anzsrc-for">9201102 Cancer and Related Disorders</subject>
+<subject type="anzsrc-for">9201507 Women's Health</subject>
+<description type="brief">This BCTB blood sample subcollection consists of plasma samples. Plasma contains the fluid found in blood plus the blood-clotting elements such as fibrin.</description>
+<description type="rights">Limited information about items in the BCTB collections, and small images, are available publicly through the search tool on the Research Query web page. Researchers who would like to seek direct access to samples and full-size images can find details of the procedure to follow at https://abctb.org.au/abctbNew2/researchers.aspx .</description>
+</collection>
+</registryObject>
+<registryObject group="Breast Cancer Tissue Bank">
+<key>abctb.org.au 3</key>
+<originatingSource>http://abctb.org.au/</originatingSource>
+<collection type="collection">
+<identifier type="local">abctb.org.au 3</identifier>
+<name type="primary">
+<namePart>Breast Cancer Tissue Bank Sample and Image Collection (C03)</namePart>
+</name>
+<location>
+<address>
+<electronic type="url">
+<value>https://abctb.org.au/abctbNew2/researchspecimenquery.aspx</value>
+</electronic>
+</address>
+</location>
+<relatedObject>
+<key>abctb.org.au 2</key>
+<relation type="supports"/>
+</relatedObject>
+<relatedObject>
+<key>abctb.org.au 1</key>
+<relation type="isManagedBy"/>
+</relatedObject>
+<subject type="anzsrc-for">9201</subject>
+<subject type="anzsrc-for">9201102 Cancer and Related Disorders</subject>
+<subject type="anzsrc-for">9201507 Women's Health</subject>
+<description type="brief">This is a collection of samples of breast cancer and normal breast, also including images of tissue samples, and blood samples. Samples and images are made available from the Breast Cancer Tissue Bank for research into breast cancer including its causes, development, diagnosis and treatment.</description>
+<description type="full">The Breast Cancer Tissue Bank Sample and Image Collection is divided into subcollections (accessible via menus in the website Research Query page) in two ways. Samples and images may be from invasive cancers, non-invasive cancers or normal non-cancer breast tissue. The samples themselves may be of tissue or of blood, with several subtypes in each case. There are microscope images associated with some of the tissue samples, found within the FFPE part of the Tissue subcollection. The Research Query page also allows searching to be narrowed according to several other parameters concerning the health and treatment of subjects.</description>
+<description type="rights">Limited information about items in the BCTB collections, and small images, are available publicly through the search tool on the Research Query web page. Researchers who would like to seek direct access to samples and full-size images can find details of the procedure to follow at https://abctb.org.au/abctbNew2/researchers.aspx .</description>
+</collection>
+</registryObject>
+
+<registryObject group="Breast Cancer Tissue Bank">
+<key>abctb.org.au 5</key>
+<originatingSource>http://abctb.org.au/</originatingSource>
+<collection type="collection">
+<identifier type="local">abctb.org.au 5</identifier>
+<name type="primary">
+<namePart>BCTB Non-Invasive Breast Cancer Samples and Images (C05)</namePart>
+</name>
+<location>
+<address>
+<electronic type="url">
+<value>https://abctb.org.au/abctbNew2/researchspecimenquery.aspx</value>
+</electronic>
+</address>
+</location>
+<relatedObject>
+<key>abctb.org.au 3</key>
+<relation type="isPartOf"/>
+</relatedObject>
+<relatedObject>
+<key>abctb.org.au 2</key>
+<relation type="supports"/>
+</relatedObject>
+<relatedObject>
+<key>abctb.org.au 1</key>
+<relation type="isManagedBy"/>
+</relatedObject>
+<subject type="anzsrc-for">9201</subject>
+<subject type="anzsrc-for">9201102 Cancer and Related Disorders</subject>
+<subject type="anzsrc-for">9201507 Women's Health</subject>
+<description type="brief">This BCTB subcollection contains breast tissue and blood samples, and associated images, where a diagnosis of non-invasive cancer has been determined by a pathologist.</description>
+<description type="rights">Limited information about items in the BCTB collections, and small images, are available publicly through the search tool on the Research Query web page. Researchers who would like to seek direct access to samples and full-size images can find details of the procedure to follow at https://abctb.org.au/abctbNew2/researchers.aspx .</description>
+</collection>
+</registryObject>
+<registryObject group="Breast Cancer Tissue Bank">
+<key>abctb.org.au 7</key>
+<originatingSource>http://abctb.org.au/</originatingSource>
+<collection type="collection">
+<identifier type="local">abctb.org.au 7</identifier>
+<name type="primary">
+<namePart>Breast Cancer Tissue Bank Blood Samples (C07)</namePart>
+</name>
+<location>
+<address>
+<electronic type="url">
+<value>https://abctb.org.au/abctbNew2/researchspecimenquery.aspx</value>
+</electronic>
+</address>
+</location>
+<relatedObject>
+<key>abctb.org.au 3</key>
+<relation type="isPartOf"/>
+</relatedObject>
+<relatedObject>
+<key>abctb.org.au 11</key>
+<relation type="hasPart"/>
+</relatedObject>
+<relatedObject>
+<key>abctb.org.au 12</key>
+<relation type="hasPart"/>
+</relatedObject>
+<relatedObject>
+<key>abctb.org.au 16</key>
+<relation type="hasPart"/>
+</relatedObject>
+<relatedObject>
+<key>abctb.org.au 13</key>
+<relation type="hasPart"/>
+</relatedObject>
+<relatedObject>
+<key>abctb.org.au 14</key>
+<relation type="hasPart"/>
+</relatedObject>
+<relatedObject>
+<key>abctb.org.au 15</key>
+<relation type="hasPart"/>
+</relatedObject>
+<relatedObject>
+<key>abctb.org.au 2</key>
+<relation type="supports"/>
+</relatedObject>
+<relatedObject>
+<key>abctb.org.au 1</key>
+<relation type="isManagedBy"/>
+</relatedObject>
+<subject type="anzsrc-for">9201</subject>
+<subject type="anzsrc-for">9201102 Cancer and Related Disorders</subject>
+<subject type="anzsrc-for">9201507 Women's Health</subject>
+<description type="brief">This BCTB subcollection consists of blood samples taken from breast cancer patients and others. It is further broken down into a number of blood components. The blood samples and other information are made available to approved breast cancer research projects.</description>
+<description type="rights">Limited information about items in the BCTB collections, and small images, are available publicly through the search tool on the Research Query web page. Researchers who would like to seek direct access to samples and full-size images can find details of the procedure to follow at https://abctb.org.au/abctbNew2/researchers.aspx .</description>
+</collection>
+</registryObject>
+<registryObject group="Breast Cancer Tissue Bank">
+<key>abctb.org.au 16</key>
+<originatingSource>http://abctb.org.au/</originatingSource>
+<collection type="collection">
+<identifier type="local">abctb.org.au 16</identifier>
+<name type="primary">
+<namePart>BCTB DNA Samples from Blood (C16)</namePart>
+</name>
+<location>
+<address>
+<electronic type="url">
+<value>https://abctb.org.au/abctbNew2/researchspecimenquery.aspx</value>
+</electronic>
+</address>
+</location>
+<relatedObject>
+<key>abctb.org.au 7</key>
+<relation type="isPartOf"/>
+</relatedObject>
+<relatedObject>
+<key>abctb.org.au 2</key>
+<relation type="supports"/>
+</relatedObject>
+<relatedObject>
+<key>abctb.org.au 1</key>
+<relation type="isManagedBy"/>
+</relatedObject>
+<subject type="anzsrc-for">9201</subject>
+<subject type="anzsrc-for">9201102 Cancer and Related Disorders</subject>
+<subject type="anzsrc-for">9201507 Women's Health</subject>
+<description type="brief">This BCTB blood sample subcollection consists of DNA samples taken from blood.</description>
+<description type="rights">Limited information about items in the BCTB collections, and small images, are available publicly through the search tool on the Research Query web page. Researchers who would like to seek direct access to samples and full-size images can find details of the procedure to follow at https://abctb.org.au/abctbNew2/researchers.aspx .</description>
+</collection>
+</registryObject>
+<registryObject group="Breast Cancer Tissue Bank">
+<key>abctb.org.au 17</key>
+<originatingSource>http://abctb.org.au/</originatingSource>
+<collection type="collection">
+<identifier type="local">abctb.org.au 17</identifier>
+<name type="primary">
+<namePart>BCTB RNA Samples from Tissue (C17)</namePart>
+</name>
+<location>
+<address>
+<electronic type="url">
+<value>https://abctb.org.au/abctbNew2/researchspecimenquery.aspx</value>
+</electronic>
+</address>
+</location>
+<relatedObject>
+<key>abctb.org.au 9</key>
+<relation type="isPartOf"/>
+</relatedObject>
+<relatedObject>
+<key>abctb.org.au 10</key>
+<relation type="isPartOf"/>
+</relatedObject>
+<relatedObject>
+<key>abctb.org.au 2</key>
+<relation type="supports"/>
+</relatedObject>
+<relatedObject>
+<key>abctb.org.au 1</key>
+<relation type="isManagedBy"/>
+</relatedObject>
+<subject type="anzsrc-for">9201</subject>
+<subject type="anzsrc-for">9201102 Cancer and Related Disorders</subject>
+<subject type="anzsrc-for">9201507 Women's Health</subject>
+<description type="brief">This BCTB subcollection consists of RNA samples extracted from tissues in the collection.</description>
+<description type="rights">Limited information about items in the BCTB collections, and small images, are available publicly through the search tool on the Research Query web page. Researchers who would like to seek direct access to samples and full-size images can find details of the procedure to follow at https://abctb.org.au/abctbNew2/researchers.aspx .</description>
+</collection>
+</registryObject>
+
+<registryObject group="Breast Cancer Tissue Bank">
+<key>abctb.org.au 4</key>
+<originatingSource>http://abctb.org.au/</originatingSource>
+<collection type="collection">
+<identifier type="local">abctb.org.au 4</identifier>
+<name type="primary">
+<namePart>BCTB Invasive Breast Cancer Samples and Images (C04)</namePart>
+</name>
+<location>
+<address>
+<electronic type="url">
+<value>https://abctb.org.au/abctbNew2/researchspecimenquery.aspx</value>
+</electronic>
+</address>
+</location>
+<relatedObject>
+<key>abctb.org.au 2</key>
+<relation type="supports"/>
+</relatedObject>
+<relatedObject>
+<key>abctb.org.au 1</key>
+<relation type="isManagedBy"/>
+</relatedObject>
+<subject type="anzsrc-for">9201</subject>
+<subject type="anzsrc-for">9201102 Cancer and Related Disorders</subject>
+<subject type="anzsrc-for">9201507 Women's Health</subject>
+<description type="brief">This BCTB subcollection contains breast tissue and blood samples, and associated images, where a diagnosis of invasive cancer has been determined by a pathologist.</description>
+<description type="rights">Limited information about items in the BCTB collections, and small images, are available publicly through the search tool on the Research Query web page. Researchers who would like to seek direct access to samples and full-size images can find details of the procedure to follow at https://abctb.org.au/abctbNew2/researchers.aspx .</description>
+</collection>
+</registryObject>
+<registryObject group="Breast Cancer Tissue Bank">
+<key>abctb.org.au 20</key>
+<originatingSource>http://abctb.org.au/</originatingSource>
+<collection type="collection">
+<identifier type="local">abctb.org.au 20</identifier>
+<name type="primary">
+<namePart>BCTB TMA (Tissue Micro Array) Samples (C20)</namePart>
+</name>
+<location>
+<address>
+<electronic type="url">
+<value>http://abctb.org.au/abctbNew2/researchspecimenquery.aspx</value>
+</electronic>
+</address>
+</location>
+<relatedObject>
+<key>abctb.org.au 9</key>
+<relation type="isPartOf"/>
+</relatedObject>
+<relatedObject>
+<key>abctb.org.au 2</key>
+<relation type="supports"/>
+</relatedObject>
+<relatedObject>
+<key>abctb.org.au 1</key>
+<relation type="isManagedBy"/>
+</relatedObject>
+<subject type="anzsrc-for">9201</subject>
+<subject type="anzsrc-for">9201102 Cancer and Related Disorders</subject>
+<subject type="anzsrc-for">9201507 Women's Health</subject>
+<description type="brief">This BCTB subcollection consists of Tissue Micro Arrays (TMAs) taken from FFPE samples. Tissue Micro Arrays are paraffin blocks in which many separate tissue cores are arranged in an organised way. Thin sections can be cut from these blocks, for use in a range of immunostaining and other cellular and molecular analyses.</description>
+<description type="rights">Limited information about items in the BCTB collections, and small images, are available publicly through the search tool on the Research Query web page. Researchers who would like to seek direct access to samples and full-size images can find details of the procedure to follow at http://abctb.org.au/abctbNew2/researchers.aspx .</description>
+</collection>
+</registryObject>
+
+<registryObject group="Breast Cancer Tissue Bank">
+<key>abctb.org.au 10</key>
+<originatingSource>http://abctb.org.au/</originatingSource>
+<collection type="collection">
+<identifier type="local">abctb.org.au 10</identifier>
+<name type="primary">
+<namePart>BCTB Fresh Tissue Samples (C10)</namePart>
+</name>
+<location>
+<address>
+<electronic type="url">
+<value>https://abctb.org.au/abctbNew2/researchspecimenquery.aspx</value>
+</electronic>
+</address>
+</location>
+<relatedObject>
+<key>abctb.org.au 8</key>
+<relation type="isPartOf"/>
+</relatedObject>
+<relatedObject>
+<key>abctb.org.au 17</key>
+<relation type="hasPart"/>
+</relatedObject>
+<relatedObject>
+<key>abctb.org.au 18</key>
+<relation type="hasPart"/>
+</relatedObject>
+<relatedObject>
+<key>abctb.org.au 2</key>
+<relation type="supports"/>
+</relatedObject>
+<relatedObject>
+<key>abctb.org.au 1</key>
+<relation type="isManagedBy"/>
+</relatedObject>
+<subject type="anzsrc-for">9201</subject>
+<subject type="anzsrc-for">9201102 Cancer and Related Disorders</subject>
+<subject type="anzsrc-for">9201507 Women's Health</subject>
+<description type="brief">This BCTB tissue subcollection consists of fresh tissue samples, that is, pieces of tissue placed in liquid nitrogen for freezing. The samples maintain a life-like structure at this low temperature.</description>
+<description type="rights">Limited information about items in the BCTB collections, and small images, are available publicly through the search tool on the Research Query web page. Researchers who would like to seek direct access to samples and full-size images can find details of the procedure to follow at https://abctb.org.au/abctbNew2/researchers.aspx .</description>
+</collection>
+</registryObject>
+<registryObject group="Breast Cancer Tissue Bank">
+<key>abctb.org.au 19</key>
+<originatingSource>http://abctb.org.au/</originatingSource>
+<collection type="collection">
+<identifier type="local">abctb.org.au 19</identifier>
+<name type="primary">
+<namePart>BCTB FFPE Microscope Images (C19)</namePart>
+</name>
+<location>
+<address>
+<electronic type="url">
+<value>https://abctb.org.au/abctbNew2/researchspecimenquery.aspx</value>
+</electronic>
+</address>
+</location>
+<relatedObject>
+<key>abctb.org.au 9</key>
+<relation type="isPartOf"/>
+</relatedObject>
+<relatedObject>
+<key>abctb.org.au 2</key>
+<relation type="supports"/>
+</relatedObject>
+<relatedObject>
+<key>abctb.org.au 1</key>
+<relation type="isManagedBy"/>
+</relatedObject>
+<subject type="anzsrc-for">9201</subject>
+<subject type="anzsrc-for">9201102 Cancer and Related Disorders</subject>
+<subject type="anzsrc-for">9201507 Women's Health</subject>
+<description type="brief">This BCTB subcollection consists of microscope images of FFPE tissue samples, scanned with a Hamamatsu Nanozoomer. Partial low-resolution images are available through the Research Query page on the BCTB website. Full images may be made available to authorised researchers.</description>
+<description type="rights">Limited information about items in the BCTB collections, and small images, are available publicly through the search tool on the Research Query web page. Researchers who would like to seek direct access to samples and full-size images can find details of the procedure to follow at https://abctb.org.au/abctbNew2/researchers.aspx .</description>
+</collection>
+</registryObject>
+
+<registryObject group="Breast Cancer Tissue Bank">
+<key>abctb.org.au 15</key>
+<originatingSource>http://abctb.org.au/</originatingSource>
+<collection type="collection">
+<identifier type="local">abctb.org.au 15</identifier>
+<name type="primary">
+<namePart>BCTB Whole Blood Samples (C15)</namePart>
+</name>
+<location>
+<address>
+<electronic type="url">
+<value>https://abctb.org.au/abctbNew2/researchspecimenquery.aspx</value>
+</electronic>
+</address>
+</location>
+<relatedObject>
+<key>abctb.org.au 7</key>
+<relation type="isPartOf"/>
+</relatedObject>
+<relatedObject>
+<key>abctb.org.au 2</key>
+<relation type="supports"/>
+</relatedObject>
+<relatedObject>
+<key>abctb.org.au 1</key>
+<relation type="isManagedBy"/>
+</relatedObject>
+<subject type="anzsrc-for">9201</subject>
+<subject type="anzsrc-for">9201102 Cancer and Related Disorders</subject>
+<subject type="anzsrc-for">9201507 Women's Health</subject>
+<description type="brief">This BCTB blood sample subcollection consists of whole blood samples, that is, blood as it is found in the natural state inside the human body.</description>
+<description type="rights">Limited information about items in the BCTB collections, and small images, are available publicly through the search tool on the Research Query web page. Researchers who would like to seek direct access to samples and full-size images can find details of the procedure to follow at https://abctb.org.au/abctbNew2/researchers.aspx .</description>
+</collection>
+
+</registryObject>
+<registryObject group="Breast Cancer Tissue Bank">
+<key>abctb.org.au 9</key>
+<originatingSource>http://abctb.org.au/</originatingSource>
+<collection type="collection">
+<identifier type="local">abctb.org.au 9</identifier>
+<name type="primary">
+<namePart>BCTB FFPE (Formalin Fixed Paraffin Embedded) Blocks (C09)</namePart>
+</name>
+<location>
+<address>
+<electronic type="url">
+<value>https://abctb.org.au/abctbNew2/researchspecimenquery.aspx</value>
+</electronic>
+</address>
+</location>
+<relatedObject>
+<key>abctb.org.au 8</key>
+<relation type="isPartOf"/>
+</relatedObject>
+<relatedObject>
+<key>abctb.org.au 17</key>
+<relation type="hasPart"/>
+</relatedObject>
+<relatedObject>
+<key>abctb.org.au 19</key>
+<relation type="hasPart"/>
+</relatedObject>
+<relatedObject>
+<key>abctb.org.au 18</key>
+<relation type="hasPart"/>
+</relatedObject>
+<relatedObject>
+<key>abctb.org.au 20</key>
+<relation type="hasPart"/>
+</relatedObject>
+<relatedObject>
+<key>abctb.org.au 2</key>
+<relation type="supports"/>
+</relatedObject>
+<subject type="anzsrc-for">9201</subject>
+<subject type="anzsrc-for">9201102 Cancer and Related Disorders</subject>
+<subject type="anzsrc-for">9201507 Women's Health</subject>
+<description type="brief">This BCTB tissue subcollection consists of FFPE (Formalin Fixed Paraffin Embedded) blocks: pieces of tissue fixed in formalin, dehydrated and embedded into wax, then thinly sliced for viewing under a microscope. Many of the FFPE samples have associated microscope images and/or tissue micro array (TMA) samples.</description>
+<description type="rights">Limited information about items in the BCTB collections, and small images, are available publicly through the search tool on the Research Query web page. Researchers who would like to seek direct access to samples and full-size images can find details of the procedure to follow at https://abctb.org.au/abctbNew2/researchers.aspx .</description>
+</collection>
+</registryObject>
+
+
+<registryObject group="Breast Cancer Tissue Bank">
+<key>abctb.org.au 1</key>
+<originatingSource>http://abctb.org.au/</originatingSource>
+<party type="group">
+<name type="primary">
+<namePart>01 Party: Breast Cancer Tissue Bank</namePart>
+</name>
+<location>
+<address>
+<electronic type="fax">
+<value>tel:+61-2-9845-9100</value>
+</electronic>
+<electronic type="voice">
+<value>tel:+61-2-9845-9000</value>
+</electronic>
+<electronic type="email">
+<value>Jane.Carpenter@sydney.edu.au</value>
+</electronic>
+<electronic type="url">
+<value>http://abctb.org.au/</value>
+</electronic>
+<physical type="streetAddress">
+<addressPart type="locationDescriptor">Breast Cancer Tissue Bank</addressPart>
+<addressPart type="streetName">Darcy Rd</addressPart>
+<addressPart type="suburbOrPlaceOrLocality">Westmead</addressPart>
+<addressPart type="stateOrTerritory">NSW</addressPart>
+<addressPart type="postCode">2145</addressPart>
+<addressPart type="country">Australia</addressPart>
+</physical>
+</address>
+</location>
+<relatedObject>
+<key>abctb.org.au 2</key>
+<relation type="isManagerOf"/>
+</relatedObject>
+<relatedObject>
+<key>abctb.org.au 3</key>
+<relation type="isManagerOf"/>
+</relatedObject>
+<relatedObject>
+<key>abctb.org.au 4</key>
+<relation type="isManagerOf"/>
+</relatedObject>
+<relatedObject>
+<key>abctb.org.au 5</key>
+<relation type="isManagerOf"/>
+</relatedObject>
+<relatedObject>
+<key>abctb.org.au 6</key>
+<relation type="isManagerOf"/>
+</relatedObject>
+<relatedObject>
+<key>abctb.org.au 7</key>
+<relation type="isManagerOf"/>
+</relatedObject>
+<relatedObject>
+<key>abctb.org.au 8</key>
+<relation type="isManagerOf"/>
+</relatedObject>
+<relatedObject>
+<key>abctb.org.au 9</key>
+<relation type="isManagerOf"/>
+</relatedObject>
+<relatedObject>
+<key>abctb.org.au 10</key>
+<relation type="isManagerOf"/>
+</relatedObject>
+<relatedObject>
+<key>abctb.org.au 11</key>
+<relation type="isManagerOf"/>
+</relatedObject>
+<relatedObject>
+<key>abctb.org.au 12</key>
+<relation type="isManagerOf"/>
+</relatedObject>
+<relatedObject>
+<key>abctb.org.au 13</key>
+<relation type="isManagerOf"/>
+</relatedObject>
+<relatedObject>
+<key>abctb.org.au 14</key>
+<relation type="isManagerOf"/>
+</relatedObject>
+<relatedObject>
+<key>abctb.org.au 15</key>
+<relation type="isManagerOf"/>
+</relatedObject>
+<relatedObject>
+<key>abctb.org.au 16</key>
+<relation type="isManagerOf"/>
+</relatedObject>
+<relatedObject>
+<key>abctb.org.au 17</key>
+<relation type="isManagerOf"/>
+</relatedObject>
+<relatedObject>
+<key>abctb.org.au 18</key>
+<relation type="isManagerOf"/>
+</relatedObject>
+<relatedObject>
+<key>abctb.org.au 19</key>
+<relation type="isManagerOf"/>
+</relatedObject>
+<relatedObject>
+<key>abctb.org.au 20</key>
+<relation type="isManagerOf"/>
+</relatedObject>
+<description type="brief">The Breast Cancer Tissue Bank (BCTB) is a Breast Cancer research resource, coordinated from the Westmead Millenium Institute, and supported by a collaborative network of cancer clinicians and researchers in Australia who cooperate to provide samples and information from breast cancer patients for use in research. The initiative was launched in 2005 with support from an Enabling Grant from the National Health and Medical Research Council as well as the National Breast Cancer Foundation and Cancer Institute NSW. The overall aim of the BCTB is to improve our ability to manage breast cancer in the future.</description>
+</party>
+</registryObject>
+
+
+</registryObjects>

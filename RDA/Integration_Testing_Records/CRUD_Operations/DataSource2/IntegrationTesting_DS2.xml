@@ -1,0 +1,1400 @@
+<registryObjects xmlns="http://ands.org.au/standards/rif-cs/registryObjects" xmlns:extRif="http://ands.org.au/standards/rif-cs/extendedRegistryObjects" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ands.org.au/standards/rif-cs/registryObjects http://services.ands.org.au/documentation/rifcs/schema/registryObjects.xsd">
+<registryObject group="The University of Adelaide">
+<key>1f1dc98d-f5f4-4d8d-9060-208e2608a5e4</key>
+<originatingSource>http://bioinf-db.ersa.edu.au/oai/oai2.php</originatingSource>
+<collection type="dataset">
+<name type="primary">
+<namePart>AGRF Sequencing of mouse PB-I</namePart>
+</name>
+<description type="full">Genomic DNA isolated from wildtype and Dnmt3L knockout mice and sent to Australian Genome Research Facility (Melbourne) for paired-end sequencing for de novo sequencing and mapping to reference genome. 600 bp inserts.</description>
+<location>
+<address>
+<electronic type="email">
+<value>hamish.scott@health.sa.gov.au</value>
+</electronic>
+</address>
+</location>
+<description type="accessRights">Email the manager for access information</description>
+<description type="rights">Dataset is copyright protected unless otherwise stated. Please refer the disclaimer on EBI website (http://www.ebi.ac.uk/ena/about/policy). For issues concerning intellectual property rights, please contact the manager for information.</description>
+<subject type="anzsrc-for">111203</subject>
+<identifier type="local">1f1dc98d-f5f4-4d8d-9060-208e2608a5e4</identifier>
+<identifier type="local">table=experiment+id=21</identifier>
+</collection>
+</registryObject>
+
+<registryObject group="The University of Adelaide">
+<key>c6c4c0fb-9ec5-4ee2-b3be-1a5d03132ef1</key>
+<originatingSource>http://bioinf-db.ersa.edu.au/oai/oai2.php</originatingSource>
+<collection type="dataset">
+<name type="primary">
+<namePart>AGRF Sequencing of mouse PB-6a</namePart>
+</name>
+<description type="full">Genomic DNA isolated from wildtype and Dnmt3L knockout mice and sent to Australian Genome Research Facility (Melbourne) for paired-end sequencing for de novo sequencing and mapping to reference genome. 600 bp inserts.</description>
+<location>
+<address>
+<electronic type="email">
+<value>hamish.scott@health.sa.gov.au</value>
+</electronic>
+</address>
+</location>
+<description type="accessRights">Email the manager for access information</description>
+<description type="rights">Dataset is copyright protected unless otherwise stated. Please refer the disclaimer on EBI website (http://www.ebi.ac.uk/ena/about/policy). For issues concerning intellectual property rights, please contact the manager for information.</description>
+<subject type="anzsrc-for">111203</subject>
+<identifier type="local">c6c4c0fb-9ec5-4ee2-b3be-1a5d03132ef1</identifier>
+<identifier type="local">table=experiment+id=18</identifier>
+</collection>
+</registryObject>
+
+<registryObject group="The University of Adelaide">
+<key>e25a8aeb-c35a-4282-841d-d7b50f383eeb</key>
+<originatingSource>http://bioinf-db.ersa.edu.au/oai/oai2.php</originatingSource>
+<collection type="dataset">
+<name type="primary">
+<namePart>AGRF Sequencing of mouse PB-J</namePart>
+</name>
+<description type="full">Genomic DNA isolated from wildtype and Dnmt3L knockout mice and sent to Australian Genome Research Facility (Melbourne) for paired-end sequencing for de novo sequencing and mapping to reference genome. 600 bp inserts.</description>
+<location>
+<address>
+<electronic type="email">
+<value>hamish.scott@health.sa.gov.au</value>
+</electronic>
+</address>
+</location>
+<description type="accessRights">Email the manager for access information</description>
+<description type="rights">Dataset is copyright protected unless otherwise stated. Please refer the disclaimer on EBI website (http://www.ebi.ac.uk/ena/about/policy). For issues concerning intellectual property rights, please contact the manager for information.</description>
+<subject type="anzsrc-for">111203</subject>
+<identifier type="local">e25a8aeb-c35a-4282-841d-d7b50f383eeb</identifier>
+<identifier type="local">table=experiment+id=22</identifier>
+</collection>
+</registryObject>
+
+<registryObject group="The University of Adelaide">
+<key>6559caac-1a4c-49de-b96a-e8931d804b25</key>
+<originatingSource>http://bioinf-db.ersa.edu.au/oai/oai2.php</originatingSource>
+<collection type="dataset">
+<name type="primary">
+<namePart>HSS43</namePart>
+</name>
+<description type="full">This experiment belongs to sample HSS43</description>
+<location>
+<address>
+<electronic type="email">
+<value>hamish.scott@health.sa.gov.au</value>
+</electronic>
+</address>
+</location>
+<description type="accessRights">Email the manager for access information</description>
+<description type="rights">Dataset is copyright protected unless otherwise stated. Please refer the disclaimer on EBI website (http://www.ebi.ac.uk/ena/about/policy). For issues concerning intellectual property rights, please contact the manager for information.</description>
+<subject type="anzsrc-for">060408</subject>
+<identifier type="local">6559caac-1a4c-49de-b96a-e8931d804b25</identifier>
+<identifier type="local">table=experiment+id=10</identifier>
+</collection>
+</registryObject>
+
+<registryObject group="The University of Adelaide">
+<key>c5e3f02d-d953-401d-af29-110a82acf86c</key>
+<originatingSource>http://bioinf-db.ersa.edu.au/oai/oai2.php</originatingSource>
+<collection type="dataset">
+<name type="primary">
+<namePart>HSS41</namePart>
+</name>
+<description type="full">This experiment belongs to sample HSS41</description>
+<location>
+<address>
+<electronic type="email">
+<value>hamish.scott@health.sa.gov.au</value>
+</electronic>
+</address>
+</location>
+<description type="accessRights">Email the manager for access information</description>
+<description type="rights">Dataset is copyright protected unless otherwise stated. Please refer the disclaimer on EBI website (http://www.ebi.ac.uk/ena/about/policy). For issues concerning intellectual property rights, please contact the manager for information.</description>
+<subject type="anzsrc-for">060408</subject>
+<identifier type="local">c5e3f02d-d953-401d-af29-110a82acf86c</identifier>
+<identifier type="local">table=experiment+id=6</identifier>
+</collection>
+</registryObject>
+
+<registryObject group="The University of Adelaide">
+<key>e6d656be-4328-46b1-8190-877d2b094a5e</key>
+<originatingSource>http://bioinf-db.ersa.edu.au/oai/oai2.php</originatingSource>
+<collection type="dataset">
+<name type="primary">
+<namePart>Genome Survey Sequencing of Skink</namePart>
+</name>
+<description type="full">Genomic DNA was isolated from samples and sent to BGI (Hong Kong) for 100bp paired end sequencing (500 bp library mean insert size). 1Gbp of paired end reads from each species were then used as input for BovB consensus building.</description>
+<location>
+<address>
+<electronic type="email">
+<value>david.adelson@adelaide.edu.au</value>
+</electronic>
+</address>
+</location>
+<description type="accessRights">Email the manager for access information</description>
+<description type="rights">Dataset is copyright protected unless otherwise stated. Please refer the disclaimer on EBI website (http://www.ebi.ac.uk/ena/about/policy). For issues concerning intellectual property rights, please contact the manager for information.</description>
+<subject type="anzsrc-for">0603</subject>
+<identifier type="local">e6d656be-4328-46b1-8190-877d2b094a5e</identifier>
+<identifier type="local">table=experiment+id=5</identifier>
+</collection>
+</registryObject>
+
+<registryObject group="The University of Adelaide">
+<key>86cdeb4f-3495-4f4a-8c14-b5259bdf8f8c</key>
+<originatingSource>http://bioinf-db.ersa.edu.au/oai/oai2.php</originatingSource>
+<collection type="dataset">
+<name type="primary">
+<namePart>Genome Survey Sequencing of Sleepy Lizard</namePart>
+</name>
+<description type="full">Genomic DNA was isolated from samples and sent to BGI (Hong Kong) for 100bp paired end sequencing (500 bp library mean insert size). 1Gbp of paired end reads from each species were then used as input for BovB consensus building.</description>
+<location>
+<address>
+<electronic type="email">
+<value>david.adelson@adelaide.edu.au</value>
+</electronic>
+</address>
+</location>
+<description type="accessRights">Email the manager for access information</description>
+<description type="rights">Dataset is copyright protected unless otherwise stated. Please refer the disclaimer on EBI website (http://www.ebi.ac.uk/ena/about/policy). For issues concerning intellectual property rights, please contact the manager for information.</description>
+<subject type="anzsrc-for">0603</subject>
+<identifier type="local">86cdeb4f-3495-4f4a-8c14-b5259bdf8f8c</identifier>
+<identifier type="local">table=experiment+id=4</identifier>
+</collection>
+</registryObject>
+<registryObject group="The University of Adelaide">
+<key>58d99a4a-bc3e-4513-8b9c-d1e40d8de1fa</key>
+<originatingSource>http://researchdata.ands.org.au/registry/orca/register_my_data</originatingSource>
+<collection dateModified="2013-04-08T07:56:07Z" type="dataset">
+<name type="primary">
+<namePart type="">Non-coding RNA profiling of small RNAs isolated from an E15.5 mouse brain by high throughput sequencing</namePart>
+</name>
+<description type="full">We identified the expression of 294 known miRNAs in the E15.5 developing mouse brain, which were mostly represented by let-7 family and other brain-specific miRNAs such as miR-9 and miR-124. We also discovered 4 putative 22-23nt miRNAs: mm_br_e15_1181, mm_br_e15_279920, mm_br_e15_96719 and mm_br_e15_294354 each with a 70-76nt predicted pre-miRNA. We validated the 4 putative miRNAs and further characterised one of them, mm_br_e15_1181, throughout embryogenesis. Mm_br_e15_1181 biogenesis was Dicer1-dependent and was expressed in E3.5 blastocysts and E7 whole embryos. Embryo-wide expression patterns were observed at E9.5 and E11.5 followed by a near complete loss of expression by E13.5, with expression restricted to a specialised layer of cells within the developing and early postnatal brain. Mm_br_e15_1181 was upregulated during neurodifferentiation of P19 teratocarcinoma cells. This novel miRNA has been identified as miR-3099. We have generated and analysed the first deep sequencing dataset of small RNA sequences of the developing mouse brain. The analysis revealed a novel miRNA, miR-3099, with potential regulatory effects on early embryogenesis, and involvement in neuronal cell differentiation/function in the brain during late embryonic and early neonatal development.</description>
+<description type="accessRights">Data can be freely accessed at: http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE22653</description>
+<description type="rights">Dataset is copyright protected unless otherwise stated. Please refer the disclaimer on Gene Expression Omnibus&amp;rsquo; website (http://www.ncbi.nlm.nih.gov/geo/info/disclaimer.html). For issues concerning intellectual property rights, please contact the manager for information.</description>
+<identifier type="local">GSE22653</identifier>
+<location>
+<address>
+<electronic type="url">
+<value>http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE22653</value>
+</electronic>
+</address>
+</location>
+<subject type="anzsrc-for">111203</subject>
+</collection>
+</registryObject>
+<registryObject group="The University of Adelaide">
+<key>39a97633-ee80-4320-a861-95a8ba07e1c7</key>
+<originatingSource>http://researchdata.ands.org.au/registry/orca/register_my_data</originatingSource>
+<collection dateModified="2013-04-08T07:56:08Z" type="dataset">
+<name type="primary">
+<namePart type="">Total RNA of mouse brain of E15.5</namePart>
+</name>
+<description type="brief">A pregnant mouse was bred under a 12-hour light and 12-hour dark cycle with access to unlimited food and water. Embryos were removed after 15.5 days (E15.5) of pregnancy. The developing whole brain was dissected from one of the embryos for total RNA extraction. Total RNA was isolated from a whole brain dissected from an E15.5 embryo of C57BL/6 background using TRIzol reagent (Invitrogen) according to the manufacturer&amp;rsquo;s protocol. Small RNAs with sizes ranging from 16-30nt were isolated from 10&amp;mu;g total RNA using polyacrylamide gel electrophoresis. The complementary small RNA library was constructed using the Small RNA Sample Prep Kit version 1.0 (Illumina) according to the manufacturer&amp;#39;s protocol with 5&amp;rsquo;-GTTCAGAGTT CTACAGTCCG ACGATC-3&amp;rsquo; and 5&amp;rsquo;- TCGTATGCCG TCTTCTGCTT GT-3&amp;rsquo; adapters at the 5&amp;rsquo; and 3&amp;rsquo; ends, respectively.</description>
+<description type="accessRights">Data can be freely accessed at http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM561991</description>
+<description type="rights">Dataset is copyright protected unless otherwise stated. Please refer the disclaimer on Gene Expression Omnibus&amp;rsquo; website (http://www.ncbi.nlm.nih.gov/geo/info/disclaimer.html). For issues concerning intellectual property rights, please contact the manager for information.</description>
+<identifier type="local">GSM561991</identifier>
+<location>
+<address>
+<electronic type="url">
+<value>http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM561991</value>
+</electronic>
+</address>
+</location>
+<subject type="anzsrc-for">111203</subject>
+<relatedInfo type="publication">
+<identifier type="doi">doi:10.1186/1471-2164-12-176</identifier>
+<title>Deep sequencing analysis of the developing mouse brain reveals a novel microRNA</title>
+</relatedInfo>
+</collection>
+</registryObject>
+<registryObject group="The University of Adelaide">
+<key>168e54d7-6c0e-4bac-b9f8-630d6210c0dc</key>
+<originatingSource>http://bioinf-db.ersa.edu.au/oai/oai2.php</originatingSource>
+<collection type="dataset">
+<name type="primary">
+<namePart>AGRF Sequencing of mouse PB-G</namePart>
+</name>
+<description type="full">Genomic DNA isolated from wildtype and Dnmt3L knockout mice and sent to Australian Genome Research Facility (Melbourne) for paired-end sequencing for de novo sequencing and mapping to reference genome. 600 bp inserts.</description>
+<location>
+<address>
+<electronic type="email">
+<value>hamish.scott@health.sa.gov.au</value>
+</electronic>
+</address>
+</location>
+<description type="accessRights">Email the manager for access information</description>
+<description type="rights">Dataset is copyright protected unless otherwise stated. Please refer the disclaimer on EBI website (http://www.ebi.ac.uk/ena/about/policy). For issues concerning intellectual property rights, please contact the manager for information.</description>
+<subject type="anzsrc-for">111203</subject>
+<identifier type="local">168e54d7-6c0e-4bac-b9f8-630d6210c0dc</identifier>
+<identifier type="local">table=experiment+id=19</identifier>
+</collection>
+</registryObject>
+<registryObject group="The University of Adelaide">
+<key>9ee2e6e2-dc20-4003-b32f-0f6f7156c132</key>
+<originatingSource>http://bioinf-db.ersa.edu.au/oai/oai2.php</originatingSource>
+<collection type="dataset">
+<name type="primary">
+<namePart>AGRF Sequencing of mouse PB-H</namePart>
+</name>
+<description type="full">Genomic DNA isolated from wildtype and Dnmt3L knockout mice and sent to Australian Genome Research Facility (Melbourne) for paired-end sequencing for de novo sequencing and mapping to reference genome. 600 bp inserts.</description>
+<location>
+<address>
+<electronic type="email">
+<value>hamish.scott@health.sa.gov.au</value>
+</electronic>
+</address>
+</location>
+<description type="accessRights">Email the manager for access information</description>
+<description type="rights">Dataset is copyright protected unless otherwise stated. Please refer the disclaimer on EBI website (http://www.ebi.ac.uk/ena/about/policy). For issues concerning intellectual property rights, please contact the manager for information.</description>
+<subject type="anzsrc-for">111203</subject>
+<identifier type="local">9ee2e6e2-dc20-4003-b32f-0f6f7156c132</identifier>
+<identifier type="local">table=experiment+id=20</identifier>
+</collection>
+</registryObject>
+<registryObject group="The University of Adelaide">
+<key>12e721b2-94fb-465e-b594-f70ebbd4b0a4</key>
+<originatingSource>http://bioinf-db.ersa.edu.au/oai/oai2.php</originatingSource>
+<collection type="dataset">
+<name type="primary">
+<namePart>AGRF Sequencing of mouse PB-K</namePart>
+</name>
+<description type="full">Genomic DNA isolated from wildtype and Dnmt3L knockout mice and sent to Australian Genome Research Facility (Melbourne) for paired-end sequencing for de novo sequencing and mapping to reference genome. 600 bp inserts.</description>
+<location>
+<address>
+<electronic type="email">
+<value>hamish.scott@health.sa.gov.au</value>
+</electronic>
+</address>
+</location>
+<description type="accessRights">Email the manager for access information</description>
+<description type="rights">Dataset is copyright protected unless otherwise stated. Please refer the disclaimer on EBI website (http://www.ebi.ac.uk/ena/about/policy). For issues concerning intellectual property rights, please contact the manager for information.</description>
+<subject type="anzsrc-for">111203</subject>
+<identifier type="local">12e721b2-94fb-465e-b594-f70ebbd4b0a4</identifier>
+<identifier type="local">table=experiment+id=23</identifier>
+</collection>
+</registryObject>
+<registryObject group="The University of Adelaide">
+<key>a50488d3-f440-42c0-8ae8-3625295efd9d</key>
+<originatingSource>http://bioinf-db.ersa.edu.au/oai/oai2.php</originatingSource>
+<collection type="dataset">
+<name type="primary">
+<namePart>AGRF Sequencing of mouse PB-O</namePart>
+</name>
+<description type="full">Genomic DNA isolated from wildtype and Dnmt3L knockout mice and sent to Australian Genome Research Facility (Melbourne) for paired-end sequencing for de novo sequencing and mapping to reference genome. 600 bp inserts.</description>
+<location>
+<address>
+<electronic type="email">
+<value>hamish.scott@health.sa.gov.au</value>
+</electronic>
+</address>
+</location>
+<description type="accessRights">Email the manager for access information</description>
+<description type="rights">Dataset is copyright protected unless otherwise stated. Please refer the disclaimer on EBI website (http://www.ebi.ac.uk/ena/about/policy). For issues concerning intellectual property rights, please contact the manager for information.</description>
+<subject type="anzsrc-for">111203</subject>
+<identifier type="local">a50488d3-f440-42c0-8ae8-3625295efd9d</identifier>
+<identifier type="local">table=experiment+id=25</identifier>
+</collection>
+</registryObject>
+<registryObject group="The University of Adelaide">
+<key>cc40c722-046e-45b4-872f-a3c1d65089f9</key>
+<originatingSource>http://bioinf-db.ersa.edu.au/oai/oai2.php</originatingSource>
+<collection type="dataset">
+<name type="primary">
+<namePart>AGRF Sequencing of mouse PB-5a</namePart>
+</name>
+<description type="full">Genomic DNA isolated from wildtype and Dnmt3L knockout mice and sent to Australian Genome Research Facility (Melbourne) for paired-end sequencing for de novo sequencing and mapping to reference genome. 600 bp inserts.</description>
+<location>
+<address>
+<electronic type="email">
+<value>hamish.scott@health.sa.gov.au</value>
+</electronic>
+</address>
+</location>
+<description type="accessRights">Email the manager for access information</description>
+<description type="rights">Dataset is copyright protected unless otherwise stated. Please refer the disclaimer on EBI website (http://www.ebi.ac.uk/ena/about/policy). For issues concerning intellectual property rights, please contact the manager for information.</description>
+<subject type="anzsrc-for">111203</subject>
+<identifier type="local">cc40c722-046e-45b4-872f-a3c1d65089f9</identifier>
+<identifier type="local">table=experiment+id=17</identifier>
+</collection>
+</registryObject>
+<registryObject group="The University of Adelaide">
+<key>01fa6a93-8236-4567-a1de-a6cab2c59c8a</key>
+<originatingSource>http://bioinf-db.ersa.edu.au/oai/oai2.php</originatingSource>
+<collection type="dataset">
+<name type="primary">
+<namePart>AGRF Sequencing of mouse PB-L</namePart>
+</name>
+<description type="full">Genomic DNA isolated from wildtype and Dnmt3L knockout mice and sent to Australian Genome Research Facility (Melbourne) for paired-end sequencing for de novo sequencing and mapping to reference genome. 600 bp inserts.</description>
+<location>
+<address>
+<electronic type="email">
+<value>hamish.scott@health.sa.gov.au</value>
+</electronic>
+</address>
+</location>
+<description type="accessRights">Email the manager for access information</description>
+<description type="rights">Dataset is copyright protected unless otherwise stated. Please refer the disclaimer on EBI website (http://www.ebi.ac.uk/ena/about/policy). For issues concerning intellectual property rights, please contact the manager for information.</description>
+<subject type="anzsrc-for">111203</subject>
+<identifier type="local">01fa6a93-8236-4567-a1de-a6cab2c59c8a</identifier>
+<identifier type="local">table=experiment+id=16</identifier>
+</collection>
+</registryObject>
+<registryObject group="The University of Adelaide">
+<key>26dcf1f9-c694-43fc-b763-69495a5dec2b</key>
+<originatingSource>http://bioinf-db.ersa.edu.au/oai/oai2.php</originatingSource>
+<collection type="dataset">
+<name type="primary">
+<namePart>AGRF Sequencing of mouse PB-C</namePart>
+</name>
+<description type="full">Genomic DNA isolated from wildtype and Dnmt3L knockout mice and sent to Australian Genome Research Facility (Melbourne) for paired-end sequencing for de novo sequencing and mapping to reference genome. 600 bp inserts.</description>
+<location>
+<address>
+<electronic type="email">
+<value>hamish.scott@health.sa.gov.au</value>
+</electronic>
+</address>
+</location>
+<description type="accessRights">Email the manager for access information</description>
+<description type="rights">Dataset is copyright protected unless otherwise stated. Please refer the disclaimer on EBI website (http://www.ebi.ac.uk/ena/about/policy). For issues concerning intellectual property rights, please contact the manager for information.</description>
+<subject type="anzsrc-for">111203</subject>
+<identifier type="local">26dcf1f9-c694-43fc-b763-69495a5dec2b</identifier>
+<identifier type="local">table=experiment+id=15</identifier>
+</collection>
+</registryObject>
+<registryObject group="The University of Adelaide">
+<key>b4110ede-e10d-4978-8bdb-1db6b60caf43</key>
+<originatingSource>http://bioinf-db.ersa.edu.au/oai/oai2.php</originatingSource>
+<collection type="dataset">
+<name type="primary">
+<namePart>AGRF Sequencing of mouse PB-A</namePart>
+</name>
+<description type="full">Genomic DNA isolated from wildtype and Dnmt3L knockout mice and sent to Australian Genome Research Facility (Melbourne) for paired-end sequencing for de novo sequencing and mapping to reference genome. 600 bp inserts.</description>
+<location>
+<address>
+<electronic type="email">
+<value>hamish.scott@health.sa.gov.au</value>
+</electronic>
+</address>
+</location>
+<description type="accessRights">Email the manager for access information</description>
+<description type="rights">Dataset is copyright protected unless otherwise stated. Please refer the disclaimer on EBI website (http://www.ebi.ac.uk/ena/about/policy). For issues concerning intellectual property rights, please contact the manager for information.</description>
+<subject type="anzsrc-for">111203</subject>
+<identifier type="local">b4110ede-e10d-4978-8bdb-1db6b60caf43</identifier>
+<identifier type="local">table=experiment+id=13</identifier>
+</collection>
+</registryObject>
+<registryObject group="The University of Adelaide">
+<key>0ec2208d-48e6-4577-8daa-c85e2e76eb51</key>
+<originatingSource>http://bioinf-db.ersa.edu.au/oai/oai2.php</originatingSource>
+<collection type="dataset">
+<name type="primary">
+<namePart>AGRF Sequencing of mouse PB-B</namePart>
+</name>
+<description type="full">Genomic DNA isolated from wildtype and Dnmt3L knockout mice and sent to Australian Genome Research Facility (Melbourne) for paired-end sequencing for de novo sequencing and mapping to reference genome. 600 bp inserts.</description>
+<location>
+<address>
+<electronic type="email">
+<value>hamish.scott@health.sa.gov.au</value>
+</electronic>
+</address>
+</location>
+<description type="accessRights">Email the manager for access information</description>
+<description type="rights">Dataset is copyright protected unless otherwise stated. Please refer the disclaimer on EBI website (http://www.ebi.ac.uk/ena/about/policy). For issues concerning intellectual property rights, please contact the manager for information.</description>
+<subject type="anzsrc-for">111203</subject>
+<identifier type="local">0ec2208d-48e6-4577-8daa-c85e2e76eb51</identifier>
+<identifier type="local">table=experiment+id=14</identifier>
+</collection>
+</registryObject>
+<registryObject group="The University of Adelaide">
+<key>783e6026-13d5-4d7b-9431-87491126987d</key>
+<originatingSource>http://bioinf-db.ersa.edu.au/oai/oai2.php</originatingSource>
+<collection type="dataset">
+<name type="primary">
+<namePart>HSS46</namePart>
+</name>
+<description type="full">This experiment belongs to sample HSS46</description>
+<location>
+<address>
+<electronic type="email">
+<value>hamish.scott@health.sa.gov.au</value>
+</electronic>
+</address>
+</location>
+<description type="accessRights">Email the manager for access information</description>
+<description type="rights">Dataset is copyright protected unless otherwise stated. Please refer the disclaimer on EBI website (http://www.ebi.ac.uk/ena/about/policy). For issues concerning intellectual property rights, please contact the manager for information.</description>
+<subject type="anzsrc-for">060408</subject>
+<identifier type="local">783e6026-13d5-4d7b-9431-87491126987d</identifier>
+<identifier type="local">table=experiment+id=12</identifier>
+      <relatedInfo type="publication">
+        <title>Hyperspectral microscopy can detect metabolic heterogeneity within bovine post-compaction embryos incubated under two oxygen concentrations (7% versus 20%)</title>
+        <identifier type="handle">http://hdl.handle.net/2440/118312</identifier>
+      </relatedInfo>
+</collection>
+</registryObject>
+<registryObject group="The University of Adelaide">
+<key>5cc2ce57-55a6-41bd-805b-18aba43de640</key>
+<originatingSource>http://bioinf-db.ersa.edu.au/oai/oai2.php</originatingSource>
+<collection type="dataset">
+<name type="primary">
+<namePart>AGRF Sequencing of mouse PB-M</namePart>
+</name>
+<description type="full">Genomic DNA isolated from wildtype and Dnmt3L knockout mice and sent to Australian Genome Research Facility (Melbourne) for paired-end sequencing for de novo sequencing and mapping to reference genome. 600 bp inserts.</description>
+<location>
+<address>
+<electronic type="email">
+<value>hamish.scott@health.sa.gov.au</value>
+</electronic>
+</address>
+</location>
+<description type="accessRights">Email the manager for access information</description>
+<description type="rights">Dataset is copyright protected unless otherwise stated. Please refer the disclaimer on EBI website (http://www.ebi.ac.uk/ena/about/policy). For issues concerning intellectual property rights, please contact the manager for information.</description>
+<subject type="anzsrc-for">111203</subject>
+<identifier type="local">5cc2ce57-55a6-41bd-805b-18aba43de640</identifier>
+<identifier type="local">table=experiment+id=24</identifier>
+</collection>
+</registryObject>
+<registryObject group="The University of Adelaide">
+<key>1835dcda-abd4-475a-ad03-6a24a3c949ba</key>
+<originatingSource>http://bioinf-db.ersa.edu.au/oai/oai2.php</originatingSource>
+<collection type="dataset">
+<name type="primary">
+<namePart>HSS45</namePart>
+</name>
+<description type="full">This experiment belongs to sample HSS45</description>
+<location>
+<address>
+<electronic type="email">
+<value>hamish.scott@health.sa.gov.au</value>
+</electronic>
+</address>
+</location>
+<description type="accessRights">Email the manager for access information</description>
+<description type="rights">Dataset is copyright protected unless otherwise stated. Please refer the disclaimer on EBI website (http://www.ebi.ac.uk/ena/about/policy). For issues concerning intellectual property rights, please contact the manager for information.</description>
+<subject type="anzsrc-for">060408</subject>
+<identifier type="local">1835dcda-abd4-475a-ad03-6a24a3c949ba</identifier>
+<identifier type="local">table=experiment+id=11</identifier>
+</collection>
+</registryObject>
+<registryObject group="The University of Adelaide">
+<key>c1221ba2-7262-453f-8cd3-cd28a463b9a1</key>
+<originatingSource>http://bioinf-db.ersa.edu.au/oai/oai2.php</originatingSource>
+<collection type="dataset">
+<name type="primary">
+<namePart>Genome Survey Sequencing of Echidna</namePart>
+</name>
+<description type="full">Genomic DNA was isolated from samples and sent to BGI (Hong Kong) for 100bp paired end sequencing (500 bp library mean insert size). 1Gbp of paired end reads from each species were then used as input for BovB consensus building.</description>
+<location>
+<address>
+<electronic type="email">
+<value>david.adelson@adelaide.edu.au</value>
+</electronic>
+</address>
+</location>
+<description type="accessRights">Email the manager for access information</description>
+<description type="rights">Dataset is copyright protected unless otherwise stated. Please refer the disclaimer on EBI website (http://www.ebi.ac.uk/ena/about/policy). For issues concerning intellectual property rights, please contact the manager for information.</description>
+<subject type="anzsrc-for">0603</subject>
+<identifier type="local">c1221ba2-7262-453f-8cd3-cd28a463b9a1</identifier>
+<identifier type="local">table=experiment+id=2</identifier>
+</collection>
+</registryObject>
+<registryObject group="The University of Adelaide">
+<key>cd591c25-f9c1-4320-8e4a-ad4bb0fe15b5</key>
+<originatingSource>http://bioinf-db.ersa.edu.au/oai/oai2.php</originatingSource>
+<collection type="dataset">
+<name type="primary">
+<namePart>AGRF Sequencing of mouse PB-P</namePart>
+</name>
+<description type="full">Genomic DNA isolated from wildtype and Dnmt3L knockout mice and sent to Australian Genome Research Facility (Melbourne) for paired-end sequencing for de novo sequencing and mapping to reference genome. 600 bp inserts.</description>
+<location>
+<address>
+<electronic type="email">
+<value>hamish.scott@health.sa.gov.au</value>
+</electronic>
+</address>
+</location>
+<description type="accessRights">Email the manager for access information</description>
+<description type="rights">Dataset is copyright protected unless otherwise stated. Please refer the disclaimer on EBI website (http://www.ebi.ac.uk/ena/about/policy). For issues concerning intellectual property rights, please contact the manager for information.</description>
+<subject type="anzsrc-for">111203</subject>
+<identifier type="local">cd591c25-f9c1-4320-8e4a-ad4bb0fe15b5</identifier>
+<identifier type="local">table=experiment+id=26</identifier>
+</collection>
+</registryObject>
+<registryObject group="The University of Adelaide">
+<key>950c2dc0-c1ca-4f1b-a021-4ea549c8ff6f</key>
+<originatingSource>http://bioinf-db.ersa.edu.au/oai/oai2.php</originatingSource>
+<collection type="dataset">
+<name type="primary">
+<namePart>HSS42</namePart>
+</name>
+<description type="full"> This experiment belongs to sample HSS42</description>
+<location>
+<address>
+<electronic type="email">
+<value>hamish.scott@health.sa.gov.au</value>
+</electronic>
+</address>
+</location>
+<description type="accessRights">Email the manager for access information</description>
+<description type="rights">Dataset is copyright protected unless otherwise stated. Please refer the disclaimer on EBI website (http://www.ebi.ac.uk/ena/about/policy). For issues concerning intellectual property rights, please contact the manager for information.</description>
+<subject type="anzsrc-for">060408</subject>
+<identifier type="local">950c2dc0-c1ca-4f1b-a021-4ea549c8ff6f</identifier>
+<identifier type="local">table=experiment+id=9</identifier>
+</collection>
+</registryObject>
+<registryObject group="The University of Adelaide">
+<key>a5ee3e74-8183-42de-8be2-6ecff85d98ec</key>
+<originatingSource>http://researchdata.ands.org.au/registry/orca/register_my_data</originatingSource>
+<collection dateModified="2013-04-08T07:56:07Z" type="dataset">
+<name type="primary">
+<namePart type="">RNA sequence data of UPF3B patients</namePart>
+</name>
+<description type="brief">The data set includes polyA RNA extracted from lymphoblastoid cell lines of patients (n=4) and controls (n=2). We complemented the analysis using Affymetrix Human Exon 1.0 St array using total RNA of the same cell line from patients (n=5, 3 of whom were also sequenced) and controls (n=5).</description>
+<description type="accessRights">Please contact the manager to request access. It is also possible to access the dataset on Gene Expression Omnibus when the manager releases it.</description>
+<description type="rights">Dataset is copyright protected unless otherwise stated. Please refer the disclaimer on Gene Expression Omnibus&amp;rsquo; website (http://www.ncbi.nlm.nih.gov/geo/info/disclaimer.html). For issues concerning intellectual property rights, please contact the manager for information.</description>
+<location>
+<address>
+<electronic type="email">
+<value>jozef.gecz@adelaide.edu.au</value>
+</electronic>
+</address>
+</location>
+<subject type="anzsrc-for">060410</subject>
+</collection>
+</registryObject>
+<registryObject group="The University of Adelaide">
+<key>19e1e4a0-2dc5-47c8-aeb6-6eb1e3a3ca93</key>
+<originatingSource>http://researchdata.ands.org.au/registry/orca/register_my_data</originatingSource>
+<collection dateModified="2013-04-08T07:56:07Z" type="dataset">
+<name type="primary">
+<namePart type="">Copy number variation of UPF3B patients</namePart>
+</name>
+<description type="accessRights">Please contact the manager to request access. It is also possible to access the dataset on GEO when the manager releases it.</description>
+<description type="brief">To assess the impact of UPF3B-NMD deficiency on human transcriptome, we overlapped identified differently expressed genes with copy number variation data of the patients, obtained using Illumina Human Omniexpress chip, to exclude possible false positive.</description>
+<description type="rights">Dataset is copyright protected unless otherwise stated. Please refer the disclaimer on Gene Expression Omnibus&amp;rsquo; website (http://www.ncbi.nlm.nih.gov/geo/info/disclaimer.html). For issues concerning intellectual property rights, please contact the manager for information.</description>
+<location>
+<address>
+<electronic type="email">
+<value>jozef.gecz@adelaide.edu.au</value>
+</electronic>
+</address>
+</location>
+<subject type="anzsrc-for">060410</subject>
+</collection>
+</registryObject>
+<registryObject group="The University of Adelaide">
+<key>e79ee2d6-2295-4cba-8445-095ba3a8d0a1</key>
+<originatingSource>http://researchdata.ands.org.au/registry/orca/register_my_data</originatingSource>
+<collection dateModified="2013-04-08T07:56:07Z" type="dataset">
+<name type="primary">
+<namePart type="">Human Exon data of UPF3B patients</namePart>
+</name>
+<description type="rights">Dataset is copyright protected unless otherwise stated. Please refer the disclaimer on Gene Expression Omnibus&amp;rsquo; website (http://www.ncbi.nlm.nih.gov/geo/info/disclaimer.html). For issues concerning intellectual property rights, please contact the manager for information.</description>
+<description type="brief">To assess the impact of UPF3B-NMD deficiency on human transcriptome, we complemented the analysis using Affymetrix Human Exon 1.0 St array using total RNA of the same cell line from patients (n=5, 3 of whom were also sequenced) and controls (n=5).</description>
+<description type="accessRights">Please contact the manager to request access. It is also possible to access the dataset on GEO when the manager releases it.</description>
+<location>
+<address>
+<electronic type="email">
+<value>jozef.gecz@adelaide.edu.au</value>
+</electronic>
+</address>
+</location>
+<subject type="anzsrc-for">060410</subject>
+      <relatedInfo type="publication">
+        <title>Understanding cellular glycan surfaces in the central nervous system</title>
+        <identifier type="doi">https://doi.org/10.26180/15019743t</identifier>
+      </relatedInfo>
+</collection>
+</registryObject>
+
+
+<registryObject group="Bureau of Meteorology">
+    <key>Nested_Collection_L0</key>
+    <originatingSource type="">http://demo.ands.org.au/registry/orca/register_my_data....</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>Australian Water Resources Assessment 2010</namePart>
+      </name>
+      <description type="full">The Australian Water Resources Assessment 2010 comprises a National overview, 13 regional assessments and a Technical supplement that presents information on the analytical methods used and their scientific peer review. The National overview provides a national scale assessment of climate and water flows and stores in Australian landscapes in 2009–10 (July 2009 to June 2010). The chapter also examines important climate drivers and their impact on rainfall and evapotranspiration over the year. Information on nationally significant weather and water events experienced in 2009–10 is also presented</description>
+      <location>
+        <address>
+          <electronic type="url">
+            <value>http://www.bom.gov.au/water/awra/2010/</value>
+          </electronic>
+          <electronic type="email">
+            <value>awra@bom.gov.au</value>
+          </electronic>
+        </address>
+      </location>
+      <coverage>
+        <temporal>
+          <date type="dateFrom" dateFormat="W3CDTF">2009-07-01T00:00:00Z</date>
+          <date type="dateTo" dateFormat="W3CDTF">2010-06-30T00:00:00Z</date>
+        </temporal>
+        <spatial type="kmlPolyCoords">159.105459,-9.221084 112.921454,-9.221084 112.921454,-54.777218 159.105459,-54.777218 159.105459,-9.221084</spatial>
+      </coverage>
+      <relatedObject>
+        <key>AWRA_Murray_Darling_Basin</key>
+        <relation type="hasPart"/>
+      </relatedObject>
+      <relatedObject>
+        <key>AWRA_South_East_Coast_Vic</key>
+        <relation type="hasPart"/>
+      </relatedObject>
+      <relatedObject>
+        <key>AWRA_South_Australian_Gulf</key>
+        <relation type="hasPart">
+          <description>Australian Water Resources Assessment 2010</description>
+        </relation>
+      </relatedObject>
+      <relatedObject>
+        <key>AWRA_South_West_Coast</key>
+        <relation type="hasPart"/>
+      </relatedObject>
+      <relatedObject>
+        <key>AWRA_Carpentaria_Coast</key>
+        <relation type="hasPart"/>
+      </relatedObject>
+      <relatedObject>
+        <key>AWRA_Tanami_Timor</key>
+        <relation type="hasPart"/>
+      </relatedObject>
+      <relatedObject>
+        <key>AWRA_North_Western_Plateau</key>
+        <relation type="hasPart"/>
+      </relatedObject>
+      <relatedObject>
+        <key>AWRA_North_East_Coast</key>
+        <relation type="hasPart"/>
+      </relatedObject>
+      <relatedObject>
+        <key>AWRA_South_Western_Plateau</key>
+        <relation type="hasPart"/>
+      </relatedObject>
+      <relatedObject>
+        <key>AWRA_South_East_Coast</key>
+        <relation type="hasPart"/>
+      </relatedObject>
+      <subject type="anzsrc-for">04</subject>
+      <subject type="local">landscape water yield</subject>
+      <subject type="local">water balance</subject>
+      <subject type="local">landscape modelling</subject>
+      <subject type="local">groundwater</subject>
+      <subject type="local">environmental intelligence</subject>
+      <subject type="anzsrc-for">079901</subject>
+      <subject type="anzsrc-for">040603</subject>
+      <subject type="local">Australian water resource assessment</subject>
+      <subject type="local">Australian Hydrological geospatial fabric</subject>
+      <subject type="anzsrc-for">040608</subject>
+      <relatedInfo type="publication">
+        <title>2010 Assessment (high resolution)</title>
+        <identifier type="uri">http://www.bom.gov.au/water/awra/2010/documents/summary.pdf</identifier>
+        <format>
+          <identifier type="uri">http://www.bom.gov.au/water/awra/2010/documents/assessment-high.pdf</identifier>
+        </format>
+      </relatedInfo>
+    </collection>
+  </registryObject>
+
+     <registryObject group="Bureau of Meteorology">
+    <key>AWRA_South_Australian_Gulf</key>
+    <originatingSource type="">http://demo.ands.org.au/registry/orca/register_my_data</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>L1 Child 03</namePart>
+      </name>
+      <description type="full">&lt;p&gt;This assessment and related data examines water resources in the Tanami – Timor Sea Coast region in 2009–10 and over recent decades. Seasonal variability and trends in modelled water flows, stores and levels are considered at the regional level. Information on water use is also provided for selected urban centres and irrigation areas. It begins with an overview of key data and information on water flows, stores and use in the region in recent times followed by a brief description of the region. Water quality, which is important in any water resources assessment, is not addressed</description>
+      <rights>
+        <rightsStatement>All material provided by the Bureau of Meteorology is covered by Copyright notice.</rightsStatement>
+        <licence type="CC-BY" rightsUri="">Unless otherwise noted in the list of licensing agreements (see Licensing folder), all material is licensed under the Creative Commons Attribution Australia License</licence>
+        <accessRights type="" rightsUri="http://reg.bom.gov.au/other/disclaimer.shtml?ref=ftr">All material provided by the Bureau of Meteorology is covered by Disclaimer notice.</accessRights>
+      </rights>
+      <location>
+        <address>
+          <electronic type="url">
+            <value>http://www.bom.gov.au/water/awra/2010/data/tanami_timor_sea_coast.zip</value>
+          </electronic>
+        </address>
+      </location>
+      <coverage>
+        <temporal>
+          <date type="dateFrom" dateFormat="W3CDTF">2009-07-08T00:00:00Z</date>
+          <date type="dateTo" dateFormat="W3CDTF">2010-06-08T00:00:00Z</date>
+        </temporal>
+        <spatial type="text">Tanami-Timor Sea Coast</spatial>
+      </coverage>
+      <coverage>
+        <spatial type="gmlKmlPolyCoords">128.2851,-21.0850 128.9750,-20.0476 129.9975,-19.6600 129.8374,-19.2649 130.1450,-18.5550 129.8201,-17.7550 127.5675,-18.5825 126.9425,-19.6200 125.6350,-19.1675 124.8201,-19.3001 123.9624,-18.8474 123.5100,-18.9701 123.1824,-18.5175 121.8150,-18.4500 121.0450,-19.5850 119.6050,-20.0799 119.1000,-19.9601 118.7474,-20.2925 119.1374,-21.3700 118.9875,-22.1124 120.1600,-22.2151 121.0301,-23.1775 120.8274,-23.5775 119.7251,-23.7600 119.4026,-24.4125 119.9350,-25.0049 119.3900,-25.9400 120.4251,-26.1625 120.7725,-26.8950 121.1825,-26.8424 122.7876,-27.7550 123.8250,-27.2725 123.8424,-26.8750 123.3726,-26.6274 123.5825,-25.9749 124.2750,-25.6526 124.5325,-25.0575 125.0700,-25.0399 125.5449,-24.3575 125.7324,-24.6224 126.3601,-24.5775 126.7024,-24.9401 126.7050,-25.8900 127.1250,-25.8399 127.3600,-25.3301 128.4324,-25.0550 128.3526,-24.3276 127.8575,-24.0475 128.3275,-23.0925 127.8476,-22.8575 128.0901,-22.3199 127.7700,-22.0526 128.2851,-21.0850</spatial>
+        <spatial type="gmlKmlPolyCoords">130.4026,-11.1649 130.4951,-11.6601 130.9450,-11.9399 131.5426,-11.4600 131.2576,-11.1901 130.8100,-11.5276 130.4026,-11.1649</spatial>
+        <spatial type="gmlKmlPolyCoords">130.284900,-11.342600 130.132781,-11.499746 130.030100,-11.807400 130.607600,-11.827400 130.331592,-11.283349 130.284900,-11.342600</spatial>
+      </coverage>
+       <relatedObject>
+        <key>AWRA_Tasmania</key>
+        <relation type="hasPart"/>
+      </relatedObject>
+      <subject type="anzsrc-for">04</subject>
+      <subject type="anzsrc-for">040603</subject>
+      <subject type="anzsrc-for">040608</subject>
+      <subject type="anzsrc-for">07990</subject>
+      <subject type="local">Landscape water yield</subject>
+      <subject type="anzsrc-for">water balance</subject>
+      <subject type="local">landscape modelling</subject>
+      <subject type="local">groundwater</subject>
+      <subject type="local">environmental intelligence</subject>
+      <subject type="local">Australian water resources assessment</subject>
+      <subject type="local">Australian hydrological geospatial fabric</subject>
+      <relatedInfo type="publication">
+        <identifier type="uri">http://www.bom.gov.au/water/awra/2010/tan.shtml</identifier>
+        <title>Tanami - Timor Sea Coast report</title>
+      </relatedInfo>
+      <relatedInfo type="publication">
+        <identifier type="uri">http://www.bom.gov.au/water/awra/2010/documents/summary.pdf</identifier>
+        <title>Australian Water Resources Assessment 2010 Summary Report</title>
+      </relatedInfo>
+    </collection>
+  </registryObject>
+
+     <registryObject group="Bureau of Meteorology">
+    <key>AWRA_South_West_Coast</key>
+    <originatingSource type="">http://demo.ands.org.au/registry/orca/register_my_data</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>sw Coast</namePart>
+      </name>
+      <description type="full">&lt;p&gt;This assessment and related data examines water resources in the Tanami – Timor Sea Coast region in 2009–10 and over recent decades. Seasonal variability and trends in modelled water flows, stores and levels are considered at the regional level. Information on water use is also provided for selected urban centres and irrigation areas. It begins with an overview of key data and information on water flows, stores and use in the region in recent times followed by a brief description of the region. Water quality, which is important in any water resources assessment, is not addressed</description>
+      <rights>
+        <rightsStatement>All material provided by the Bureau of Meteorology is covered by Copyright notice.</rightsStatement>
+        <licence type="CC-BY" rightsUri="">Unless otherwise noted in the list of licensing agreements (see Licensing folder), all material is licensed under the Creative Commons Attribution Australia License</licence>
+        <accessRights type="" rightsUri="http://reg.bom.gov.au/other/disclaimer.shtml?ref=ftr">All material provided by the Bureau of Meteorology is covered by Disclaimer notice.</accessRights>
+      </rights>
+      <location>
+        <address>
+          <electronic type="url">
+            <value>http://www.bom.gov.au/water/awra/2010/data/tanami_timor_sea_coast.zip</value>
+          </electronic>
+        </address>
+      </location>
+      <coverage>
+        <temporal>
+          <date type="dateFrom" dateFormat="W3CDTF">2009-07-08T00:00:00Z</date>
+          <date type="dateTo" dateFormat="W3CDTF">2010-06-08T00:00:00Z</date>
+        </temporal>
+        <spatial type="text">Tanami-Timor Sea Coast</spatial>
+      </coverage>
+      <coverage>
+        <spatial type="gmlKmlPolyCoords">128.2851,-21.0850 128.9750,-20.0476 129.9975,-19.6600 129.8374,-19.2649 130.1450,-18.5550 129.8201,-17.7550 127.5675,-18.5825 126.9425,-19.6200 125.6350,-19.1675 124.8201,-19.3001 123.9624,-18.8474 123.5100,-18.9701 123.1824,-18.5175 121.8150,-18.4500 121.0450,-19.5850 119.6050,-20.0799 119.1000,-19.9601 118.7474,-20.2925 119.1374,-21.3700 118.9875,-22.1124 120.1600,-22.2151 121.0301,-23.1775 120.8274,-23.5775 119.7251,-23.7600 119.4026,-24.4125 119.9350,-25.0049 119.3900,-25.9400 120.4251,-26.1625 120.7725,-26.8950 121.1825,-26.8424 122.7876,-27.7550 123.8250,-27.2725 123.8424,-26.8750 123.3726,-26.6274 123.5825,-25.9749 124.2750,-25.6526 124.5325,-25.0575 125.0700,-25.0399 125.5449,-24.3575 125.7324,-24.6224 126.3601,-24.5775 126.7024,-24.9401 126.7050,-25.8900 127.1250,-25.8399 127.3600,-25.3301 128.4324,-25.0550 128.3526,-24.3276 127.8575,-24.0475 128.3275,-23.0925 127.8476,-22.8575 128.0901,-22.3199 127.7700,-22.0526 128.2851,-21.0850</spatial>
+        <spatial type="gmlKmlPolyCoords">130.4026,-11.1649 130.4951,-11.6601 130.9450,-11.9399 131.5426,-11.4600 131.2576,-11.1901 130.8100,-11.5276 130.4026,-11.1649</spatial>
+        <spatial type="gmlKmlPolyCoords">130.284900,-11.342600 130.132781,-11.499746 130.030100,-11.807400 130.607600,-11.827400 130.331592,-11.283349 130.284900,-11.342600</spatial>
+      </coverage>
+       <relatedObject>
+        <key>AWRA_Pilbara_Gascoyne</key>
+        <relation type="hasPart"/>
+      </relatedObject>
+      <subject type="anzsrc-for">04</subject>
+      <subject type="anzsrc-for">040603</subject>
+      <subject type="anzsrc-for">040608</subject>
+      <subject type="anzsrc-for">07990</subject>
+      <subject type="local">Landscape water yield</subject>
+      <subject type="anzsrc-for">water balance</subject>
+      <subject type="local">landscape modelling</subject>
+      <subject type="local">groundwater</subject>
+      <subject type="local">environmental intelligence</subject>
+      <subject type="local">Australian water resources assessment</subject>
+      <subject type="local">Australian hydrological geospatial fabric</subject>
+    </collection>
+  </registryObject>
+
+       <registryObject group="Bureau of Meteorology">
+    <key>AWRA_Pilbara_Gascoyne</key>
+    <originatingSource type="">http://demo.ands.org.au/registry/orca/register_my_data</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>L2Child 02 Pilbara gascoyne</namePart>
+      </name>
+      <description type="full">&lt;p&gt;This assessment and related data examines water resources in the Tanami – Timor Sea Coast region in 2009–10 and over recent decades. Seasonal variability and trends in modelled water flows, stores and levels are considered at the regional level. Information on water use is also provided for selected urban centres and irrigation areas. It begins with an overview of key data and information on water flows, stores and use in the region in recent times followed by a brief description of the region. Water quality, which is important in any water resources assessment, is not addressed</description>
+      <rights>
+        <rightsStatement>All material provided by the Bureau of Meteorology is covered by Copyright notice.</rightsStatement>
+        <licence type="CC-BY" rightsUri="">Unless otherwise noted in the list of licensing agreements (see Licensing folder), all material is licensed under the Creative Commons Attribution Australia License</licence>
+        <accessRights type="" rightsUri="http://reg.bom.gov.au/other/disclaimer.shtml?ref=ftr">All material provided by the Bureau of Meteorology is covered by Disclaimer notice.</accessRights>
+      </rights>
+      <location>
+        <address>
+          <electronic type="url">
+            <value>http://www.bom.gov.au/water/awra/2010/data/tanami_timor_sea_coast.zip</value>
+          </electronic>
+        </address>
+      </location>
+      <coverage>
+        <temporal>
+          <date type="dateFrom" dateFormat="W3CDTF">2009-07-08T00:00:00Z</date>
+          <date type="dateTo" dateFormat="W3CDTF">2010-06-08T00:00:00Z</date>
+        </temporal>
+        <spatial type="text">Tanami-Timor Sea Coast</spatial>
+      </coverage>
+      <coverage>
+        <spatial type="gmlKmlPolyCoords">128.2851,-21.0850 128.9750,-20.0476 129.9975,-19.6600 129.8374,-19.2649 130.1450,-18.5550 129.8201,-17.7550 127.5675,-18.5825 126.9425,-19.6200 125.6350,-19.1675 124.8201,-19.3001 123.9624,-18.8474 123.5100,-18.9701 123.1824,-18.5175 121.8150,-18.4500 121.0450,-19.5850 119.6050,-20.0799 119.1000,-19.9601 118.7474,-20.2925 119.1374,-21.3700 118.9875,-22.1124 120.1600,-22.2151 121.0301,-23.1775 120.8274,-23.5775 119.7251,-23.7600 119.4026,-24.4125 119.9350,-25.0049 119.3900,-25.9400 120.4251,-26.1625 120.7725,-26.8950 121.1825,-26.8424 122.7876,-27.7550 123.8250,-27.2725 123.8424,-26.8750 123.3726,-26.6274 123.5825,-25.9749 124.2750,-25.6526 124.5325,-25.0575 125.0700,-25.0399 125.5449,-24.3575 125.7324,-24.6224 126.3601,-24.5775 126.7024,-24.9401 126.7050,-25.8900 127.1250,-25.8399 127.3600,-25.3301 128.4324,-25.0550 128.3526,-24.3276 127.8575,-24.0475 128.3275,-23.0925 127.8476,-22.8575 128.0901,-22.3199 127.7700,-22.0526 128.2851,-21.0850</spatial>
+        <spatial type="gmlKmlPolyCoords">130.4026,-11.1649 130.4951,-11.6601 130.9450,-11.9399 131.5426,-11.4600 131.2576,-11.1901 130.8100,-11.5276 130.4026,-11.1649</spatial>
+        <spatial type="gmlKmlPolyCoords">130.284900,-11.342600 130.132781,-11.499746 130.030100,-11.807400 130.607600,-11.827400 130.331592,-11.283349 130.284900,-11.342600</spatial>
+      </coverage>
+      <subject type="anzsrc-for">04</subject>
+      <subject type="anzsrc-for">040603</subject>
+      <subject type="anzsrc-for">040608</subject>
+      <subject type="anzsrc-for">07990</subject>
+      <subject type="local">Landscape water yield</subject>
+      <subject type="anzsrc-for">water balance</subject>
+      <subject type="local">landscape modelling</subject>
+      <subject type="local">groundwater</subject>
+      <subject type="local">environmental intelligence</subject>
+      <subject type="local">Australian water resources assessment</subject>
+      <subject type="local">Australian hydrological geospatial fabric</subject>
+    </collection>
+  </registryObject>
+
+   <registryObject group="Bureau of Meteorology">
+    <key>AWRA_Tasmania</key>
+    <originatingSource type="">http://demo.ands.org.au/registry/orca/register_my_data</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>L2 Child 01 - Tasmania</namePart>
+      </name>
+      <description type="full">&lt;p&gt;This assessment and related data examines water resources in the Tanami – Timor Sea Coast region in 2009–10 and over recent decades. Seasonal variability and trends in modelled water flows, stores and levels are considered at the regional level. Information on water use is also provided for selected urban centres and irrigation areas. It begins with an overview of key data and information on water flows, stores and use in the region in recent times followed by a brief description of the region. Water quality, which is important in any water resources assessment, is not addressed</description>
+      <rights>
+        <rightsStatement>All material provided by the Bureau of Meteorology is covered by Copyright notice.</rightsStatement>
+        <licence type="CC-BY" rightsUri="">Unless otherwise noted in the list of licensing agreements (see Licensing folder), all material is licensed under the Creative Commons Attribution Australia License</licence>
+        <accessRights type="" rightsUri="http://reg.bom.gov.au/other/disclaimer.shtml?ref=ftr">All material provided by the Bureau of Meteorology is covered by Disclaimer notice.</accessRights>
+      </rights>
+      <location>
+        <address>
+          <electronic type="url">
+            <value>http://www.bom.gov.au/water/awra/2010/data/tanami_timor_sea_coast.zip</value>
+          </electronic>
+        </address>
+      </location>
+      <coverage>
+        <temporal>
+          <date type="dateFrom" dateFormat="W3CDTF">2009-07-08T00:00:00Z</date>
+          <date type="dateTo" dateFormat="W3CDTF">2010-06-08T00:00:00Z</date>
+        </temporal>
+        <spatial type="text">Tanami-Timor Sea Coast</spatial>
+      </coverage>
+      <coverage>
+        <spatial type="gmlKmlPolyCoords">128.2851,-21.0850 128.9750,-20.0476 129.9975,-19.6600 129.8374,-19.2649 130.1450,-18.5550 129.8201,-17.7550 127.5675,-18.5825 126.9425,-19.6200 125.6350,-19.1675 124.8201,-19.3001 123.9624,-18.8474 123.5100,-18.9701 123.1824,-18.5175 121.8150,-18.4500 121.0450,-19.5850 119.6050,-20.0799 119.1000,-19.9601 118.7474,-20.2925 119.1374,-21.3700 118.9875,-22.1124 120.1600,-22.2151 121.0301,-23.1775 120.8274,-23.5775 119.7251,-23.7600 119.4026,-24.4125 119.9350,-25.0049 119.3900,-25.9400 120.4251,-26.1625 120.7725,-26.8950 121.1825,-26.8424 122.7876,-27.7550 123.8250,-27.2725 123.8424,-26.8750 123.3726,-26.6274 123.5825,-25.9749 124.2750,-25.6526 124.5325,-25.0575 125.0700,-25.0399 125.5449,-24.3575 125.7324,-24.6224 126.3601,-24.5775 126.7024,-24.9401 126.7050,-25.8900 127.1250,-25.8399 127.3600,-25.3301 128.4324,-25.0550 128.3526,-24.3276 127.8575,-24.0475 128.3275,-23.0925 127.8476,-22.8575 128.0901,-22.3199 127.7700,-22.0526 128.2851,-21.0850</spatial>
+        <spatial type="gmlKmlPolyCoords">130.4026,-11.1649 130.4951,-11.6601 130.9450,-11.9399 131.5426,-11.4600 131.2576,-11.1901 130.8100,-11.5276 130.4026,-11.1649</spatial>
+        <spatial type="gmlKmlPolyCoords">130.284900,-11.342600 130.132781,-11.499746 130.030100,-11.807400 130.607600,-11.827400 130.331592,-11.283349 130.284900,-11.342600</spatial>
+      </coverage>
+      <subject type="anzsrc-for">04</subject>
+      <subject type="anzsrc-for">040603</subject>
+      <subject type="anzsrc-for">040608</subject>
+      <subject type="anzsrc-for">07990</subject>
+      <subject type="local">Landscape water yield</subject>
+      <subject type="anzsrc-for">water balance</subject>
+      <subject type="local">landscape modelling</subject>
+      <subject type="local">groundwater</subject>
+      <subject type="local">environmental intelligence</subject>
+      <subject type="local">Australian water resources assessment</subject>
+      <subject type="local">Australian hydrological geospatial fabric</subject>
+      <relatedInfo type="publication">
+        <identifier type="uri">http://www.bom.gov.au/water/awra/2010/tan.shtml</identifier>
+        <title>Tanami - Timor Sea Coast report</title>
+      </relatedInfo>
+      <relatedInfo type="publication">
+        <identifier type="uri">http://www.bom.gov.au/water/awra/2010/documents/summary.pdf</identifier>
+        <title>Australian Water Resources Assessment 2010 Summary Report</title>
+      </relatedInfo>
+    </collection>
+  </registryObject>
+
+
+   <registryObject group="Bureau of Meteorology">
+    <key>AWRA_Murray_Darling_Basin</key>
+    <originatingSource type="">http://demo.ands.org.au/registry/orca/register_my_data</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>L1 Child 01</namePart>
+      </name>
+      <description type="full">&lt;p&gt;This assessment and related data examines water resources in the Tanami – Timor Sea Coast region in 2009–10 and over recent decades. Seasonal variability and trends in modelled water flows, stores and levels are considered at the regional level. Information on water use is also provided for selected urban centres and irrigation areas. It begins with an overview of key data and information on water flows, stores and use in the region in recent times followed by a brief description of the region. Water quality, which is important in any water resources assessment, is not addressed</description>
+      <rights>
+        <rightsStatement>All material provided by the Bureau of Meteorology is covered by Copyright notice.</rightsStatement>
+        <licence type="CC-BY" rightsUri="">Unless otherwise noted in the list of licensing agreements (see Licensing folder), all material is licensed under the Creative Commons Attribution Australia License</licence>
+        <accessRights type="" rightsUri="http://reg.bom.gov.au/other/disclaimer.shtml?ref=ftr">All material provided by the Bureau of Meteorology is covered by Disclaimer notice.</accessRights>
+      </rights>
+      <location>
+        <address>
+          <electronic type="url">
+            <value>http://www.bom.gov.au/water/awra/2010/data/tanami_timor_sea_coast.zip</value>
+          </electronic>
+        </address>
+      </location>
+      <coverage>
+        <temporal>
+          <date type="dateFrom" dateFormat="W3CDTF">2009-07-08T00:00:00Z</date>
+          <date type="dateTo" dateFormat="W3CDTF">2010-06-08T00:00:00Z</date>
+        </temporal>
+        <spatial type="text">Tanami-Timor Sea Coast</spatial>
+      </coverage>
+      <coverage>
+        <spatial type="gmlKmlPolyCoords">128.2851,-21.0850 128.9750,-20.0476 129.9975,-19.6600 129.8374,-19.2649 130.1450,-18.5550 129.8201,-17.7550 127.5675,-18.5825 126.9425,-19.6200 125.6350,-19.1675 124.8201,-19.3001 123.9624,-18.8474 123.5100,-18.9701 123.1824,-18.5175 121.8150,-18.4500 121.0450,-19.5850 119.6050,-20.0799 119.1000,-19.9601 118.7474,-20.2925 119.1374,-21.3700 118.9875,-22.1124 120.1600,-22.2151 121.0301,-23.1775 120.8274,-23.5775 119.7251,-23.7600 119.4026,-24.4125 119.9350,-25.0049 119.3900,-25.9400 120.4251,-26.1625 120.7725,-26.8950 121.1825,-26.8424 122.7876,-27.7550 123.8250,-27.2725 123.8424,-26.8750 123.3726,-26.6274 123.5825,-25.9749 124.2750,-25.6526 124.5325,-25.0575 125.0700,-25.0399 125.5449,-24.3575 125.7324,-24.6224 126.3601,-24.5775 126.7024,-24.9401 126.7050,-25.8900 127.1250,-25.8399 127.3600,-25.3301 128.4324,-25.0550 128.3526,-24.3276 127.8575,-24.0475 128.3275,-23.0925 127.8476,-22.8575 128.0901,-22.3199 127.7700,-22.0526 128.2851,-21.0850</spatial>
+        <spatial type="gmlKmlPolyCoords">130.4026,-11.1649 130.4951,-11.6601 130.9450,-11.9399 131.5426,-11.4600 131.2576,-11.1901 130.8100,-11.5276 130.4026,-11.1649</spatial>
+        <spatial type="gmlKmlPolyCoords">130.284900,-11.342600 130.132781,-11.499746 130.030100,-11.807400 130.607600,-11.827400 130.331592,-11.283349 130.284900,-11.342600</spatial>
+      </coverage>
+      <subject type="anzsrc-for">04</subject>
+      <subject type="anzsrc-for">040603</subject>
+      <subject type="anzsrc-for">040608</subject>
+      <subject type="anzsrc-for">07990</subject>
+      <subject type="local">Landscape water yield</subject>
+      <subject type="anzsrc-for">water balance</subject>
+      <subject type="local">landscape modelling</subject>
+      <subject type="local">groundwater</subject>
+      <subject type="local">environmental intelligence</subject>
+      <subject type="local">Australian water resources assessment</subject>
+      <subject type="local">Australian hydrological geospatial fabric</subject>
+      <relatedInfo type="publication">
+        <identifier type="uri">http://www.bom.gov.au/water/awra/2010/tan.shtml</identifier>
+        <title>Tanami - Timor Sea Coast report</title>
+      </relatedInfo>
+      <relatedInfo type="publication">
+        <identifier type="uri">http://www.bom.gov.au/water/awra/2010/documents/summary.pdf</identifier>
+        <title>Australian Water Resources Assessment 2010 Summary Report</title>
+      </relatedInfo>
+    </collection>
+  </registryObject>
+
+     <registryObject group="Bureau of Meteorology">
+    <key>AWRA_South_East_Coast_Vic</key>
+    <originatingSource type="">http://demo.ands.org.au/registry/orca/register_my_data</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>L1 Child 02</namePart>
+      </name>
+      <description type="full">&lt;p&gt;This assessment and related data examines water resources in the Tanami – Timor Sea Coast region in 2009–10 and over recent decades. Seasonal variability and trends in modelled water flows, stores and levels are considered at the regional level. Information on water use is also provided for selected urban centres and irrigation areas. It begins with an overview of key data and information on water flows, stores and use in the region in recent times followed by a brief description of the region. Water quality, which is important in any water resources assessment, is not addressed</description>
+      <rights>
+        <rightsStatement>All material provided by the Bureau of Meteorology is covered by Copyright notice.</rightsStatement>
+        <licence type="CC-BY" rightsUri="">Unless otherwise noted in the list of licensing agreements (see Licensing folder), all material is licensed under the Creative Commons Attribution Australia License</licence>
+        <accessRights type="" rightsUri="http://reg.bom.gov.au/other/disclaimer.shtml?ref=ftr">All material provided by the Bureau of Meteorology is covered by Disclaimer notice.</accessRights>
+      </rights>
+      <location>
+        <address>
+          <electronic type="url">
+            <value>http://www.bom.gov.au/water/awra/2010/data/tanami_timor_sea_coast.zip</value>
+          </electronic>
+        </address>
+      </location>
+      <coverage>
+        <temporal>
+          <date type="dateFrom" dateFormat="W3CDTF">2009-07-08T00:00:00Z</date>
+          <date type="dateTo" dateFormat="W3CDTF">2010-06-08T00:00:00Z</date>
+        </temporal>
+        <spatial type="text">Tanami-Timor Sea Coast</spatial>
+      </coverage>
+      <coverage>
+        <spatial type="gmlKmlPolyCoords">128.2851,-21.0850 128.9750,-20.0476 129.9975,-19.6600 129.8374,-19.2649 130.1450,-18.5550 129.8201,-17.7550 127.5675,-18.5825 126.9425,-19.6200 125.6350,-19.1675 124.8201,-19.3001 123.9624,-18.8474 123.5100,-18.9701 123.1824,-18.5175 121.8150,-18.4500 121.0450,-19.5850 119.6050,-20.0799 119.1000,-19.9601 118.7474,-20.2925 119.1374,-21.3700 118.9875,-22.1124 120.1600,-22.2151 121.0301,-23.1775 120.8274,-23.5775 119.7251,-23.7600 119.4026,-24.4125 119.9350,-25.0049 119.3900,-25.9400 120.4251,-26.1625 120.7725,-26.8950 121.1825,-26.8424 122.7876,-27.7550 123.8250,-27.2725 123.8424,-26.8750 123.3726,-26.6274 123.5825,-25.9749 124.2750,-25.6526 124.5325,-25.0575 125.0700,-25.0399 125.5449,-24.3575 125.7324,-24.6224 126.3601,-24.5775 126.7024,-24.9401 126.7050,-25.8900 127.1250,-25.8399 127.3600,-25.3301 128.4324,-25.0550 128.3526,-24.3276 127.8575,-24.0475 128.3275,-23.0925 127.8476,-22.8575 128.0901,-22.3199 127.7700,-22.0526 128.2851,-21.0850</spatial>
+        <spatial type="gmlKmlPolyCoords">130.4026,-11.1649 130.4951,-11.6601 130.9450,-11.9399 131.5426,-11.4600 131.2576,-11.1901 130.8100,-11.5276 130.4026,-11.1649</spatial>
+        <spatial type="gmlKmlPolyCoords">130.284900,-11.342600 130.132781,-11.499746 130.030100,-11.807400 130.607600,-11.827400 130.331592,-11.283349 130.284900,-11.342600</spatial>
+      </coverage>
+      <subject type="anzsrc-for">04</subject>
+      <subject type="anzsrc-for">040603</subject>
+      <subject type="anzsrc-for">040608</subject>
+      <subject type="anzsrc-for">07990</subject>
+      <subject type="local">Landscape water yield</subject>
+      <subject type="anzsrc-for">water balance</subject>
+      <subject type="local">landscape modelling</subject>
+      <subject type="local">groundwater</subject>
+      <subject type="local">environmental intelligence</subject>
+      <subject type="local">Australian water resources assessment</subject>
+      <subject type="local">Australian hydrological geospatial fabric</subject>
+      <relatedInfo type="publication">
+        <identifier type="uri">http://www.bom.gov.au/water/awra/2010/tan.shtml</identifier>
+        <title>Tanami - Timor Sea Coast report</title>
+      </relatedInfo>
+      <relatedInfo type="publication">
+        <identifier type="uri">http://www.bom.gov.au/water/awra/2010/documents/summary.pdf</identifier>
+        <title>Australian Water Resources Assessment 2010 Summary Report</title>
+      </relatedInfo>
+    </collection>
+  </registryObject>
+
+
+  <registryObject group="Bureau of Meteorology">
+    <key>AWRA_Tanami_Timor</key>
+    <originatingSource type="">http://demo.ands.org.au/registry/orca/register_my_data</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>AWRA Tanami-Timor Sea Coast</namePart>
+      </name>
+      <description type="full">&lt;p&gt;This assessment and related data examines water resources in the Tanami – Timor Sea Coast region in 2009–10 and over recent decades. Seasonal variability and trends in modelled water flows, stores and levels are considered at the regional level. Information on water use is also provided for selected urban centres and irrigation areas. It begins with an overview of key data and information on water flows, stores and use in the region in recent times followed by a brief description of the region. Water quality, which is important in any water resources assessment, is not addressed.&lt;/p&gt;
+&lt;p&gt;At the time of writing, suitable quality controlled and assured surface water quality data from the Australian Water Resources Information System (Bureau of Meteorology 2011a) were not available. Groundwater and water use are only partially addressed for the same reason. In future reports, these aspects will be dealt with more thoroughly as suitable data become operationally available.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Key data and information&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The assessment presents the 2009–10 annual landscape water flows and the change in accessible surface water storage in the Tanami – Timor Sea Coast region. The region experienced above average annual rainfall and evapotranspiration for 2009–10 and the relatively high levels of water availability also resulted in above average modelled landscape water yield1  and also an increase in soil moisture conditions. Total accessible surface water storage in the region  decreased over the year, largely due to significant releases of water from Lake Argyle concurrent with average rainfall and run-off conditions in the Ord River basin. &lt;img style="width: 200px; height: 200px; border-width: 1px; border-style: solid; margin: 2px; float: right;" src="http://www.bom.gov.au/water/awra/2010/images/small/tan-leb.gif" alt="" /&gt;&lt;/p&gt;</description>
+      <rights>
+        <rightsStatement>All material provided by the Bureau of Meteorology is covered by Copyright notice.</rightsStatement>
+        <licence type="CC-BY" rightsUri="">Unless otherwise noted in the list of licensing agreements (see Licensing folder), all material is licensed under the Creative Commons Attribution Australia License</licence>
+        <accessRights type="" rightsUri="http://reg.bom.gov.au/other/disclaimer.shtml?ref=ftr">All material provided by the Bureau of Meteorology is covered by Disclaimer notice.</accessRights>
+      </rights>
+      <location>
+        <address>
+          <electronic type="url">
+            <value>http://www.bom.gov.au/water/awra/2010/data/tanami_timor_sea_coast.zip</value>
+          </electronic>
+        </address>
+      </location>
+      <coverage>
+        <temporal>
+          <date type="dateFrom" dateFormat="W3CDTF">2009-07-08T00:00:00Z</date>
+          <date type="dateTo" dateFormat="W3CDTF">2010-06-08T00:00:00Z</date>
+        </temporal>
+        <spatial type="text">Tanami-Timor Sea Coast</spatial>
+      </coverage>
+      <coverage>
+        <spatial type="gmlKmlPolyCoords">128.2851,-21.0850 128.9750,-20.0476 129.9975,-19.6600 129.8374,-19.2649 130.1450,-18.5550 129.8201,-17.7550 127.5675,-18.5825 126.9425,-19.6200 125.6350,-19.1675 124.8201,-19.3001 123.9624,-18.8474 123.5100,-18.9701 123.1824,-18.5175 121.8150,-18.4500 121.0450,-19.5850 119.6050,-20.0799 119.1000,-19.9601 118.7474,-20.2925 119.1374,-21.3700 118.9875,-22.1124 120.1600,-22.2151 121.0301,-23.1775 120.8274,-23.5775 119.7251,-23.7600 119.4026,-24.4125 119.9350,-25.0049 119.3900,-25.9400 120.4251,-26.1625 120.7725,-26.8950 121.1825,-26.8424 122.7876,-27.7550 123.8250,-27.2725 123.8424,-26.8750 123.3726,-26.6274 123.5825,-25.9749 124.2750,-25.6526 124.5325,-25.0575 125.0700,-25.0399 125.5449,-24.3575 125.7324,-24.6224 126.3601,-24.5775 126.7024,-24.9401 126.7050,-25.8900 127.1250,-25.8399 127.3600,-25.3301 128.4324,-25.0550 128.3526,-24.3276 127.8575,-24.0475 128.3275,-23.0925 127.8476,-22.8575 128.0901,-22.3199 127.7700,-22.0526 128.2851,-21.0850</spatial>
+        <spatial type="gmlKmlPolyCoords">130.4026,-11.1649 130.4951,-11.6601 130.9450,-11.9399 131.5426,-11.4600 131.2576,-11.1901 130.8100,-11.5276 130.4026,-11.1649</spatial>
+        <spatial type="gmlKmlPolyCoords">130.284900,-11.342600 130.132781,-11.499746 130.030100,-11.807400 130.607600,-11.827400 130.331592,-11.283349 130.284900,-11.342600</spatial>
+      </coverage>
+      <subject type="anzsrc-for">04</subject>
+      <subject type="anzsrc-for">040603</subject>
+      <subject type="anzsrc-for">040608</subject>
+      <subject type="anzsrc-for">07990</subject>
+      <subject type="local">Landscape water yield</subject>
+      <subject type="anzsrc-for">water balance</subject>
+      <subject type="local">landscape modelling</subject>
+      <subject type="local">groundwater</subject>
+      <subject type="local">environmental intelligence</subject>
+      <subject type="local">Australian water resources assessment</subject>
+      <subject type="local">Australian hydrological geospatial fabric</subject>
+      <relatedInfo type="publication">
+        <identifier type="uri">http://www.bom.gov.au/water/awra/2010/tan.shtml</identifier>
+        <title>Tanami - Timor Sea Coast report</title>
+      </relatedInfo>
+      <relatedInfo type="publication">
+        <identifier type="uri">http://www.bom.gov.au/water/awra/2010/documents/summary.pdf</identifier>
+        <title>Australian Water Resources Assessment 2010 Summary Report</title>
+      </relatedInfo>
+    </collection>
+  </registryObject>
+
+  <registryObject group="Bureau of Meteorology">
+    <key>AWRA_Tanami_Timor</key>
+    <originatingSource type="">http://demo.ands.org.au/registry/orca/register_my_data</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>AWRA Tanami-Timor Sea Coast</namePart>
+      </name>
+      <description type="full">&lt;p&gt;This assessment and related data examines water resources in the Tanami – Timor Sea Coast region in 2009–10 and over recent decades. Seasonal variability and trends in modelled water flows, stores and levels are considered at the regional level. Information on water use is also provided for selected urban centres and irrigation areas. It begins with an overview of key data and information on water flows, stores and use in the region in recent times followed by a brief description of the region. Water quality, which is important in any water resources assessment, is not addressed.&lt;/p&gt;
+&lt;p&gt;At the time of writing, suitable quality controlled and assured surface water quality data from the Australian Water Resources Information System (Bureau of Meteorology 2011a) were not available. Groundwater and water use are only partially addressed for the same reason. In future reports, these aspects will be dealt with more thoroughly as suitable data become operationally available.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Key data and information&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The assessment presents the 2009–10 annual landscape water flows and the change in accessible surface water storage in the Tanami – Timor Sea Coast region. The region experienced above average annual rainfall and evapotranspiration for 2009–10 and the relatively high levels of water availability also resulted in above average modelled landscape water yield1  and also an increase in soil moisture conditions. Total accessible surface water storage in the region  decreased over the year, largely due to significant releases of water from Lake Argyle concurrent with average rainfall and run-off conditions in the Ord River basin. &lt;img style="width: 200px; height: 200px; border-width: 1px; border-style: solid; margin: 2px; float: right;" src="http://www.bom.gov.au/water/awra/2010/images/small/tan-leb.gif" alt="" /&gt;&lt;/p&gt;</description>
+      <rights>
+        <rightsStatement>All material provided by the Bureau of Meteorology is covered by Copyright notice.</rightsStatement>
+        <licence type="CC-BY" rightsUri="">Unless otherwise noted in the list of licensing agreements (see Licensing folder), all material is licensed under the Creative Commons Attribution Australia License</licence>
+        <accessRights type="" rightsUri="http://reg.bom.gov.au/other/disclaimer.shtml?ref=ftr">All material provided by the Bureau of Meteorology is covered by Disclaimer notice.</accessRights>
+      </rights>
+      <location>
+        <address>
+          <electronic type="url">
+            <value>http://www.bom.gov.au/water/awra/2010/data/tanami_timor_sea_coast.zip</value>
+          </electronic>
+        </address>
+      </location>
+      <coverage>
+        <temporal>
+          <date type="dateFrom" dateFormat="W3CDTF">2009-07-08T00:00:00Z</date>
+          <date type="dateTo" dateFormat="W3CDTF">2010-06-08T00:00:00Z</date>
+        </temporal>
+        <spatial type="text">Tanami-Timor Sea Coast</spatial>
+      </coverage>
+      <coverage>
+        <spatial type="gmlKmlPolyCoords">128.2851,-21.0850 128.9750,-20.0476 129.9975,-19.6600 129.8374,-19.2649 130.1450,-18.5550 129.8201,-17.7550 127.5675,-18.5825 126.9425,-19.6200 125.6350,-19.1675 124.8201,-19.3001 123.9624,-18.8474 123.5100,-18.9701 123.1824,-18.5175 121.8150,-18.4500 121.0450,-19.5850 119.6050,-20.0799 119.1000,-19.9601 118.7474,-20.2925 119.1374,-21.3700 118.9875,-22.1124 120.1600,-22.2151 121.0301,-23.1775 120.8274,-23.5775 119.7251,-23.7600 119.4026,-24.4125 119.9350,-25.0049 119.3900,-25.9400 120.4251,-26.1625 120.7725,-26.8950 121.1825,-26.8424 122.7876,-27.7550 123.8250,-27.2725 123.8424,-26.8750 123.3726,-26.6274 123.5825,-25.9749 124.2750,-25.6526 124.5325,-25.0575 125.0700,-25.0399 125.5449,-24.3575 125.7324,-24.6224 126.3601,-24.5775 126.7024,-24.9401 126.7050,-25.8900 127.1250,-25.8399 127.3600,-25.3301 128.4324,-25.0550 128.3526,-24.3276 127.8575,-24.0475 128.3275,-23.0925 127.8476,-22.8575 128.0901,-22.3199 127.7700,-22.0526 128.2851,-21.0850</spatial>
+        <spatial type="gmlKmlPolyCoords">130.4026,-11.1649 130.4951,-11.6601 130.9450,-11.9399 131.5426,-11.4600 131.2576,-11.1901 130.8100,-11.5276 130.4026,-11.1649</spatial>
+        <spatial type="gmlKmlPolyCoords">130.284900,-11.342600 130.132781,-11.499746 130.030100,-11.807400 130.607600,-11.827400 130.331592,-11.283349 130.284900,-11.342600</spatial>
+      </coverage>
+      <subject type="anzsrc-for">04</subject>
+      <subject type="anzsrc-for">040603</subject>
+      <subject type="anzsrc-for">040608</subject>
+      <subject type="anzsrc-for">07990</subject>
+      <subject type="local">Landscape water yield</subject>
+      <subject type="anzsrc-for">water balance</subject>
+      <subject type="local">landscape modelling</subject>
+      <subject type="local">groundwater</subject>
+      <subject type="local">environmental intelligence</subject>
+      <subject type="local">Australian water resources assessment</subject>
+      <subject type="local">Australian hydrological geospatial fabric</subject>
+      <relatedInfo type="publication">
+        <identifier type="uri">http://www.bom.gov.au/water/awra/2010/tan.shtml</identifier>
+        <title>Tanami - Timor Sea Coast report</title>
+      </relatedInfo>
+      <relatedInfo type="publication">
+        <identifier type="uri">http://www.bom.gov.au/water/awra/2010/documents/summary.pdf</identifier>
+        <title>Australian Water Resources Assessment 2010 Summary Report</title>
+      </relatedInfo>
+    </collection>
+  </registryObject>
+
+  <registryObject group="Bureau of Meteorology">
+    <key>AWRA_Carpentaria_Coast</key>
+    <originatingSource type="">http://demo.ands.org.au/registry/orca/register_my_data</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>AWRA Carpentaria Coast Assessment 2010</namePart>
+      </name>
+      <description type="full">&lt;p&gt;This assessment and related data examines water resources in the Carpentaria Coast region in 2009–10 and over recent decades. Seasonal variability and trends in modelled water flows, stores and levels are considered at the regional level. Details for selected rivers, wetlands, groundwater, urban areas and agriculture are not addressed. At the time of writing, suitable quality controlled and assured surface water quality data from the Australian Water Resources Information System (Bureau of Meteorology 2011a) were not available. It begins with an overview of key data and information on water flows in the region in recent times followed by a description of the region.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Key data and information&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The assessment presents the 2009–10 annual landscape water flows and the change in accessible surface water storage in the Carpentaria Coast region. The region experienced above average rainfall and evapotranspiration for 2009–10 and the high rainfall resulted in very much higher than average modelled landscape water yield1. The reported surface water storage in this region is Lake Julius (only 26 per cent of the total storage capacity in the region). Other main storages in the region that are not reported include Lake Mitchell and Lake Moondarra. The decrease in accessible volume, over the year given that this was a wetter than average year, was due to some deliberate releases from storage during May 2010. &lt;img style="width: 200px; height: 200px; border-width: 1px; border-style: solid; margin: 2px; float: right;" src="http://www.bom.gov.au/water/awra/2010/images/small/carp.gif" alt="" /&gt;&lt;/p&gt;</description>
+      <rights>
+        <rightsStatement>All material provided by the Bureau of Meteorology is covered by Copyright notice.</rightsStatement>
+        <licence type="CC-BY" rightsUri="">Unless otherwise noted in the list of licensing agreements (see Licensing folder), all material is licensed under the Creative Commons Attribution Australia License</licence>
+        <accessRights type="" rightsUri="http://reg.bom.gov.au/other/disclaimer.shtml?ref=ftr">All material provided by the Bureau of Meteorology is covered by Disclaimer notice.</accessRights>
+      </rights>
+      <location>
+        <address>
+          <electronic type="url">
+            <value>http://www.bom.gov.au/water/awra/2010/data/carpentaria_coast.zip</value>
+          </electronic>
+        </address>
+      </location>
+      <coverage>
+        <temporal>
+          <date type="dateFrom" dateFormat="W3CDTF">2009-07-08T00:00:00Z</date>
+          <date type="dateTo" dateFormat="W3CDTF">2010-06-08T00:00:00Z</date>
+        </temporal>
+        <spatial type="text">Carpentaria Coast</spatial>
+      </coverage>
+      <coverage>
+        <spatial type="gmlKmlPolyCoords">142.5575,-10.7275 142.1351,-10.9500 142.0375,-12.0400 141.5924,-12.5551 141.9626,-12.5850 141.5825,-12.9950 141.7399,-13.3225 141.4675,-13.8550 141.6600,-15.2275 140.8375,-17.4776 140.0000,-17.7151 139.2451,-17.3275 139.0401,-16.9125 136.7076,-15.9325 136.7251,-15.6974 135.4675,-14.9674 135.3299,-14.7075 136.0825,-13.6625 135.8825,-13.7200 135.8900,-13.3150 136.3325,-13.0400 136.4701,-13.2476 136.4524,-12.9799 136.6676,-13.0025 136.4649,-12.7801 136.9251,-12.2775 136.3400,-12.7801 135.6475,-12.7125 134.8825,-13.8425 134.2375,-12.9924 133.6025,-13.4375 132.6374,-14.5699 132.8975,-14.9750 132.5674,-15.0101 132.7724,-15.6750 132.6200,-16.5450 133.3125,-16.5850 134.0026,-16.1425 134.0900,-16.4250 134.6249,-16.4175 135.5250,-17.3951 136.5099,-17.3051 136.8375,-18.3199 137.5151,-18.6251 137.8151,-19.3574 138.5425,-19.9276 139.1200,-19.9000 139.3900,-20.8899 140.9075,-21.7799 141.9075,-21.4901 142.5125,-21.7351 144.3674,-21.1274 144.9774,-20.3475 144.2251,-19.6074 144.7701,-19.1475 144.6676,-18.4474 144.9949,-17.6074 145.4374,-17.3051 145.5149,-16.6500 144.7376,-15.8899 143.8750,-15.8300 143.3026,-15.1925 143.3900,-13.3324 142.6374,-12.1800 142.8151,-11.3800 142.3700,-11.0650 142.5575,-10.7275</spatial>
+        <spatial type="gmlKmlPolyCoords">136.730000,-13.662500 136.346226,-13.831287 136.325000,-14.245000 136.950100,-14.305100 136.705000,-14.167500 136.925100,-13.807400 136.730000,-13.662500 136.730000,-13.662500</spatial>
+        <spatial type="gmlKmlPolyCoords">139.552600,-16.392500 139.177772,-16.486714 139.099575,-16.780839 139.314629,-16.746402 139.463766,-16.685652 139.712600,-16.532500 139.679292,-16.415095 139.552600,-16.392500 139.552600,-16.392500</spatial>
+      </coverage>
+      <subject type="local">Australian hydrological geospatial fabric</subject>
+      <subject type="local">Australian water resources assessment</subject>
+      <subject type="local">environmental intelligence</subject>
+      <subject type="local">groundwater</subject>
+      <subject type="local">landscape modelling</subject>
+      <subject type="local">water balance</subject>
+      <subject type="local">Landscape water yield</subject>
+      <subject type="anzsrc-for">079901</subject>
+      <subject type="anzsrc-for">040608</subject>
+      <subject type="anzsrc-for">04060</subject>
+      <subject type="anzsrc-for">04</subject>
+      <relatedInfo type="publication">
+        <identifier type="uri">http://www.bom.gov.au/water/awra/2010/documents/summary.pdf</identifier>
+        <title>Australian Water Resources Assessment 2010 Summary Report</title>
+      </relatedInfo>
+      <relatedInfo type="publication">
+        <identifier type="uri">http://www.bom.gov.au/water/awra/2010/carp.shtml</identifier>
+        <title>Full Carpentaria Coast report</title>
+      </relatedInfo>
+    </collection>
+  </registryObject>
+
+  <registryObject group="Bureau of Meteorology">
+    <key>AWRA_North_East_Coast</key>
+    <originatingSource type="">http://demo.ands.org.au/registry/orca/register_my_data</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>AWRA North East Coast Assessment 2010</namePart>
+      </name>
+      <description type="full">&lt;p&gt;This assessment examines water resources in the North East Coast region in 2009–10 and over recent decades.  Seasonal variability and trends in modelled water flows, water stores and water levels are  valuated for the region and also in more detail at selected sites for  rivers, wetlands and aquifers.  Information on water use is provided for selected urban centres and irrigation areas. It begins with an overview of key data and information on water flows, stores and use in the region in recent times followed by a brief description of the region.&lt;/p&gt;
+&lt;p&gt;Surface water quality, which is important in any water resources assessment, is not addressed. At the time of writing, suitable quality controlled and assured surface water quality data from the Australian Water Resources Information System (Bureau of  Meteorology&lt;/p&gt;
+&lt;p&gt;2011a) were not available. Groundwater and water use are only partially addressed for the same reason.In future reports, these aspects will be dealt with more thoroughly as suitable data become operationally available.&lt;img style="width: 200px; height: 200px; float: right; margin: 2px;" src="http://www.bom.gov.au/water/awra/2010/images/small/necoast.gif" alt="" /&gt;&lt;/p&gt;</description>
+      <rights>
+        <rightsStatement>All material provided by the Bureau of Meteorology is covered by Copyright notice.</rightsStatement>
+        <licence type="CC-BY" rightsUri="http://creativecommons.org/licenses/by/2.0/">Unless otherwise noted in the list of licensing agreements (see Licensing folder), all material is licensed under the Creative Commons Attribution Australia License</licence>
+        <accessRights type="" rightsUri="http://reg.bom.gov.au/other/disclaimer.shtml?ref=ftr">All material provided by the Bureau of Meteorology is covered by Disclaimer notice.</accessRights>
+      </rights>
+      <location>
+        <address>
+          <electronic type="url">
+            <value>http://www.bom.gov.au/water/awra/2010/data/north_east_coast.zip</value>
+          </electronic>
+        </address>
+      </location>
+      <coverage>
+        <temporal>
+          <date type="dateFrom" dateFormat="W3CDTF">2009-07-01T00:00:00Z</date>
+          <date type="dateTo" dateFormat="W3CDTF">2010-06-30T00:00:00Z</date>
+        </temporal>
+        <spatial type="text">North East Coast Australia</spatial>
+      </coverage>
+      <coverage>
+        <spatial type="gmlKmlPolyCoords">143.3926,-12.8926 142.5676,-10.7225 143.3024,-15.1924 145.5150,-16.6500 144.2249,-19.6224 146.0825,-21.4924 146.3624,-24.2700 148.0574,-24.9125 148.2724,-26.0700 151.0500,-26.1776 152.5251,-28.3076 153.5426,-28.1749 152.9049,-25.2826 150.7976,-23.5650 150.6775,-22.3575 149.5451,-22.3150 148.7699,-20.2351 146.3349,-18.9576 145.3525,-14.9499 143.7974,-14.4250 143.3926,-12.8926</spatial>
+      </coverage>
+      <subject type="local">climate change</subject>
+      <subject type="anzsrc-for">04</subject>
+      <subject type="local">geospatial fabric</subject>
+      <subject type="local">Australian Water Resource Assessment</subject>
+      <subject type="local">environmental intelligence</subject>
+      <subject type="local">groundwater</subject>
+      <subject type="local">landscape modelling</subject>
+      <subject type="local">water balance</subject>
+      <subject type="local">landscape water yield</subject>
+      <subject type="anzsrc-for">079901</subject>
+      <subject type="anzsrc-for">040608</subject>
+      <subject type="anzsrc-for">040603</subject>
+      <relatedInfo type="publication">
+        <identifier type="uri">http://www.bom.gov.au/water/awra/2010/documents/north_east_coast.pdf</identifier>
+        <title>Australian Water North East Coat Assessment 2010</title>
+      </relatedInfo>
+      <relatedInfo type="publication">
+        <identifier type="uri">http://www.bom.gov.au/water/awra/2010/documents/summary.pdf</identifier>
+        <title>Australian Water Resources Assessment Summary Report</title>
+      </relatedInfo>
+    </collection>
+  </registryObject>
+
+  <registryObject group="Bureau of Meteorology">
+    <key>AWRA_North_Western_Plateau</key>
+    <originatingSource type="">http://demo.ands.org.au/registry/orca/register_my_data</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>AWRA North western plateau Assessment 2010</namePart>
+      </name>
+      <description type="full">&lt;p&gt;This assessment examines water resources in the North East Coast region in 2009–10 and over recent decades.  Seasonal variability and trends in modelled water flows, water stores and water levels are  valuated for the region and also in more detail at selected sites for  rivers, wetlands and aquifers.  Information on water use is provided for selected urban centres and irrigation areas. It begins with an overview of key data and information on water flows, stores and use in the region in recent times followed by a brief description of the region.&lt;/p&gt;
+&lt;p&gt;Surface water quality, which is important in any water resources assessment, is not addressed. At the time of writing, suitable quality controlled and assured surface water quality data from the Australian Water Resources Information System (Bureau of  Meteorology&lt;/p&gt;
+&lt;p&gt;2011a) were not available. Groundwater and water use are only partially addressed for the same reason.In future reports, these aspects will be dealt with more thoroughly as suitable data become operationally available.&lt;img style="width: 200px; height: 200px; float: right; margin: 2px;" src="http://www.bom.gov.au/water/awra/2010/images/small/necoast.gif" alt="" /&gt;&lt;/p&gt;</description>
+      <rights>
+        <rightsStatement>All material provided by the Bureau of Meteorology is covered by Copyright notice.</rightsStatement>
+        <licence type="CC-BY" rightsUri="http://creativecommons.org/licenses/by/2.0/">Unless otherwise noted in the list of licensing agreements (see Licensing folder), all material is licensed under the Creative Commons Attribution Australia License</licence>
+        <accessRights type="" rightsUri="http://reg.bom.gov.au/other/disclaimer.shtml?ref=ftr">All material provided by the Bureau of Meteorology is covered by Disclaimer notice.</accessRights>
+      </rights>
+      <location>
+        <address>
+          <electronic type="url">
+            <value>http://www.bom.gov.au/water/awra/2010/data/north_east_coast.zip</value>
+          </electronic>
+        </address>
+      </location>
+      <coverage>
+        <temporal>
+          <date type="dateFrom" dateFormat="W3CDTF">2009-07-01T00:00:00Z</date>
+          <date type="dateTo" dateFormat="W3CDTF">2010-06-30T00:00:00Z</date>
+        </temporal>
+        <spatial type="text">North East Coast Australia</spatial>
+      </coverage>
+      <coverage>
+        <spatial type="gmlKmlPolyCoords">143.3926,-12.8926 142.5676,-10.7225 143.3024,-15.1924 145.5150,-16.6500 144.2249,-19.6224 146.0825,-21.4924 146.3624,-24.2700 148.0574,-24.9125 148.2724,-26.0700 151.0500,-26.1776 152.5251,-28.3076 153.5426,-28.1749 152.9049,-25.2826 150.7976,-23.5650 150.6775,-22.3575 149.5451,-22.3150 148.7699,-20.2351 146.3349,-18.9576 145.3525,-14.9499 143.7974,-14.4250 143.3926,-12.8926</spatial>
+      </coverage>
+      <subject type="local">climate change</subject>
+      <subject type="anzsrc-for">04</subject>
+      <subject type="local">geospatial fabric</subject>
+      <subject type="local">Australian Water Resource Assessment</subject>
+      <subject type="local">environmental intelligence</subject>
+      <subject type="local">groundwater</subject>
+      <subject type="local">landscape modelling</subject>
+      <subject type="local">water balance</subject>
+      <subject type="local">landscape water yield</subject>
+      <subject type="anzsrc-for">079901</subject>
+      <subject type="anzsrc-for">040608</subject>
+      <subject type="anzsrc-for">040603</subject>
+    </collection>
+  </registryObject>
+
+  <registryObject group="The University of Queensland">
+    <key>espace.library.uq.edu.au/view/UQ:400820</key>
+    <originatingSource>https://espace.library.uq.edu.au</originatingSource>
+    <collection type="Dataset" dateAccessioned="2016-08-19T07:51:11Z" dateModified="2022-02-05T05:47:17Z">
+      <identifier type="doi">10.14264/uql.2016.606</identifier>
+      <name type="primary">
+        <namePart>Phase 2 results of ASWROTI project</namePart>
+      </name>
+      <dates type="dc.issued">
+        <date type="dateFrom" dateFormat="W3CDTF">2016-01-01T00:00:00Z</date>
+      </dates>
+      <location>
+        <address>
+          <electronic type="email">
+            <value>s.hu@awmc.uq.edu.au</value>
+          </electronic>
+          <electronic type="url">
+            <value>http://dx.doi.org/10.14264/uql.2016.606</value>
+          </electronic>
+        </address>
+      </location>
+      <coverage>
+        <temporal>
+          <date type="dateFrom" dateFormat="W3CDTF">2013-07-01T00:00:00Z</date>
+          <date type="dateTo" dateFormat="W3CDTF">2014-12-31T00:00:00Z</date>
+        </temporal>
+        <spatial type="gmlKmlPolyCoords">153.039551,-27.449790</spatial>
+      </coverage>
+      <relatedInfo type="publication">
+        <identifier type="uri">https://espace.library.uq.edu.au/view/UQ:369310</identifier>
+        <identifier type="doi">10.2166/wpt.2015.057</identifier>
+        <title>Identifying novel wastewater treatment options through optimal technology integration</title>
+        <notes>Solley D., Hu S., Hertle C., Batstone D., Karastergiou-Hogan T., Rider Q. and Keller J. (2015). Identifying novel wastewater treatment options through optimal technology integration. Water Practice and Technology, 10 (3), 496-504. doi: 10.2166/wpt.2015.057</notes>
+      </relatedInfo>
+      <relatedInfo type="publication">
+        <identifier type="uri">https://espace.library.uq.edu.au/view/UQ:394211</identifier>
+        <title>Affordable and sustainable water recycling through optimal technology integration: a report of a study funded by the Australian Water Recycling Centre of Excellence</title>
+        <notes>Hu, Shihu, Rattier, Maxime, Solley, David, Batstone, Damien, Hertle, Chris and Keller, Jurg (2016). Affordable and sustainable water recycling through optimal technology integration: a report of a study funded by the Australian Water Recycling Centre of Excellence. Brisbane, QLD Australia: Australian Water Recycling Centre of Excellence.</notes>
+      </relatedInfo>
+      <relatedObject>
+        <key>espace.library.uq.edu.au/list/author_id/6315</key>
+        <relation type="author">
+          <description>Project Leader</description>
+        </relation>
+      </relatedObject>
+      <subject type="local">Wastewater engineering</subject>
+      <subject type="local">Anammox</subject>
+      <description type="full">This dataset was produced during the Phase 2 study of the ASWROTI project. For Phases 1, 3 and 4 studies results, please see the datasets created for each phase of the project.The Phase 2 lab-scale experiments were undertaken during a 14-month period. The original aim of the laboratory study was to obtain the data for further engineering evaluations to determine the preferred process train for pilot-scale implementation (Phase 3). The aims of the Phase 2 study were: Enrich the anammox biomass required for inoculating anammox reactors in the Phase 3 study;; Evaluate the performance of individual processes incorporated into the process train (anammox, HRAS); and Evaluate the performance of process train.</description>
+      <description type="accessRights">Mediated Access</description>
+      <description type="accessRights">Permitted Re-use with Acknowledgement</description>
+      <citationInfo>
+        <fullCitation style="harvard">Hu, Shihu (2016). Phase 2 results of ASWROTI project. The University of Queensland. (Dataset) doi: 10.14264/uql.2016.606 http://dx.doi.org/10.14264/uql.2016.606</fullCitation>
+      </citationInfo>
+    </collection>
+  </registryObject>
+
+  <registryObject group="The University of Queensland">
+    <key>espace.library.uq.edu.au/view/UQ:400821</key>
+    <originatingSource>https://espace.library.uq.edu.au</originatingSource>
+    <collection type="Dataset" dateAccessioned="2016-08-19T07:57:53Z" dateModified="2022-02-05T05:47:17Z">
+      <identifier type="doi">10.14264/uql.2016.605</identifier>
+      <name type="primary">
+        <namePart>Phase 3 results of ASWROTI project</namePart>
+      </name>
+      <dates type="dc.issued">
+        <date type="dateFrom" dateFormat="W3CDTF">2016-01-01T00:00:00Z</date>
+      </dates>
+      <location>
+        <address>
+          <electronic type="email">
+            <value>s.hu@awmc.uq.edu.au</value>
+          </electronic>
+          <electronic type="url">
+            <value>http://dx.doi.org/10.14264/uql.2016.605</value>
+          </electronic>
+        </address>
+      </location>
+      <coverage>
+        <temporal>
+          <date type="dateFrom" dateFormat="W3CDTF">2014-01-01T00:00:00Z</date>
+          <date type="dateTo" dateFormat="W3CDTF">2015-12-31T00:00:00Z</date>
+        </temporal>
+        <spatial type="gmlKmlPolyCoords">153.028564,-27.488781</spatial>
+      </coverage>
+      <relatedInfo type="publication">
+        <identifier type="uri">https://espace.library.uq.edu.au/view/UQ:394211</identifier>
+        <title>Affordable and sustainable water recycling through optimal technology integration: a report of a study funded by the Australian Water Recycling Centre of Excellence</title>
+        <notes>Hu, Shihu, Rattier, Maxime, Solley, David, Batstone, Damien, Hertle, Chris and Keller, Jurg (2016). Affordable and sustainable water recycling through optimal technology integration: a report of a study funded by the Australian Water Recycling Centre of Excellence. Brisbane, QLD Australia: Australian Water Recycling Centre of Excellence.</notes>
+      </relatedInfo>
+      <relatedInfo type="publication">
+        <identifier type="uri">https://espace.library.uq.edu.au/view/UQ:369310</identifier>
+        <identifier type="doi">10.2166/wpt.2015.057</identifier>
+        <title>Identifying novel wastewater treatment options through optimal technology integration</title>
+        <notes>Solley D., Hu S., Hertle C., Batstone D., Karastergiou-Hogan T., Rider Q. and Keller J. (2015). Identifying novel wastewater treatment options through optimal technology integration. Water Practice and Technology, 10 (3), 496-504. doi: 10.2166/wpt.2015.057</notes>
+      </relatedInfo>
+      <relatedObject>
+        <key>espace.library.uq.edu.au/list/author_id/6315</key>
+        <relation type="author">
+          <description>Project leader</description>
+        </relation>
+      </relatedObject>
+      <subject type="local">Wastewater engineering</subject>
+      <subject type="local">Anammox</subject>
+      <description type="full">This dataset was produced during the Phase 3 study of the ASWROTI project. For Phases 1, 2 and 4 studies results, please see the datasets created for each phase of the project.The aim of Phase 3 study was to demonstrate the preferred processes/treatment train at a pilot-scale. The larger scale operation was expected to provide more realistic data on the treatment performance of each of the processes/trains and its energy requirements under field conditions, including variations of temperature and wastewater.</description>
+      <description type="accessRights">Mediated Access</description>
+      <description type="accessRights">Permitted Re-use with Acknowledgement</description>
+      <citationInfo>
+        <fullCitation style="harvard">Hu, Shihu (2016). Phase 3 results of ASWROTI project. The University of Queensland. (Dataset) doi: 10.14264/uql.2016.605 http://dx.doi.org/10.14264/uql.2016.605</fullCitation>
+      </citationInfo>
+    </collection>
+  </registryObject>
+
+
+</registryObjects>
+

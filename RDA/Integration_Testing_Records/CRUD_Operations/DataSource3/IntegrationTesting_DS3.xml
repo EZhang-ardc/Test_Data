@@ -1,0 +1,505 @@
+<registryObjects xmlns="http://ands.org.au/standards/rif-cs/registryObjects" xmlns:extRif="http://ands.org.au/standards/rif-cs/extendedRegistryObjects" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ands.org.au/standards/rif-cs/registryObjects http://services.ands.org.au/documentation/rifcs/schema/registryObjects.xsd">
+<registryObject group="The University of Adelaide">
+<key>7dd8c6c5-9324-4eb0-8c65-ef6937a22c70</key>
+<originatingSource>http://bioinf-db.ersa.edu.au/oai/oai2.php</originatingSource>
+<activity type="project">
+<name type="primary">
+<namePart>CML study 2011</namePart>
+</name>
+<description type="brief">Time course, Chronic Myeloid Leukaemia </description>
+<subject type="anzsrc-for">060408</subject>
+<relatedObject>
+<key>3b42199a-90e4-44c8-bc71-f2ab6ba9590e</key>
+<relation type="isManagedBy"/>
+</relatedObject>
+<relatedObject>
+<key>1835dcda-abd4-475a-ad03-6a24a3c949ba</key>
+<relation type="hasOutput"/>
+</relatedObject>
+<identifier type="local">7dd8c6c5-9324-4eb0-8c65-ef6937a22c70</identifier>
+<identifier type="local">table=study+id=11</identifier>
+</activity>
+</registryObject>
+
+<registryObject group="The University of Adelaide">
+<key>a3c81b37-2137-43f5-9d1f-2e0e3a60bae6</key>
+<originatingSource>http://bioinf-db.ersa.edu.au/oai/oai2.php</originatingSource>
+<activity type="project">
+<name type="primary">
+<namePart>BovB: Jumping the fine LINE between species</namePart>
+</name>
+<description type="brief">In higher organisms such as vertebrates, it is generally believed that lateral transfer of genetic information does not readily occur, with the exception of retroviral infection. However, horizontal transfer (HT) of protein coding repetitive elements is the simplest way to explain the patchy distribution of BovB, a LINE (Long Interspersed Nuclear Element) about 3.2kb long, that has been found in ruminants, marsupials, squamates, monotremes and African mammals. BovB sequnces are a major component of some of these genomes. Here we show that HT of BovB is significantly more widespread than believed, and we demonstrate for the first time the existence of two plausible arthropod vectors, specifically reptile ticks. A phylogenetic tree built from BovB sequences from species in all of these groups does not conform to expected evolutionary relationships of the species, and our analysis indicates that at least 9 HT events are required to explain the observed topology. Our results provide compelling evidence from HT of genetic material that has transformed vertebrate genomes.</description>
+<subject type="anzsrc-for">0603</subject>
+<relatedObject>
+<key>879faa67-0996-4cd3-a425-88e3666c8574</key>
+<relation type="isManagedBy"/>
+</relatedObject>
+<relatedObject>
+<key>c1221ba2-7262-453f-8cd3-cd28a463b9a1</key>
+<relation type="hasOutput"/>
+</relatedObject>
+<identifier type="local">a3c81b37-2137-43f5-9d1f-2e0e3a60bae6</identifier>
+<identifier type="local">table=study+id=8</identifier>
+</activity>
+</registryObject>
+<registryObject group="The University of Adelaide">
+<key>3b42199a-90e4-44c8-bc71-f2ab6ba9590e</key>
+<originatingSource>http://researchdata.ands.org.au/registry/orca/register_my_data</originatingSource>
+<party dateModified="2013-04-08T07:56:07Z" type="person">
+<name type="primary">
+<namePart type="family">Scott</namePart>
+<namePart type="given">Hamish</namePart>
+<namePart type="title">Professor</namePart>
+</name>
+<description type="brief">Prof Hamish S. Scott moved his laboratory from the Walter and Eliza Hall Institute in Melbourne to the IMVS at the beginning of 2008. He has an international reputation in the areas of genetics and genomics. While he has applied his skills to a broad range of subjects, he focuses on the study of transcriptional mechanisms (including epigenetics) and molecular pathogenesis in autoimmunity and haematological malignancies including identification of disease causing genes and mutations. Among the reasons for moving to the IMVS, was that as part of a pathology service, he now has outstanding access to patient samples.</description>
+<identifier type="local">3b42199a-90e4-44c8-bc71-f2ab6ba9590e</identifier>
+<location>
+<address>
+<electronic type="email">
+<value>hamish.scott@health.sa.gov.au</value>
+</electronic>
+<physical type="streetAddress">
+<addressPart type="text">Centre for Cancer Biology SA Pathology Molecular Pathology Department Frome Road, Adelaide SA 5000, Australia</addressPart>
+<addressPart type="telephoneNumber">+61 8 8222 3651</addressPart>
+<addressPart type="faxNumber">+61 8 8222 3162</addressPart>
+</physical>
+</address>
+</location>
+
+<relatedObject>
+<key>58d99a4a-bc3e-4513-8b9c-d1e40d8de1fa</key>
+<relation type="isCollectorOf"/>
+</relatedObject>
+<relatedObject>
+<key>4ceccc77-b569-455b-9c70-097617e3e2e8</key>
+<relation type="isManagerOf"/>
+</relatedObject>
+<relatedObject>
+<key>39a97633-ee80-4320-a861-95a8ba07e1c7</key>
+<relation type="isCollectorOf"/>
+</relatedObject>
+<relatedObject>
+<key>c5e3f02d-d953-401d-af29-110a82acf86c</key>
+<relation type="isCollectorOf">
+<description>Manager</description>
+</relation>
+</relatedObject>
+<relatedObject>
+<key>783e6026-13d5-4d7b-9431-87491126987d</key>
+<relation type="isManagerOf">
+<description>Manager</description>
+</relation>
+</relatedObject>
+<relatedObject>
+<key>1835dcda-abd4-475a-ad03-6a24a3c949ba</key>
+<relation type="isCollectorOf">
+<description>Manager</description>
+</relation>
+</relatedObject>
+<relatedObject>
+<key>6559caac-1a4c-49de-b96a-e8931d804b25</key>
+<relation type="isCollectorOf">
+<description>Manager</description>
+</relation>
+</relatedObject>
+<relatedObject>
+<key>950c2dc0-c1ca-4f1b-a021-4ea549c8ff6f</key>
+<relation type="isCollectorOf">
+<description>Manager</description>
+</relation>
+</relatedObject>
+<relatedObject>
+<key>7dd8c6c5-9324-4eb0-8c65-ef6937a22c70</key>
+<relation type="isManagedBy"/>
+</relatedObject>
+<relatedObject>
+<key>b4110ede-e10d-4978-8bdb-1db6b60caf43</key>
+<relation type="isCollectorOf">
+<description>Manager</description>
+</relation>
+</relatedObject>
+<relatedObject>
+<key>d3464f48-39d3-46c1-9b61-6ffbd9fb7876</key>
+<relation type="isManagerOf"/>
+</relatedObject>
+<relatedObject>
+<key>0ec2208d-48e6-4577-8daa-c85e2e76eb51</key>
+<relation type="isCollectorOf">
+<description>Manager</description>
+</relation>
+</relatedObject>
+<relatedObject>
+<key>26dcf1f9-c694-43fc-b763-69495a5dec2b</key>
+<relation type="isCollectorOf">
+<description>Manager</description>
+</relation>
+</relatedObject>
+<relatedObject>
+<key>01fa6a93-8236-4567-a1de-a6cab2c59c8a</key>
+<relation type="isCollectorOf">
+<description>Manager</description>
+</relation>
+</relatedObject>
+<relatedObject>
+<key>cc40c722-046e-45b4-872f-a3c1d65089f9</key>
+<relation type="isCollectorOf">
+<description>Manager</description>
+</relation>
+</relatedObject>
+<relatedObject>
+<key>c6c4c0fb-9ec5-4ee2-b3be-1a5d03132ef1</key>
+<relation type="isCollectorOf">
+<description>Manager</description>
+</relation>
+</relatedObject>
+<relatedObject>
+<key>168e54d7-6c0e-4bac-b9f8-630d6210c0dc</key>
+<relation type="isCollectorOf">
+<description>Manager</description>
+</relation>
+</relatedObject>
+<relatedObject>
+<key>9ee2e6e2-dc20-4003-b32f-0f6f7156c132</key>
+<relation type="isCollectorOf">
+<description>Manager</description>
+</relation>
+</relatedObject>
+<relatedObject>
+<key>1f1dc98d-f5f4-4d8d-9060-208e2608a5e4</key>
+<relation type="isCollectorOf">
+<description>Manager</description>
+</relation>
+</relatedObject>
+<relatedObject>
+<key>e25a8aeb-c35a-4282-841d-d7b50f383eeb</key>
+<relation type="isCollectorOf">
+<description>Manager</description>
+</relation>
+</relatedObject>
+<relatedObject>
+<key>12e721b2-94fb-465e-b594-f70ebbd4b0a4</key>
+<relation type="isCollectorOf">
+<description>Manager</description>
+</relation>
+</relatedObject>
+<relatedObject>
+<key>5cc2ce57-55a6-41bd-805b-18aba43de640</key>
+<relation type="isCollectorOf">
+<description>Manager</description>
+</relation>
+</relatedObject>
+<relatedObject>
+<key>a50488d3-f440-42c0-8ae8-3625295efd9d</key>
+<relation type="isCollectorOf">
+<description>Manager</description>
+</relation>
+</relatedObject>
+<relatedObject>
+<key>cd591c25-f9c1-4320-8e4a-ad4bb0fe15b5</key>
+<relation type="isCollectorOf">
+<description>Manager</description>
+</relation>
+</relatedObject>
+<subject type="anzsrc-for">111203</subject>
+<subject type="anzsrc-for">111204</subject>
+<subject type="anzsrc-for">110703</subject>
+<relatedInfo type="website">
+<identifier type="uri">http://www.centreforcancerbiology.org.au/scott_hs_molecular.htm</identifier>
+<title>Personal page</title>
+</relatedInfo>
+</party>
+</registryObject>
+<registryObject group="The University of Adelaide">
+<key>6bcd9da7-1fe0-4205-afd6-dedec6f75793</key>
+<originatingSource>http://researchdata.ands.org.au/registry/orca/register_my_data</originatingSource>
+<party dateModified="2013-04-08T07:56:07Z" type="person">
+<name type="primary">
+<namePart type="family">Gécz</namePart>
+<namePart type="title">Professor</namePart>
+<namePart type="given">Jozef</namePart>
+</name>
+<description type="brief">Jozef G&amp;eacute;cz is a NH&amp;amp;MRC Senior Research Fellow and affiliate Associated Professor at the Department of Paediatrics, University of Adelaide . In 2001 he established, and currently heads the Neurogenetics laboratory within the Department of Genetic Medicine. His main interests are in the identification and characterisation of genes involved in X-chromosome associated pathology, intellectual disability in particular and as such understanding the molecular basis of learning, memory and cognition. Jozef identified or was involved in the identification and characterisation of more than 20 genes implicated in various syndromic and non-syndromic forms of X-linked mental retardation. Among these are ATRX, FMR2 (FRAXE associated gene), FMR3 (2 nd FRAXE associated gene), RSK2, GRIA3, STK9 (novel Rett syndrome gene), KLF8, FGF13, FAM11A (FRAXF associated gene), ARX, PHF6, NHS, PQBP1, FITSJ1 as well as the gene SEDL for a form of X-linked bone dysplasia. He is an author or a co-author on more than 90 peer reviewed publications with over SCI 600 citations. Jozef studied human molecular genetics in Czechoslovakia at the Comenius University in Bratislava from 1981-1986. He completed his PhD at the Slovak Academy of Sciences in 1991. His first post-doctoral study, supported by INSERM fellowship, was in Marseille , France within Prof. Michel Fontes&amp;#39; INSERM unit at the Faculty of Medicine. He joined the Department of Genetics Medicine (former Department of Cytogenetics and Molecular Genetics), Women&amp;#39;s and Children&amp;#39;s Hospital, Adelaide in June 1994.</description>
+<identifier type="local">6bcd9da7-1fe0-4205-afd6-dedec6f75793</identifier>
+<location>
+<address>
+<electronic type="url">
+<value>http://www.wch.sa.gov.au/print.jsp?url=/research/units/geneticmed/biogs/gecz.html</value>
+</electronic>
+<electronic type="url">
+<value>http://www.adelaide.edu.au/directory/jozef.gecz</value>
+</electronic>
+<electronic type="email">
+<value>jozef.gecz@adelaide.edu.au</value>
+</electronic>
+<physical type="streetAddress">
+<addressPart type="text">72 King William Road, North Adelaide, SA 5006</addressPart>
+</physical>
+</address>
+</location>
+      <relatedObject>
+        <key>Manage_Institution_1</key>
+        <relation type="isMemberOf"/>
+      </relatedObject>
+<relatedObject>
+<key>3368011b-16ed-4510-918a-9f2c13908263</key>
+<relation type="isManagerOf"/>
+</relatedObject>
+<relatedObject>
+<key>19e1e4a0-2dc5-47c8-aeb6-6eb1e3a3ca93</key>
+<relation type="isCollectorOf"/>
+</relatedObject>
+<relatedObject>
+<key>e79ee2d6-2295-4cba-8445-095ba3a8d0a1</key>
+<relation type="isCollectorOf"/>
+</relatedObject>
+<relatedObject>
+<key>a5ee3e74-8183-42de-8be2-6ecff85d98ec</key>
+<relation type="isCollectorOf"/>
+</relatedObject>
+<subject type="anzsrc-for">060410</subject>
+<relatedInfo type="website">
+<identifier type="uri">http://www.wch.sa.gov.au/research/units/geneticmed/neurogenetics_res.html</identifier>
+<notes>More information</notes>
+</relatedInfo>
+</party>
+</registryObject>
+<registryObject group="The University of Adelaide">
+<key>4ceccc77-b569-455b-9c70-097617e3e2e8</key>
+<originatingSource>http://researchdata.ands.org.au/registry/orca/register_my_data</originatingSource>
+<activity dateModified="2013-04-08T07:56:07Z" type="project">
+<name type="primary">
+<namePart type="">Deep sequencing analysis of the developing mouse brain reveals a novel microRNA</namePart>
+</name>
+<description type="brief">MicroRNAs (miRNAs) are small non-coding RNAs that can exert multilevel inhibition/repression at a post-transcriptional or protein synthesis level during disease or development. Characterisation of miRNAs in adult mammalian brains by deep sequencing has been reported previously. However, to date, no small RNA profiling of the developing brain has been undertaken using this method. In this study, deep sequencing and small RNA analysis of a developing (E15.5) mouse brain was performed. This work was supported by National Health and Medical Research Council fellowships (171601 and 461204); National Health and Medical Research Council Grants 219176, 257501 and 257529.</description>
+<relatedObject>
+<key>3b42199a-90e4-44c8-bc71-f2ab6ba9590e</key>
+<relation type="isManagedBy"/>
+</relatedObject>
+<relatedObject>
+<key>58d99a4a-bc3e-4513-8b9c-d1e40d8de1fa</key>
+<relation type="hasOutput"/>
+</relatedObject>
+<relatedObject>
+<key>39a97633-ee80-4320-a861-95a8ba07e1c7</key>
+<relation type="hasOutput"/>
+</relatedObject>
+<subject type="anzsrc-for">111203</subject>
+</activity>
+</registryObject>
+<registryObject group="The University of Adelaide">
+<key>d3464f48-39d3-46c1-9b61-6ffbd9fb7876</key>
+<originatingSource>http://bioinf-db.ersa.edu.au/oai/oai2.php</originatingSource>
+<activity type="project">
+<name type="primary">
+<namePart>Dnmt3L haploinsufficent retrotransposition leads to genetic hypermutation</namePart>
+</name>
+<description type="brief">An unexpected finding resulting from recent human and mammalian genetics studies has been the extent of polymorphism within our genome, with up to 3.7% of it showing copy number variation (CNV). Questions arising include: how often does de novo CNV occur and how often do CNVs cause disease? If meiotic mutation causing CNVs can be so frequent, it is also likely that mitotic mutation is more common that previously thought. These mutations may contribute to numerous diseases, depending on the cell type affected and the time point at which (during life) mitotic mutation occurs. CNVs are generated by various mutational mechanisms including meiotic recombination, homology-directed and non-homologous repair of double-strand breaks, and errors in replication1. We believe that epigenetics, DNA methylation and RetroTransposable Elements (RTE) are key contributors to genome stability and instability, including mutation by retrotransposition and generation of CNV. With the intense selective pressure on mammalian genomes due to meiosis, and the fitness of offspring over multiple generations, RTEs have shaped the evolution of the genome, and continue to do so. Because epigenetic deregulation such as DNA methylation has been shown to have transgenerational effects which may depend on the parent of origin, there is the potential that there are differences in genome stability depending on when (which generation) and where (which parent (s)) the deregulation occurred. If the epigenetic deregulation that occurs in germcells is passed on to daughter cells after fertilization, there may be an increase in somatic mutation, which may be particular to a specific cellular compartment, as implied by a recent study in neural progenitor cells. We use a mouse model in which DNA methylation of RTEs is deregulated, to look for both germline and somatic mutation, including CNV, using Next Generation Sequencing (NGS). This study will have implications in the fields of fertility, genetic and congenital defects, development of disease, and genome evolution.</description>
+<subject type="anzsrc-for">111203</subject>
+<relatedObject>
+<key>3b42199a-90e4-44c8-bc71-f2ab6ba9590e</key>
+<relation type="isManagedBy"/>
+</relatedObject>
+<relatedObject>
+<key>26dcf1f9-c694-43fc-b763-69495a5dec2b</key>
+<relation type="hasOutput"/>
+</relatedObject>
+<identifier type="local">d3464f48-39d3-46c1-9b61-6ffbd9fb7876</identifier>
+<identifier type="local">table=study+id=14</identifier>
+</activity>
+</registryObject>
+<registryObject group="The University of Adelaide">
+<key>3368011b-16ed-4510-918a-9f2c13908263</key>
+<originatingSource>http://researchdata.ands.org.au/registry/orca/register_my_data</originatingSource>
+<activity dateModified="2013-04-08T07:56:07Z" type="project">
+<name type="primary">
+<namePart type="">Genome-wide consequences of compromised nonsense-mediated mRNA decay and their relevance for variable clinical phenotype of patients with UPF3B mutations</namePart>
+</name>
+<description type="brief">The project aimed at the identification and charaterisation of novel genetic, heritable causes of intellectual disability. In particular the project&amp;#39;s primary focus was the UPF3B gene and protein, which for the integral part of the non-sense mediated mRNA decay pathways (NMD). We have identified the UPF3B gene as a novel cause of various neurological disorders and revealed for the first time genome-wide consequences of naturally compromised NMD in human cells.</description>
+<description type="note">This project was funded by NHMRC under number 453457 (for 3 years; 2007-2009) to Jozef Gecz as Chief Investigator A (CIA). Further work has been done in collaboration with Prof. Miles Wilkinson and his laboratory from University of California, San Diego , USA.</description>
+<description type="full">Nonsense-mediated mRNA decay (NMD) surveillance pathways are best known to be involved in the degradation of mRNA with premature termination codons (PTCs). More recent studies demonstrate that the role of NMD pathways goes well beyond the degradation of PTC containing mRNA, into the regulation of cell function and thus normal development. We have taken advantage of the availability of naturally occurring loss of function mutations in the UPF3B gene, a major component of the exon junction complex (EJC), to inquire about genome-wide consequences of compromised NMD. We identify that about 5% of the lymphoblastoid cell transcriptome is directly or indirectly impacted upon in patients with UPF3B mutations with minimal effect on alternative splicing. We identify UPF3A-NMD as a likely, major modifier of the UPF3B patient phenotype through variable UPF3A protein stabilisation. Among the most consistently deregulated direct targets of UPF3B-NMD we identify the ARHGAP24 as the most likely gene implicated in the neuronal phenotype of UPF3B patients.</description>
+<relatedObject>
+<key>a5ee3e74-8183-42de-8be2-6ecff85d98ec</key>
+<relation type="hasOutput"/>
+</relatedObject>
+<relatedObject>
+<key>e79ee2d6-2295-4cba-8445-095ba3a8d0a1</key>
+<relation type="hasOutput"/>
+</relatedObject>
+<relatedObject>
+<key>6bcd9da7-1fe0-4205-afd6-dedec6f75793</key>
+<relation type="isManagedBy"/>
+</relatedObject>
+<relatedObject>
+<key>19e1e4a0-2dc5-47c8-aeb6-6eb1e3a3ca93</key>
+<relation type="hasOutput"/>
+</relatedObject>
+<subject type="anzsrc-for">060410</subject>
+</activity>
+</registryObject>
+
+<registryObject group="The University of Adelaide">
+<key>879faa67-0996-4cd3-a425-88e3666c8574</key>
+<originatingSource>http://researchdata.ands.org.au/registry/orca/register_my_data</originatingSource>
+<party dateModified="2013-04-08T07:56:07Z" type="person">
+<name type="primary">
+<namePart type="title">Professor</namePart>
+<namePart type="given">David</namePart>
+<namePart type="family">Adelson</namePart>
+</name>
+<description type="brief">&lt;p&gt; Professor Adelson&amp;#39;s research interests are genome evolution and architecture of mammals. Biological mechanisms underlying genome evolution are believed to originate with retrotransposon insertions that can ultimately lead to segmental (gene) duplications/deletions, incorporation of retrotransposons into protein coding genes (exaptation) or gene duplication via retro-gene formation. The resulting &amp;quot;churning&amp;quot; of both non-protein coding regions and protein domains are believed to be two of the major forces that drive speciation and adaptation. Current primary research aim is to understand the magnitude and rate of change associated with retrotransposon insertion.&amp;nbsp;&lt;/p&gt; &lt;p&gt; This is an important research problem both in terms of our understanding of evolutionary mechanisms and processes but also because these processe frequently give rise to mutations or structural variation affecting gene regulation and function. These alterations can result in disease or alter economically important agricultural traits.&lt;/p&gt; &lt;p&gt; Research projects include characterizing the degree of horizontal gene transfer in vertebrates, model organism databases, data mining and determining the effect of disregulated retrotransposons on genome stability.&lt;/p&gt; </description>
+<identifier type="local">879faa67-0996-4cd3-a425-88e3666c8574</identifier>
+<identifier type="uri">http://www.scopus.com/authid/detail.url?authorId=7003459541</identifier>
+<identifier type="uri">http://www.researcherid.com/rid/E-5506-2011</identifier>
+<location>
+<address>
+<electronic type="email">
+<value>david.adelson@adelaide.edu.au</value>
+</electronic>
+<electronic type="url">
+<value>http://www.adelaide.edu.au/directory/david.adelson</value>
+</electronic>
+<physical type="postalAddress">
+<addressPart type="text">Molecular Life Science Building The University of Adelaide SA 5005 AUSTRALIA</addressPart>
+</physical>
+<physical type="streetAddress">
+<addressPart type="telephoneNumber">+61 8 8303 7555</addressPart>
+<addressPart type="faxNumber">+61 8 8303 5338</addressPart>
+</physical>
+</address>
+</location>
+      <relatedObject>
+        <key>Manage_Institution_1</key>
+        <relation type="isMemberOf"/>
+      </relatedObject>
+<relatedObject>
+<key>a3c81b37-2137-43f5-9d1f-2e0e3a60bae6</key>
+<relation type="isManagerOf"/>
+</relatedObject>
+<relatedObject>
+<key>c1221ba2-7262-453f-8cd3-cd28a463b9a1</key>
+<relation type="isCollectorOf">
+<description>Manager</description>
+</relation>
+</relatedObject>
+<relatedObject>
+<key>86cdeb4f-3495-4f4a-8c14-b5259bdf8f8c</key>
+<relation type="isCollectorOf">
+<description>Manager</description>
+</relation>
+</relatedObject>
+<relatedObject>
+<key>e6d656be-4328-46b1-8190-877d2b094a5e</key>
+<relation type="isCollectorOf">
+<description>Manager</description>
+</relation>
+</relatedObject>
+<subject type="anzsrc-for">0603</subject>
+<subject type="anzsrc-for">060408</subject>
+<relatedInfo type="website">
+<identifier type="uri">http://www.adelaide.edu.au/directory/david.adelson</identifier>
+<title>Personal page</title>
+</relatedInfo>
+</party>
+</registryObject>
+
+<registryObject group="National Health and Medical Research Council">
+    <key>http://purl.org/au-research/grants/nhmrc/1019847</key>
+    <originatingSource>www.nhmrc.gov.au/grants/research-funding-statistics-and-data</originatingSource>
+    <activity type="grant">
+      <identifier type="purl">http://purl.org/au-research/grants/nhmrc/1019847</identifier>
+      <identifier type="nhmrc">1019847</identifier>
+      <name type="primary">
+        <namePart>ABCA1 _ an Intersection between Infection, Atherosclerosis and Metabolic Disorders</namePart>
+      </name>
+      <name type="alternative">
+        <namePart>A Pathway Connecting Infection, Atherosclerosis and Metabolic diorders</namePart>
+      </name>
+      <relatedObject>
+        <key>Funder_nhmrc</key>
+        <relation type="isFundedBy"/>
+      </relatedObject>
+      <relatedObject>
+        <key>Manage_Institution_1</key>
+        <relation type="isManagedBy"/>
+      </relatedObject>
+      <subject type="anzsrc-for">110104</subject>
+      <subject type="local">cholesterol metabolism</subject>
+      <subject type="local">lipid metabolism</subject>
+      <subject type="local">lipid disorders</subject>
+      <subject type="local">trafficking</subject>
+      <subject type="local">atherosclerosis</subject>
+      <subject type="local">virus pathogenesis</subject>
+      <subject type="local">prion diseases</subject>
+      <description type="brief">Pathogens interfere with cellular cholesterol metabolism in order to support their lifecycle. Such interference may cause diseases not usually associated with infection, like cardiovascular disease. Restoring normal cholesterol metabolism may help treating infection and its metabolic consequences. We will investigate molecular, cellular and physiological mechanisms of interaction of pathogens with cholesterol metabolism to find a key point that can be targeted for therapeutic intervention.</description>
+      <description type="fundingAmount">$AUD 653,827.27</description>
+      <description type="fundingScheme">Project Grants</description>
+      <description type="notes">Standard Project Grant</description>
+      <existenceDates>
+        <startDate dateFormat="W3CDTF">2012</startDate>
+        <endDate dateFormat="W3CDTF">2014</endDate>
+      </existenceDates>
+    </activity>
+  </registryObject>
+
+   <registryObject group="National Health and Medical Research Council">
+    <key>Funder_nhmrc</key>
+    <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+    <party type="group">
+      <name type="primary">
+        <namePart>National Health and Medical Research Council</namePart>
+      </name>
+      <name type="abbreviated">
+        <namePart>NHMRC</namePart>
+      </name>
+      <description type="brief">&lt;p&gt;NHMRC funding supports research across the full spectrum of health and medical research, from basic science through to clinical, public health and health services research.&lt;/p&gt;
+&lt;p&gt;The NHMRC provides &lt;a title=&quot;Download page for NHMRC grant data&quot; href=&quot;https://www.nhmrc.gov.au/funding/data-research/outcomes&quot;&gt;publicly downloadable spreadsheets&lt;/a&gt; with descriptions of all the grants for projects, programs, equipment and fellowships it has awarded since since 1990. This same data is provided to Research Data Australia for easy searching and to link grants to research outputs like datasets and publications.&lt;/p&gt;
+&lt;p&gt;See &lt;a title=&quot;NHMRC Grant Information Terms of Use&quot; href=&quot;https://documentation.ardc.edu.au/display/DOC/NHMRC+Grants+Information+Terms+of+Use&quot;&gt;NHMRC Grant Information Terms of Use&lt;/a&gt; for details about the grant information provided by the NHMRC. &lt;/p&gt;
+&lt;p&gt;NHMRC Grant information in Research Data Australia was last updated in October 2021. &lt;/p&gt;</description>
+      <identifier type="doi">10.13039/501100000925</identifier>
+      <identifier type="fundref">501100000925</identifier>
+      <identifier type="AU-ANL:PEAU">http://nla.gov.au/nla.party-1494697</identifier>
+      <location>
+        <address>
+          <electronic type="other">
+            <value>13 000 64672</value>
+          </electronic>
+          <electronic type="email">
+            <value>nhmrc@nhmrc.gov.au</value>
+          </electronic>
+          <electronic type="url">
+            <value>http://www.nhmrc.gov.au/</value>
+          </electronic>
+        </address>
+        <spatial type="text">Canberra</spatial>
+      </location>
+      <coverage>
+        <spatial type="iso31661">AU</spatial>
+      </coverage>
+      <subject type="anzsrc-for">11</subject>
+      <relatedInfo type="website">
+        <title>National Health and Medical Research Council Web Site</title>
+        <identifier type="uri">http://nhmrc.gov.au</identifier>
+      </relatedInfo>
+    </party>
+  </registryObject>
+
+  <registryObject group="Trove - People and Organisations">
+    <key>Manage_Institution_1</key>
+    <originatingSource>nla.gov.au</originatingSource>
+    <party type="group">
+      <identifier type="AU-ANL:PEAU">http://nla.gov.au/nla.party-583275</identifier>
+      <name type="primary">
+        <namePart>International Diabetes Institute</namePart>
+      </name>
+      <location>
+        <address>
+          <electronic type="url">
+            <value>http://www.bakeridi.edu.au/</value>
+          </electronic>
+        </address>
+      </location>
+    </party>
+  </registryObject>
+
+
+</registryObjects>

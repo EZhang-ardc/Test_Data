@@ -1,0 +1,47 @@
+<registryObjects xmlns="http://ands.org.au/standards/rif-cs/registryObjects" xmlns:extRif="http://ands.org.au/standards/rif-cs/extendedRegistryObjects" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ands.org.au/standards/rif-cs/registryObjects http://services.ands.org.au/documentation/rifcs/schema/registryObjects.xsd">
+   <registryObject group="National Health and Medical Research Council">
+    <key>Funder_nhmrc</key>
+    <originatingSource type="">https://test.ands.org.au/registry//orca/register_my_data</originatingSource>
+    <party type="group">
+      <name type="primary">
+        <namePart>New Name for NHMRC</namePart>
+      </name>
+      <name type="abbreviated">
+        <namePart>NHMRC_New</namePart>
+      </name>
+      <description type="brief">&lt;p&gt;NHMRC funding supports research across the full spectrum of health and medical research, from basic science through to clinical, public health and health services research.&lt;/p&gt;
+&lt;p&gt;The NHMRC provides &lt;a title=&quot;Download page for NHMRC grant data&quot; href=&quot;https://www.nhmrc.gov.au/funding/data-research/outcomes&quot;&gt;publicly downloadable spreadsheets&lt;/a&gt; with descriptions of all the grants for projects, programs, equipment and fellowships it has awarded since since 1990. This same data is provided to Research Data Australia for easy searching and to link grants to research outputs like datasets and publications.&lt;/p&gt;
+&lt;p&gt;See &lt;a title=&quot;NHMRC Grant Information Terms of Use&quot; href=&quot;https://documentation.ardc.edu.au/display/DOC/NHMRC+Grants+Information+Terms+of+Use&quot;&gt;NHMRC Grant Information Terms of Use&lt;/a&gt; for details about the grant information provided by the NHMRC. &lt;/p&gt;
+&lt;p&gt;NHMRC Grant information in Research Data Australia was last updated in October 2021. &lt;/p&gt;</description>
+      <identifier type="doi">10.13039/501100000925</identifier>
+      <identifier type="fundref">501100000925</identifier>
+      <identifier type="AU-ANL:PEAU">http://nla.gov.au/nla.party-1494697</identifier>
+      <location>
+        <address>
+          <electronic type="other">
+            <value>13 000 64672</value>
+          </electronic>
+          <electronic type="email">
+            <value>nhmrc@nhmrc.gov.au</value>
+          </electronic>
+          <electronic type="url">
+            <value>http://www.nhmrc.gov.au/</value>
+          </electronic>
+        </address>
+        <spatial type="text">Canberra</spatial>
+      </location>
+      <coverage>
+        <spatial type="iso31661">AU</spatial>
+      </coverage>
+      <subject type="anzsrc-for">11</subject>
+      <relatedInfo type="website">
+        <title>National Health and Medical Research Council Web Site</title>
+        <identifier type="uri">http://nhmrc.gov.au</identifier>
+      </relatedInfo>
+    </party>
+  </registryObject>
+
+
+
+
+</registryObjects>
