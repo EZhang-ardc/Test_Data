@@ -169,7 +169,7 @@
 <relation type="isManagedBy"/>
 </relatedObject>
 <relatedObject>
-<key>abctb.org.au 7</key>
+<key>abctb.org.au 10</key>
 <relation type="hasOutput"/>
 </relatedObject>
 <subject type="anzsrc-for">0306</subject>
