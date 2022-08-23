@@ -540,6 +540,10 @@
 </address>
 </location>
 <relatedObject>
+<key>abctb.org.au 16</key>
+<relation type="hasPart"/>
+</relatedObject>
+<relatedObject>
 <key>abctb.org.au 2</key>
 <relation type="supports"/>
 </relatedObject>
