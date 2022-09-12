@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://datacite.org/schema/kernel-4" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.3/metadata.xsd">
+
+  <resource group="Hesanda test datasource">
+  <identifier identifierType="DOI">10.5072/D3P26Q35R-Testhesanda</identifier>
+  <creators>
+    <creator>
+      <creatorName nameType="Personal">Fosmire, Michael</creatorName>
+      <givenName>Michael</givenName>
+      <familyName>Fosmire</familyName>
+    </creator>
+    <creator>
+      <creatorName nameType="Personal">Rizk-Jackson, Angela</creatorName>
+      <givenName>Angela</givenName>
+      <familyName>Rizk-Jackson</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="http://orcid.org/">0000-0002-1732-8550</nameIdentifier>
+    </creator>
+  </creators>
+  <titles>
+    <title xml:lang="en">Aerosol containment device for patient transport and ward based care of COVID-19</title>
+  </titles>
+  <publisher xml:lang="en">Purdue University Research Repository (PURR)</publisher>
+  <relatedIdentifiers>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="HasAssociationWith" relatedMetadataScheme="citeproc+json" schemeURI="https://github.com/citation-style-language/schema/raw/master/csl-data.json">https://data.datacite.org/application/citeproc+json/10.5072/example-full</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="anzctr" relationType="IsProducedBy" resourceTypeGeneral="Text">ACTRN12622000685718p</relatedIdentifier>
+  </relatedIdentifiers>
+  <publicationYear>2013</publicationYear>
+  <subjects>
+    <subject xml:lang="en">Infection</subject>
+    <subject xml:lang="en">Respiratory</subject>
+    <subject xml:lang="en">COVID-19</subject>
+    <subject xml:lang="en">Other infectious diseases</subject>
+  </subjects>
+  <language>en</language>
+  <resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+  <version>1.0</version>
+  <formats>
+  <format>application/pdf</format>
+  </formats>
+  <version>4.3</version>
+  <descriptions>
+    <description xml:lang="en" descriptionType="Abstract">
+        The intervention is an aerosol containment device placed over the head of a patient's hospital bed either during transport between wards in a hospital environment or during care on the ward. It is approximately 1.5m high and 1.5m in length. Made of transparent plastic and does not seal completely around the patient but is open at the front. The intervention will be assembled and applied by hospital staff.
+        Importantly, the device is not designed to directly change the course of the patient's illness but rather to prevent or reduce the risk that the patient spreads their illness to other patients, staff or visitors to the hospital.
+        The device will either be applied for transfer between hospital locations (eg. emergency department and ward) or on the ward for a 24hr period.
+        Adherence and fidelity will be recorded as part of a custom designed survey that will be administered at the time of device usage.
+    </description>
+  </descriptions>
+</resource>
+
+  <resource>
+    <identifier identifierType="DOI">10.5072/hesanda-1</identifier>
+<creators>
+<creator>
+<creatorName nameType="Personal">Miller, Elizabeth</creatorName>
+<givenName>Elizabeth</givenName>
+<familyName>Miller</familyName>
+<nameIdentifier schemeURI="http://orcid.org/" nameIdentifierScheme="ORCID">0000-0001-5000-0007</nameIdentifier>
+<affiliation affiliationIdentifier="https://ror.org/038sjwq14" affiliationIdentifierScheme="ROR">ARDC</affiliation>
+</creator>
+<creator>
+<creatorName nameType="Organizational" xml:lang="en">Research Data Australia</creatorName>
+</creator>
+</creators>
+<titles>
+<title xml:lang="en-US">DataCite XML Example for HeSANDA</title>
+</titles>
+<publisher xml:lang="en">National Collaborative Research Infrastructure Strategy</publisher>
+<publicationYear>2014</publicationYear>
+<subjects>
+<subject xml:lang="en-US" schemeURI="http://dewey.info/" subjectScheme="dewey">000 computer science</subject>
+</subjects>
+<contributors>
+<contributor contributorType="ProjectLeader">
+<contributorName>Starr, Joan</contributorName>
+<givenName>Joan</givenName>
+<familyName>Starr</familyName>
+<nameIdentifier schemeURI="http://orcid.org/" nameIdentifierScheme="ORCID">0000-0002-7285-027X</nameIdentifier>
+<affiliation affiliationIdentifier="https://ror.org/03yrm5c26" affiliationIdentifierScheme="ROR">California Digital Library</affiliation>
+</contributor>
+<contributor contributorType="Sponsor">
+<contributorName xml:lang="en">International Joint Commission</contributorName>
+</contributor>
+<contributor contributorType="Producer">
+<contributorName xml:lang="en">United States Geological Survey</contributorName>
+</contributor>
+</contributors>
+<dates>
+<date dateType="Updated" dateInformation="Updated with 4.3 properties">2017-09-13</date>
+</dates>
+<language>en-US</language>
+<resourceType resourceTypeGeneral="Software">XML</resourceType>
+<alternateIdentifiers>
+<alternateIdentifier alternateIdentifierType="URL">https://schema.datacite.org/meta/kernel-4.3/example/datacite-example-full-v4.3.xml</alternateIdentifier>
+</alternateIdentifiers>
+<relatedIdentifiers>
+<relatedIdentifier relatedIdentifierType="anzctr" relationType="IsProducedBy" resourceTypeGeneral="XML">ACTRN12622000822785</relatedIdentifier>
+  <relatedIdentifier relatedIdentifierType="doi" relationType="HasAssociationWith" resourceTypeGeneral="XML">10.5072/D3P26Q35R-Testhesanda</relatedIdentifier>
+</relatedIdentifiers>
+<sizes>
+<size>4 kB</size>
+</sizes>
+<formats>
+<format>application/xml</format>
+</formats>
+<version>4.3</version>
+<rightsList>
+<rights rightsURI="https://licenceagreementtemplate.uni.edu.au/">RESTRICTIVE LICENCE AGREEMENT for USE OF MATERIAL [insert description] between THE SUPPLIER [insert Supplier’s name] and THE CUSTOMER [insert Customer’s name]</rights>
+<rights rightsURI="http://creativecommons.org/publicdomain/zero/1.0/">Creative Commons Zero 1.0 Universal</rights>
+</rightsList>
+<descriptions>
+<description xml:lang="en-US" descriptionType="Abstract"> XML example of all DataCite Metadata Schema v4.3 properties. </description>
+</descriptions>
+<geoLocations>
+<geoLocation>
+<geoLocationPlace>Atlantic Ocean</geoLocationPlace>
+<geoLocationPoint>
+<pointLongitude>-67.302</pointLongitude>
+<pointLatitude>31.233</pointLatitude>
+</geoLocationPoint>
+</geoLocation>
+</geoLocations>
+<fundingReferences>
+<fundingReference>
+<funderName>NHMRC</funderName>
+<funderIdentifier funderIdentifierType="NLA">http://nla.gov.au/nla.party-1494697</funderIdentifier>
+<awardNumber>CBET-106</awardNumber>
+<awardTitle>HeSANDA Funder Example</awardTitle>
+</fundingReference>
+</fundingReferences>
+</resource>
+
+</resources>
