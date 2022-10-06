@@ -5,9 +5,8 @@
   <identifier identifierType="DOI">10.5072/D3P26Q35R-Testhesanda</identifier>
   <creators>
     <creator>
-      <creatorName nameType="Personal">Fosmire, Michael</creatorName>
-      <givenName>Michael</givenName>
-      <familyName>Fosmire</familyName>
+      <creatorName nameType="Organizational">Deakin University</creatorName>
+      <nameIdentifier nameIdentifierScheme="ROR" schemeURI="https://ror.org/">02czsnj07</nameIdentifier>
     </creator>
     <creator>
       <creatorName nameType="Personal">Rizk-Jackson, Angela</creatorName>
@@ -17,14 +16,13 @@
     </creator>
   </creators>
   <titles>
-    <title xml:lang="en">Aerosol containment device for patient transport and ward based care of COVID-19</title>
+    <title xml:lang="en">Test dataset Aerosol containment device for patient transport and ward based care of COVID-19</title>
   </titles>
-  <publisher xml:lang="en">Purdue University Research Repository (PURR)</publisher>
+  <publisher xml:lang="en">Deakin University</publisher>
   <relatedIdentifiers>
-    <relatedIdentifier relatedIdentifierType="URL" relationType="HasAssociationWith" relatedMetadataScheme="citeproc+json" schemeURI="https://github.com/citation-style-language/schema/raw/master/csl-data.json">https://data.datacite.org/application/citeproc+json/10.5072/example-full</relatedIdentifier>
-    <relatedIdentifier relatedIdentifierType="anzctr" relationType="IsProducedBy" resourceTypeGeneral="Text">ACTRN12622000685718p</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="anzctr" relationType="References" resourceTypeGeneral="Text">https://www.anzctr.org.au/Trial/Registration/TrialReview.aspx?ACTRN=12622000922774</relatedIdentifier>
   </relatedIdentifiers>
-  <publicationYear>2013</publicationYear>
+  <publicationYear>2022</publicationYear>
   <subjects>
     <subject xml:lang="en">Infection</subject>
     <subject xml:lang="en">Respiratory</subject>
@@ -45,7 +43,97 @@
         The device will either be applied for transfer between hospital locations (eg. emergency department and ward) or on the ward for a 24hr period.
         Adherence and fidelity will be recorded as part of a custom designed survey that will be administered at the time of device usage.
     </description>
+    <description xml:lang="en" descriptionType="Other">HeSANDA 1.0.0</description>
   </descriptions>
+<contributors>
+<contributor contributorType="Distributor">
+<contributorName nameType="Organizational">Deakin University</contributorName>
+<nameIdentifier schemeURI="http://orcid.org/" nameIdentifierScheme="ORCID">0000-0002-7285-027X</nameIdentifier>
+<affiliation affiliationIdentifier="https://ror.org/03yrm5c26" affiliationIdentifierScheme="ROR">California Digital Library</affiliation>
+</contributor>
+<contributor contributorType="Sponsor">
+<contributorName xml:lang="en">International Joint Commission</contributorName>
+</contributor>
+<contributor contributorType="Producer">
+<contributorName xml:lang="en">United States Geological Survey</contributorName>
+</contributor>
+</contributors>
+
+</resource>
+
+
+
+  <resource group="Hesanda test datasource">
+  <identifier identifierType="DOI">10.5072/D3P26Q35R-Testhesanda01</identifier>
+  <creators>
+    <creator>
+      <creatorName nameType="Organizational">Monash University</creatorName>
+      <nameIdentifier nameIdentifierScheme="ROR" schemeURI="https://ror.org/">02bfwt286</nameIdentifier>
+    </creator>
+    <creator>
+      <creatorName nameType="Personal">Rizk-Jackson, Angela</creatorName>
+      <givenName>Angela</givenName>
+      <familyName>Rizk-Jackson</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="http://orcid.org/">0000-0002-1732-8550</nameIdentifier>
+    </creator>
+  </creators>
+  <titles>
+    <title xml:lang="en">Test dataset blood samples - COVID-19 Vaccine Efficacy in patients with Blood Cancer</title>
+  </titles>
+  <publisher xml:lang="en">Monash University</publisher>
+  <relatedIdentifiers>
+    <relatedIdentifier relatedIdentifierType="anzctr" relationType="References" resourceTypeGeneral="Text">https://www.anzctr.org.au/Trial/Registration/TrialReview.aspx?ACTRN=12621000538842</relatedIdentifier>
+  </relatedIdentifiers>
+  <publicationYear>2022</publicationYear>
+  <subjects>
+    <subject xml:lang="en">Haematological Malignancy</subject>
+    <subject xml:lang="en">Bone Marrow Transplant</subject>
+    <subject xml:lang="en">COVID-19</subject>
+  </subjects>
+  <language>en</language>
+  <resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+  <version>1.0</version>
+  <formats>
+  <format>application/pdf</format>
+  </formats>
+  <version>4.3</version>
+  <descriptions>
+    <description xml:lang="en" descriptionType="Abstract">
+   mmune responses to COVID-19 vaccination.
+Five blood samples will be collected from one week prior to first vaccination until six months after the second vaccination dose. Specifically the samples are collected at the following timepoints;
+1) Prior to 1st COVID-19 vaccination dose (up to 1 week prior and until immediately before the first dose)
+2) 72 hours prior to or after 2ndCOVID-19 vaccination dose
+3) 14-18 days (+/- 2 days) after 2ndCOVID-19 vaccination dose
+4) 4-6 weeks (+/- 1 week) after 2ndCOVID-19 vaccination dose
+5) 6 months (+/- 2 weeks) after 2ndCOVID-19 vaccination dose
+Medical information regarding diagnosis and treatment will also be collected, and will include inquiring about any subsequent COVID-19 infection for 12 months after the second vaccination.
+30 patients who have received treatment with B cell depleting therapies or bone marrow transplantation will be recruited from within cancer care populations and a control group of 20 patients without a cancer diagnosis or treatment will also be recruited.
+    </description>
+    <description xml:lang="en" descriptionType="Other">HeSANDA 1.0.0</description>
+  </descriptions>
+<contributors>
+<contributor contributorType="Distributor">
+    <contributorName nameType="Organizational">Monash University</contributorName>
+      <nameIdentifier nameIdentifierScheme="ROR" schemeURI="https://ror.org/">02bfwt286</nameIdentifier>
+</contributor>
+</contributors>
+<geoLocations>
+  <geoLocation>
+    <geoLocationPlace>Atlantic Ocean</geoLocationPlace>
+    <geoLocationPoint>
+        <pointLongitude>-67.302</pointLongitude>
+        <pointLatitude>31.233</pointLatitude>
+    </geoLocationPoint>
+  </geoLocation>
+</geoLocations>
+<fundingReferences>
+<fundingReference>
+<funderName>NHMRC</funderName>
+<funderIdentifier funderIdentifierType="NLA">http://nla.gov.au/nla.party-1494697</funderIdentifier>
+<awardNumber>CBET-106</awardNumber>
+<awardTitle>HeSANDA Funder Example</awardTitle>
+</fundingReference>
+</fundingReferences>
 </resource>
 
   <resource>
