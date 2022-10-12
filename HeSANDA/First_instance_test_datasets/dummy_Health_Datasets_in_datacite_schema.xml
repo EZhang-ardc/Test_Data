@@ -172,6 +172,10 @@ Medical information regarding diagnosis and treatment will also be collected, an
 <contributor contributorType="Producer">
 <contributorName xml:lang="en">United States Geological Survey</contributorName>
 </contributor>
+<contributor contributorType="Distributor">
+    <contributorName nameType="Organizational">Monash University</contributorName>
+      <nameIdentifier nameIdentifierScheme="ROR" schemeURI="https://ror.org/">02bfwt286</nameIdentifier>
+</contributor>
 </contributors>
 <dates>
 <date dateType="Updated" dateInformation="Updated with 4.3 properties">2017-09-13</date>
@@ -182,8 +186,7 @@ Medical information regarding diagnosis and treatment will also be collected, an
 <alternateIdentifier alternateIdentifierType="URL">https://schema.datacite.org/meta/kernel-4.3/example/datacite-example-full-v4.3.xml</alternateIdentifier>
 </alternateIdentifiers>
 <relatedIdentifiers>
-<relatedIdentifier relatedIdentifierType="anzctr" relationType="IsProducedBy" resourceTypeGeneral="XML">ACTRN12622000822785</relatedIdentifier>
-  <relatedIdentifier relatedIdentifierType="doi" relationType="HasAssociationWith" resourceTypeGeneral="XML">10.5072/D3P26Q35R-Testhesanda</relatedIdentifier>
+<relatedIdentifier relatedIdentifierType="anzctr" relationType="References" resourceTypeGeneral="Text">https://www.anzctr.org.au/Trial/Registration/TrialReview.aspx?ACTRN=12622000822785</relatedIdentifier>
 </relatedIdentifiers>
 <sizes>
 <size>4 kB</size>
