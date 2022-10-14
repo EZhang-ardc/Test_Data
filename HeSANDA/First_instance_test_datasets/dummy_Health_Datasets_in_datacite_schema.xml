@@ -201,6 +201,7 @@ Medical information regarding diagnosis and treatment will also be collected, an
 </rightsList>
 <descriptions>
 <description xml:lang="en-US" descriptionType="Abstract"> XML example of all DataCite Metadata Schema v4.3 properties. </description>
+      <description xml:lang="en" descriptionType="Other">HeSANDA 1.0.0</description>
 </descriptions>
 <geoLocations>
 <geoLocation>
